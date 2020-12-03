@@ -16,7 +16,11 @@
 ||cdn.jsdelivr.net/npm/cfga
 ||blog.skk.moe/js/jquery.js
 ||blog.ichr.me/cfga/jquery.js
-||icy-voice-596b.mynet.workers.dev/cfga/jquery.js
+||theme-cards.ichr.me/cfga/jquery.js
+||lengthm.in/jquery.js
+||analytics.nekomio.com/
+||async-task.never.workers.dev/
+||icy-voice-596b.mynet.workers.dev/
 ||unpkg.nullptr.workers.dev/npm/isplib@latest/index.js
 ||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
 ||www.isab.top/wp-admin/install.php
