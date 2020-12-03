@@ -11,9 +11,9 @@
 | CSDN
 ||g.csdnimg.cn/tingyun/
 ||g.csdnimg.cn/baidu-search/
-||silkroad.csdn.net
-||event.csdn.net
-||statistic.csdn.net
+||silkroad.csdn.net/
+||event.csdn.net/
+||statistic.csdn.net/
 
 | 阿里
 ||g.alicdn.com/AWSC/
@@ -21,5 +21,9 @@
 | 头条
 ||s3a.pstatp.com/toutiao/push.js
 
+| 知乎
+||static.zhihu.com/heifetz/main.signflow
+||zhihu-web-analytics.zhihu.com/
+
 | 其它
-||protagcdn.com
+||protagcdn.com/
