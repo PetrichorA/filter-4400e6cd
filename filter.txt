@@ -5,25 +5,25 @@
 ##div.advertising_2
 ##div.advertising_3
 
-| https://blog.skk.moe/
+! https://blog.skk.moe/
 ||blog.skk.moe/js/jquery.js
 
-| CSDN
+! CSDN
 ||g.csdnimg.cn/tingyun/
 ||g.csdnimg.cn/baidu-search/
 ||silkroad.csdn.net/
 ||event.csdn.net/
 ||statistic.csdn.net/
 
-| 阿里
+! 阿里
 ||g.alicdn.com/AWSC/
 
-| 头条
+! 头条
 ||s3a.pstatp.com/toutiao/push.js
 
-| 知乎
+! 知乎
 ||static.zhihu.com/heifetz/main.signflow
 ||zhihu-web-analytics.zhihu.com/
 
-| 其它
+! 其它
 ||protagcdn.com/
