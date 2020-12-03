@@ -10,6 +10,7 @@
 
 | CSDN
 ||g.csdnimg.cn/tingyun/
+||g.csdnimg.cn/baidu-search/
 ||silkroad.csdn.net
 ||event.csdn.net
 ||statistic.csdn.net
