@@ -4,6 +4,7 @@
 
 ! Subscribe: https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
 ! Subscribe (CDN): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
+! 自用屏蔽规则
 
 ! https://sm.ms/
 ||vip2.loli.net/2020/12/01/Ts9ikGzmtRDdWJC.jpg
@@ -34,6 +35,14 @@
 ||silkroad.csdn.net/
 ||event.csdn.net/
 ||statistic.csdn.net/
+
+! 博客园
+||blog-static.cnblogs.com/files/stepsys/step.js
+||blog-static.cnblogs.com/files/bztMinamoto/waifu.css
+||blog-static.cnblogs.com/files/bztMinamoto/live2d.js
+||blog-static.cnblogs.com/files/bztMinamoto/waifu-tips.js
+||blog-static.cnblogs.com/files/yjlblog/cursor-effects.js
+||blog-static.cnblogs.com/files/yjlblog/xue.js
 
 ! 阿里
 ||g.alicdn.com/AWSC/
