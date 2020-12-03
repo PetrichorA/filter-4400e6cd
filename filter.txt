@@ -4,3 +4,6 @@
 ||sm.ms/assets/images/taobao_adv.gif
 ##div.advertising_2
 ##div.advertising_3
+
+| https://blog.skk.moe/
+||blog.skk.moe/js/jquery.js
