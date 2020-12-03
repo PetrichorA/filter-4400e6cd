@@ -22,4 +22,4 @@
 ||s3a.pstatp.com/toutiao/push.js
 
 | 其它
-||||protagcdn.com
+||protagcdn.com
