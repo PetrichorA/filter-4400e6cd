@@ -61,5 +61,8 @@ waifu-tips.js|
 waifu.css|
 cursor-effects.js|
 
+! 其它干扰性元素
+||fq.wc.lt/
+
 ! 其它
 ||protagcdn.com/
