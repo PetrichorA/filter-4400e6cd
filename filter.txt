@@ -1,4 +1,7 @@
-! Project: https://github.com/PetrichorA/filter-4400e6cd/blob/main/filter.txt
+! Title: filter-4400e6cd
+! Expires: 2 days
+! Homepage: https://github.com/PetrichorA/filter-4400e6cd
+
 ! Subscribe: https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
 ! Subscribe (CDN): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 
