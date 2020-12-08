@@ -27,6 +27,9 @@
 ||unpkg.isab.top/isplib@latest/package.json
 ||google-analytics-cf8916f7.isab.top/
 
+! Google
+||www.googleoptimize.com/
+
 ! CSDN
 ||g.csdnimg.cn/tingyun/
 ||g.csdnimg.cn/baidu-search/
