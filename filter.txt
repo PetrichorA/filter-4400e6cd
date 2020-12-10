@@ -1,4 +1,4 @@
-! Title: filter-4400e6cd
+! Title: filter-4400e6cd / filter
 ! Expires: 2 days
 ! Homepage: https://github.com/PetrichorA/filter-4400e6cd
 
@@ -7,7 +7,6 @@
 ! 自用屏蔽规则
 
 ! https://sm.ms/
-||stat.loli.net/^
 ||sm.ms/assets/images/taobao_adv.gif
 ||sm.ms/assets/js/
 ##div.advertising_2
@@ -16,13 +15,6 @@
 ! Analytics
 ! @SukkaW / cloudflare-workers-async-google-analytics
 ||cdn.jsdelivr.net/npm/cfga$third-party
-||async-task.never.workers.dev/^
-||icy-voice-596b.mynet.workers.dev/^
-||unpkg.nullptr.workers.dev/^
-||ga.slanterns.workers.dev/^
-||lengthm.in/^
-||analytics.nekomio.com/^
-||google-analytics-cf8916f7.isab.top/^
 ||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
 ||www.isab.top/wp-admin/install.php
 ||unpkg.isab.top/isplib@latest/package.json
@@ -34,12 +26,8 @@ cfga/jquery.js|
 umami.js|
 
 ! Google
-||www.googleoptimize.com/^
 
 ! CSDN
-||silkroad.csdn.net/^
-||event.csdn.net/^
-||statistic.csdn.net/^
 ||g.csdnimg.cn/tingyun/
 ||g.csdnimg.cn/baidu-search/
 
@@ -53,7 +41,6 @@ umami.js|
 ||s3a.pstatp.com/toutiao/push.js
 
 ! 知乎
-||zhihu-web-analytics.zhihu.com/^
 ||static.zhihu.com/heifetz/main.signflow
 
 ! 图片
@@ -71,9 +58,3 @@ cursor-effects.js|
 
 ! CSS
 waifu.css|
-
-! 其它干扰性元素
-||fq.wc.lt/^
-
-! 其它
-||protagcdn.com/^
