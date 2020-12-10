@@ -3478,6 +3478,7 @@
 0.0.0.0 yldbt.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoggrt.com
+0.0.0.0 rlogs.youdao.com
 0.0.0.0 impservice.union.youdao.com
 0.0.0.0 atm.youku.com
 0.0.0.0 l.youku.com
