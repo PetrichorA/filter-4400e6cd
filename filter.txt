@@ -6,55 +6,33 @@
 ! Subscribe (CDN): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! 自用屏蔽规则
 
-! https://sm.ms/
-||sm.ms/assets/images/taobao_adv.gif
-||sm.ms/assets/js/
 ##div.advertising_2
 ##div.advertising_3
-
-! Analytics
-! @SukkaW / cloudflare-workers-async-google-analytics
-||cdn.jsdelivr.net/npm/cfga$third-party
-||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
-||www.isab.top/wp-admin/install.php
-||unpkg.isab.top/isplib@latest/package.json
-||blog.skk.moe/js/jquery.js
-||blog.ichr.me/cfga/jquery.js
-||theme-cards.ichr.me/cfga/jquery.js
 cfga/jquery.js|
-! umami.js
+cursor-effects.js|
+live2d.js|
 umami.js|
-
-! Google
-
-! CSDN
-||g.csdnimg.cn/tingyun/
-||g.csdnimg.cn/baidu-search/
-
-! 博客园
+waifu-tips.js|
+waifu.css|
 ||blog-static.cnblogs.com/files/stepsys/step.js
 ||blog-static.cnblogs.com/files/yjlblog/xue.js
-
-! 阿里
-
-! 头条
-||s3a.pstatp.com/toutiao/push.js
-
-! 知乎
-||static.zhihu.com/heifetz/main.signflow
-
-! 图片
-||images.cnblogs.com/cnblogs_com/MashiroSky/887480/o_49383596_p0.jpg
+||blog.ichr.me/cfga/jquery.js
+||blog.skk.moe/js/jquery.js
+||cdn.jsdelivr.net/npm/cfga$third-party
+||g.csdnimg.cn/baidu-search/
+||g.csdnimg.cn/tingyun/
 ||i.loli.net/2017/08/02/598187babf39e.gif
 ||i.loli.net/2019/04/28/5cc4ece651f73.jpg
+||icon.solidot.org/js/zhugeio.js
+||images.cnblogs.com/cnblogs_com/MashiroSky/887480/o_49383596_p0.jpg
+||s3a.pstatp.com/toutiao/push.js
+||sm.ms/assets/images/taobao_adv.gif
+||sm.ms/assets/js/
+||static.zhihu.com/heifetz/main.signflow
+||theme-cards.ichr.me/cfga/jquery.js
+||unpkg.isab.top/isplib@latest/package.json
 ||vip2.loli.net/2020/12/01/Ts9ikGzmtRDdWJC.jpg
 ||vip2.loli.net/2020/12/01/nkehHSVdgEfULyo.png
 ||vip2.loli.net/2020/12/04/pJGPw4DfcysLgrO.png
-
-! JavaScript
-live2d.js|
-waifu-tips.js|
-cursor-effects.js|
-
-! CSS
-waifu.css|
+||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
+||www.isab.top/wp-admin/install.php
