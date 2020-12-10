@@ -7,7 +7,7 @@
 ! 自用屏蔽规则
 
 ! https://sm.ms/
-||sm.ms/assets/images/taobao_adv.
+||sm.ms/assets/images/taobao_adv.gif
 ||sm.ms/assets/js/dmca.js
 ||stat.loli.net/
 ##div.advertising_2
