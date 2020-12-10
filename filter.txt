@@ -8,40 +8,40 @@
 
 ! https://sm.ms/
 ||sm.ms/assets/images/taobao_adv.gif
-||sm.ms/assets/js/
-||stat.loli.net/
+||sm.ms/assets/js/^
+||stat.loli.net/^
 ##div.advertising_2
 ##div.advertising_3
 
 ! Analytics
 ! @SukkaW / cloudflare-workers-async-google-analytics
-||cdn.jsdelivr.net/npm/cfga$third-party
-||blog.skk.moe/js/jquery.js
-||blog.ichr.me/cfga/jquery.js
-||theme-cards.ichr.me/cfga/jquery.js
-||async-task.never.workers.dev/
-||icy-voice-596b.mynet.workers.dev/
-||unpkg.nullptr.workers.dev/
-||ga.slanterns.workers.dev/
-||lengthm.in/
-||analytics.nekomio.com/
-||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
-||www.isab.top/wp-admin/install.php
-||unpkg.isab.top/isplib@latest/package.json
-||google-analytics-cf8916f7.isab.top/
+||cdn.jsdelivr.net/npm/cfga^$third-party
+||blog.skk.moe/js/jquery.js^
+||blog.ichr.me/cfga/jquery.js^
+||theme-cards.ichr.me/cfga/jquery.js^
+||async-task.never.workers.dev/^
+||icy-voice-596b.mynet.workers.dev/^
+||unpkg.nullptr.workers.dev/^
+||ga.slanterns.workers.dev/^
+||lengthm.in/^
+||analytics.nekomio.com/^
+||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js^
+||www.isab.top/wp-admin/install.php^
+||unpkg.isab.top/isplib@latest/package.json^
+||google-analytics-cf8916f7.isab.top/^
 cfga/jquery.js|
 ! umami.js
 umami.js|
 
 ! Google
-||www.googleoptimize.com/
+||www.googleoptimize.com/^
 
 ! CSDN
-||g.csdnimg.cn/tingyun/
-||g.csdnimg.cn/baidu-search/
-||silkroad.csdn.net/
-||event.csdn.net/
-||statistic.csdn.net/
+||g.csdnimg.cn/tingyun/^
+||g.csdnimg.cn/baidu-search/^
+||silkroad.csdn.net/^
+||event.csdn.net/^
+||statistic.csdn.net/^
 
 ! 博客园
 ||blog-static.cnblogs.com/files/stepsys/step.js
@@ -53,8 +53,8 @@ umami.js|
 ||s3a.pstatp.com/toutiao/push.js
 
 ! 知乎
-||static.zhihu.com/heifetz/main.signflow
-||zhihu-web-analytics.zhihu.com/
+||static.zhihu.com/heifetz/main.signflow^
+||zhihu-web-analytics.zhihu.com/^
 
 ! 图片
 ||images.cnblogs.com/cnblogs_com/MashiroSky/887480/o_49383596_p0.jpg
@@ -73,7 +73,7 @@ cursor-effects.js|
 waifu.css|
 
 ! 其它干扰性元素
-||fq.wc.lt/
+||fq.wc.lt/^
 
 ! 其它
-||protagcdn.com/
+||protagcdn.com/^
