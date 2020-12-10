@@ -8,7 +8,7 @@
 
 ! https://sm.ms/
 ||sm.ms/assets/images/taobao_adv.gif
-||sm.ms/assets/js/dmca.js
+||sm.ms/assets/js/
 ||stat.loli.net/
 ##div.advertising_2
 ##div.advertising_3
