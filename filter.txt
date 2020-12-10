@@ -53,14 +53,15 @@
 ||static.zhihu.com/heifetz/main.signflow
 ||zhihu-web-analytics.zhihu.com/
 
-! 令人不适的图片（作为文章背景过于醒目，可能影响注意力）
+! 图片
 ||images.cnblogs.com/cnblogs_com/MashiroSky/887480/o_49383596_p0.jpg
 ||i.loli.net/2017/08/02/598187babf39e.gif
 ||i.loli.net/2019/04/28/5cc4ece651f73.jpg
 ||vip2.loli.net/2020/12/01/Ts9ikGzmtRDdWJC.jpg
 ||vip2.loli.net/2020/12/01/nkehHSVdgEfULyo.png
+||vip2.loli.net/2020/12/04/pJGPw4DfcysLgrO.png
 
-! 令人不适的 JavaScript / CSS（遮挡视线，可能影响注意力）
+! JavaScript / CSS
 live2d.js|
 waifu-tips.js|
 waifu.css|
