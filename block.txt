@@ -362,6 +362,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 js.chilipiper.com
 0.0.0.0 static.clmbtech.com
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 res.cloudinary.com
 0.0.0.0 cmcdl.cmcm.com
 0.0.0.0 ms.cmcm.com
