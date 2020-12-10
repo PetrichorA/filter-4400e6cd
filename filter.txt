@@ -28,6 +28,7 @@
 ||www.isab.top/wp-admin/install.php
 ||unpkg.isab.top/isplib@latest/package.json
 ||google-analytics-cf8916f7.isab.top/
+cfga/jquery.js|
 
 ! Google
 ||www.googleoptimize.com/
