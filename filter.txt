@@ -13,8 +13,9 @@
 ##div.advertising_2
 ##div.advertising_3
 
-! https://github.com/SukkaW/cloudflare-workers-async-google-analytics
-||cdn.jsdelivr.net/npm/cfga
+! Analytics
+! @SukkaW / cloudflare-workers-async-google-analytics
+||cdn.jsdelivr.net/npm/cfga$third-party
 ||blog.skk.moe/js/jquery.js
 ||blog.ichr.me/cfga/jquery.js
 ||theme-cards.ichr.me/cfga/jquery.js
@@ -29,6 +30,8 @@
 ||unpkg.isab.top/isplib@latest/package.json
 ||google-analytics-cf8916f7.isab.top/
 cfga/jquery.js|
+! umami.js
+umami.js|
 
 ! Google
 ||www.googleoptimize.com/
@@ -61,11 +64,13 @@ cfga/jquery.js|
 ||vip2.loli.net/2020/12/01/nkehHSVdgEfULyo.png
 ||vip2.loli.net/2020/12/04/pJGPw4DfcysLgrO.png
 
-! JavaScript / CSS
+! JavaScript
 live2d.js|
 waifu-tips.js|
-waifu.css|
 cursor-effects.js|
+
+! CSS
+waifu.css|
 
 ! 其它干扰性元素
 ||fq.wc.lt/
