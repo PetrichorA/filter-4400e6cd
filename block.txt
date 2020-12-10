@@ -3272,6 +3272,8 @@
 0.0.0.0 zenzuu.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
+0.0.0.0 zgsdk.zhugeio.com
+0.0.0.0 zgsee-gw.zhugeio.com
 0.0.0.0 li.ziffimages.com
 0.0.0.0 zjtv-haoshengyin8.com
 0.0.0.0 zm232.com
@@ -4059,6 +4061,7 @@
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 z5x.net
 0.0.0.0 stat.zenon.net
+0.0.0.0 u.zhugeapi.net
 0.0.0.0 qqbm.zhuiying.net
 0.0.0.0 clicktrack.ziyu.net
 0.0.0.0 zqtk.net
