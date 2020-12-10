@@ -45,7 +45,6 @@ cfga/jquery.js|
 ||blog-static.cnblogs.com/files/yjlblog/xue.js
 
 ! 阿里
-||g.alicdn.com/AWSC/
 
 ! 头条
 ||s3a.pstatp.com/toutiao/push.js
