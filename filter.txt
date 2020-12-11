@@ -26,6 +26,7 @@ waifu.css|
 ||icon.solidot.org/js/zhugeio.js
 ||images.cnblogs.com/cnblogs_com/MashiroSky/887480/o_49383596_p0.jpg
 ||s3a.pstatp.com/toutiao/push.js
+||shared.ydstatic.com/js/rlog/
 ||sm.ms/assets/images/taobao_adv.gif
 ||sm.ms/assets/js/
 ||static.zhihu.com/heifetz/main.signflow
