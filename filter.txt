@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 746e5104db0a7d699d325921a5213a520ba6ef9d2645ace0fdb82dae608cb864
+! Version: cad3156330993aaa89fe02f9517b7034eed4d8d8ee93e1976a9494c066a26d72
 
 ##div.advertising_2
 ##div.advertising_3
@@ -26,13 +26,17 @@ waifu.css|
 ||i.loli.net/2019/04/28/5cc4ece651f73.jpg
 ||icon.solidot.org/js/zhugeio.js
 ||images.cnblogs.com/cnblogs_com/MashiroSky/887480/o_49383596_p0.jpg
+||mjs.sinaimg.cn/wap/public/suda/
 ||s3a.pstatp.com/toutiao/push.js
 ||shared.ydstatic.com/js/rlog/
 ||sm.ms/assets/images/taobao_adv.gif
 ||sm.ms/assets/js/
+||static.ws.126.net/163/frontend/libs/antanalysis
 ||static.ws.126.net/163/frontend/libs/ntm-plugins/performance/
+||static.ws.126.net/f2e/products/analysis/
 ||static.zhihu.com/heifetz/main.signflow
 ||unpkg.isab.top/isplib@latest/package.json
+||vip1.loli.net/2020/12/04/Bdp81snbVcWzwON.png
 ||vip2.loli.net/2020/12/01/Ts9ikGzmtRDdWJC.jpg
 ||vip2.loli.net/2020/12/01/nkehHSVdgEfULyo.png
 ||vip2.loli.net/2020/12/04/pJGPw4DfcysLgrO.png
