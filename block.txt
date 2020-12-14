@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: e4a7a8af9870ba8f15a9330eb10b722148e70c4c97054736ad1f0cef42157d9b
+! Version: fae243e8f05129908d04f2d701d0b253d29ad778b6774fa113937a51dd0471ae
 
 ||chameleon.ad^
 ||content.ad^
@@ -437,6 +437,7 @@
 ||pc.quansj.cn^
 ||v2.reachmax.cn^
 ||d.s11.cn^
+||jiuzhang.datasink.sensorsdata.cn^
 ||2016.sina.cn^
 ||api.apps.sina.cn^
 ||cre-dp.sina.cn^
@@ -3022,6 +3023,7 @@
 ||netclickstats.com^
 ||netcommunities.com^
 ||statis.push.netease.com^
+||vmonitor.ws.netease.com^
 ||netincap.com^
 ||netmng.com^
 ||cm.netseer.com^
@@ -4201,6 +4203,7 @@
 ||trknths.com^
 ||trmit.com^
 ||truckstomatoes.com^
+||sdki.truepush.com^
 ||tsyndicate.com^
 ||ifa.tube8live.com^
 ||tubemogul.com^
@@ -5197,11 +5200,13 @@
 ||kmpiframe.keepmeposted.com.mt^
 ||ato.mx^
 ||adserver.info7.mx^
+||h5.analytics.126.net^
 ||img1.126.net^
 ||img2.126.net^
 ||android.push.126.net^
 ||news.push.126.net^
 ||pg-ad-b1.ws.126.net^
+||webstat.ws.126.net^
 ||haitaoad.nosdn.127.net^
 ||iadmat.nosdn.127.net^
 ||yt-adp.nosdn.127.net^
