@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: de2549ab1541380e0f22983c122796827e7590824aa2f97321742ae55fbb8795
+! Version: e4a7a8af9870ba8f15a9330eb10b722148e70c4c97054736ad1f0cef42157d9b
 
 ||chameleon.ad^
 ||content.ad^
@@ -834,6 +834,8 @@
 ||adperium.com^
 ||www.adplugg.com^
 ||adplxmd.com^
+||rtb.adpone.com^
+||adpushup.com^
 ||adrazzi.com^
 ||adreactor.com^
 ||adreclaim.com^
@@ -1413,6 +1415,7 @@
 ||smetrics.bestbuy.com^
 ||ads.betfair.com^
 ||c.betrad.com^
+||ads.betweendigital.com^
 ||bewilderedblade.com^
 ||barnesandnoble.bfast.com^
 ||bn.bfast.com^
@@ -3695,6 +3698,7 @@
 ||cidttwap.shaqm.com^
 ||shareadspace.com^
 ||shareasale.com^
+||platform-api.sharethis.com^
 ||sharethrough.com^
 ||adserver.sharewareonline.com^
 ||sharppatch.com^
@@ -5239,6 +5243,7 @@
 ||admarketplace.net^
 ||admixer.net^
 ||adnetwork.net^
+||dl.adoptum.net^
 ||open-pixon.ads-pixiv.net^
 ||pixon.ads-pixiv.net^
 ||tag-store.ads-pixiv.net^
