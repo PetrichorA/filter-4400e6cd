@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 8420cbb57054af32e7c3b11b2d034bd10d27cfb9f405cfa4e1c0b4a8bd2fed8d
+! Version: 60849fe70978773921dae17eabe3b9928ba27e310aae3117d36410ebb7fd572f
 
 ||chameleon.ad^
 ||content.ad^
@@ -739,19 +739,6 @@
 ||adnium.com^
 ||adnxs.com^
 ||img.adnyg.com^
-||3dns-3.adobe.com^
-||activate.adobe.com^
-||activate-sea.adobe.com^
-||activate-sjc0.adobe.com^
-||adobe-dns.adobe.com^
-||ereg.adobe.com^
-||hl2rcv.adobe.com^
-||lm.licenses.adobe.com^
-||na2m-pr.licenses.adobe.com^
-||na1r.services.adobe.com^
-||hlrcv.stage.adobe.com^
-||wip3.adobe.com^
-||lmlicenses.wip4.adobe.com^
 ||adonspot.com^
 ||adoric-om.com^
 ||adorigin.com^
@@ -1245,19 +1232,31 @@
 ||bannerswap.com^
 ||bannertesting.com^
 ||active.baofeng.com^
+||data.danmu.baofeng.com^
 ||static.danmu.baofeng.com^
 ||co.dtech.baofeng.com^
 ||eventlog.hd.baofeng.com^
 ||pvlog.hd.baofeng.com^
+||action.logger.baofeng.com^
 ||duration.logger.baofeng.com^
 ||houyi.logger.baofeng.com^
+||storm.logger.baofeng.com^
+||subo.logger.baofeng.com^
+||tips.logger.baofeng.com^
+||tree.logger.baofeng.com^
+||log.ltype.baofeng.com^
 ||midinfo.baofeng.com^
 ||sclog.moviebox.baofeng.com^
+||timelog.moviebox.baofeng.com^
+||vvlog.moviebox.baofeng.com^
 ||log.nvwa.baofeng.com^
+||breeze.olclient.baofeng.com^
 ||p2pmid.baofeng.com^
 ||coop.pop.baofeng.com^
 ||androidlog.shouji.baofeng.com^
+||iphonelog.shouji.baofeng.com^
 ||dailylog.storm.baofeng.com^
+||logger.treexml.baofeng.com^
 ||barbarousnerve.com^
 ||basebanner.com^
 ||baskettexture.com^
@@ -1358,6 +1357,7 @@
 ||blogherads.com^
 ||blogtopsites.com^
 ||counter.bloke.com^
+||ads.bloomberg.com^
 ||blueadvertise.com^
 ||blueconic.com^
 ||bluekai.com^
@@ -2435,14 +2435,17 @@
 ||ads.kompass.com^
 ||kontera.com^
 ||g.koowo.com^
+||beha.ksmobile.com^
 ||dl.cm.ksmobile.com^
 ||up.cm.ksmobile.com^
 ||adx-static.ksosoft.com^
 ||counter.ksosoft.com^
 ||dw-collect.ksosoft.com^
 ||dw-online.ksosoft.com^
+||event.ksosoft.com^
 ||hoplink.ksosoft.com^
 ||pixiu.shangshufang.ksosoft.com^
+||uid.ksosoft.com^
 ||ssp.kss.ksyun.com^
 ||kt5850pjz0.com^
 ||ld.kuaigames.com^
@@ -2661,6 +2664,10 @@
 ||pcvideoaliyun.titan.mgtv.com^
 ||pcvideoyd.titan.mgtv.com^
 ||pcweb.v1.mgtv.com^
+||f3.mi-stat.gslb.mi-idc.com^
+||app01.nodes.gslb.mi-idc.com^
+||app02.nodes.gslb.mi-idc.com^
+||resolver.gslb.mi-idc.com^
 ||ssl-cdn.static.browser.mi-img.com^
 ||migc.g.mi.com^
 ||migcreport.g.mi.com^
@@ -2680,21 +2687,13 @@
 ||cache.send.microadinc.com^
 ||s-rtb.send.microadinc.com^
 ||bingads.microsoft.com^
-||choice.microsoft.com^
-||crl.microsoft.com^
-||settings-sandbox.data.microsoft.com^
-||vortex.data.microsoft.com^
-||vortex-sandbox.data.microsoft.com^
-||vortex-win.data.microsoft.com^
 ||ieonline.microsoft.com^
 ||redir.metaservices.microsoft.com^
 ||rad.microsoft.com^
 ||i1.services.social.microsoft.com^
 ||diagnostics.support.microsoft.com^
 ||target.microsoft.com^
-||telemetry.microsoft.com^
 ||telemetry.urs.microsoft.com^
-||watson.microsoft.com^
 ||statsfe1.ws.microsoft.com^
 ||statsfe2.ws.microsoft.com^
 ||microticker.com^
@@ -4237,7 +4236,6 @@
 ||count.west263.com^
 ||a135.wftv.com^
 ||whaleads.com^
-||feedback.whalecloud.com^
 ||www.whalecloud.com^
 ||ad.where.com^
 ||whirlwealth.com^
@@ -4757,6 +4755,7 @@
 ||ads.soweb.gr^
 ||ad.gt^
 ||adimages.sina.com.hk^
+||oascentral.sina.com.hk^
 ||ctnetwork.hu^
 ||ads.deltha.hu^
 ||ads.gaypoint.hu^
@@ -4857,8 +4856,8 @@
 ||trafficrouter.io^
 ||triptease.io^
 ||voodoo-ads.io^
-||mobile.Banzai.it^
 ||scambiobanner.aruba.it^
+||mobile.banzai.it^
 ||adserver.break-even.it^
 ||promos.bwin.it^
 ||mediaserver.bwinpartypartners.it^
@@ -4939,6 +4938,7 @@
 ||nicorette.co.kr^
 ||js.users.51.la^
 ||carambo.la^
+||localhost^
 ||ads.5ci.lt^
 ||i-i.lt^
 ||fq.wc.lt^
@@ -5071,7 +5071,10 @@
 ||wl.houyi.baofeng.net^
 ||wx.houyi.baofeng.net^
 ||xs.houyi.baofeng.net^
+||listlog.baofeng.net^
 ||nclog.mars.baofeng.net^
+||iflow.minfo.baofeng.net^
+||clicklog.moviebox.baofeng.net^
 ||pvlog.moviebox.baofeng.net^
 ||rec.moviebox.baofeng.net^
 ||nclog.pad.baofeng.net^
@@ -5125,6 +5128,7 @@
 ||analytics.ad.daum.net^
 ||display.ad.daum.net^
 ||track.tiara.daum.net^
+||live.tvpot.daum.net^
 ||adimg.daumcdn.net^
 ||s.de123.net^
 ||decknetwork.net^
