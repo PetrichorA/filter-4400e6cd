@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ef65e867002e46feab1c04e925067cd2083839769b8d86c976fc13819854c9e1
+! Version: d72500656365086841e6537728dfb61790fee8fb77b58604bd85064374ce98a4
 
 ||chameleon.ad^
 ||content.ad^
@@ -508,6 +508,7 @@
 ||counter.snackly.co^
 ||logger.snackly.co^
 ||code.tidio.co^
+||verblife-3.co^
 ||verblife-4.co^
 ||verblife-5.co^
 ||sccdn.002lzj.com^
@@ -515,6 +516,7 @@
 ||spread.024ajs.com^
 ||b1.0430.com^
 ||b2.0430.com^
+||s.051352.com^
 ||ssp.0531kt.com^
 ||1-1ads.com^
 ||101com.com^
@@ -1997,6 +1999,7 @@
 ||freecounterstat.com^
 ||cdn.freefarcy.com^
 ||freelogs.com^
+||freemaineads.com^
 ||track.freemmo2017.com^
 ||freeonlineusers.com^
 ||freepay.com^
@@ -2735,14 +2738,6 @@
 ||s-rtb.send.microadinc.com^
 ||bingads.microsoft.com^
 ||ieonline.microsoft.com^
-||redir.metaservices.microsoft.com^
-||rad.microsoft.com^
-||i1.services.social.microsoft.com^
-||diagnostics.support.microsoft.com^
-||target.microsoft.com^
-||telemetry.urs.microsoft.com^
-||statsfe1.ws.microsoft.com^
-||statsfe2.ws.microsoft.com^
 ||microticker.com^
 ||www.migdtqq.com^
 ||militaryverse.com^
@@ -3155,6 +3150,8 @@
 ||propellerads.com^
 ||propellerclick.com^
 ||protagcdn.com^
+||protectcrev.com^
+||protectsubrev.com^
 ||proton-tm.com^
 ||protraffic.com^
 ||provexia.com^
@@ -3446,11 +3443,13 @@
 ||banners.resultonline.com^
 ||retargeter.com^
 ||ad.reunion.com^
+||revcatch.com^
 ||revcontent.com^
 ||revenuedirect.com^
 ||revenuehits.com^
 ||ads.revjet.com^
 ||cdn.revjet.com^
+||revprotect.com^
 ||revstats.com^
 ||reyden-x.com^
 ||p.rfihub.com^
@@ -4819,6 +4818,7 @@
 ||openad.tf1.fr^
 ||visual-pagerank.fr^
 ||weborama.fr^
+||lnks.gd^
 ||adman.gr^
 ||interactive.forthnet.gr^
 ||bannergrabber.internet.gr^
@@ -5009,7 +5009,6 @@
 ||nicorette.co.kr^
 ||js.users.51.la^
 ||carambo.la^
-||localhost^
 ||ads.5ci.lt^
 ||i-i.lt^
 ||fq.wc.lt^
@@ -5341,8 +5340,6 @@
 ||ads.wikia.nocookie.net^
 ||nr-data.net^
 ||ns1p.net^
-||choice.microsoft.com.nsatc.net^
-||sqm.telemetry.microsoft.com.nsatc.net^
 ||nuggad.net^
 ||ads.nyi.net^
 ||marketing.nyi.net^
@@ -5792,6 +5789,7 @@
 ||trkn.us^
 ||tracker.vgame.us^
 ||a.muloqot.uz^
+||58lm.vip^
 ||adpia.vn^
 ||eclick.vn^
 ||skylink.vn^
