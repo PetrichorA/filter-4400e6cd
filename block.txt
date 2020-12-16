@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 1901deebe1d2ea59205a57f5b29d357d2e12c2d5d1a6bac4ded1f0cfbee6917c
+! Version: 890d97a987a3f8ef170294ac9bdf337f36f6c8dde383509fa6b475d617ca1349
 
 ||chameleon.ad^
 ||content.ad^
@@ -378,6 +378,7 @@
 ||config.mobisage.cn^
 ||ad.mobstazinc.cn^
 ||c.msn.cn^
+||optimix.cn^
 ||f1.p0y.cn^
 ||f2.p0y.cn^
 ||fm.p0y.cn^
@@ -391,6 +392,7 @@
 ||py.qlogo.cn^
 ||py2.qlogo.cn^
 ||m.qpic.cn^
+||m.reachmax.cn^
 ||v2.reachmax.cn^
 ||d.s11.cn^
 ||datasink.sensorsdata.cn^
@@ -1160,6 +1162,7 @@
 ||hdj.baidu.com^
 ||hijack.baidu.com^
 ||hm.baidu.com^
+||hmcdn.baidu.com^
 ||hmma.baidu.com^
 ||hpd.baidu.com^
 ||idm-su.baidu.com^
@@ -1201,6 +1204,7 @@
 ||t8.baidu.com^
 ||t9.baidu.com^
 ||tcbox.baidu.com^
+||tongji.baidu.com^
 ||toolbar.baidu.com^
 ||tracker.baidu.com^
 ||tuijian.baidu.com^
@@ -1520,6 +1524,7 @@
 ||dvser02.china.com^
 ||rank.hit.china.com^
 ||sssvd.china.com^
+||t1.chinavivaki.com^
 ||stats.chinaz.com^
 ||chinsnakes.com^
 ||ad.choiceradio.com^
@@ -2018,6 +2023,7 @@
 ||frightenedpotato.com^
 ||frtyj.com^
 ||frtyk.com^
+||its.fugetech.com^
 ||fullstory.com^
 ||functionalcrown.com^
 ||funklicks.com^
@@ -2360,6 +2366,7 @@
 ||ipredictive.com^
 ||ipro.com^
 ||ipstack.com^
+||ckm.iqiyi.com^
 ||cloudpush.iqiyi.com^
 ||api.cupid.iqiyi.com^
 ||msga.cupid.iqiyi.com^
@@ -2427,6 +2434,7 @@
 ||api.jetlore.com^
 ||ad.jetsoftware.com^
 ||ads.jewishfriendfinder.com^
+||tracking.jiffyworld.com^
 ||www.jiubuhua.com^
 ||www.jiudianxing.com^
 ||ads.jiwire.com^
@@ -2988,10 +2996,7 @@
 ||imagzine.oppomobile.com^
 ||httpdns.push.oppomobile.com^
 ||look.opskln.com^
-||cdn.optaim.com^
-||clk.optaim.com^
-||imp.optaim.com^
-||tk.optaim.com^
+||optaim.com^
 ||optimallimit.com^
 ||optimizely.com^
 ||optimost.com^
@@ -3812,6 +3817,7 @@
 ||stats4all.com^
 ||statsie.com^
 ||statxpress.com^
+||qmt.stcn.com^
 ||steadfastsound.com^
 ||steadfastsystem.com^
 ||steelhouse.com^
@@ -4132,14 +4138,7 @@
 ||track.ultravpn.com^
 ||promo.ulust.com^
 ||umeng.com^
-||alog.umengcloud.com^
-||alogs.umengcloud.com^
-||ex.umengcloud.com^
-||msg.umengcloud.com^
-||udash.umengcloud.com^
-||ulog.umengcloud.com^
-||upoll.umengcloud.com^
-||utop.umengcloud.com^
+||umengcloud.com^
 ||log.umsns.com^
 ||unarmedindustry.com^
 ||ads.uncrate.com^
@@ -5789,7 +5788,6 @@
 ||trkn.us^
 ||tracker.vgame.us^
 ||a.muloqot.uz^
-||58lm.vip^
 ||adpia.vn^
 ||eclick.vn^
 ||skylink.vn^
