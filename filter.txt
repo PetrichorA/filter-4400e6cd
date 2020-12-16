@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: a04ca781298cf3cd1c157cb94463b65e9ba9a7eda43890500dece331ac4fac8f
+! Version: 53e9c10b5d5f1bf1a9bebeefa022f957d1a1cd88f420fd85087fef1ea8ed955c
 
 ##div.advertising_2
 ##div.advertising_3
@@ -17,6 +17,8 @@ waifu.css|
 ||blog-static.cnblogs.com/files/stepsys/step.js
 ||blog-static.cnblogs.com/files/yjlblog/xue.js
 ||blog.skk.moe/js/jquery.js
+||caixin.com/webjs/common/caixinlog.js
+||caixin.com/webjs/common/iwt
 ||cdn.jsdelivr.net/npm/cfga$third-party
 ||cdn.sms24.me/assets/js/ado.js
 ||g.csdnimg.cn/baidu-search/
@@ -30,6 +32,7 @@ waifu.css|
 ||mjs.sinaimg.cn/wap/public/suda/
 ||s3a.pstatp.com/toutiao/push.js
 ||shared.ydstatic.com/js/rlog/
+||sina.com.cn/litong/zhitou/sinaads/
 ||sm.ms/assets/images/taobao_adv.gif
 ||sm.ms/assets/js/
 ||static.cifnews.com/plug/data/sensors/
@@ -45,3 +48,4 @@ waifu.css|
 ||vip2.loli.net/2020/12/04/pJGPw4DfcysLgrO.png
 ||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
 ||www.isab.top/wp-admin/install.php
+||zhanzhang.toutiao.com/s.gif

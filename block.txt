@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 890d97a987a3f8ef170294ac9bdf337f36f6c8dde383509fa6b475d617ca1349
+! Version: 643e9654bca2b7ee67826a246e2952686473b4d801b9f0333792a90c751775d8
 
 ||chameleon.ad^
 ||content.ad^
@@ -447,6 +447,7 @@
 ||801.tianya.cn^
 ||803.tianya.cn^
 ||dol.tianya.cn^
+||ta.trs.cn^
 ||adexport.tt.cn^
 ||engine.tuia.cn^
 ||yun.tuia.cn^
@@ -2110,6 +2111,7 @@
 ||googleadservices.com^
 ||googleanalytics.com^
 ||clientmetrics-pa.googleapis.com^
+||imasdk.googleapis.com^
 ||googlecommerce.com^
 ||www.googleoptimize.com^
 ||wintricksbanner.googlepages.com^
@@ -2133,6 +2135,8 @@
 ||greystripe.com^
 ||ads.grindinggears.com^
 ||groundtruth.com^
+||api.growingio.com^
+||assets.growingio.com^
 ||ads.gsm-exchange.com^
 ||ads.gsmexchange.com^
 ||lb.gtimg.com^
@@ -2209,6 +2213,7 @@
 ||hits4me.com^
 ||hitslink.com^
 ||hittail.com^
+||track.hk01.com^
 ||hocgeese.com^
 ||ad.hodomobile.com^
 ||ads.hollywood.com^
@@ -2394,6 +2399,7 @@
 ||adserver.irishwebmasterforum.com^
 ||m.irs01.com^
 ||sohu.irs01.com^
+||w.irs03.com^
 ||t.irtyd.com^
 ||www.iscrv.com^
 ||ads.isoftmarketing.com^
@@ -3600,6 +3606,7 @@
 ||pfpip.sina.com^
 ||appgift.sinaapp.com^
 ||appsupdate.sinaapp.com^
+||beacon.sinauda.com^
 ||www.sinawap.com^
 ||sincerebuffalo.com^
 ||sinoa.com^
