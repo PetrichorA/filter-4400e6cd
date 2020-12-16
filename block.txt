@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: d72500656365086841e6537728dfb61790fee8fb77b58604bd85064374ce98a4
+! Version: 1901deebe1d2ea59205a57f5b29d357d2e12c2d5d1a6bac4ded1f0cfbee6917c
 
 ||chameleon.ad^
 ||content.ad^
@@ -393,7 +393,7 @@
 ||m.qpic.cn^
 ||v2.reachmax.cn^
 ||d.s11.cn^
-||jiuzhang.datasink.sensorsdata.cn^
+||datasink.sensorsdata.cn^
 ||2016.sina.cn^
 ||api.apps.sina.cn^
 ||cre-dp.sina.cn^
@@ -1802,6 +1802,7 @@
 ||cdn.dragonstatic.com^
 ||dragzebra.com^
 ||counter.dreamhost.com^
+||event.api.drift.com^
 ||metrics.api.drift.com^
 ||targeting.api.drift.com^
 ||telemetry.dropbox.com^
@@ -5274,7 +5275,6 @@
 ||h0.t.hubspotemail.net^
 ||i.huilixieye.net^
 ||hyperbanner.net^
-||col.hztags.net^
 ||i-clicks.net^
 ||www.i1236.net^
 ||idealadvertising.net^
