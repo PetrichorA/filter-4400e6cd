@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 16c28a0891474cd82a3f9e89183e715b2aadfb4fad7b5af9534dd380ee3445e6
+! Version: 48e622ea86f29ff54e986f970fde6f215bcf396650f532bd7f610ae3c3a7a46e
 
 ||chameleon.ad^
 ||content.ad^
@@ -88,6 +88,7 @@
 ||ads.cc^
 ||hivedata.cc^
 ||mediabridge.cc^
+||api.popin.cc^
 ||app.uu.cc^
 ||dl.uu.cc^
 ||in1.feed.uu.cc^
@@ -396,6 +397,7 @@
 ||v2.reachmax.cn^
 ||d.s11.cn^
 ||datasink.sensorsdata.cn^
+||static.sensorsdata.cn^
 ||2016.sina.cn^
 ||api.apps.sina.cn^
 ||cre-dp.sina.cn^
@@ -579,6 +581,8 @@
 ||display.360totalsecurity.com^
 ||360yield.com^
 ||install.365-stream.com^
+||adx.36kr.com^
+||data.corp.36kr.com^
 ||uu1.3gu.com^
 ||uu2.3gu.com^
 ||3lift.com^
