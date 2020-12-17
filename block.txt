@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: c5be5532bab150957914b3fe60135d2d951e24bee9a137aca570285f8f0ea848
+! Version: fc0276ff5e0a6b12cd43f15036bdf1201af5654bce852c01f6fd3b33ba985d0d
 
 ||chameleon.ad^
 ||content.ad^
@@ -4408,6 +4408,7 @@
 ||beap-bc.yahoo.com^
 ||aliunion.cn.yahoo.com^
 ||cm.p4p.cn.yahoo.com^
+||jill.fc.yahoo.com^
 ||gemini.yahoo.com^
 ||marketingsolutions.yahoo.com^
 ||p3p.yahoo.com^
@@ -4418,6 +4419,7 @@
 ||pr-bh.ybp.yahoo.com^
 ||js-apac-ss.ysm.yahoo.com^
 ||partnerads.ysm.yahoo.com^
+||jac.yahoosandbox.com^
 ||x6.yakiuchi.com^
 ||ad2.yam.com^
 ||admd.yam.com^
