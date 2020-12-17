@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 8c36776152f3f9280b50aefa923b78e0274f383a13f889a702bb80ee4ce37506
+! Version: eb5cb712acd510cf14793d64e1e9cf2aca3952583bda923b42b67d1ce2decd21
 
 ||chameleon.ad^
 ||content.ad^
@@ -491,7 +491,6 @@
 ||mo.res.wpscdn.cn^
 ||vi12x.xcle.cn^
 ||jebe.xnimg.cn^
-||ad.xxguan.cn^
 ||img-cdn-spot.ymcdn.cn^
 ||6sc.co^
 ||adk2.co^
@@ -735,6 +734,7 @@
 ||admarvel.com^
 ||admatchly.com^
 ||admedia.com^
+||admedo.com^
 ||admeld.com^
 ||admeridianads.com^
 ||admeta.com^
@@ -4104,6 +4104,7 @@
 ||adserver.twitpic.com^
 ||twittad.com^
 ||ads.twitter.com^
+||ads-api.twitter.com^
 ||syndication.twitter.com^
 ||twyn.com^
 ||tynt.com^
@@ -5541,6 +5542,7 @@
 ||adtrace.org^
 ||ad.altervista.org^
 ||adserver.ariase.org^
+||cdn.bibblio.org^
 ||bigreal.org^
 ||promotions-884485.c.cdn77.org^
 ||audit.quantcast.mgr.consensu.org^
@@ -5790,6 +5792,7 @@
 ||ads.silverdisc.co.uk^
 ||specificmedia.co.uk^
 ||webtrends.telegraph.co.uk^
+||nir.theregister.co.uk^
 ||tntclix.co.uk^
 ||ads.trinitymirror.co.uk^
 ||ads.uknetguide.co.uk^
