@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 161c9a383727647240e340b6f86111d194f583c957e9bdf437185f048199f639
+! Version: e670a3c7d3501bc6df1ec77646fec28cfd5107e1df2be11c9c644b40b8535abc
 
 ||chameleon.ad^
 ||content.ad^
@@ -4100,6 +4100,7 @@
 ||adserver.twitpic.com^
 ||twittad.com^
 ||ads.twitter.com^
+||syndication.twitter.com^
 ||twyn.com^
 ||tynt.com^
 ||typicalteeth.com^
