@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 4e49e3eb89f82d2e05abf350bebf37f0eda2d877319c7baa041cca436db7e436
+! Version: 000e37b226184b570f72ed5ae74f899fd06274b051db6860df33f84c9433c5d3
 
 ||chameleon.ad^
 ||content.ad^
@@ -1679,6 +1679,7 @@
 ||crsspxl.com^
 ||doubleclick.ctfile.com^
 ||cm.ctnsnet.com^
+||mcs.ctobsnssdk.com^
 ||cubics.com^
 ||culturedcrayon.com^
 ||cumbersomecloud.com^
@@ -4039,6 +4040,7 @@
 ||totemcash.com^
 ||touchclarity.com^
 ||ad.toutiao.com^
+||zhanzhang.toutiao.com^
 ||ads.townhall.com^
 ||adsys.townnews.com^
 ||stats.townnews.com^
@@ -5058,6 +5060,7 @@
 ||c.vserv.mobi^
 ||sf.vserv.mobi^
 ||www.wannianli.mobi^
+||www.clarity.ms^
 ||alert.com.mt^
 ||adservice.google.com.mt^
 ||ads.independent.com.mt^

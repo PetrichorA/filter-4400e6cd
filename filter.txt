@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 01549e186375ac4d425048c27c2de02bdb55d591c1eb203c47e69aca895ed0c6
+! Version: bc4e68cfbc42a773532dbed8a5076b63838662beceecd8b3de0ad3ae9a37d4c7
 
 ##div.advertising_2
 ##div.advertising_3
@@ -51,8 +51,8 @@ waifu.css|
 ||vip2.loli.net/2020/12/01/Ts9ikGzmtRDdWJC.jpg
 ||vip2.loli.net/2020/12/01/nkehHSVdgEfULyo.png
 ||vip2.loli.net/2020/12/04/pJGPw4DfcysLgrO.png
+||www.cifnews.com/ajax/adrequest/
 ||www.google.com/cse/
 ||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
 ||www.isab.top/wp-admin/install.php
 ||you.163.com/act/pub/
-||zhanzhang.toutiao.com/s.gif
