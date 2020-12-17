@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 48e622ea86f29ff54e986f970fde6f215bcf396650f532bd7f610ae3c3a7a46e
+! Version: 8c36776152f3f9280b50aefa923b78e0274f383a13f889a702bb80ee4ce37506
 
 ||chameleon.ad^
 ||content.ad^
@@ -4866,10 +4866,7 @@
 ||adplus.co.id^
 ||props.id^
 ||ads.internic.co.il^
-||direct-events-collector.spot.im^
-||metrics-logger.spot.im^
-||pix.spot.im^
-||static-cdn.spot.im^
+||spot.im^
 ||ad.363.in^
 ||admix.in^
 ||adsolut.in^
