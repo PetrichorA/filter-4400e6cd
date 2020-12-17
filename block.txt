@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: e670a3c7d3501bc6df1ec77646fec28cfd5107e1df2be11c9c644b40b8535abc
+! Version: 2d6bbf7f9ba3393f5819d3b34ade561da6a0576ef5621ab1b97a886c2f7dd3e4
 
 ||chameleon.ad^
 ||content.ad^
@@ -4865,6 +4865,7 @@
 ||direct-events-collector.spot.im^
 ||metrics-logger.spot.im^
 ||pix.spot.im^
+||static-cdn.spot.im^
 ||ad.363.in^
 ||admix.in^
 ||adsolut.in^
@@ -5186,6 +5187,7 @@
 ||de.as.cp61.ott.cibntv.net^
 ||clikerz.net^
 ||d1grtyyel8f1mh.cloudfront.net^
+||d1z2jf7jlzjs58.cloudfront.net^
 ||d2bgg7rjywcwsy.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
 ||d36eyd5j1kt1m6.cloudfront.net^
@@ -5433,6 +5435,7 @@
 ||trk42.net^
 ||truehits.net^
 ||tsyndicate.net^
+||p.typekit.net^
 ||a.ucoz.net^
 ||iflow.uczzd.net^
 ||adimg.uimserv.net^
