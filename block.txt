@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: fc0276ff5e0a6b12cd43f15036bdf1201af5654bce852c01f6fd3b33ba985d0d
+! Version: 161c9a383727647240e340b6f86111d194f583c957e9bdf437185f048199f639
 
 ||chameleon.ad^
 ||content.ad^
@@ -2954,6 +2954,7 @@
 ||o0bc.com^
 ||o333o.com^
 ||oafishobservation.com^
+||consent.cmp.oath.com^
 ||obeyter.com^
 ||obscenesidewalk.com^
 ||observantice.com^
@@ -3953,6 +3954,7 @@
 ||tealeaf.com^
 ||tealium.com^
 ||tealiumiq.com^
+||guce.techcrunch.com^
 ||ad.technoratimedia.com^
 ||trk.techtarget.com^
 ||spinbox.techtracker.com^
@@ -4004,6 +4006,7 @@
 ||ads.tiktok.com^
 ||beacon.tingyun.com^
 ||tinybar.com^
+||cdn.tinypass.com^
 ||tags.tiqcdn.com^
 ||trust.titanhq.com^
 ||tkbo.com^
