@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 77eef048c9a177839dd0c5b6b82284a4ec993181e05f577c3e70b462a8b75b68
+! Version: 4e49e3eb89f82d2e05abf350bebf37f0eda2d877319c7baa041cca436db7e436
 
 ||chameleon.ad^
 ||content.ad^
@@ -535,8 +535,7 @@
 ||gb.corp.163.com^
 ||e-p4p.163.com^
 ||fa.163.com^
-||iad.g.163.com^
-||rec.g.163.com^
+||g.163.com^
 ||count.mail.163.com^
 ||countly.mail.163.com^
 ||ir.mail.163.com^
