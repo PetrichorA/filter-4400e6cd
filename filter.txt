@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 67d972df81c6a98c1a52d4413133c81af1e7be8e639e9e59b364652db07b2546
+! Version: bae56566a62b44a28599d2a0bb0a08bcb68152bcda3b37508df56a30db83e15c
 
 ##div.advertising_2
 ##div.advertising_3
@@ -39,8 +39,11 @@ waifu.css|
 ||mp.weixin.qq.com/mp/getappmsgad
 ||mp.weixin.qq.com/mp/getappmsgext
 ||mp.weixin.qq.com/mp/jsmonitor
+||mp.weixin.qq.com/mp/jsreport
+||mp.weixin.qq.com/mp/pagereport
 ||mp.weixin.qq.com/mp/relatedarticle
 ||mp.weixin.qq.com/mp/report
+||mp.weixin.qq.com/mp/videoreport
 ||mp.weixin.qq.com/mp/wapcommreport
 ||mp.weixin.qq.com/mp/webcommreport
 ||music.163.com/mailplayer
