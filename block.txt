@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: be779283d9e2f39afb3344519c34c551eee800c180e182cc0d47630fb6545253
+! Version: 862045034aecb05e2d0b221370430206122c422fcf527336a35b3d389388ac6d
 
 ||chameleon.ad^
 ||content.ad^
@@ -492,6 +492,7 @@
 ||mo.res.wpscdn.cn^
 ||vi12x.xcle.cn^
 ||jebe.xnimg.cn^
+||ad.xxguan.cn^
 ||img-cdn-spot.ymcdn.cn^
 ||6sc.co^
 ||adk2.co^
@@ -2301,6 +2302,7 @@
 ||sdk.open.phone.igexin.com^
 ||sdk.open.talk.igexin.com^
 ||ads.ign.com^
+||comments.ign.com^
 ||mlb.did.ijinshan.com^
 ||apns.ios.ijinshan.com^
 ||cdnimg.liehu.ijinshan.com^
@@ -4068,6 +4070,7 @@
 ||traffichunt.com^
 ||static.trafficjunky.com^
 ||trafficleader.com^
+||trafficshop.com^
 ||trafficstrategies.com^
 ||trafficswarm.com^
 ||trafficz.com^
@@ -4355,6 +4358,7 @@
 ||ftpcontent.worldnow.com^
 ||worldwidedigitalads.com^
 ||worriednumber.com^
+||pixel.wp.com^
 ||stats.wp.com^
 ||click.wrating.com^
 ||cntv.wrating.com^
@@ -4443,6 +4447,9 @@
 ||ads.yam.com^
 ||analytics.yam.com^
 ||s2.yandui.com^
+||comments.yappaapp.com^
+||embed.yappaapp.com^
+||widget.yappaapp.com^
 ||adpublish.ydstatic.com^
 ||oimagea2.ydstatic.com^
 ||yellowto.com^
@@ -4572,6 +4579,7 @@
 ||zgsdk.zhugeio.com^
 ||zgsee-gw.zhugeio.com^
 ||li.ziffimages.com^
+||cdn.ziffstatic.com^
 ||zm232.com^
 ||ads.zmarsa.com^
 ||zmedia.com^
@@ -5044,6 +5052,7 @@
 ||topsite.lv^
 ||adf.ly^
 ||cashstaging.me^
+||juicyads.me^
 ||ggle.lywf.me^
 ||analytics.samdd.me^
 ||adhunter.media^
@@ -5493,6 +5502,7 @@
 ||t.youmi.net^
 ||aos.wall.youmi.net^
 ||z5x.net^
+||zdbb.net^
 ||stat.zenon.net^
 ||a1.zhanzhang.net^
 ||a2.zhanzhang.net^
