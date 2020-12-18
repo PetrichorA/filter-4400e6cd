@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 44ce8307be053887c460e200864cf9eaa52819e0984a50c56ecb0ae100756526
+! Version: be779283d9e2f39afb3344519c34c551eee800c180e182cc0d47630fb6545253
 
 ||chameleon.ad^
 ||content.ad^
@@ -446,6 +446,7 @@
 ||log.tagtic.cn^
 ||img.taotaosou.cn^
 ||img01.taotaosou.cn^
+||adpai.thepaper.cn^
 ||801.tianya.cn^
 ||803.tianya.cn^
 ||dol.tianya.cn^
@@ -666,6 +667,7 @@
 ||adaranth.com^
 ||adblade.com^
 ||adblockanalytics.com^
+||adbooth.com^
 ||adbot.com^
 ||adbrite.com^
 ||adbrn.com^
@@ -2242,6 +2244,8 @@
 ||htlbid.com^
 ||httpool.com^
 ||hubadnetwork.com^
+||api.hubapi.com^
+||track.hubspot.com^
 ||hueads.com^
 ||hueadsortb.com^
 ||hueadsxml.com^
@@ -5098,7 +5102,6 @@
 ||ad-space.net^
 ||ad4mat.net^
 ||adadvisor.net^
-||adbooth.net^
 ||adcenter.net^
 ||adcontrolsolutions.net^
 ||adexc.net^
@@ -5296,6 +5299,7 @@
 ||vatrack.hinet.net^
 ||hs-analytics.net^
 ||hsadspixel.net^
+||js.hscollectedforms.net^
 ||h0.t.hubspotemail.net^
 ||i.huilixieye.net^
 ||hyperbanner.net^
