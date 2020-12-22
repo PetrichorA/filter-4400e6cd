@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 44251a5cd0f2f5a18e02f36d48242f9d6d8582aed49570cfb1a2ecafcd0b1922
+! Version: fa1afecdf4d5e867ade0935002919ef87cb64df55839acbf14fc6696a59e2a78
 
 ||chameleon.ad^
 ||content.ad^
@@ -1630,6 +1630,7 @@
 ||complextoad.com^
 ||tracker.comunidadmarriott.com^
 ||concernedcondition.com^
+||capture.condenastdigital.com^
 ||pixel.condenastdigital.com^
 ||conductrics.com^
 ||connatix.com^
@@ -2077,6 +2078,7 @@
 ||banners.getiton.com^
 ||ads.getlucky.com^
 ||getmyads.com^
+||pbs.getpublica.com^
 ||metrics.getrockerbox.com^
 ||metrics.gfycat.com^
 ||px.gfycat.com^
@@ -3909,6 +3911,7 @@
 ||ai.taobao.com^
 ||g.click.taobao.com^
 ||eco.taobao.com^
+||fourier.taobao.com^
 ||pindao.huoban.taobao.com^
 ||acs4baichuan.m.taobao.com^
 ||adash.m.taobao.com^
@@ -4885,6 +4888,7 @@
 ||adplus.co.id^
 ||props.id^
 ||ads.internic.co.il^
+||dr.netease.im^
 ||spot.im^
 ||ad.363.in^
 ||admix.in^
