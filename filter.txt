@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: bae56566a62b44a28599d2a0bb0a08bcb68152bcda3b37508df56a30db83e15c
+! Version: 0e3c5ef58389d55ef753c35c420f656610d05c8ef6b57f67d8f0df6ca16b7f4b
 
 ##div.advertising_2
 ##div.advertising_3
@@ -15,6 +15,7 @@ live2d.js|
 umami.js|
 waifu-tips.js|
 waifu.css|
+web.archive.org##.js-donate-banner.row
 ||127.net/p/tools/mailstats-sdk/
 ||assets.bwbx.io/s3/javelin/public/javelin/js/
 ||assets.bwbx.io/s3/navi/js/push-notification-prompt
