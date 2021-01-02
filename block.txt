@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: eeb6d970a072a90b078b4db9d3975db4c3faacaf93a470124140284a70a60846
+! Version: c39df54bc579c59236730bd0d2b173f003f48b313b2321dd7f992670699f7369
 
 ||chameleon.ad^
 ||content.ad^
@@ -343,6 +343,7 @@
 ||bdjsym.guangyuanol.cn^
 ||va.gxpan.cn^
 ||mo.haloapps.cn^
+||holaworld.cn^
 ||www.huaxinxunye.cn^
 ||dd.iask.cn^
 ||adm.icast.cn^
@@ -2375,8 +2376,6 @@
 ||sync.intentiq.com^
 ||intentmedia.com^
 ||intergi.com^
-||adres.internet.com^
-||mjxads.internet.com^
 ||internetfuel.com^
 ||inventionpassenger.com^
 ||invitesugar.com^
@@ -2462,6 +2461,7 @@
 ||www.jiubuhua.com^
 ||www.jiudianxing.com^
 ||ads.jiwire.com^
+||ds.jlbksy.com^
 ||s.jlminte.com^
 ||cdn.ads.jlscds.com^
 ||ads.joaffs.com^
@@ -2938,6 +2938,7 @@
 ||nhpfvdlbjg.com^
 ||nitratory.com^
 ||nitroclicks.com^
+||s.nitropay.com^
 ||rjs.niuxgame77.com^
 ||ads.nj.com^
 ||www.nkscdn.com^
@@ -3115,7 +3116,6 @@
 ||placed.com^
 ||play4traffic.com^
 ||playhaven.com^
-||playmobileads.com^
 ||pleasantpump.com^
 ||plista.com^
 ||plotrabbit.com^
@@ -3891,6 +3891,8 @@
 ||swordgoose.com^
 ||client.swpcld.com^
 ||www.swpsvc.com^
+||dl.sybspools.com^
+||kr.sybspools.com^
 ||banners.sys-con.com^
 ||taboola.com^
 ||cdn.taboolasyndication.com^
@@ -4055,7 +4057,6 @@
 ||ads.townhall.com^
 ||adsys.townnews.com^
 ||stats.townnews.com^
-||tpnads.com^
 ||trackalyzer.com^
 ||tracking101.com^
 ||tracking22.com^
@@ -4456,6 +4457,7 @@
 ||widget.yappaapp.com^
 ||adpublish.ydstatic.com^
 ||oimagea2.ydstatic.com^
+||bannersng.yell.com^
 ||yellowto.com^
 ||yepads.com^
 ||yesads.com^
@@ -4690,7 +4692,6 @@
 ||adtiger.de^
 ||adverticus.de^
 ||advertmedia.de^
-||aidu-ads.de^
 ||auto-bannertausch.de^
 ||banner-exchange-24.de^
 ||bannerads.de^
@@ -5113,8 +5114,10 @@
 ||ads.aceweb.net^
 ||ad-balancer.net^
 ||ad-delivery.net^
+||ad-space.net^
 ||ad4mat.net^
 ||adadvisor.net^
+||adbooth.net^
 ||adcenter.net^
 ||adcontrolsolutions.net^
 ||adexc.net^
@@ -5404,7 +5407,6 @@
 ||api.primecaster.net^
 ||primetime.net^
 ||pro-market.net^
-||ad.pttcn.net^
 ||pubnative.net^
 ||questaffiliates.net^
 ||readserver.net^
@@ -5553,7 +5555,6 @@
 ||ads.xtra.co.nz^
 ||ad.kissanime.nz^
 ||analyticin.online^
-||sdcswingers.online^
 ||app.50bang.org^
 ||js.50bang.org^
 ||union2.50bang.org^
@@ -5596,7 +5597,6 @@
 ||trustx.org^
 ||ping.ublock.org^
 ||ads.webmasterpoint.org^
-||sina.yinstar.org^
 ||cny.yoyo.org^
 ||wheredoyoucomefrom.ovh^
 ||adstat.4u.pl^
