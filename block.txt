@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: c39df54bc579c59236730bd0d2b173f003f48b313b2321dd7f992670699f7369
+! Version: 2b5aacc35cc09d4e8178a79efb3e87a7e48fd59001212b4f6cceeb9024b385ce
 
 ||chameleon.ad^
 ||content.ad^
@@ -3522,6 +3522,7 @@
 ||rundsp.com^
 ||affiliate.rusvpn.com^
 ||ruthlessrobin.com^
+||s-onetag.com^
 ||s1-adfly.com^
 ||s20dh7e9dh.com^
 ||s24hc8xzag.com^
