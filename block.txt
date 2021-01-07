@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 3a1f55191d00edec7bdfbb6a8b2b99235193aaf4b3f11d431196a2afba6e2881
+! Version: 46093d14e65a1e04b4ccd53a3495aa7e0b14267b19a7bf8eee4b6cd8f5d44a85
 
 ||chameleon.ad^
 ||content.ad^
@@ -384,7 +384,6 @@
 ||f1.p0y.cn^
 ||f2.p0y.cn^
 ||fm.p0y.cn^
-||api.piclick.cn^
 ||api2.play.cn^
 ||open.play.cn^
 ||log.cs.pp.cn^
@@ -609,7 +608,6 @@
 ||777partner.com^
 ||77tracking.com^
 ||7bpeople.com^
-||ufile.7pk.com^
 ||7search.com^
 ||82o9v830.com^
 ||marketing.888.com^
@@ -1383,6 +1381,7 @@
 ||inside.bitcomet.com^
 ||bitmedianetwork.com^
 ||ads.bittorrent.com^
+||adserver.bizedge.com^
 ||adserver.bizhat.com^
 ||bizible.com^
 ||cdn.bizibly.com^
@@ -2264,6 +2263,7 @@
 ||hydramedia.com^
 ||hypertracker.com^
 ||hyprmx.com^
+||hyros.com^
 ||hystericalhelp.com^
 ||i1img.com^
 ||iadnet.com^
@@ -2467,7 +2467,6 @@
 ||www.jiudianxing.com^
 ||ads.jiwire.com^
 ||ds.jlbksy.com^
-||s.jlminte.com^
 ||cdn.ads.jlscds.com^
 ||ads.joaffs.com^
 ||ads.jpost.com^
@@ -3144,6 +3143,7 @@
 ||oglasi.posjetnica.com^
 ||possessivebucket.com^
 ||possibleboats.com^
+||app.posthog.com^
 ||postrelease.com^
 ||analytics.posttv.com^
 ||px.powerlinks.com^
@@ -4013,6 +4013,7 @@
 ||tracking.thinkabt.com^
 ||thirdrespect.com^
 ||thirstytwig.com^
+||thomastorch.com^
 ||banners.thomsonlocal.com^
 ||sponsors.thoughtsmedia.com^
 ||threechurch.com^
@@ -4241,7 +4242,6 @@
 ||a.vfgtb.com^
 ||ads.vgchartz.com^
 ||s.vi-serve.com^
-||affiliate.viator.com^
 ||vibrantmedia.com^
 ||sourcepoint.vice.com^
 ||vidcpm.com^
@@ -4729,6 +4729,7 @@
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
 ||gearwom.de^
+||adserve.gkeurope.de^
 ||go-clicks.de^
 ||go-rank.de^
 ||webcounter.goweb.de^
@@ -4804,6 +4805,7 @@
 ||tracklink-tel.de^
 ||trcking4wdm.de^
 ||ads2004.treiberupdate.de^
+||adserver.trojaner-info.de^
 ||lb.usemaxserver.de^
 ||view4cash.de^
 ||visitbox.de^
@@ -4886,6 +4888,7 @@
 ||toplista.mw.hu^
 ||ad2.netriota.hu^
 ||revive.netriota.hu^
+||adserver.otthonom.hu^
 ||img.prohardver.hu^
 ||reklamcsere.hu^
 ||advert.dyna.ultraweb.hu^
@@ -4967,6 +4970,7 @@
 ||proper.io^
 ||redshell.io^
 ||revlift.io^
+||segmetrics.io^
 ||simpleanalytics.io^
 ||siteimproveanalytics.io^
 ||smart-traffik.io^
@@ -5113,7 +5117,6 @@
 ||2o7.net^
 ||4affiliate.net^
 ||4d5.net^
-||news.766ba.net^
 ||ad.a8.net^
 ||statics.a8.net^
 ||abacho.net^
@@ -5560,7 +5563,6 @@
 ||somniture.stuff.co.nz^
 ||webads.co.nz^
 ||ads.xtra.co.nz^
-||ad.kissanime.nz^
 ||analyticin.online^
 ||app.50bang.org^
 ||js.50bang.org^
@@ -5717,7 +5719,6 @@
 ||stat.cliche.se^
 ||ads.fotosidan.se^
 ||ad-server.gulasidorna.se^
-||ads.internet24.se^
 ||banner.linux.se^
 ||ads.nordichardware.se^
 ||reklam.rfsl.se^
