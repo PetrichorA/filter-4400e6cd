@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: de226862024a88d186331856d84b22ec3bd74094dfd88bb5d97c501404006bd5
+! Version: 3c37a0d5bbe7e0af46778ceafadef3006fe287b9b490ab1d8def797adad2eecf
 
 ##div.advertising_2
 ##div.advertising_3
@@ -30,6 +30,7 @@ web.archive.org##.js-donate-banner.row
 ||g.csdnimg.cn/baidu-search/
 ||g.csdnimg.cn/common/csdn-report/
 ||g.csdnimg.cn/tingyun/
+||hoopchina.com.cn/rig-reporter/
 ||i.loli.net/2017/08/02/598187babf39e.gif
 ||i.loli.net/2019/04/28/5cc4ece651f73.jpg
 ||icon.solidot.org/js/zhugeio.js
