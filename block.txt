@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 46093d14e65a1e04b4ccd53a3495aa7e0b14267b19a7bf8eee4b6cd8f5d44a85
+! Version: da19cc7c8e8b06e7423466f4e0395a47285e9f72c4f210a7d7fc5c60f0d0d180
 
 ||chameleon.ad^
 ||content.ad^
@@ -2896,6 +2896,7 @@
 ||n69.com^
 ||data.namesakeoscilloscopemarquis.com^
 ||naradxb.com^
+||static.narrativ.com^
 ||liquidad.narrowcastmedia.com^
 ||nastydollars.com^
 ||cdn.nativery.com^
@@ -4284,7 +4285,8 @@
 ||voicevegetable.com^
 ||voluum.com^
 ||voluumtrk2.com^
-||optimize-stats.voxmedia.com^
+||vox-cdn.com^
+||voxmedia.com^
 ||vpon.com^
 ||vrtzcontextualads.com^
 ||c.vrvm.com^
@@ -4941,6 +4943,7 @@
 ||clickmate.io^
 ||analytics.cloudron.io^
 ||cointraffic.io^
+||concert.io^
 ||connectad.io^
 ||api.dable.io^
 ||images.dable.io^
