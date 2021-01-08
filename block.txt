@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: da19cc7c8e8b06e7423466f4e0395a47285e9f72c4f210a7d7fc5c60f0d0d180
+! Version: e63b977e4897e5bab2a81656e6a72487ddca56d6c711d9da55148b01321744c8
 
 ||chameleon.ad^
 ||content.ad^
@@ -1075,6 +1075,7 @@
 ||banners.asiafriendfinder.com^
 ||ads.aspalliance.com^
 ||assoc-amazon.com^
+||associates-amazon.com^
 ||aswpapius.com^
 ||aswpsdkus.com^
 ||atdmt.com^
@@ -4285,7 +4286,7 @@
 ||voicevegetable.com^
 ||voluum.com^
 ||voluumtrk2.com^
-||vox-cdn.com^
+||volume.vox-cdn.com^
 ||voxmedia.com^
 ||vpon.com^
 ||vrtzcontextualads.com^
