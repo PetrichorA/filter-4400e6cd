@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: e63b977e4897e5bab2a81656e6a72487ddca56d6c711d9da55148b01321744c8
+! Version: deec85484032da95e79ad35bf7696715b842b616468a8f36f32e68ba61e145b2
 
 ||chameleon.ad^
 ||content.ad^
@@ -100,7 +100,6 @@
 ||1.yhzm.cc^
 ||admanagement.ch^
 ||banner.buempliz-online.ch^
-||ad.gate24.ch^
 ||ad.ilove.ch^
 ||ads.watson.ch^
 ||adserver.bdoce.cl^
@@ -435,7 +434,6 @@
 ||huichuan.sm.cn^
 ||sugs.m.sm.cn^
 ||image.zzd.sm.cn^
-||bd.soarfi.cn^
 ||www.star-media.cn^
 ||ttg.cdn.suanzi.cn^
 ||lcs.dev.surepush.cn^
@@ -518,6 +516,7 @@
 ||verblife-3.co^
 ||verblife-4.co^
 ||verblife-5.co^
+||log.videocampaign.co^
 ||sccdn.002lzj.com^
 ||5ijo.01net.com^
 ||spread.024ajs.com^
@@ -652,6 +651,7 @@
 ||acuityads.com^
 ||acuityplatform.com^
 ||ads.ad-center.com^
+||ad-cupid.com^
 ||ad-rotator.com^
 ||ad-score.com^
 ||ad.ad-stir.com^
@@ -1108,7 +1108,6 @@
 ||q.azcentral.com^
 ||li.azstarnet.com^
 ||b-1st.com^
-||banners.babylon-x.com^
 ||affiliates.babylon.com^
 ||backbeatmedia.com^
 ||promo.badoink.com^
@@ -2021,7 +2020,6 @@
 ||freecounterstat.com^
 ||cdn.freefarcy.com^
 ||freelogs.com^
-||freemaineads.com^
 ||track.freemmo2017.com^
 ||freeonlineusers.com^
 ||freepay.com^
@@ -2071,6 +2069,7 @@
 ||li.gatehousemedia.com^
 ||ads.gawker.com^
 ||track.gawker.com^
+||stjzh.gdtarget.com^
 ||adsmind.gdtimg.com^
 ||georiot.com^
 ||geovisite.com^
@@ -2446,6 +2445,7 @@
 ||iyfnzgb.com^
 ||j93557g.com^
 ||jadeitite.com^
+||jaizouji.com^
 ||s.jandan.com^
 ||adserver.janes.com^
 ||jsjs.jbzj.com^
@@ -2504,7 +2504,6 @@
 ||p.kjwx8.com^
 ||klclick.com^
 ||klclick1.com^
-||tracking.klickthru.com^
 ||klsdee.com^
 ||img1.km.com^
 ||img2.km.com^
@@ -2780,7 +2779,6 @@
 ||www.migdtqq.com^
 ||militaryverse.com^
 ||milotree.com^
-||www.minesage.com^
 ||minewhat.com^
 ||minormeeting.com^
 ||mintegral.com^
@@ -2929,8 +2927,6 @@
 ||cm.netseer.com^
 ||ads.networksolutions.com^
 ||neudesicmediagroup.com^
-||cdn.newapi.com^
-||logs.newapi.com^
 ||newbie.com^
 ||ads.newgrounds.com^
 ||newnudecash.com^
@@ -3426,7 +3422,6 @@
 ||iadctest.qwapi.com^
 ||k.r66net.com^
 ||c753738.r38.cf2.rackcdn.com^
-||radarurl.com^
 ||ads.radialserver.com^
 ||radiate.com^
 ||railwayrainstorm.com^
@@ -3795,7 +3790,6 @@
 ||spacash.com^
 ||ads.space.com^
 ||spaceleadster.com^
-||adserver.spankaway.com^
 ||counter.sparklit.com^
 ||sparkstudios.com^
 ||specificpop.com^
@@ -4136,7 +4130,6 @@
 ||typicalteeth.com^
 ||tyroo.com^
 ||www.tz-dsp.com^
-||static.tzyiyuantuan.com^
 ||uarating.com^
 ||adserver.ubiyoo.com^
 ||m.uc123.com^
@@ -4286,7 +4279,7 @@
 ||voicevegetable.com^
 ||voluum.com^
 ||voluumtrk2.com^
-||volume.vox-cdn.com^
+||concertads-configs.vox-cdn.com^
 ||voxmedia.com^
 ||vpon.com^
 ||vrtzcontextualads.com^
@@ -4526,7 +4519,6 @@
 ||impservice.union.youdao.com^
 ||ydpushserver.youdao.com^
 ||log.yex.youdao.com^
-||youjia2016.com^
 ||ad.api.3g.youku.com^
 ||store.tv.api.3g.youku.com^
 ||store.xl.api.3g.youku.com^
@@ -4712,7 +4704,6 @@
 ||marketing.net.brillen.de^
 ||cash4popup.de^
 ||clicktag.de^
-||commindo-media-ressourcen.de^
 ||contaxe.de^
 ||foo.cosmocode.de^
 ||coupling-media.de^
@@ -4873,6 +4864,7 @@
 ||visual-pagerank.fr^
 ||weborama.fr^
 ||lnks.gd^
+||aboutads.gr^
 ||adman.gr^
 ||interactive.forthnet.gr^
 ||bannergrabber.internet.gr^
@@ -4926,6 +4918,7 @@
 ||ads.sjon.info^
 ||spotscenered.info^
 ||ads2.techads.info^
+||track.themaccleanup.info^
 ||ads.twojatv.info^
 ||wholesaletraffic.info^
 ||1rx.io^
@@ -5101,6 +5094,7 @@
 ||adservice.google.com.mt^
 ||ads.independent.com.mt^
 ||kmpiframe.keepmeposted.com.mt^
+||ato.mx^
 ||adserver.info7.mx^
 ||h5.analytics.126.net^
 ||img1.126.net^
@@ -5153,7 +5147,7 @@
 ||tag-store.ads-pixiv.net^
 ||ads24h.net^
 ||adsfac.net^
-||cdn.adsfactor.net^
+||adsfactor.net^
 ||adsmart.net^
 ||juxiao.adsmogo.net^
 ||www.adsmogo.net^
@@ -5423,6 +5417,7 @@
 ||pro-market.net^
 ||pubnative.net^
 ||questaffiliates.net^
+||stats.rdphv.net^
 ||readserver.net^
 ||edge.reporo.net^
 ||netdna.reporo.net^
@@ -5590,6 +5585,7 @@
 ||ad1.emule-project.org^
 ||ad.exyws.org^
 ||m.fhxsw.org^
+||alchemist.go2cloud.org^
 ||ads.harpers.org^
 ||ads.heartlight.org^
 ||avpa.javalobby.org^
@@ -5681,6 +5677,7 @@
 ||inetlog.ru^
 ||click.kmindex.ru^
 ||counting.kmindex.ru^
+||matomo.kmkb.ru^
 ||lbn.ru^
 ||top.list.ru^
 ||ad.liveinternet.ru^
