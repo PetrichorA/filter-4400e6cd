@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: deec85484032da95e79ad35bf7696715b842b616468a8f36f32e68ba61e145b2
+! Version: 0c666c8ed48b529f37811899ee3dd8951b81ffee9adf9dc3e283f58db323e2f1
 
 ||chameleon.ad^
 ||content.ad^
@@ -2090,6 +2090,7 @@
 ||ads.gionee.com^
 ||pdl.gionee.com^
 ||adrotic.girlonthenet.com^
+||collector.githubapp.com^
 ||www8.glam.com^
 ||ads.glispa.com^
 ||globalismedia.com^
@@ -4000,6 +4001,8 @@
 ||theclickads.com^
 ||static.thefifthera.com^
 ||hits.theguardian.com^
+||ophan.theguardian.com^
+||sourcepoint.theguardian.com^
 ||themoneytizer.com^
 ||ads.themovienation.com^
 ||therapistla.com^
@@ -5308,7 +5311,7 @@
 ||ad1.greedland.net^
 ||gscontxt.net^
 ||gsmtop.net^
-||beacon.gu-web.net^
+||gu-web.net^
 ||bdd.hainan.net^
 ||bds.hainan.net^
 ||analyticsapi.happypancake.net^
