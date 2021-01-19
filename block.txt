@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 0c666c8ed48b529f37811899ee3dd8951b81ffee9adf9dc3e283f58db323e2f1
+! Version: 47ea33497bb87342ceea3ffc7aeae8e727206a627ba35984017c7f1b42bd4aff
 
 ||chameleon.ad^
 ||content.ad^
@@ -243,7 +243,6 @@
 ||taboola.com.cn^
 ||api.tatagou.com.cn^
 ||log.ttjx.tatagou.com.cn^
-||img.toppr.com.cn^
 ||iflow.uczzd.com.cn^
 ||baidu1.weather.com.cn^
 ||mc.weather.com.cn^
@@ -647,7 +646,6 @@
 ||actualdeals.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
-||openx.actvtech.com^
 ||acuityads.com^
 ||acuityplatform.com^
 ||ads.ad-center.com^
@@ -2233,6 +2231,9 @@
 ||track.hk01.com^
 ||hocgeese.com^
 ||ad.hodomobile.com^
+||h5.holalauncher.com^
+||i.holalauncher.com^
+||st.holalauncher.com^
 ||ads.hollywood.com^
 ||adimages.homestore.com^
 ||counters.honesty.com^
@@ -2937,6 +2938,7 @@
 ||newstarads.com^
 ||nexac.com^
 ||nexage.com^
+||stats.nextgen-email.com^
 ||adv.nexthardware.com^
 ||nhpfvdlbjg.com^
 ||nitratory.com^
@@ -4382,6 +4384,7 @@
 ||xad.com^
 ||a.xanga.com^
 ||xapads.com^
+||xcsypkknp.com^
 ||analytics.xelondigital.com^
 ||xertive.com^
 ||xfreeservice.com^
@@ -5068,6 +5071,7 @@
 ||ads.radio1.lv^
 ||topsite.lv^
 ||adf.ly^
+||adbilty.me^
 ||cashstaging.me^
 ||juicyads.me^
 ||ggle.lywf.me^
@@ -5248,6 +5252,7 @@
 ||kunyu.csdn.net^
 ||silkroad.csdn.net^
 ||statistic.csdn.net^
+||uniondm.cz88.net^
 ||realmedia-a800.d4p.net^
 ||dapper.net^
 ||analytics.ad.daum.net^
@@ -5486,6 +5491,7 @@
 ||userreplay.net^
 ||banner.vadian.net^
 ||rtas.videocc.net^
+||vivads.net^
 ||w55c.net^
 ||cdn.watchingthat.net^
 ||bannieres.wdmedia.net^
