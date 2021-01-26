@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 47ea33497bb87342ceea3ffc7aeae8e727206a627ba35984017c7f1b42bd4aff
+! Version: 7735bad7ba37fab078dc72975423ffff6afc7b3fac5a2b659e6c3d82af10d4fb
 
 ||chameleon.ad^
 ||content.ad^
@@ -4831,6 +4831,7 @@
 ||bnrs.ilm.ee^
 ||gml.email^
 ||publicidad.elmundo.es^
+||gaug.es^
 ||ads.tripod.lycos.es^
 ||ads.mediasmart.es^
 ||ads.recoletos.es^
@@ -4982,6 +4983,7 @@
 ||trafficrouter.io^
 ||triptease.io^
 ||voodoo-ads.io^
+||pixel.archive.is^
 ||scambiobanner.aruba.it^
 ||mobile.banzai.it^
 ||adserver.break-even.it^
@@ -5694,6 +5696,7 @@
 ||ad.mail.ru^
 ||likemore-fe.go.mail.ru^
 ||top.mail.ru^
+||top-fwz1.mail.ru^
 ||adv.mezon.ru^
 ||counter.mojgorod.ru^
 ||musiccounter.ru^
