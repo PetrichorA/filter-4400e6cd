@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 7735bad7ba37fab078dc72975423ffff6afc7b3fac5a2b659e6c3d82af10d4fb
+! Version: 8bbc263e3f7823d012f37bd1c32c02cd59a1bcfb7dcc599dfbcb2f0dc6214e55
 
 ||chameleon.ad^
 ||content.ad^
@@ -243,6 +243,7 @@
 ||taboola.com.cn^
 ||api.tatagou.com.cn^
 ||log.ttjx.tatagou.com.cn^
+||img.toppr.com.cn^
 ||iflow.uczzd.com.cn^
 ||baidu1.weather.com.cn^
 ||mc.weather.com.cn^
@@ -374,6 +375,7 @@
 ||f1.luoshenbest.cn^
 ||jct.maptu.cn^
 ||mad.m.maxthon.cn^
+||minisplat.cn^
 ||i.mmcdn.cn^
 ||config.mobisage.cn^
 ||ad.mobstazinc.cn^
@@ -779,7 +781,6 @@
 ||ads180.com^
 ||ads3-adnow.com^
 ||ads4homes.com^
-||ads8.com^
 ||adsafeprotected.com^
 ||download.adsage.com^
 ||mws.adsage.com^
@@ -1501,6 +1502,7 @@
 ||ads.casumoaffiliates.com^
 ||causecherry.com^
 ||bidbarrel.cbsnews.com^
+||tealium.cbsnews.com^
 ||ads.cc-dt.com^
 ||clickserve.cc-dt.com^
 ||ad.cctv.com^
@@ -1704,7 +1706,7 @@
 ||dashingdirt.com^
 ||dashingsweater.com^
 ||data8a8altrk.com^
-||logs.datadoghq.com^
+||datadoghq.com^
 ||ads.datingyes.com^
 ||dbbsrv.com^
 ||dc-storm.com^
@@ -2487,7 +2489,6 @@
 ||justrelevant.com^
 ||justuno.com^
 ||content.jwplatform.com^
-||c.k429fma.com^
 ||ads.kabooaffiliates.com^
 ||videostats.kakao.com^
 ||kameleoon.com^
@@ -2913,9 +2914,7 @@
 ||cdn.nearbyad.com^
 ||neighborlywatch.com^
 ||analytics.nekomio.com^
-||ad-aws-it.neodatagroup.com^
-||js-ssl.neodatagroup.com^
-||tracker.neodatagroup.com^
+||neodatagroup.com^
 ||nervoussummer.com^
 ||net-filter.com^
 ||netaffiliation.com^
@@ -3298,7 +3297,6 @@
 ||ex.qq.com^
 ||2052.flash2-http.qq.com^
 ||fodder.qq.com^
-||fw.qq.com^
 ||c.gdt.qq.com^
 ||canvas.gdt.qq.com^
 ||d.gdt.qq.com^
@@ -3892,7 +3890,7 @@
 ||swimslope.com^
 ||delivery.g.switchadhub.com^
 ||gamead.swjoy.com^
-||www.swoop-amp.com^
+||swoop-amp.com^
 ||swordfishdc.com^
 ||swordgoose.com^
 ||client.swpcld.com^
@@ -3974,7 +3972,7 @@
 ||targetpoint.com^
 ||tastefulsongs.com^
 ||tawdryson.com^
-||ads.tcsemotion.com^
+||tcsemotion.com^
 ||tealeaf.com^
 ||tealium.com^
 ||tealiumiq.com^
@@ -4275,6 +4273,7 @@
 ||visitpath.com^
 ||visualrevenue.com^
 ||vivtracking.com^
+||vlyby.com^
 ||man.vm5apis.com^
 ||vahfront.vm5apis.com^
 ||vawpro.vm5apis.com^
@@ -4384,7 +4383,6 @@
 ||xad.com^
 ||a.xanga.com^
 ||xapads.com^
-||xcsypkknp.com^
 ||analytics.xelondigital.com^
 ||xertive.com^
 ||xfreeservice.com^
@@ -4466,6 +4464,7 @@
 ||widget.yappaapp.com^
 ||adpublish.ydstatic.com^
 ||oimagea2.ydstatic.com^
+||yektanet.com^
 ||bannersng.yell.com^
 ||yellowto.com^
 ||yepads.com^
@@ -4837,7 +4836,7 @@
 ||ads.recoletos.es^
 ||adsfac.eu^
 ||manageadv.cblogs.eu^
-||logs.datadoghq.eu^
+||datadoghq.eu^
 ||edaa.eu^
 ||amp.emediate.eu^
 ||hits.europuls.eu^
@@ -4979,11 +4978,10 @@
 ||siteimproveanalytics.io^
 ||smart-traffik.io^
 ||throtle.io^
-||scripts.tracdelight.io^
+||tracdelight.io^
 ||trafficrouter.io^
 ||triptease.io^
 ||voodoo-ads.io^
-||pixel.archive.is^
 ||scambiobanner.aruba.it^
 ||mobile.banzai.it^
 ||adserver.break-even.it^
@@ -5060,8 +5058,7 @@
 ||ai.yimg.jp^
 ||yads.c.yimg.jp^
 ||s.yimg.jp^
-||j.zucks.net.zimg.jp^
-||static.zucks.net.zimg.jp^
+||zimg.jp^
 ||ad1.eventmanager.co.kr^
 ||nicorette.co.kr^
 ||js.users.51.la^
@@ -5127,7 +5124,7 @@
 ||ad.a8.net^
 ||statics.a8.net^
 ||abacho.net^
-||h.accesstrade.net^
+||accesstrade.net^
 ||ads.aceweb.net^
 ||ad-balancer.net^
 ||ad-delivery.net^
@@ -5334,7 +5331,6 @@
 ||hsadspixel.net^
 ||js.hscollectedforms.net^
 ||h0.t.hubspotemail.net^
-||i.huilixieye.net^
 ||hyperbanner.net^
 ||i-clicks.net^
 ||www.i1236.net^
@@ -5515,6 +5511,7 @@
 ||st.yandexadexchange.net^
 ||yastatic.net^
 ||rs-staticart.ybcdn.net^
+||yektanet.net^
 ||yieldlab.net^
 ||yieldmanager.net^
 ||ads.yldmgrimg.net^
@@ -5535,8 +5532,7 @@
 ||qqbm.zhuiying.net^
 ||clicktrack.ziyu.net^
 ||zqtk.net^
-||k.zucks.net^
-||sh.zucks.net^
+||zucks.net^
 ||pub.network^
 ||adpepper.nl^
 ||adscience.nl^
@@ -5856,6 +5852,7 @@
 ||trkn.us^
 ||tracker.vgame.us^
 ||a.muloqot.uz^
+||58lm.vip^
 ||adpia.vn^
 ||eclick.vn^
 ||skylink.vn^
