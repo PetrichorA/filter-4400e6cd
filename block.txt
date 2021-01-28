@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 8bbc263e3f7823d012f37bd1c32c02cd59a1bcfb7dcc599dfbcb2f0dc6214e55
+! Version: 72f1d1e6c77b7dac54e5e93889c9c4c54777efc08a036725c6911a1859c7dfe7
 
 ||chameleon.ad^
 ||content.ad^
@@ -2660,6 +2660,7 @@
 ||markedpail.com^
 ||market-buster.com^
 ||marketo.com^
+||massariuscdn.com^
 ||massivemark.com^
 ||ads.affiliates.match.com^
 ||matchcraft.com^
