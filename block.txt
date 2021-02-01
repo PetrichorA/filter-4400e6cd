@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 72f1d1e6c77b7dac54e5e93889c9c4c54777efc08a036725c6911a1859c7dfe7
+! Version: 290f90a18239e94d18660e71dfd94635eb0037a891f3e37b4a2e99398d790278
 
 ||chameleon.ad^
 ||content.ad^
@@ -334,7 +334,10 @@
 ||pv.focus.cn^
 ||www.gdtqq.cn^
 ||stats.dmp.ghac.cn^
+||channel-analysis.gmw.cn^
+||channel-analysis-js.gmw.cn^
 ||googleadsserving.cn^
+||fwl.moe.gov.cn^
 ||baidu.greenxf.cn^
 ||discuz.gtimg.cn^
 ||pgdt.gtimg.cn^
@@ -1243,6 +1246,7 @@
 ||videopush.baidu.com^
 ||wangmeng.baidu.com^
 ||wkclick.baidu.com^
+||wkctj.baidu.com^
 ||wm.baidu.com^
 ||yingxiao.baidu.com^
 ||push.zhanzhang.baidu.com^
@@ -4326,6 +4330,7 @@
 ||websponsors.com^
 ||webstat.com^
 ||webstats4u.com^
+||webterren.com^
 ||webtrackerplus.com^
 ||webtracky.com^
 ||webtrendslive.com^
