@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 290f90a18239e94d18660e71dfd94635eb0037a891f3e37b4a2e99398d790278
+! Version: f7d2403c4855cfd53c2fd297883d155a61ed05d6602de7b52293d2638645ddbd
 
 ||chameleon.ad^
 ||content.ad^
@@ -375,7 +375,6 @@
 ||cb.lomark.cn^
 ||reply.lomark.cn^
 ||rm.lomark.cn^
-||f1.luoshenbest.cn^
 ||jct.maptu.cn^
 ||mad.m.maxthon.cn^
 ||minisplat.cn^
@@ -531,6 +530,8 @@
 ||1-1ads.com^
 ||101com.com^
 ||101order.com^
+||ad.1111cpc.com^
+||creative.1111cpc.com^
 ||123freeavatars.com^
 ||dma.15tianqi.com^
 ||jsa.15tianqi.com^
@@ -564,7 +565,6 @@
 ||zhushou.2345.com^
 ||247media.com^
 ||oasc04012.247realmedia.com^
-||api.24kidea.com^
 ||24log.com^
 ||24pm-affiliation.com^
 ||r.254a.com^
@@ -1110,6 +1110,7 @@
 ||q.azcentral.com^
 ||li.azstarnet.com^
 ||b-1st.com^
+||banners.babylon-x.com^
 ||affiliates.babylon.com^
 ||backbeatmedia.com^
 ||promo.badoink.com^
@@ -1705,7 +1706,6 @@
 ||damdoor.com^
 ||dancemistake.com^
 ||www.danqingschool.com^
-||dashbida.com^
 ||down.dashendown.com^
 ||dashingdirt.com^
 ||dashingsweater.com^
@@ -1777,7 +1777,6 @@
 ||discountclick.com^
 ||discreetfield.com^
 ||dispensablestranger.com^
-||displayadsmedia.com^
 ||referrer.disqus.com^
 ||links.services.disqus.com^
 ||disqusads.com^
@@ -1982,7 +1981,6 @@
 ||fimserve.com^
 ||ads.financialcontent.com^
 ||findcommerce.com^
-||findepended.com^
 ||findyourcasino.com^
 ||ads-game-187f4.firebaseapp.com^
 ||firstlightera.com^
@@ -2182,7 +2180,6 @@
 ||h92zbpn4zcv1.com^
 ||habitualhumor.com^
 ||hadskiz.com^
-||sta.haloall.com^
 ||i.haloapps.com^
 ||mo.test.haloapps.com^
 ||haltingbadge.com^
@@ -2282,7 +2279,6 @@
 ||tracking.ibxlink.com^
 ||tracker.icerocket.com^
 ||look.ichlnk.com^
-||iconadserver.com^
 ||iconpeak2trk.com^
 ||analytics.icons8.com^
 ||icptrack.com^
@@ -2552,7 +2548,6 @@
 ||log.web.kugou.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||l6b587txj1.com^
-||s.l8l9.com^
 ||cr-p16.ladsp.com^
 ||ladsreds.com^
 ||ladsup.com^
@@ -2662,7 +2657,6 @@
 ||marinsm.com^
 ||markedcrayon.com^
 ||markedpail.com^
-||market-buster.com^
 ||marketo.com^
 ||massariuscdn.com^
 ||massivemark.com^
@@ -2895,7 +2889,6 @@
 ||phoenix-adrunner.mycomputer.com^
 ||analytics.myfinance.com^
 ||mylink-today.com^
-||mymoneymakingapp.com^
 ||mypowermall.com^
 ||mysafeads.com^
 ||mysteriousmonth.com^
@@ -3040,6 +3033,7 @@
 ||optmstr.com^
 ||optnmstr.com^
 ||offline-adv.oray.com^
+||cmp.osano.com^
 ||marketing.osijek031.com^
 ||msg.c002.ottcn.com^
 ||ouh3igaeb.com^
@@ -3177,7 +3171,6 @@
 ||privatecash.com^
 ||widget.privy.com^
 ||prmtracking.com^
-||pro-advertising.com^
 ||producecopy.com^
 ||proext.com^
 ||profero.com^
@@ -3441,7 +3434,6 @@
 ||raresummer.com^
 ||adz.rashflash.com^
 ||rayjump.com^
-||re-directme.com^
 ||reachjunction.com^
 ||reactx.com^
 ||readgoldfish.com^
@@ -3497,7 +3489,6 @@
 ||adserve.ams.rhythmxchange.com^
 ||richmails.com^
 ||richstring.com^
-||richwebmaster.com^
 ||rightstats.com^
 ||ringsrecord.com^
 ||ritzykey.com^
@@ -3606,7 +3597,6 @@
 ||shakesuggestion.com^
 ||shakytaste.com^
 ||shallowsmile.com^
-||shama5.com^
 ||cidttwap.shaqm.com^
 ||shareadspace.com^
 ||shareasale.com^
@@ -3669,7 +3659,6 @@
 ||www.smucdn.com^
 ||snapads.com^
 ||app-analytics.snapchat.com^
-||sneakystamp.com^
 ||snoobi.com^
 ||analytics.snssdk.com^
 ||extlog.snssdk.com^
@@ -3796,6 +3785,7 @@
 ||spacash.com^
 ||ads.space.com^
 ||spaceleadster.com^
+||adserver.spankaway.com^
 ||counter.sparklit.com^
 ||sparkstudios.com^
 ||specificpop.com^
@@ -3894,7 +3884,6 @@
 ||analytics.swiggy.com^
 ||swimslope.com^
 ||delivery.g.switchadhub.com^
-||gamead.swjoy.com^
 ||swoop-amp.com^
 ||swordfishdc.com^
 ||swordgoose.com^
@@ -4012,7 +4001,6 @@
 ||ads.themovienation.com^
 ||therapistla.com^
 ||ads.thestar.com^
-||ad.thewheelof.com^
 ||thinkablerice.com^
 ||tracking.thinkabt.com^
 ||thirdrespect.com^
@@ -4223,7 +4211,6 @@
 ||valueclick.com^
 ||valueclickmedia.com^
 ||valuecommerce.com^
-||valuesponsor.com^
 ||ads.vamaker.com^
 ||vanfireworks.com^
 ||variablefitness.com^
@@ -4291,7 +4278,6 @@
 ||concertads-configs.vox-cdn.com^
 ||voxmedia.com^
 ||vpon.com^
-||vrtzcontextualads.com^
 ||c.vrvm.com^
 ||go.vrvm.com^
 ||vungle.com^
@@ -4610,7 +4596,6 @@
 ||stat.zuimeitianqi.com^
 ||zukxd6fkxqn.com^
 ||zy16eoat1w.com^
-||kn.zzdahan.com^
 ||www.zzdengshan.com^
 ||myads.company^
 ||matomo.activate.cz^
@@ -4988,6 +4973,7 @@
 ||trafficrouter.io^
 ||triptease.io^
 ||voodoo-ads.io^
+||adshrink.it^
 ||scambiobanner.aruba.it^
 ||mobile.banzai.it^
 ||adserver.break-even.it^
@@ -5550,7 +5536,6 @@
 ||ads.femmefab.nl^
 ||ads2.femmefab.nl^
 ||marketing.hearstmagazines.nl^
-||hollandbusinessadvertising.nl^
 ||kliks.nl^
 ||lead-analytics.nl^
 ||ads.tripod.lycos.nl^
@@ -5864,7 +5849,6 @@
 ||skylink.vn^
 ||admicro1.vcmedia.vn^
 ||pixel.watch^
-||hollps.win^
 ||track.undressingpics.work^
 ||adserver.madeby.ws^
 ||thebugs.ws^
