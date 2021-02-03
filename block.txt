@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: f7d2403c4855cfd53c2fd297883d155a61ed05d6602de7b52293d2638645ddbd
+! Version: 4cb8abb7f6b91d893e31190b975051e2255de1e2a948b9a429992a1c71db273a
 
 ||chameleon.ad^
 ||content.ad^
@@ -2422,9 +2422,8 @@
 ||irchan.com^
 ||am.g.ireader.com^
 ||adserver.irishwebmasterforum.com^
-||m.irs01.com^
-||sohu.irs01.com^
-||w.irs03.com^
+||irs01.com^
+||irs03.com^
 ||t.irtyd.com^
 ||www.iscrv.com^
 ||ads.isoftmarketing.com^

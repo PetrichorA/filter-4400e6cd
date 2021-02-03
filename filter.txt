@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 488d0c93b9e3d2dbaafc76ea8ef471bba3a43376193680f2312d94e70e6df53c
+! Version: 19f6801c08067eb825b7f07c8635ae61e8cb21324c0206904621cc8c9083d085
 
 ##div.advertising_2
 ##div.advertising_3
@@ -64,6 +64,7 @@ web.archive.org##.js-donate-banner.row
 ||static.ws.126.net/163/frontend/libs/ntm-plugins/performance/
 ||static.ws.126.net/f2e/products/analysis/
 ||static.zhihu.com/heifetz/main.signflow
+||statics.itc.cn/iwtReport/
 ||statics.itc.cn/spm/
 ||unpkg.isab.top/isplib@latest/package.json
 ||vip1.loli.net/2020/12/04/Bdp81snbVcWzwON.png
