@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 4cb8abb7f6b91d893e31190b975051e2255de1e2a948b9a429992a1c71db273a
+! Version: 2cfc9e6bcd3c00097662cadd193d012e1406ef6815d838540bb3fb02fe77059f
 
 ||chameleon.ad^
 ||content.ad^
@@ -565,6 +565,7 @@
 ||zhushou.2345.com^
 ||247media.com^
 ||oasc04012.247realmedia.com^
+||api.24kidea.com^
 ||24log.com^
 ||24pm-affiliation.com^
 ||r.254a.com^
@@ -1706,6 +1707,7 @@
 ||damdoor.com^
 ||dancemistake.com^
 ||www.danqingschool.com^
+||dashbida.com^
 ||down.dashendown.com^
 ||dashingdirt.com^
 ||dashingsweater.com^
@@ -1777,6 +1779,7 @@
 ||discountclick.com^
 ||discreetfield.com^
 ||dispensablestranger.com^
+||displayadsmedia.com^
 ||referrer.disqus.com^
 ||links.services.disqus.com^
 ||disqusads.com^
@@ -1981,6 +1984,7 @@
 ||fimserve.com^
 ||ads.financialcontent.com^
 ||findcommerce.com^
+||findepended.com^
 ||findyourcasino.com^
 ||ads-game-187f4.firebaseapp.com^
 ||firstlightera.com^
@@ -2180,6 +2184,7 @@
 ||h92zbpn4zcv1.com^
 ||habitualhumor.com^
 ||hadskiz.com^
+||sta.haloall.com^
 ||i.haloapps.com^
 ||mo.test.haloapps.com^
 ||haltingbadge.com^
@@ -2279,6 +2284,7 @@
 ||tracking.ibxlink.com^
 ||tracker.icerocket.com^
 ||look.ichlnk.com^
+||iconadserver.com^
 ||iconpeak2trk.com^
 ||analytics.icons8.com^
 ||icptrack.com^
@@ -2547,6 +2553,7 @@
 ||log.web.kugou.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||l6b587txj1.com^
+||s.l8l9.com^
 ||cr-p16.ladsp.com^
 ||ladsreds.com^
 ||ladsup.com^
@@ -2656,6 +2663,7 @@
 ||marinsm.com^
 ||markedcrayon.com^
 ||markedpail.com^
+||market-buster.com^
 ||marketo.com^
 ||massariuscdn.com^
 ||massivemark.com^
@@ -2888,6 +2896,7 @@
 ||phoenix-adrunner.mycomputer.com^
 ||analytics.myfinance.com^
 ||mylink-today.com^
+||mymoneymakingapp.com^
 ||mypowermall.com^
 ||mysafeads.com^
 ||mysteriousmonth.com^
@@ -3170,6 +3179,7 @@
 ||privatecash.com^
 ||widget.privy.com^
 ||prmtracking.com^
+||pro-advertising.com^
 ||producecopy.com^
 ||proext.com^
 ||profero.com^
@@ -3433,6 +3443,7 @@
 ||raresummer.com^
 ||adz.rashflash.com^
 ||rayjump.com^
+||re-directme.com^
 ||reachjunction.com^
 ||reactx.com^
 ||readgoldfish.com^
@@ -3488,6 +3499,7 @@
 ||adserve.ams.rhythmxchange.com^
 ||richmails.com^
 ||richstring.com^
+||richwebmaster.com^
 ||rightstats.com^
 ||ringsrecord.com^
 ||ritzykey.com^
@@ -3596,6 +3608,7 @@
 ||shakesuggestion.com^
 ||shakytaste.com^
 ||shallowsmile.com^
+||shama5.com^
 ||cidttwap.shaqm.com^
 ||shareadspace.com^
 ||shareasale.com^
@@ -3658,6 +3671,7 @@
 ||www.smucdn.com^
 ||snapads.com^
 ||app-analytics.snapchat.com^
+||sneakystamp.com^
 ||snoobi.com^
 ||analytics.snssdk.com^
 ||extlog.snssdk.com^
@@ -4000,6 +4014,7 @@
 ||ads.themovienation.com^
 ||therapistla.com^
 ||ads.thestar.com^
+||ad.thewheelof.com^
 ||thinkablerice.com^
 ||tracking.thinkabt.com^
 ||thirdrespect.com^
@@ -4210,6 +4225,7 @@
 ||valueclick.com^
 ||valueclickmedia.com^
 ||valuecommerce.com^
+||valuesponsor.com^
 ||ads.vamaker.com^
 ||vanfireworks.com^
 ||variablefitness.com^
@@ -4543,7 +4559,7 @@
 ||rwq.youle55.com^
 ||adjuggler.yourdictionary.com^
 ||ads.yourfreedvds.com^
-||ad.yourmedia.com^
+||yourmedia.com^
 ||cloudcdn.yousee.com^
 ||ads.youtube.com^
 ||api.youxiaoad.com^
@@ -4868,7 +4884,6 @@
 ||ads.soweb.gr^
 ||ad.gt^
 ||adimages.sina.com.hk^
-||oascentral.sina.com.hk^
 ||ctnetwork.hu^
 ||ads.deltha.hu^
 ||ads.gaypoint.hu^
@@ -4993,6 +5008,7 @@
 ||ads.tripod.lycos.it^
 ||ads.mariuana.it^
 ||tracker.mmdlv.it^
+||adv.mpvc.it^
 ||ads.primissima.it^
 ||pstmrk.it^
 ||ads.rcs.it^
@@ -5438,6 +5454,7 @@
 ||semasio.net^
 ||servads.net^
 ||ad.simgames.net^
+||ad.sinahk.net^
 ||smartclip.net^
 ||specially4u.net^
 ||sportsad.net^
@@ -5685,7 +5702,6 @@
 ||top-fwz1.mail.ru^
 ||adv.mezon.ru^
 ||counter.mojgorod.ru^
-||musiccounter.ru^
 ||mypagerank.ru^
 ||p.nag.ru^
 ||ntvk1.ru^
@@ -5728,6 +5744,7 @@
 ||ad.xmovies8.si^
 ||ads.epi.sk^
 ||naj.sk^
+||adserver.scr.sk^
 ||mas.sector.sk^
 ||ads.webinak.sk^
 ||eversales.space^
@@ -5772,6 +5789,7 @@
 ||breaktime.com.tw^
 ||hotrank.com.tw^
 ||ox1.shopcool.com.tw^
+||report.sina.com.tw^
 ||h.holder.com.ua^
 ||i.holder.com.ua^
 ||bbn.img.com.ua^
