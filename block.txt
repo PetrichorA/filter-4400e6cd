@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 43f61929b2ba259a57e4c105332f3c9434b2c78bfeebb87ce7ff3a5a79db502b
+! Version: b2d4fdb737463ff389fb3a265436276db9b25b94e9a2d41470ae7be0f7267a1a
 
 ||chameleon.ad^
 ||content.ad^
@@ -1314,6 +1314,7 @@
 ||advert.bayarea.com^
 ||raddus.bayescom.com^
 ||baypops.com^
+||gn-web-assets.api.bbc.com^
 ||bbelements.com^
 ||bj.bcebos.com^
 ||aod-image-material.cdn.bcebos.com^
@@ -1866,6 +1867,7 @@
 ||ads.economist.com^
 ||ecoupons.com^
 ||edgeio.com^
+||edigitalsurvey.com^
 ||m.ee-skin.com^
 ||adguanggao.eee114.com^
 ||effectivemeasure.com^
@@ -1932,6 +1934,7 @@
 ||ewebcounter.com^
 ||xmtransfer.ewuqa.com^
 ||ads.exactdrive.com^
+||a.exam58.com^
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
@@ -2218,6 +2221,7 @@
 ||m.hellomingpian.com^
 ||hentaicounter.com^
 ||herbalaffiliateprogram.com^
+||hexagon-analytics.com^
 ||hexcan.com^
 ||heyos.com^
 ||hfc195b.com^
@@ -2340,6 +2344,7 @@
 ||imarketservices.com^
 ||c.img001.com^
 ||ads.imgur.com^
+||p.imgur.com^
 ||pcash.imlive.com^
 ||immensehoney.com^
 ||imonomy.com^
@@ -5814,6 +5819,7 @@
 ||wa.and.co.uk^
 ||iad.anm.co.uk^
 ||ads.aol.co.uk^
+||cookie-oven.api.bbc.co.uk^
 ||clickcompare.co.uk^
 ||crta.dailymail.co.uk^
 ||rta.dailymail.co.uk^
