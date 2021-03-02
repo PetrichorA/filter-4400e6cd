@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: b2d4fdb737463ff389fb3a265436276db9b25b94e9a2d41470ae7be0f7267a1a
+! Version: b4234dbc9063ba296313cdaf79265eb15557a303cac2ddc7a68a99000e2e4e53
 
 ||chameleon.ad^
 ||content.ad^
@@ -3021,6 +3021,7 @@
 ||onestatfree.com^
 ||onetag-sys.com^
 ||li.onetravel.com^
+||onetrust.com^
 ||onlinecash.com^
 ||onlinecashmethod.com^
 ||onlinerewardcenter.com^
@@ -3084,6 +3085,7 @@
 ||paycounter.com^
 ||paypopup.com^
 ||banners.payserve.com^
+||pbstck.com^
 ||pbterra.com^
 ||peer39.com^
 ||ads.pennet.com^
@@ -5240,6 +5242,7 @@
 ||de.as.cp61.ott.cibntv.net^
 ||clikerz.net^
 ||d1grtyyel8f1mh.cloudfront.net^
+||d1yu67rmchodpo.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d2bgg7rjywcwsy.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
@@ -5299,6 +5302,7 @@
 ||g.ezoic.net^
 ||fastapi.net^
 ||fastclick.net^
+||includemodal.global.ssl.fastly.net^
 ||t.felmat.net^
 ||fineoffer.net^
 ||static.fmpub.net^
@@ -5599,6 +5603,7 @@
 ||promotions-884485.c.cdn77.org^
 ||audit.quantcast.mgr.consensu.org^
 ||metrics.consumerreports.org^
+||cookielaw.org^
 ||crypto-loot.org^
 ||img.dawenxue.org^
 ||revive.docmatic.org^
