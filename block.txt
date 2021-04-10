@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 94cea142a48bba973eaad71f25a07a518b0dc182ef3c9d4442af722eb4335d6a
+! Version: a5c5a2d68fba39bc942ba25e725ab806d81cc6d09e9406ce87e49818e783a6e3
 
 ||chameleon.ad^
 ||content.ad^
@@ -4590,6 +4590,8 @@
 ||ads.zmarsa.com^
 ||zmedia.com^
 ||ads.ztod.com^
+||ip.zuciwang.com^
+||job.zuciwang.com^
 ||ad.zuimeitianqi.com^
 ||bd1.zuimeitianqi.com^
 ||bd2.zuimeitianqi.com^
