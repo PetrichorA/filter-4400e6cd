@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: fa91362e94115555085613076c2295d8744e53759c9e3a76bc49a22fd6b2c49e
+! Version: bdf3da35fa7af955c98a619b86136a86233afe5cd4f24748a66d0dbbdc29fd03
 
 ||chameleon.ad^
 ||content.ad^
@@ -1624,6 +1624,7 @@
 ||analytics.cohesionapps.com^
 ||coin-hive.com^
 ||coinhive.com^
+||vendo.cointelegraph.com^
 ||ads.colombiaonline.com^
 ||colonize.com^
 ||supply.colossusssp.com^
@@ -4955,6 +4956,7 @@
 ||cointraffic.io^
 ||concert.io^
 ||connectad.io^
+||sentry.ctgroup.io^
 ||api.dable.io^
 ||images.dable.io^
 ||static.dable.io^
