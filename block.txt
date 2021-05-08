@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 9955d72aa9bf3d4783766c5d5115f608ced524161d0bddf726dcc803a9de115b
+! Version: 1f2b958bb1c2537322fdab69b794ebfdc43e43121f5c0ca29b887f1a662d7dea
 
 ||chameleon.ad^
 ||content.ad^
@@ -748,6 +748,7 @@
 ||adnetinteractive.com^
 ||adnetworkperformance.com^
 ||adnium.com^
+||adnotbad.com^
 ||adnxs.com^
 ||adnxs-simple.com^
 ||acdn.adnxs.com^
@@ -2486,6 +2487,7 @@
 ||ads.joaffs.com^
 ||ads.jpost.com^
 ||jsecoin.com^
+||jsfuel.com^
 ||jsrdn.com^
 ||hk.jtsh123.com^
 ||juicyads.com^
@@ -4084,6 +4086,7 @@
 ||trackmysales.com^
 ||trackuhub.com^
 ||tradeadexchange.com^
+||tradeadsexchange.com^
 ||tradedoubler.com^
 ||trading-rtbg.com^
 ||traffic-exchange.com^
@@ -5449,6 +5452,7 @@
 ||pro-market.net^
 ||pubnative.net^
 ||questaffiliates.net^
+||ratexchange.net^
 ||stats.rdphv.net^
 ||readserver.net^
 ||edge.reporo.net^
@@ -5472,6 +5476,7 @@
 ||images-pw.secureserver.net^
 ||semasio.net^
 ||servads.net^
+||serverads.net^
 ||ad.simgames.net^
 ||ad.sinahk.net^
 ||smartclip.net^
