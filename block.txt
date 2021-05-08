@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: bdf3da35fa7af955c98a619b86136a86233afe5cd4f24748a66d0dbbdc29fd03
+! Version: 9955d72aa9bf3d4783766c5d5115f608ced524161d0bddf726dcc803a9de115b
 
 ||chameleon.ad^
 ||content.ad^
@@ -167,6 +167,7 @@
 ||a.cntv.cn^
 ||d.cntv.cn^
 ||admaster.com.cn^
+||ads.doit.com.cn^
 ||domob.com.cn^
 ||cloudcdn.dopa.com.cn^
 ||embedlog.duiba.com.cn^
@@ -493,6 +494,7 @@
 ||mo.res.wpscdn.cn^
 ||wwads.cn^
 ||jebe.xnimg.cn^
+||ad.xxguan.cn^
 ||img-cdn-spot.ymcdn.cn^
 ||6sc.co^
 ||adk2.co^
@@ -551,8 +553,6 @@
 ||180searchassistant.com^
 ||a.19869.com^
 ||b.19869.com^
-||md.1drj.com^
-||xs.1drj.com^
 ||jifen.2345.com^
 ||wan.2345.com^
 ||zhushou.2345.com^
@@ -792,9 +792,7 @@
 ||ads3-adnow.com^
 ||ads4homes.com^
 ||adsafeprotected.com^
-||download.adsage.com^
-||mws.adsage.com^
-||trc.adsage.com^
+||adsage.com^
 ||yam.adsbro.com^
 ||adsbydelema.com^
 ||adscholar.com^
@@ -1314,6 +1312,7 @@
 ||dailylog.storm.baofeng.com^
 ||logger.treexml.baofeng.com^
 ||barbarousnerve.com^
+||baremetrics.com^
 ||basebanner.com^
 ||baskettexture.com^
 ||batbuilding.com^
@@ -1684,6 +1683,7 @@
 ||crabbychin.com^
 ||crakmedia.com^
 ||craktraffic.com^
+||crashlytics.com^
 ||crawlability.com^
 ||crawlclocks.com^
 ||crazyegg.com^
@@ -1699,6 +1699,7 @@
 ||doubleclick.ctfile.com^
 ||cm.ctnsnet.com^
 ||mcs.ctobsnssdk.com^
+||cubics.com^
 ||culturedcrayon.com^
 ||cumbersomecloud.com^
 ||curtaincows.com^
@@ -1897,6 +1898,7 @@
 ||emebo.com^
 ||emerse.com^
 ||m.emgwq.com^
+||tracking.emilyclarkconsulting.com^
 ||emjcd.com^
 ||emltrk.com^
 ||emodoinc.com^
@@ -1935,7 +1937,6 @@
 ||evadav.com^
 ||evergage.com^
 ||c.evidon.com^
-||ewebcounter.com^
 ||xmtransfer.ewuqa.com^
 ||ads.exactdrive.com^
 ||a.exam58.com^
@@ -2142,6 +2143,7 @@
 ||googleadservices.com^
 ||googleanalytics.com^
 ||clientmetrics-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
 ||imasdk.googleapis.com^
 ||googlecommerce.com^
 ||www.googleoptimize.com^
@@ -2474,6 +2476,7 @@
 ||jdoqocy.com^
 ||ad.jetsoftware.com^
 ||ads.jewishfriendfinder.com^
+||tr.jianshu.com^
 ||tracking.jiffyworld.com^
 ||www.jiubuhua.com^
 ||www.jiudianxing.com^
@@ -2524,7 +2527,6 @@
 ||ads.kompass.com^
 ||kontera.com^
 ||g.koowo.com^
-||api.koudaikj.com^
 ||beha.ksmobile.com^
 ||dl.cm.ksmobile.com^
 ||up.cm.ksmobile.com^
@@ -2901,7 +2903,6 @@
 ||aries.mzres.com^
 ||metrics.mzstatic.com^
 ||n69.com^
-||data.namesakeoscilloscopemarquis.com^
 ||naradxb.com^
 ||static.narrativ.com^
 ||liquidad.narrowcastmedia.com^
@@ -2950,7 +2951,7 @@
 ||s.nitropay.com^
 ||rjs.niuxgame77.com^
 ||ads.nj.com^
-||www.nkscdn.com^
+||nkscdn.com^
 ||banner.noblepoker.com^
 ||noddus.com^
 ||noiselessplough.com^
@@ -2990,6 +2991,7 @@
 ||offermatica.com^
 ||affiliate.offgamers.com^
 ||measure.office.com^
+||offshoreanglehost.com^
 ||ogury.com^
 ||pd.ok365.com^
 ||www.ok365.com^
@@ -3392,6 +3394,7 @@
 ||fodder.tc.qq.com^
 ||vmindhls.tc.qq.com^
 ||wxsnsdy.tc.qq.com^
+||tcss.qq.com^
 ||tdc.qq.com^
 ||trace.qq.com^
 ||updatecenter.qq.com^
@@ -3499,7 +3502,6 @@
 ||rhombusads.com^
 ||rhythmone.com^
 ||adserve.ams.rhythmxchange.com^
-||richmails.com^
 ||richstring.com^
 ||richwebmaster.com^
 ||rightstats.com^
@@ -4290,7 +4292,6 @@
 ||man.vm5apis.com^
 ||vahfront.vm5apis.com^
 ||vawpro.vm5apis.com^
-||vmmpxl.com^
 ||hb.vntsm.com^
 ||ads.vnumedia.com^
 ||voicefive.com^
@@ -4804,6 +4805,7 @@
 ||spezialreporte.de^
 ||sponsorads.de^
 ||sponsorpro.de^
+||stats.stb-ottow.de^
 ||superclix.de^
 ||surfmusik-adserver.de^
 ||ads.syscdn.de^
@@ -4964,6 +4966,7 @@
 ||dnsdelegation.io^
 ||dsp.io^
 ||emebo.io^
+||fabric.io^
 ||fpjs.io^
 ||producer.getwisdom.io^
 ||jsc.idealmedia.io^
@@ -5538,14 +5541,7 @@
 ||yieldlab.net^
 ||yieldmanager.net^
 ||ads.yldmgrimg.net^
-||au.youmi.net^
-||stat.gw.youmi.net^
-||notifiter.youmi.net^
-||r.youmi.net^
-||s.youmi.net^
-||static.youmi.net^
-||t.youmi.net^
-||aos.wall.youmi.net^
+||youmi.net^
 ||z5x.net^
 ||zdbb.net^
 ||stat.zenon.net^
@@ -5591,6 +5587,7 @@
 ||somniture.stuff.co.nz^
 ||webads.co.nz^
 ||ads.xtra.co.nz^
+||webstats.one^
 ||app.50bang.org^
 ||js.50bang.org^
 ||union2.50bang.org^
