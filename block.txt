@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 1f2b958bb1c2537322fdab69b794ebfdc43e43121f5c0ca29b887f1a662d7dea
+! Version: ed3215c7fd5b8099339bb577f69587d35b384fa634231f3748b257c7082689dd
 
 ||chameleon.ad^
 ||content.ad^
@@ -1875,6 +1875,7 @@
 ||ads.economist.com^
 ||ecoupons.com^
 ||edigitalsurvey.com^
+||loghits.eduu.com^
 ||m.ee-skin.com^
 ||adguanggao.eee114.com^
 ||effectivemeasure.com^
@@ -4407,6 +4408,7 @@
 ||xapads.com^
 ||analytics.xelondigital.com^
 ||xertive.com^
+||dj.xesimg.com^
 ||xfreeservice.com^
 ||xg4ken.com^
 ||ads.xhamster.com^
@@ -4442,6 +4444,7 @@
 ||ad3.xrea.com^
 ||xtendmedia.com^
 ||xtremetop100.com^
+||zt.xueersi.com^
 ||adsp.xunlei.com^
 ||api-shoulei-ssl.xunlei.com^
 ||biz.live.xunlei.com^
