@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ed0bbc11b4842f7ca14f63b765f4380db395b8fe9100e38f4b44081349ea1912
+! Version: 73dbafd8283ef92f933863f3c0ffba0f171df2064218c7be54d657aecad86b20
 
 ||chameleon.ad^
 ||content.ad^
@@ -2470,6 +2470,8 @@
 ||kompasads.com^
 ||ads.kompass.com^
 ||kontera.com^
+||analysis.koolearn.com^
+||metrics-report.koolearn.com^
 ||g.koowo.com^
 ||beha.ksmobile.com^
 ||dl.cm.ksmobile.com^
