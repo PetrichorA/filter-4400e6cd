@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 73dbafd8283ef92f933863f3c0ffba0f171df2064218c7be54d657aecad86b20
+! Version: c49fdba675c5a26e68f16d56e53199230b4ec3d4a52f70677f25a36904fbbe40
 
 ||chameleon.ad^
 ||content.ad^
@@ -2112,8 +2112,7 @@
 ||greystripe.com^
 ||ads.grindinggears.com^
 ||groundtruth.com^
-||api.growingio.com^
-||assets.growingio.com^
+||growingio.com^
 ||ads.gsm-exchange.com^
 ||ads.gsmexchange.com^
 ||lb.gtimg.com^
