@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: c49fdba675c5a26e68f16d56e53199230b4ec3d4a52f70677f25a36904fbbe40
+! Version: 124c3695321a7e2e42a720c64a18b0bbedd4e42a21f7582119838a0ea9b826bc
 
 ||chameleon.ad^
 ||content.ad^
@@ -1751,26 +1751,22 @@
 ||cloudcdn.dopa.com^
 ||amp.ad.dotandad.com^
 ||bal.ad.dotandad.com^
-||rubicon-match.dotomi.com^
+||dotomi.com^
 ||erebor.douban.com^
 ||doubleclick.com^
 ||doublepimp.com^
 ||doubleverify.com^
 ||affiliate.doubleyourdating.com^
 ||doubtfulrainstorm.com^
-||api.doumob.com^
-||www.doumob.com^
+||doumob.com^
 ||a.dounanhuahui.com^
 ||bwp.download.com^
-||a.dpmsrv.com^
-||s.dpmsrv.com^
+||dpmsrv.com^
 ||xmtransfer.dpqct.com^
 ||dq95d35.com^
 ||drabsize.com^
-||144.dragonparking.com^
-||930.dragonparking.com^
-||track.dragonparking.com^
-||cdn.dragonstatic.com^
+||dragonparking.com^
+||dragonstatic.com^
 ||dragzebra.com^
 ||counter.dreamhost.com^
 ||event.api.drift.com^
@@ -1828,7 +1824,7 @@
 ||elitedollars.com^
 ||elitetoplist.com^
 ||ads.elitetrader.com^
-||t.eloqua.com^
+||eloqua.com^
 ||elthamely.com^
 ||www.eltrafiko.com^
 ||emarketer.com^
@@ -1863,7 +1859,7 @@
 ||ero-advertising.com^
 ||sw88.espn.com^
 ||estat.com^
-||static.estebull.com^
+||estebull.com^
 ||esty.com^
 ||etahub.com^
 ||etargetnet.com^
@@ -3613,8 +3609,7 @@
 ||smartlook.com^
 ||smartyads.com^
 ||smashsurprise.com^
-||prebid.smilewanted.com^
-||static.smilewanted.com^
+||smilewanted.com^
 ||smilingwaves.com^
 ||smrtb.com^
 ||www.smucdn.com^
@@ -4884,14 +4879,13 @@
 ||lucklayed.info^
 ||musik-mp3.info^
 ||prchecker.info^
-||cdn.puata.info^
-||ex.puata.info^
+||puata.info^
 ||qcontentdelivery.info^
 ||shermore.info^
 ||silvalliant.info^
 ||ads.sjon.info^
 ||spotscenered.info^
-||ads2.techads.info^
+||techads.info^
 ||track.themaccleanup.info^
 ||ads.twojatv.info^
 ||wholesaletraffic.info^
@@ -4905,7 +4899,7 @@
 ||avocet.io^
 ||bidr.io^
 ||ad.bitmedia.io^
-||cdn.branch.io^
+||branch.io^
 ||core-api.bringhub.io^
 ||click.cartsguru.io^
 ||clickmate.io^
@@ -4929,9 +4923,8 @@
 ||servicer.idealmedia.io^
 ||intentsify.io^
 ||litix.io^
-||log.logrocket.io^
-||r.logrocket.io^
-||cdn.lr-ingest.io^
+||logrocket.io^
+||lr-ingest.io^
 ||lytics.io^
 ||tracking.markethero.io^
 ||mediasmart.io^
@@ -5356,9 +5349,7 @@
 ||monetate.net^
 ||movad.net^
 ||images.mpression.net^
-||ads1.msads.net^
-||ads2.msads.net^
-||global.msads.net^
+||msads.net^
 ||mxptint.net^
 ||myads.net^
 ||adres.myaora.net^
@@ -5391,10 +5382,7 @@
 ||pagechoice.net^
 ||pagefair.net^
 ||pctracking.net^
-||mdn1.phluantmobile.net^
-||mdn2.phluantmobile.net^
-||mdn3.phluantmobile.net^
-||mdn3origin.phluantmobile.net^
+||phluantmobile.net^
 ||popads.net^
 ||popcash.net^
 ||adserver.portugalmail.net^
