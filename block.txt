@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 4d498213cac40d64651d93a53b9ca58e5b9c92022b03fc7b7f1869c1003a21be
+! Version: be4612bebab867414f78478162c592c579619725c5405f9cb25951562ec0dea9
 
 ||chameleon.ad^
 ||content.ad^
@@ -160,6 +160,8 @@
 ||img.alimama.cn^
 ||tw.alimama.cn^
 ||stat.bilibili.cn^
+||mcdn.bilivideo.cn^
+||cdnnodedns.cn^
 ||www.clicki.cn^
 ||adxserver.ad.cmvideo.cn^
 ||openstorage.ad.cmvideo.cn^
@@ -5485,6 +5487,8 @@
 ||yastatic.net^
 ||rs-staticart.ybcdn.net^
 ||yektanet.net^
+||yfp2p.net^
+||api.yfscdn.net^
 ||yieldlab.net^
 ||yieldmanager.net^
 ||ads.yldmgrimg.net^
