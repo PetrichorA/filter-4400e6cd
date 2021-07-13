@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 951d5654c70ee943d3dd78ab8d408f5aab857aab1f831efa71d358fc81eaec6b
+! Version: 4d498213cac40d64651d93a53b9ca58e5b9c92022b03fc7b7f1869c1003a21be
 
 ||chameleon.ad^
 ||content.ad^
@@ -327,6 +327,7 @@
 ||py.qlogo.cn^
 ||py2.qlogo.cn^
 ||m.qpic.cn^
+||pc.quansj.cn^
 ||m.reachmax.cn^
 ||v2.reachmax.cn^
 ||d.s11.cn^
@@ -369,7 +370,6 @@
 ||huichuan.sm.cn^
 ||sugs.m.sm.cn^
 ||image.zzd.sm.cn^
-||bd.soarfi.cn^
 ||www.star-media.cn^
 ||ttg.cdn.suanzi.cn^
 ||lcs.dev.surepush.cn^
@@ -378,8 +378,6 @@
 ||adlog.tagtic.cn^
 ||g1.tagtic.cn^
 ||log.tagtic.cn^
-||img.taotaosou.cn^
-||img01.taotaosou.cn^
 ||adpai.thepaper.cn^
 ||801.tianya.cn^
 ||803.tianya.cn^
@@ -450,7 +448,6 @@
 ||counter.snackly.co^
 ||logger.snackly.co^
 ||code.tidio.co^
-||verblife-3.co^
 ||verblife-4.co^
 ||verblife-5.co^
 ||log.videocampaign.co^
@@ -459,7 +456,6 @@
 ||5ijo.01net.com^
 ||b1.0430.com^
 ||b2.0430.com^
-||s.051352.com^
 ||ssp.0531kt.com^
 ||1-1ads.com^
 ||101com.com^
@@ -531,6 +527,7 @@
 ||5y9nfpes.52pk.com^
 ||wan.52pk.com^
 ||54kfqq.com^
+||push.5z5zw.com^
 ||www.6075.com^
 ||6ldu6qa.com^
 ||s.6travel.com^
@@ -1538,7 +1535,7 @@
 ||clktrx.com^
 ||static.clmbtech.com^
 ||cloisteredhydrant.com^
-||static.cloudflareinsights.com^
+||cloudflareinsights.com^
 ||clrstm.com^
 ||banners.clubseventeen.com^
 ||clustrmaps.com^
@@ -1620,6 +1617,7 @@
 ||crakmedia.com^
 ||craktraffic.com^
 ||crashlytics.com^
+||cratecamera.com^
 ||crawlability.com^
 ||crawlclocks.com^
 ||crazyegg.com^
@@ -1809,7 +1807,6 @@
 ||edigitalsurvey.com^
 ||loghits.eduu.com^
 ||m.ee-skin.com^
-||adguanggao.eee114.com^
 ||effectivemeasure.com^
 ||efficaciouscactus.com^
 ||track.effiliation.com^
@@ -2026,6 +2023,7 @@
 ||track.gawker.com^
 ||stjzh.gdtarget.com^
 ||adsmind.gdtimg.com^
+||adserver.generationiron.com^
 ||georiot.com^
 ||geovisite.com^
 ||sdk.open.talk.gepush.com^
@@ -2203,6 +2201,8 @@
 ||hoverowl.com^
 ||hs-banner.com^
 ||js.hs-scripts.com^
+||ads.hsoub.com^
+||ads2.hsoub.com^
 ||htlbid.com^
 ||httpool.com^
 ||nebula-collector.huawei.com^
@@ -2337,6 +2337,7 @@
 ||api.intentiq.com^
 ||sync.intentiq.com^
 ||intergi.com^
+||banner.interich.com^
 ||internetfuel.com^
 ||inventionpassenger.com^
 ||invitesugar.com^
@@ -2380,9 +2381,6 @@
 ||www.iscrv.com^
 ||ads.isoftmarketing.com^
 ||banners.isoftmarketing.com^
-||jxlog.istreamsche.com^
-||material.istreamsche.com^
-||tanxlog.istreamsche.com^
 ||cee1.iteye.com^
 ||cee2.iteye.com^
 ||mpb1.iteye.com^
@@ -2601,7 +2599,6 @@
 ||eu1.madsone.com^
 ||eu2.madsone.com^
 ||magnificentmist.com^
-||m.maila88.com^
 ||track.mailerlite.com^
 ||g.x.cn.majorserving.com^
 ||mon.majorserving.com^
@@ -2853,7 +2850,6 @@
 ||liquidad.narrowcastmedia.com^
 ||nastydollars.com^
 ||cdn.nativery.com^
-||naturalbid.com^
 ||touchclarity.natwest.com^
 ||navegg.com^
 ||ncaudienceexchange.com^
@@ -3096,7 +3092,6 @@
 ||popupmoney.com^
 ||popupnation.com^
 ||popuptraffic.com^
-||porngraph.com^
 ||toplist.pornhost.com^
 ||porntrack.com^
 ||oglasi.posjetnica.com^
@@ -3338,6 +3333,7 @@
 ||fodder.tc.qq.com^
 ||vmindhls.tc.qq.com^
 ||wxsnsdy.tc.qq.com^
+||tcss.qq.com^
 ||tdc.qq.com^
 ||trace.qq.com^
 ||updatecenter.qq.com^
@@ -3482,7 +3478,6 @@
 ||s-onetag.com^
 ||s1-adfly.com^
 ||s20dh7e9dh.com^
-||s24hc8xzag.com^
 ||s2d6.com^
 ||sail-horizon.com^
 ||a.sakh.com^
@@ -3552,6 +3547,7 @@
 ||textad.sexsearch.com^
 ||sextracker.com^
 ||md.sh5e.com^
+||shakegoldfish.com^
 ||shakesea.com^
 ||shakesuggestion.com^
 ||shakytaste.com^
@@ -3614,6 +3610,7 @@
 ||smartlook.com^
 ||smartyads.com^
 ||smashsurprise.com^
+||adserver.smgfiles.com^
 ||smilewanted.com^
 ||smilingwaves.com^
 ||smrtb.com^
@@ -4076,6 +4073,7 @@
 ||vs.tucows.com^
 ||ad.api.3g.tudou.com^
 ||activity.tuipear.com^
+||adserver.tupolska.com^
 ||turboadv.com^
 ||turn.com^
 ||tvmtracker.com^
@@ -4088,6 +4086,7 @@
 ||ads-api.twitter.com^
 ||syndication.twitter.com^
 ||twyn.com^
+||cpv.ty229.com^
 ||tynt.com^
 ||typicalteeth.com^
 ||tyroo.com^
@@ -4319,12 +4318,14 @@
 ||www.wifidown.com^
 ||athena-ads.wikia.com^
 ||wikia-ads.wikia.com^
+||engage.windows.com^
 ||ads.wineenthusiast.com^
 ||wirecomic.com^
 ||wirelesseuropebalmy.com^
 ||wisepops.com^
 ||distillery.wistia.com^
 ||pipedream.wistia.com^
+||frog.wix.com^
 ||wizaly.com^
 ||www.wjxcdn.com^
 ||wlmarketing.com^
@@ -4649,6 +4650,7 @@
 ||ads.administrator.de^
 ||adnet.de^
 ||ads.adred.de^
+||adrolays.de^
 ||adrotate.de^
 ||adscale.de^
 ||adsend.de^
@@ -4877,6 +4879,7 @@
 ||analytics.bitrix.info^
 ||clicktrace.info^
 ||croissed.info^
+||busuanzi.ibruce.info^
 ||lucklayed.info^
 ||musik-mp3.info^
 ||prchecker.info^
@@ -4889,7 +4892,6 @@
 ||techads.info^
 ||track.themaccleanup.info^
 ||ads.twojatv.info^
-||wholesaletraffic.info^
 ||1rx.io^
 ||adalliance.io^
 ||adserve.io^
@@ -4916,6 +4918,7 @@
 ||dnsdelegation.io^
 ||dsp.io^
 ||emebo.io^
+||ethicalads.io^
 ||fabric.io^
 ||fpjs.io^
 ||producer.getwisdom.io^
@@ -5004,7 +5007,6 @@
 ||ard.yahoo.co.jp^
 ||bc.geocities.yahoo.co.jp^
 ||yads.yahoo.co.jp^
-||delivery.dmkt-sp.jp^
 ||ad.rfp.fout.jp^
 ||js.rfp.fout.jp^
 ||cdn.gmossp-sp.jp^
@@ -5036,9 +5038,6 @@
 ||js.users.51.la^
 ||carambo.la^
 ||ddkkrrla.m.qxs.la^
-||ddrrccck.m.qxs.la^
-||dxprla.m.qxs.la^
-||yyffeicd.m.qxs.la^
 ||zbz.m.qxs.la^
 ||ads.5ci.lt^
 ||thirdparty.bnc.lt^
@@ -5384,6 +5383,7 @@
 ||owneriq.net^
 ||pagechoice.net^
 ||pagefair.net^
+||ads.paymonex.net^
 ||pctracking.net^
 ||phluantmobile.net^
 ||popads.net^
@@ -5399,7 +5399,6 @@
 ||readserver.net^
 ||edge.reporo.net^
 ||netdna.reporo.net^
-||revenue.net^
 ||revsci.net^
 ||rinconpx.net^
 ||roxr.net^
@@ -5445,7 +5444,6 @@
 ||trafficjunky.net^
 ||trafficspaces.net^
 ||traffictrader.net^
-||trix.net^
 ||trk42.net^
 ||truehits.net^
 ||tsyndicate.net^
@@ -5470,7 +5468,6 @@
 ||secure.webconnect.net^
 ||webstat.net^
 ||whoisonline.net^
-||www.wifijia.net^
 ||worldwide-cash.net^
 ||wt-eu02.net^
 ||www.xcggpt.net^
@@ -5652,6 +5649,8 @@
 ||hotlog.ru^
 ||likemore-go.imgsmail.ru^
 ||inetlog.ru^
+||click.kmindex.ru^
+||counting.kmindex.ru^
 ||matomo.kmkb.ru^
 ||lbn.ru^
 ||top.list.ru^
@@ -5715,6 +5714,7 @@
 ||pixel.digitru.st^
 ||ad.style^
 ||lightstep.medium.systems^
+||adserver.gilligan.tech^
 ||volvelle.tech^
 ||truehits1.gits.net.th^
 ||truehits2.gits.net.th^
@@ -5838,6 +5838,7 @@
 ||thebugs.ws^
 ||analytik.xyz^
 ||btez8.xyz^
+||pks1c.cxmygp.xyz^
 ||downloadr.xyz^
 ||trk.enemy-adult-scared-there.xyz^
 ||wpnrtnmrewunrtok.xyz^
