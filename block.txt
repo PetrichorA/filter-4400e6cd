@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: c5e273bb9442f1bfd25679d8086ba60e052ac51fa8fb14ea923e2c48f8836424
+! Version: ed3288a8536ef49bf57ad7026486aeed9baa96013ac5e041c65c9e03f39a8970
 
 ||chameleon.ad^
 ||content.ad^
@@ -3373,6 +3373,7 @@
 ||a.quora.com^
 ||ampad.quora.com^
 ||zzy1.quyaoya.com^
+||qvkanwen.com^
 ||iadctest.qwapi.com^
 ||k.r66net.com^
 ||c753738.r38.cf2.rackcdn.com^
@@ -4274,6 +4275,7 @@
 ||ad.weatherbug.com^
 ||aima.weathercn.com^
 ||bima.weathercn.com^
+||log-stats.weathercn.com^
 ||web-redirecting.com^
 ||web-stat.com^
 ||webcontentassessor.com^
