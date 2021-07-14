@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ed3288a8536ef49bf57ad7026486aeed9baa96013ac5e041c65c9e03f39a8970
+! Version: 485baf013369f3966dfdf56d9cf808cc72d16ae97cb68a116ae3590746cf30d8
 
 ||chameleon.ad^
 ||content.ad^
@@ -1118,6 +1118,8 @@
 ||gsp3.baidu.com^
 ||hc.baidu.com^
 ||hdj.baidu.com^
+||hector.baidu.com^
+||hectorstatic.baidu.com^
 ||hijack.baidu.com^
 ||hm.baidu.com^
 ||hmcdn.baidu.com^
@@ -3374,6 +3376,7 @@
 ||ampad.quora.com^
 ||zzy1.quyaoya.com^
 ||qvkanwen.com^
+||qvpublish.com^
 ||iadctest.qwapi.com^
 ||k.r66net.com^
 ||c753738.r38.cf2.rackcdn.com^
