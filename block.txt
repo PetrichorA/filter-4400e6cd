@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ad041aa6ded7d12d5624f017b0281bcdea46115f1cf7bc49008df8b5435e9e79
+! Version: fbcc63de451221ad488484ae5be2cef4b61ba3370705d1601a1db5f5dc75248b
 
 ||chameleon.ad^
 ||content.ad^
@@ -118,13 +118,8 @@
 ||mbs.hao.360.cn^
 ||click.stat.hao.360.cn^
 ||care.help.360.cn^
-||cm.lianmeng.360.cn^
-||s.lianmeng.360.cn^
-||api.so.lianmeng.360.cn^
-||stat.lianmeng.360.cn^
-||u.api.look.360.cn^
-||sdk.look.360.cn^
-||show.look.360.cn^
+||lianmeng.360.cn^
+||look.360.cn^
 ||stat.m.360.cn^
 ||huodong.mobilem.360.cn^
 ||openbox.mobilem.360.cn^
@@ -255,6 +250,7 @@
 ||lndnserror7.wo.com.cn^
 ||kunpeng-sc.csdnimg.cn^
 ||feeds-drcn.dbankcdn.cn^
+||h5hosting-drcn.dbankcdn.cn^
 ||union.dbba.cn^
 ||891.a.dlads.cn^
 ||adx.dlads.cn^
