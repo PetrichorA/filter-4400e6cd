@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 485baf013369f3966dfdf56d9cf808cc72d16ae97cb68a116ae3590746cf30d8
+! Version: a80f35fbda32141a97ba636295baccec0c77817cdcef421af0a0b562c9b0b682
 
 ||chameleon.ad^
 ||content.ad^
@@ -377,9 +377,7 @@
 ||lcs.dev.surepush.cn^
 ||susapi.dev.surepush.cn^
 ||test.surepush.cn^
-||adlog.tagtic.cn^
-||g1.tagtic.cn^
-||log.tagtic.cn^
+||tagtic.cn^
 ||adpai.thepaper.cn^
 ||801.tianya.cn^
 ||803.tianya.cn^
@@ -700,7 +698,7 @@
 ||secure.adnxs.com^
 ||secure-sin.adnxs.com^
 ||ym.adnxs.com^
-||img.adnyg.com^
+||adnyg.com^
 ||adonspot.com^
 ||adoric-om.com^
 ||adorigin.com^
