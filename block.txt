@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 2a3d172f2904bebe9e6a12fc078ab4a9785cd5ad9b75ec743fb4845b20cfc0a8
+! Version: 781592cc78e7609687031377e6d6035cfc4f36182ecca622d3e29b98f86f7e5a
 
 ||chameleon.ad^
 ||content.ad^
@@ -180,6 +180,7 @@
 ||fanyi1.fanyi100.com.cn^
 ||www.fanyi100.com.cn^
 ||prom.gome.com.cn^
+||feeds-drcn.cloud.huawei.com.cn^
 ||bd1.idgdmgroup.com.cn^
 ||bd2.idgdmgroup.com.cn^
 ||bd3.idgdmgroup.com.cn^
@@ -1662,6 +1663,7 @@
 ||data8a8altrk.com^
 ||datadoghq.com^
 ||ads.datingyes.com^
+||contentcenter.dbankcdn.com^
 ||dbbsrv.com^
 ||dc-storm.com^
 ||research.de.com^
@@ -5717,6 +5719,7 @@
 ||adap.tv^
 ||adapt.tv^
 ||affec.tv^
+||alllook.tv^
 ||alphonso.tv^
 ||sync.extend.tv^
 ||freestats.tv^
