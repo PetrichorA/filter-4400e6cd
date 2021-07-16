@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 12e70c9adbcf6f5d6280ebc8e0e4b8f39d66210593bd9327ad14875d540dce47
+! Version: e39aeb18bf8c7a066f2398a41914b0642134894aaba6579363927588645bd06f
 
 ||chameleon.ad^
 ||content.ad^
@@ -415,6 +415,7 @@
 ||img-cdn-spot.ymcdn.cn^
 ||6sc.co^
 ||adk2.co^
+||cdn.adsk2.co^
 ||algorix.co^
 ||erne.co^
 ||feathr.co^
@@ -433,6 +434,7 @@
 ||counter.snackly.co^
 ||logger.snackly.co^
 ||code.tidio.co^
+||verblife-3.co^
 ||verblife-4.co^
 ||verblife-5.co^
 ||log.videocampaign.co^
@@ -1711,7 +1713,6 @@
 ||discountclick.com^
 ||discreetfield.com^
 ||dispensablestranger.com^
-||displayadsmedia.com^
 ||referrer.disqus.com^
 ||links.services.disqus.com^
 ||disqusads.com^
@@ -2980,10 +2981,7 @@
 ||marketing.osijek031.com^
 ||msg.c002.ottcn.com^
 ||ouh3igaeb.com^
-||c.bxb.oupeng.com^
-||r.bxb.oupeng.com^
-||img-ad.oupeng.com^
-||startup.oupeng.com^
+||oupeng.com^
 ||outbrain.com^
 ||ads.outpersonals.com^
 ||overconfidentfood.com^
@@ -3183,7 +3181,6 @@
 ||click.qianqian.com^
 ||a.qiao024.com^
 ||cj.qidian.com^
-||dwtrack.qidian.com^
 ||o.if.qidian.com^
 ||uedas.qidian.com^
 ||haostat.qihoo.com^
@@ -3304,7 +3301,6 @@
 ||fodder.tc.qq.com^
 ||vmindhls.tc.qq.com^
 ||wxsnsdy.tc.qq.com^
-||tcss.qq.com^
 ||tdc.qq.com^
 ||trace.qq.com^
 ||ts.qq.com^
@@ -5007,6 +5003,9 @@
 ||js.users.51.la^
 ||carambo.la^
 ||ddkkrrla.m.qxs.la^
+||ddrrccck.m.qxs.la^
+||dxprla.m.qxs.la^
+||yyffeicd.m.qxs.la^
 ||zbz.m.qxs.la^
 ||ads.5ci.lt^
 ||thirdparty.bnc.lt^
@@ -5507,9 +5506,7 @@
 ||webads.co.nz^
 ||ads.xtra.co.nz^
 ||webstats.one^
-||app.50bang.org^
-||js.50bang.org^
-||union2.50bang.org^
+||50bang.org^
 ||adblade.org^
 ||analytics.adpost.org^
 ||chance.adsensor.org^
