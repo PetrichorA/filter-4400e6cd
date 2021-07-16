@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: a80f35fbda32141a97ba636295baccec0c77817cdcef421af0a0b562c9b0b682
+! Version: 244a1d7b39437dd5cc17c5b3297d64657e95a064a285115eea02e2a77cb76c37
 
 ||chameleon.ad^
 ||content.ad^
@@ -3233,11 +3233,7 @@
 ||appsupport.qq.com^
 ||cdn.ark.qq.com^
 ||tj.b.qq.com^
-||aeventlog.beacon.qq.com^
-||astrategy.beacon.qq.com^
-||eventlog.beacon.qq.com^
-||otheve.beacon.qq.com^
-||strategy.beacon.qq.com^
+||beacon.qq.com^
 ||btrace.qq.com^
 ||android.bugly.qq.com^
 ||astat.bugly.qq.com^
@@ -3247,6 +3243,7 @@
 ||pcbrowser.dd.qq.com^
 ||dp3.qq.com^
 ||e.qq.com^
+||egame.qq.com^
 ||etg.qq.com^
 ||ex.qq.com^
 ||2052.flash2-http.qq.com^
