@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: b1d66e27d17b4fab7579ee348006c773ab492db669655e07ba302cafa08996c2
+! Version: 8aa7fad63624b9472b0a634dc9524c81fc02fd549116198952244d881902c5ea
 
 ||chameleon.ad^
 ||content.ad^
@@ -925,6 +925,7 @@
 ||allyes.com^
 ||aloofvest.com^
 ||ads.alt.com^
+||logs.amap.com^
 ||amazingcounters.com^
 ||amazon-adsystem.com^
 ||aax-eu-dub.amazon.com^
@@ -2169,6 +2170,7 @@
 ||hfc195b.com^
 ||hgads.com^
 ||data.hicloud.com^
+||healthrecommend.hicloud.com^
 ||highfalutinroom.com^
 ||hightrafficads.com^
 ||hilariouszinc.com^
@@ -3269,11 +3271,7 @@
 ||jsqmt.qq.com^
 ||l.qq.com^
 ||pms.mb.qq.com^
-||mtt.eve.mdt.qq.com^
-||oth.eve.mdt.qq.com^
-||mig.str.mdt.qq.com^
-||oth.str.mdt.qq.com^
-||oth.update.mdt.qq.com^
+||mdt.qq.com^
 ||if.mingxing.qq.com^
 ||mini2015.qq.com^
 ||dir.minigame.qq.com^
