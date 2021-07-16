@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 244a1d7b39437dd5cc17c5b3297d64657e95a064a285115eea02e2a77cb76c37
+! Version: ed6c35cbcbdd689f75bba729453c5a35f32e762cd9d1f02159ec67ad3a3be348
 
 ||chameleon.ad^
 ||content.ad^
@@ -3248,24 +3248,7 @@
 ||ex.qq.com^
 ||2052.flash2-http.qq.com^
 ||fodder.qq.com^
-||c.gdt.qq.com^
-||canvas.gdt.qq.com^
-||d.gdt.qq.com^
-||i.gdt.qq.com^
-||ii.gdt.qq.com^
-||ipv4.gdt.qq.com^
-||m.gdt.qq.com^
-||mi.gdt.qq.com^
-||nc.gdt.qq.com^
-||rm.gdt.qq.com^
-||rpt.gdt.qq.com^
-||s.gdt.qq.com^
-||t.gdt.qq.com^
-||v.gdt.qq.com^
-||v2.gdt.qq.com^
-||vr.gdt.qq.com^
-||win.gdt.qq.com^
-||xc.gdt.qq.com^
+||gdt.qq.com^
 ||openapi.guanjia.qq.com^
 ||adsense.html5.qq.com^
 ||mqqad.cs0309.html5.qq.com^
