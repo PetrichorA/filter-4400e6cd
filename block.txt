@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 770ef115271e972055ce24ee4fe781b18e18e4201138f99c2daa13bcd242a0ef
+! Version: 00075ade6ea8f5477497643465826df91e3622edd6f89769299866d66898de38
 
 ||chameleon.ad^
 ||content.ad^
@@ -925,6 +925,7 @@
 ||allyes.com^
 ||aloofvest.com^
 ||ads.alt.com^
+||dualstack-logs.amap.com^
 ||logs.amap.com^
 ||amazingcounters.com^
 ||amazon-adsystem.com^
@@ -3317,6 +3318,7 @@
 ||tcss.qq.com^
 ||tdc.qq.com^
 ||trace.qq.com^
+||ts.qq.com^
 ||updatecenter.qq.com^
 ||monitor.uu.qq.com^
 ||aid.video.qq.com^
