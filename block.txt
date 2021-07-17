@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: fc62763d4576ddf17b3d11d66ae94cd0620b36465db1085b10bec20f97b1459c
+! Version: 5f0210f9eb055d3cae52b87d3117e0cf94b46ddccac7d9dd1ecebdc48b7faca0
 
 ||chameleon.ad^
 ||content.ad^
@@ -4231,6 +4231,7 @@
 ||ad.weatherbug.com^
 ||aima.weathercn.com^
 ||bima.weathercn.com^
+||club-huawei.weathercn.com^
 ||log-stats.weathercn.com^
 ||web-redirecting.com^
 ||web-stat.com^
@@ -5459,9 +5460,8 @@
 ||z5x.net^
 ||zdbb.net^
 ||stat.zenon.net^
-||a1.zhanzhang.net^
-||a2.zhanzhang.net^
-||u.zhugeapi.net^
+||zhanzhang.net^
+||zhugeapi.net^
 ||qqbm.zhuiying.net^
 ||clicktrack.ziyu.net^
 ||zqtk.net^
