@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 2581f1c247c44c49b00dafb5a2792dd2555f266e42be04d2a5d8ee0bd04cc467
+! Version: f52851f2577c1f413b474fbc40fd3a564283a60bc77e0308b3dbce3472f50d87
 
 ||chameleon.ad^
 ||content.ad^
@@ -2189,9 +2189,10 @@
 ||hotkeys.com^
 ||hoverowl.com^
 ||hs-banner.com^
-||js.hs-scripts.com^
+||hs-scripts.com^
 ||ads.hsoub.com^
 ||ads2.hsoub.com^
+||hswchangdu.com^
 ||htlbid.com^
 ||httpool.com^
 ||nebula-collector.huawei.com^
@@ -4032,6 +4033,7 @@
 ||vs.tucows.com^
 ||ad.api.3g.tudou.com^
 ||activity.tuipear.com^
+||tuirabbit.com^
 ||adserver.tupolska.com^
 ||turboadv.com^
 ||turn.com^
@@ -4233,6 +4235,7 @@
 ||club-huawei.weathercn.com^
 ||log-stats.weathercn.com^
 ||simage.weathercn.com^
+||zgzxm.weathercn.com^
 ||web-redirecting.com^
 ||web-stat.com^
 ||webcontentassessor.com^
@@ -4308,6 +4311,7 @@
 ||wryfinger.com^
 ||ad.wsod.com^
 ||wtlive.com^
+||wuliapi.com^
 ||wwwpromoter.com^
 ||x-traceur.com^
 ||xad.com^
