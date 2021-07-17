@@ -1,7 +1,7 @@
 ! Title: filter-4400e6cd / filter
 ! Expires: 2 days
 ! Homepage: https://github.com/PetrichorA/filter-4400e6cd
-! Description: 自用屏蔽规则
+! Description: 自用屏蔽规则（此规则适用于浏览器）
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
 ! Version: 37556fdebf3379b8641511bd0184c49374706c77cd5eb9ad8f24a662e65c5164

@@ -1,0 +1,10 @@
+! Title: filter-4400e6cd / serverblock
+! Expires: 2 days
+! Homepage: https://github.com/PetrichorA/filter-4400e6cd
+! Description: 自用屏蔽规则（此规则适用于自建 DNS 服务器）
+! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/serverblock.txt
+! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/serverblock.txt
+! Version: 716903b8574e4feb81d2215638e6a4f274543f3474d7156c41641b0694e4d62c
+
+||pixel.archive.is^
+||ipleak.net^
