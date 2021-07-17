@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: fd4b7a3811d3404899970f26cd7e3ef6c94226fd09945f5285f00378bd923fb2
+! Version: fc62763d4576ddf17b3d11d66ae94cd0620b36465db1085b10bec20f97b1459c
 
 ||chameleon.ad^
 ||content.ad^
@@ -1148,6 +1148,7 @@
 ||t8.baidu.com^
 ||t9.baidu.com^
 ||tcbox.baidu.com^
+||techain.baidu.com^
 ||tongji.baidu.com^
 ||toolbar.baidu.com^
 ||tracker.baidu.com^
@@ -2154,6 +2155,8 @@
 ||data.hicloud.com^
 ||healthrecommend.hicloud.com^
 ||op.hicloud.com^
+||videopay.hicloud.com^
+||videouser.hicloud.com^
 ||highfalutinroom.com^
 ||hightrafficads.com^
 ||hilariouszinc.com^
