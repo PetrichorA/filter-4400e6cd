@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: e39aeb18bf8c7a066f2398a41914b0642134894aaba6579363927588645bd06f
+! Version: 5bbf0b05ae56f016879fc585468e4373a963dc134b1c4331794c095f2a9563fd
 
 ||chameleon.ad^
 ||content.ad^
@@ -5282,9 +5282,10 @@
 ||sync-jp.im-apps.net^
 ||imagecash.net^
 ||ads.infi.net^
-||r.edge.inmobicdn.net^
-||cdn.innity.net^
+||inmobicdn.net^
+||innity.net^
 ||insgly.net^
+||ipleak.net^
 ||ad.jamba.net^
 ||a3.jandan.net^
 ||b3.jandan.net^
