@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: f412db8c8a863c815d7c2907e3b6962af6eebc9e3dbe0cfc101a6d6218b8d29b
+! Version: 77420814e179fe9e0c6febaa243d50875ad7f69828faff04987cd55a3a8098c6
 
 ||chameleon.ad^
 ||content.ad^
@@ -890,8 +890,7 @@
 ||osfota.cdn.aliyun.com^
 ||arms-retcode.aliyuncs.com^
 ||dressimage.img-cn-beijing.aliyuncs.com^
-||jsadsdisplay.cn-beijing.log.aliyuncs.com^
-||ttjx-online.cn-hangzhou.log.aliyuncs.com^
+||log.aliyuncs.com^
 ||adash.man.aliyuncs.com^
 ||img-dsp.oss-cn-beijing.aliyuncs.com^
 ||mobaders.oss-cn-beijing.aliyuncs.com^
