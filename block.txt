@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: e8dc9f14bd2a74470f8f3d66de1b1e6eea087499fa7169015914f2d727f2527a
+! Version: fd4b7a3811d3404899970f26cd7e3ef6c94226fd09945f5285f00378bd923fb2
 
 ||chameleon.ad^
 ||content.ad^
@@ -236,7 +236,6 @@
 ||lndnserror7.wo.com.cn^
 ||kunpeng-sc.csdnimg.cn^
 ||feeds-drcn.dbankcdn.cn^
-||h5hosting-drcn.dbankcdn.cn^
 ||union.dbba.cn^
 ||891.a.dlads.cn^
 ||adx.dlads.cn^
