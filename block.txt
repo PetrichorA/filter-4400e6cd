@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 70929ac6069784051f4476b9fb29ac4b3f1c0a3b71e454f49fbd475c9d7c1411
+! Version: dc93fbf05531a08147c833e6ffc947f71f8a649d9410d86529232aade3fb98eb
 
 ||chameleon.ad^
 ||content.ad^
@@ -769,8 +769,7 @@
 ||cluster.adultworld.com^
 ||newt1.adultworld.com^
 ||content.adunity.com^
-||d.adup-tech.com^
-||m.adup-tech.com^
+||adup-tech.com^
 ||bigdata.adups.com^
 ||adv-adserver.com^
 ||advangelists.com^
@@ -4917,6 +4916,7 @@
 ||trafficrouter.io^
 ||triptease.io^
 ||voodoo-ads.io^
+||pixel.archive.is^
 ||adshrink.it^
 ||scambiobanner.aruba.it^
 ||mobile.banzai.it^
