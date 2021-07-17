@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 5f0210f9eb055d3cae52b87d3117e0cf94b46ddccac7d9dd1ecebdc48b7faca0
+! Version: 3c690421158eba676681e5d584da70b570b40b88c56a4854010d813d964c03fd
 
 ||chameleon.ad^
 ||content.ad^
@@ -1466,11 +1466,7 @@
 ||oascentral.chicagobusiness.com^
 ||chickensstation.com^
 ||js.chilipiper.com^
-||dvsend.china.com^
-||dvser.china.com^
-||dvser02.china.com^
-||rank.hit.china.com^
-||sssvd.china.com^
+||china.com^
 ||t1.chinavivaki.com^
 ||stats.chinaz.com^
 ||chinsnakes.com^
@@ -3513,6 +3509,7 @@
 ||shakytaste.com^
 ||shallowsmile.com^
 ||shama5.com^
+||shangjinssp.com^
 ||cidttwap.shaqm.com^
 ||shareadspace.com^
 ||shareasale.com^
