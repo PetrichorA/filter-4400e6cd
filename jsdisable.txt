@@ -1,0 +1,10 @@
+! Title: filter-4400e6cd / jsdisable
+! Expires: 2 days
+! Homepage: https://github.com/PetrichorA/filter-4400e6cd
+! Description: 自用屏蔽规则（此规则适用于浏览器）
+! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/jsdisable.txt
+! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/jsdisable.txt
+! Version: cee543f058216ee0e5ec0f9c0bd458ea4e086b8747af984d560970e6150ce588
+
+||reuters.com^$csp=script-src 'none'
+||wired.com^$csp=script-src 'none'
