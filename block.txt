@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: dc415c3598181d0295a6b8ce34c7e3825035b95faeb42280d03c316c69f4300e
+! Version: e3f756df661f10e19dbc19d36b5514467dcba1a493b3270748e1b276afae4c6e
 
 ||chameleon.ad^
 ||content.ad^
@@ -314,11 +314,9 @@
 ||py2.qlogo.cn^
 ||m.qpic.cn^
 ||pc.quansj.cn^
-||m.reachmax.cn^
-||v2.reachmax.cn^
+||reachmax.cn^
 ||d.s11.cn^
-||datasink.sensorsdata.cn^
-||static.sensorsdata.cn^
+||sensorsdata.cn^
 ||2016.sina.cn^
 ||api.apps.sina.cn^
 ||cre-dp.sina.cn^
@@ -637,7 +635,6 @@
 ||adizio.com^
 ||adjix.com^
 ||adjug.com^
-||adjuggler.com^
 ||adjust.com^
 ||adjustnetwork.com^
 ||adk2.com^
@@ -1763,6 +1760,7 @@
 ||ad.duapps.com^
 ||api.mobula.sdk.duapps.com^
 ||revive.dubcnm.com^
+||m.duobao999.com^
 ||v2.fm.n.duokanbox.com^
 ||djl.duomai.com^
 ||service.ad.duomi.com^
@@ -2287,6 +2285,7 @@
 ||impulsehands.com^
 ||imrworldwide.com^
 ||in-page-push.com^
+||incentaclick.com^
 ||inclk.com^
 ||incognitosearches.com^
 ||indexexchange.com^
@@ -2692,6 +2691,10 @@
 ||pcvideoaliyun.titan.mgtv.com^
 ||pcvideoyd.titan.mgtv.com^
 ||pcweb.v1.mgtv.com^
+||f3.mi-stat.gslb.mi-idc.com^
+||app01.nodes.gslb.mi-idc.com^
+||app02.nodes.gslb.mi-idc.com^
+||resolver.gslb.mi-idc.com^
 ||ssl-cdn.static.browser.mi-img.com^
 ||staging.admin.e.mi.com^
 ||migc.g.mi.com^
@@ -4305,9 +4308,7 @@
 ||worriednumber.com^
 ||pixel.wp.com^
 ||stats.wp.com^
-||click.wrating.com^
-||cntv.wrating.com^
-||tongji.wrating.com^
+||wrating.com^
 ||wryfinger.com^
 ||ad.wsod.com^
 ||wtlive.com^
@@ -5200,6 +5201,7 @@
 ||analytics.ad.daum.net^
 ||display.ad.daum.net^
 ||track.tiara.daum.net^
+||live.tvpot.daum.net^
 ||adimg.daumcdn.net^
 ||decknetwork.net^
 ||demdex.net^
@@ -5437,6 +5439,7 @@
 ||secure.webconnect.net^
 ||webstat.net^
 ||whoisonline.net^
+||www.wifijia.net^
 ||worldwide-cash.net^
 ||wt-eu02.net^
 ||www.xcggpt.net^
@@ -5691,7 +5694,6 @@
 ||fingahvf.top^
 ||goutee.top^
 ||google-analytics-cf8916f7.isab.top^
-||ads.biz.tr^
 ||adap.tv^
 ||adapt.tv^
 ||affec.tv^
