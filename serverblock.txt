@@ -4,6 +4,6 @@
 ! Description: 自用屏蔽规则（此规则适用于自建 DNS 服务器）
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/serverblock.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/serverblock.txt
-! Version: 783a08a5472ba6ade1b75a2d86fbbf0658f0be3ddc363c6634fd0ffe8f4db3b3
+! Version: qcDwzuXeK4TBy1nfc2OgAn-C58Rn0lNnNKBx8y_BN1w=
 
 ||ipleak.net^

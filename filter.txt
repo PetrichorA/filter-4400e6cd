@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则（此规则适用于浏览器）
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 1bd4eaf5d4f455609574d00926cfbf85dacf050a8d4eb51ca4ef7646c260bb88
+! Version: JA3ff6HQKe-2uqYJzw-V8Aw-CKBPuDH34A1FtcEFfRg=
 
 ##div.advertising_2
 ##div.advertising_3
