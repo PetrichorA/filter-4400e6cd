@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: DpLgiNpIV3b_vj_X_8rbjFrFZkvAW4Pg5cf1PnWmDOIP1pmqpW97puc31K2XYmbC
+! Version: Aj2xD8c9_UD_hv02qkZVR4AmTyE7AtO5nXpHqdrNOEA-oT48_J5oDvAk77DZJ0Ee
 
 ||chameleon.ad^
 ||content.ad^
@@ -2406,6 +2406,7 @@
 ||ad.jetsoftware.com^
 ||ads.jewishfriendfinder.com^
 ||tr.jianshu.com^
+||udiab1.jianshu.com^
 ||tracking.jiffyworld.com^
 ||www.jiubuhua.com^
 ||www.jiudianxing.com^
@@ -4894,6 +4895,7 @@
 ||s-img.idealmedia.io^
 ||servicer.idealmedia.io^
 ||intentsify.io^
+||events.jianshu.io^
 ||litix.io^
 ||logrocket.io^
 ||lr-ingest.io^
