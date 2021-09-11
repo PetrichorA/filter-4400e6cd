@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则（此规则适用于浏览器）
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/jsdisable.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/jsdisable.txt
-! Version: 7CGuNSANufSIXxQ9MSOAIpc4GBbU0N80T8axrOpMAZJmcr92a_1PMVRRFPWB0l6j
+! Version: 9_7165C-YGDUO4PvQ6CNEDdJM29LI27OyV-9MebRmZbxw3UK-JS6JNZKSyZlhcBh
 
 ||sina.com.cn^$csp=script-src 'none'
 ||juejin.cn^$csp=script-src 'none'
@@ -16,6 +16,7 @@
 ||ifeng.com^$csp=script-src 'none'
 ||jianshu.com^$csp=script-src 'none'
 ||medium.com^$csp=script-src 'none'
+||nytimes.com^$csp=script-src 'none'
 ||reuters.com^$csp=script-src 'none'
 ||ruanyifeng.com^$csp=script-src 'none'
 ||sohu.com^$csp=script-src 'none'
