@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: Aj2xD8c9_UD_hv02qkZVR4AmTyE7AtO5nXpHqdrNOEA-oT48_J5oDvAk77DZJ0Ee
+! Version: Kx14_SXr0Bw1g7udPJtNKzNJy8Bm4MaeTbCqlJQkgci_8Fz7hnzEfYUeQ9XfWYDm
 
 ||chameleon.ad^
 ||content.ad^
@@ -382,6 +382,8 @@
 ||woodpecker.uc.cn^
 ||iflow.uczzd.cn^
 ||m.uczzd.cn^
+||unityads.unity.cn^
+||unityads.unitychina.cn^
 ||log.vcgame.cn^
 ||mcore.vcgame.cn^
 ||conf.vidown.cn^
@@ -755,6 +757,7 @@
 ||adthrive.com^
 ||adthurst.com^
 ||adtilt.com^
+||adtiming.com^
 ||adtng.com^
 ||adtology.com^
 ||adtoma.com^
@@ -982,6 +985,7 @@
 ||p.appjiagu.com^
 ||s.appjiagu.com^
 ||securemetrics.apple.com^
+||logger.applovefrom.com^
 ||a.applovin.com^
 ||d.applovin.com^
 ||pdn.applovin.com^
@@ -5405,6 +5409,7 @@
 ||storygize.net^
 ||ad.mynetreklam.com.streamprovider.net^
 ||supertracking.net^
+||e.tapdb.net^
 ||tcads.net^
 ||techclicks.net^
 ||cityads.telus.net^
