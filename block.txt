@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: K7NWg0CE9D-wP6cdse-8ekImN-CzBBgkopub-_HHR16HYQm-r5SZwq2hLRrGRmEB
+! Version: du9FMzu23_qzRdC5rKxpH_kAFVcsjT7eQQViXYmHmxp4WeGH1GSuQ9YcP1kkf8dl
 
 ||chameleon.ad^
 ||content.ad^
@@ -900,6 +900,7 @@
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||ads.amdmb.com^
+||amemv.com^
 ||americash.com^
 ||ad.amgdgt.com^
 ||ads.amigos.com^
@@ -1719,6 +1720,8 @@
 ||doubtfulrainstorm.com^
 ||doumob.com^
 ||a.dounanhuahui.com^
+||douyin.com^
+||douyincdn.com^
 ||bwp.download.com^
 ||dpgawov.com^
 ||dpmsrv.com^
@@ -4372,6 +4375,7 @@
 ||ard.xxxblackbook.com^
 ||xxxcounter.com^
 ||xxxmyself.com^
+||xycdn.com^
 ||advertpro.ya.com^
 ||pixel.yabidos.com^
 ||ads.yahoo.com^
@@ -5160,6 +5164,7 @@
 ||bidswitch.net^
 ||ad0.bigmir.net^
 ||c.bigmir.net^
+||web-player-tracker.biliapi.net^
 ||blueconic.net^
 ||bounceads.net^
 ||buysellads.net^
