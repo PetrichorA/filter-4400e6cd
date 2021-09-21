@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: YjePfQU3_YdWHmB4K_OziTx9CJ5H1_0_FfzBOoomtVkCMh0xBJYHBiHtdkAmo7OE
+! Version: Aa8KD6ozTJbFymiKzzWpkVh34Obd_4p0rZh5Dp4dsJMY8-lZ0H2ZJsIHuNggKSVR
 
 ||chameleon.ad^
 ||content.ad^
@@ -4000,6 +4000,7 @@
 ||tradeadsexchange.com^
 ||tradedoubler.com^
 ||trading-rtbg.com^
+||tradplusad.com^
 ||traffic-exchange.com^
 ||traffic-redirecting.com^
 ||trafficforce.com^
@@ -5810,6 +5811,7 @@
 ||a.muloqot.uz^
 ||58lm.vip^
 ||adpia.vn^
+||pixel.archive.vn^
 ||eclick.vn^
 ||skylink.vn^
 ||admicro1.vcmedia.vn^
