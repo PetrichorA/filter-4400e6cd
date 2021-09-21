@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: sExjhe9PDXZzLUqC3cI0OuGeB4aCX1C8gsenb0Bnfx6XwnbrWpTGkOUEEyL3YN0B
+! Version: oBYhgKUcvjbM0mKL8j6mgQbcFLdZCcqqKyB3tD-grpSYqrDAL-cycaUpSK5tUY73
 
 ||chameleon.ad^
 ||content.ad^
@@ -1828,6 +1828,7 @@
 ||esty.com^
 ||etahub.com^
 ||etargetnet.com^
+||etoote.com^
 ||etracker.com^
 ||eurekster.com^
 ||banner.eurogrand.com^
@@ -2465,6 +2466,7 @@
 ||hoplink.ksosoft.com^
 ||pixiu.shangshufang.ksosoft.com^
 ||uid.ksosoft.com^
+||js.a.kspkg.com^
 ||hdns.ksyun.com^
 ||ssp.kss.ksyun.com^
 ||kt5850pjz0.com^
@@ -2486,6 +2488,7 @@
 ||log.web.kugou.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||kwaicdn.com^
+||kwaixiaodian.com^
 ||kwaizt.com^
 ||kwimgs.com^
 ||l6b587txj1.com^
