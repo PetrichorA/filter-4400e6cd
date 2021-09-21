@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: oBYhgKUcvjbM0mKL8j6mgQbcFLdZCcqqKyB3tD-grpSYqrDAL-cycaUpSK5tUY73
+! Version: KN-VAM9vMprCUo_gWc1ZIQMRhhL8-xImbusMhuNGtR3PIBOejlOwlfvuEy1DHP8r
 
 ||chameleon.ad^
 ||content.ad^
@@ -2472,7 +2472,7 @@
 ||kt5850pjz0.com^
 ||rd.kuaigames.com^
 ||kuaishou.com^
-||open.kuaishouzt.com^
+||kuaishouzt.com^
 ||kubient.com^
 ||d.kugou.com^
 ||fanxing.kugou.com^
