@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: Cz2oybfepyFTYFFzl3a-3UmvX3R2tvJT3HpCJKY1q9OobhUP6woLC8KDWvf_b_EB
+! Version: ad3pTq0yINoqPJRIgucS1JPoO7iL6jHExdz102EuXL9ONE4VwhgRbwLMRbO03o6g
 
 ||chameleon.ad^
 ||content.ad^
@@ -2006,6 +2006,7 @@
 ||sc.ggfeng.com^
 ||kwcdn.ggmm777.com^
 ||giddycoat.com^
+||gifshow.com^
 ||assets.giocdn.com^
 ||ads.gionee.com^
 ||pdl.gionee.com^
@@ -2288,7 +2289,7 @@
 ||web.informer.com^
 ||ad.infoseek.com^
 ||adext.inkclub.com^
-||httpdns.kwd.inkuai.com^
+||inkuai.com^
 ||analytics.inlinemanual.com^
 ||inmobi.com^
 ||inner-active.com^
@@ -2370,6 +2371,8 @@
 ||ivykiosk.com^
 ||ads.iwon.com^
 ||rose.ixbt.com^
+||ixigua.com^
+||ixiguavideo.com^
 ||iyfnzgb.com^
 ||j93557g.com^
 ||jadeitite.com^
@@ -2450,6 +2453,7 @@
 ||metrics-report.koolearn.com^
 ||g.koowo.com^
 ||api.koudaikj.com^
+||ksapisrv.com^
 ||beha.ksmobile.com^
 ||dl.cm.ksmobile.com^
 ||up.cm.ksmobile.com^
@@ -2465,6 +2469,7 @@
 ||ssp.kss.ksyun.com^
 ||kt5850pjz0.com^
 ||rd.kuaigames.com^
+||kuaishou.com^
 ||open.kuaishouzt.com^
 ||kubient.com^
 ||d.kugou.com^
@@ -2481,6 +2486,7 @@
 ||log.web.kugou.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||open.kwaizt.com^
+||kwimgs.com^
 ||l6b587txj1.com^
 ||s.l8l9.com^
 ||cr-p16.ladsp.com^
@@ -3131,11 +3137,7 @@
 ||prsitecheck.com^
 ||prudencewiserelapse.com^
 ||ads.psd2html.com^
-||dm.pstatp.com^
-||pb3.pstatp.com^
-||sf1-ttcdn-tos.pstatp.com^
-||sf3-ttcdn-tos.pstatp.com^
-||sf6-ttcdn-tos.pstatp.com^
+||pstatp.com^
 ||ptoushoa.com^
 ||pubdirecte.com^
 ||publicidees.com^
@@ -3579,9 +3581,7 @@
 ||app-analytics.snapchat.com^
 ||sneakystamp.com^
 ||snoobi.com^
-||analytics.snssdk.com^
-||extlog.snssdk.com^
-||temai.snssdk.com^
+||snssdk.com^
 ||tran.news.so.com^
 ||spro.so.com^
 ||ads.socapro.com^
@@ -3983,8 +3983,7 @@
 ||ads.totallyfreestuff.com^
 ||totemcash.com^
 ||touchclarity.com^
-||ad.toutiao.com^
-||zhanzhang.toutiao.com^
+||toutiao.com^
 ||ads.townhall.com^
 ||adsys.townnews.com^
 ||stats.townnews.com^
@@ -4509,6 +4508,7 @@
 ||uuidapi.yunos.com^
 ||activity.yuyiya.com^
 ||yun.yuyiya.com^
+||yximgs.com^
 ||z3dmbpl6309s.com^
 ||zangocash.com^
 ||zanox.com^
