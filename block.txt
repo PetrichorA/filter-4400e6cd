@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 1SbDLEtopyBIak__cPPcTjTaDVulcib4rAwLtnx5uAEoF0Ej0AQqWU9H7PQaz_HX
+! Version: sExjhe9PDXZzLUqC3cI0OuGeB4aCX1C8gsenb0Bnfx6XwnbrWpTGkOUEEyL3YN0B
 
 ||chameleon.ad^
 ||content.ad^
@@ -2465,6 +2465,7 @@
 ||hoplink.ksosoft.com^
 ||pixiu.shangshufang.ksosoft.com^
 ||uid.ksosoft.com^
+||hdns.ksyun.com^
 ||ssp.kss.ksyun.com^
 ||kt5850pjz0.com^
 ||rd.kuaigames.com^
