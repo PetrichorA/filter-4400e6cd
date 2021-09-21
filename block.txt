@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ruVf1ZIlMAKTmQuhcsRQbe440T376fAwB80MjlaywyaJk-13hDBHNc9HY0hi3pWp
+! Version: K7NWg0CE9D-wP6cdse-8ekImN-CzBBgkopub-_HHR16HYQm-r5SZwq2hLRrGRmEB
 
 ||chameleon.ad^
 ||content.ad^
@@ -837,6 +837,7 @@
 ||dorangesource.alicdn.com^
 ||gen.alicdn.com^
 ||gma.alicdn.com^
+||httpdns.alicdn.com^
 ||ilce.alicdn.com^
 ||nbsdk-baichuan.alicdn.com^
 ||pss.alicdn.com^
@@ -1167,6 +1168,7 @@
 ||static1.baifendian.com^
 ||api.bailingjiankang.com^
 ||m.bailingjiankang.com^
+||doh.api.baishan.com^
 ||tu.baixing.com^
 ||balloontexture.com^
 ||newads.bangbros.com^
@@ -1415,6 +1417,7 @@
 ||ad.cctv.com^
 ||padsdel2.cdnads.com^
 ||tracker.cdnbye.com^
+||httpdns.c.cdnhwc2.com^
 ||adserver.cdnstream.com^
 ||cedato.com^
 ||radar.cedexis.com^
@@ -2282,6 +2285,7 @@
 ||web.informer.com^
 ||ad.infoseek.com^
 ||adext.inkclub.com^
+||httpdns.kwd.inkuai.com^
 ||analytics.inlinemanual.com^
 ||inmobi.com^
 ||inner-active.com^
@@ -2458,6 +2462,7 @@
 ||ssp.kss.ksyun.com^
 ||kt5850pjz0.com^
 ||rd.kuaigames.com^
+||open.kuaishouzt.com^
 ||kubient.com^
 ||d.kugou.com^
 ||fanxing.kugou.com^
@@ -2472,6 +2477,7 @@
 ||tj.kugou.com^
 ||log.web.kugou.com^
 ||img.adnyg.com.w.kunlungr.com^
+||open.kwaizt.com^
 ||l6b587txj1.com^
 ||s.l8l9.com^
 ||cr-p16.ladsp.com^
