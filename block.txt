@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: du9FMzu23_qzRdC5rKxpH_kAFVcsjT7eQQViXYmHmxp4WeGH1GSuQ9YcP1kkf8dl
+! Version: Cz2oybfepyFTYFFzl3a-3UmvX3R2tvJT3HpCJKY1q9OobhUP6woLC8KDWvf_b_EB
 
 ||chameleon.ad^
 ||content.ad^
@@ -3818,6 +3818,7 @@
 ||dl.sybspools.com^
 ||kr.sybspools.com^
 ||banners.sys-con.com^
+||szbdyd.com^
 ||taboola.com^
 ||cdn.taboolasyndication.com^
 ||tagcommander.com^
@@ -4376,6 +4377,7 @@
 ||xxxcounter.com^
 ||xxxmyself.com^
 ||xycdn.com^
+||xycloud.com^
 ||advertpro.ya.com^
 ||pixel.yabidos.com^
 ||ads.yahoo.com^
