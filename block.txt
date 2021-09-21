@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 4GH_P48WZRvcwFumtTvJseNNODmRlSuaMLYV1TgoIt9dqbKGvV5Ham8_UU-Qmeb0
+! Version: ruVf1ZIlMAKTmQuhcsRQbe440T376fAwB80MjlaywyaJk-13hDBHNc9HY0hi3pWp
 
 ||chameleon.ad^
 ||content.ad^
@@ -373,6 +373,7 @@
 ||gw5.push.mcp.weibo.cn^
 ||gw6.push.mcp.weibo.cn^
 ||adp.whoclick.cn^
+||sdk.api.oaid.wocloud.cn^
 ||android-lrcresource.wps.cn^
 ||img1.pcfg.cache.wps.cn^
 ||minfo.wps.cn^
@@ -2942,9 +2943,7 @@
 ||operationkettle.com^
 ||opienetwork.com^
 ||opmnstr.com^
-||adx.ads.oppomobile.com^
-||bdapi.ads.oppomobile.com^
-||data.ads.oppomobile.com^
+||ads.oppomobile.com^
 ||adsfs.oppomobile.com^
 ||i.flow.browser.oppomobile.com^
 ||imagzine.oppomobile.com^
@@ -4517,6 +4516,10 @@
 ||m.ad.zhangyue.com^
 ||push.zhangyue.com^
 ||sys.zhangyue.com^
+||aidatatest.zhihu.com^
+||datahub.zhihu.com^
+||lens.zhihu.com^
+||sugar.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||zhugeio.com^
 ||li.ziffimages.com^
