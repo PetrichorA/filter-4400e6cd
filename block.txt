@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: Aa8KD6ozTJbFymiKzzWpkVh34Obd_4p0rZh5Dp4dsJMY8-lZ0H2ZJsIHuNggKSVR
+! Version: 2tyuhVirrnjyJ-X9Ro1ZveCt5JmuJtpOJ4OqFe7iQb2xqwViILbdJjCveKANTjCj
 
 ||chameleon.ad^
 ||content.ad^
@@ -2155,6 +2155,7 @@
 ||hfc195b.com^
 ||hgads.com^
 ||data.hicloud.com^
+||datacollector-drcn.dt.hicloud.com^
 ||healthrecommend.hicloud.com^
 ||op.hicloud.com^
 ||videopay.hicloud.com^
@@ -2199,6 +2200,7 @@
 ||hswchangdu.com^
 ||htlbid.com^
 ||httpool.com^
+||ads.cloud.huawei.com^
 ||nebula-collector.huawei.com^
 ||hubadnetwork.com^
 ||api.hubapi.com^
