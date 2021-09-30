@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: KN-VAM9vMprCUo_gWc1ZIQMRhhL8-xImbusMhuNGtR3PIBOejlOwlfvuEy1DHP8r
+! Version: 21AChkafcRiULecD9tdQNbq_hhotfrqguJ_I_SmHD2_tqXzrLfCtuuK0fHwj34me
 
 ||chameleon.ad^
 ||content.ad^
@@ -1713,6 +1713,7 @@
 ||bal.ad.dotandad.com^
 ||dotomi.com^
 ||erebor.douban.com^
+||fundin.douban.com^
 ||doubleclick.com^
 ||doublepimp.com^
 ||doubleverify.com^
