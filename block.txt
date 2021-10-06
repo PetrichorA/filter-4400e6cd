@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: wdBKg2OzuNqDRVw6VmBYXjQR7W4LZmQU-hTkuuPhbZtvXSA175GounEmHkR4MQ_Q
+! Version: KoJZhv0syMvEUl2DyYUYpmSLUztODa3Bt8J6KGiFZMutuUwp5Uj6jzAU9fVH2-AV
 
 ||chameleon.ad^
 ||content.ad^
@@ -211,9 +211,7 @@
 ||lndnserror7.wo.com.cn^
 ||kunpeng-sc.csdnimg.cn^
 ||feeds-drcn.dbankcdn.cn^
-||891.a.dlads.cn^
-||adx.dlads.cn^
-||ps.dlads.cn^
+||dlads.cn^
 ||domob.cn^
 ||stat.eol.cn^
 ||zhwnlapi.etouch.cn^
@@ -3051,6 +3049,7 @@
 ||peer39.com^
 ||ads.pennet.com^
 ||pennyweb.com^
+||penxiangge.com^
 ||pepperjamnetwork.com^
 ||perceivequarter.com^
 ||percentmobile.com^
