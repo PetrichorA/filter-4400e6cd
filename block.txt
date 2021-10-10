@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: KoJZhv0syMvEUl2DyYUYpmSLUztODa3Bt8J6KGiFZMutuUwp5Uj6jzAU9fVH2-AV
+! Version: Z1EDiK-ODvgv9JKqH8z7Pt8ka53xdnD5IOWogRso_ATAKofp1ho3BLdFZvj0zrv5
 
 ||chameleon.ad^
 ||content.ad^
@@ -2840,6 +2840,7 @@
 ||r.msn.com^
 ||rad.msn.com^
 ||rmads.msn.com^
+||srtb.msn.com^
 ||toolbar.msn.com^
 ||catalog.video.msn.com^
 ||mstrlytcs.com^
