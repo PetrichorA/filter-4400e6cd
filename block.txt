@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: Z1EDiK-ODvgv9JKqH8z7Pt8ka53xdnD5IOWogRso_ATAKofp1ho3BLdFZvj0zrv5
+! Version: xiXZhEEgFD1z_-lEwyivE33TxlPWDREPxyIyAZal8B5eFEguqfz2a8i5X4v-CDb1
 
 ||chameleon.ad^
 ||content.ad^
@@ -2967,7 +2967,7 @@
 ||api.analytics.omgpop.com^
 ||omnijay.com^
 ||omniscientspark.com^
-||fo-static.omnitagjs.com^
+||omnitagjs.com^
 ||omniture.com^
 ||onaudience.com^
 ||onclasrv.com^
