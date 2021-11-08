@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: xiXZhEEgFD1z_-lEwyivE33TxlPWDREPxyIyAZal8B5eFEguqfz2a8i5X4v-CDb1
+! Version: 8Rzp8uaBPRRT8i_A7QYgV3evHqb6ixRqat_9wKF82k6A4oPw7zpFfElHNDTR8srs
 
 ||chameleon.ad^
 ||content.ad^
@@ -3600,6 +3600,7 @@
 ||m.sjzhushou.com^
 ||sousuo.xm.sjzhushou.com^
 ||skimresources.com^
+||analytics.slashdotmedia.com^
 ||sleepcartoon.com^
 ||slipperysack.com^
 ||slopeaota.com^
