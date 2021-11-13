@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ELUlrajOJ2TFRuZm1XG-8X5choqp-fP7M7KkOs015h4u1-gycS_X5flJU25kEaFs
+! Version: 37IS6HCj9MLi9lBGxVSKvRfzhOHlBDaPI_kbuO1TxgxcGNUSbO0WEQRonISIMeef
 
 ||chameleon.ad^
 ||content.ad^
@@ -4207,6 +4207,7 @@
 ||valueclickmedia.com^
 ||valuecommerce.com^
 ||ads.vamaker.com^
+||vamllres.com^
 ||vanfireworks.com^
 ||variablefitness.com^
 ||stats.varrando.com^
@@ -4267,7 +4268,7 @@
 ||man.vm5apis.com^
 ||vahfront.vm5apis.com^
 ||vawpro.vm5apis.com^
-||dap.vmall.com^
+||vmall.com^
 ||vmmpxl.com^
 ||hb.vntsm.com^
 ||ads.vnumedia.com^
