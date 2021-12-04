@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 37IS6HCj9MLi9lBGxVSKvRfzhOHlBDaPI_kbuO1TxgxcGNUSbO0WEQRonISIMeef
+! Version: cOcCYeMypDoJ-pYn52dxfKQsAwz7WMK_at3b--VW2Swx9UlFruEbNT4eGSbxhIVF
 
 ||chameleon.ad^
 ||content.ad^
@@ -87,6 +87,7 @@
 ||dp.559.cc^
 ||ads.cc^
 ||hivedata.cc^
+||pixel.kknews.cc^
 ||mediabridge.cc^
 ||api.popin.cc^
 ||app.uu.cc^
@@ -2172,6 +2173,7 @@
 ||i.holalauncher.com^
 ||st.holalauncher.com^
 ||ads.hollywood.com^
+||ad.holmesmind.com^
 ||homelycrown.com^
 ||adimages.homestore.com^
 ||counters.honesty.com^
