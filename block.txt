@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: w4hyZYqleoTqfFBxqVHK5-QzbSN63Pq_Go2qPT3pKgl15ukKAh5rTTDMzh36QJi9
+! Version: nuPJKsl3MQL2alSsLGqELPejtTSWAOpoe0119KG0OecbPje-h1IoV-URpE78d1it
 
 ||chameleon.ad^
 ||content.ad^
@@ -2071,7 +2071,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||imasdk.googleapis.com^
 ||googlecommerce.com^
-||www.googleoptimize.com^
+||googleoptimize.com^
 ||wintricksbanner.googlepages.com^
 ||badad.googleplex.com^
 ||googlesyndication.com^
@@ -2622,14 +2622,11 @@
 ||madcpms.com^
 ||madinad.com^
 ||madisonavenue.com^
-||cdn.madkudu.com^
-||eu1.madsone.com^
-||eu2.madsone.com^
+||madkudu.com^
+||madsone.com^
 ||magnificentmist.com^
 ||track.mailerlite.com^
-||assets.mantisadnetwork.com^
-||mantodea.mantisadnetwork.com^
-||resize.mantisadnetwork.com^
+||mantisadnetwork.com^
 ||marchex.com^
 ||marinsm.com^
 ||markedcrayon.com^
@@ -4875,6 +4872,7 @@
 ||mediaarea.eu^
 ||stats.x14.eu^
 ||eas.almamedia.fi^
+||analysis.fi^
 ||stats.nebula.fi^
 ||adimages.sanomawsoy.fi^
 ||adserver.sanomawsoy.fi^
@@ -4985,6 +4983,7 @@
 ||emebo.io^
 ||ethicalads.io^
 ||fabric.io^
+||firstimpression.io^
 ||fpjs.io^
 ||jsc.idealmedia.io^
 ||s-img.idealmedia.io^
