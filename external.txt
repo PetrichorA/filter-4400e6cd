@@ -1,0 +1,9 @@
+! Title: filter-4400e6cd / external
+! Expires: 2 days
+! Homepage: https://github.com/PetrichorA/filter-4400e6cd
+! Description: 自用屏蔽规则（此规则适用于浏览器）
+! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/external.txt
+! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/external.txt
+! Version: -Shm5LZZwhU1hykNP4VKyBxXHrN3u8IRM3s-f9pY94UdsXxmxGTP9aSbNKfJ15GT
+
+!#include external/VSdlf0J6pP9hnnFC2DWf90azXwOjaLSwNTjaXk-7xHX8amqOH9_vSJk_WM7gq1OE.txt
