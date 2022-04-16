@@ -4,17 +4,17 @@
 ! Description: 自用屏蔽规则（此规则适用于浏览器）
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: pZk-r_9fEeuC9-kplh_ghpslIOAL_HrphDwSDHam3STatjs68jz5cfqd7fZVH3Oo
+! Version: wPJdDQxaAGNi6KXNVSuuhtcy1zEqyY9t75kpT9WV047jbj5pIk6KtTWQo36EECwD
 
-||cooco.net.cn^##+js(cookie-remover
-||t.co^##+js(cookie-remover
-||19lou.com^##+js(cookie-remover
-||apkmirror.com^##+js(cookie-remover
-||business.bing.com^##+js(cookie-remover
-||cnbc.com^##+js(cookie-remover
-||hostloc.com^##+js(cookie-remover
-||hupu.com^##+js(cookie-remover
-||imgur.com^##+js(cookie-remover
-||jsdelivr.com^##+js(cookie-remover
-||docs.microsoft.com^##+js(cookie-remover
-||support.microsoft.com^##+js(cookie-remover
+||cooco.net.cn^##+js(cookie-remover)
+||t.co^##+js(cookie-remover)
+||19lou.com^##+js(cookie-remover)
+||apkmirror.com^##+js(cookie-remover)
+||business.bing.com^##+js(cookie-remover)
+||cnbc.com^##+js(cookie-remover)
+||hostloc.com^##+js(cookie-remover)
+||hupu.com^##+js(cookie-remover)
+||imgur.com^##+js(cookie-remover)
+||jsdelivr.com^##+js(cookie-remover)
+||docs.microsoft.com^##+js(cookie-remover)
+||support.microsoft.com^##+js(cookie-remover)
