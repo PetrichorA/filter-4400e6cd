@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: dEKnoiFCncmrJV2M9cl_TvKOrI7uBRrCWI35yFAbrnopa5YOwjQCSx6og-ZDweru
+! Version: O_kcAaAMEa87mP2gZMbPiBUVGmuCXhuxuCTPj36xGJSvRmyWDm80hcmBlU7SlL_Z
 
 ||chameleon.ad^
 ||content.ad^
@@ -1845,6 +1845,7 @@
 ||exchangead.com^
 ||exchangeclicksonline.com^
 ||exclusivebrass.com^
+||exdynsrv.com^
 ||exelate.com^
 ||exelator.com^
 ||assets1.exgfnetwork.com^
@@ -2287,6 +2288,7 @@
 ||ilbanner.com^
 ||illfatedsnail.com^
 ||illustriousoatmeal.com^
+||ilyf4amifh.com^
 ||ads.imagistica.com^
 ||imarketservices.com^
 ||imembe.com^
@@ -5279,6 +5281,7 @@
 ||de.as.cp61.ott.cibntv.net^
 ||citrusad.net^
 ||clikerz.net^
+||d1f05vr3sjsuy7.cloudfront.net^
 ||d1grtyyel8f1mh.cloudfront.net^
 ||d1yu67rmchodpo.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
