@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: JLx9zvCq3BKPdCRNnhB6N2J_37eId7zqlKCt6y_MWe8r5EZg7LNvHdhH6eSVccYE
+! Version: JqUPObFk3fh4nx9l8NpCcFy6no5ADooNveZiR0TMgUrp-CjdfHcNeHtLTFH_UM8H
 
 ||chameleon.ad^
 ||content.ad^
@@ -488,6 +488,7 @@
 ||nbrecsys.4paradigm.com^
 ||ads.4tube.com^
 ||50websads.com^
+||51.com^
 ||518ad.com^
 ||51yes.com^
 ||5y9nfpes.52pk.com^
@@ -1214,6 +1215,7 @@
 ||ae.bdstatic.com^
 ||b.bdstatic.com^
 ||mipcache.bdstatic.com^
+||sofire.bdstatic.com^
 ||ss0.bdstatic.com^
 ||su.bdstatic.com^
 ||zz.bdstatic.com^
@@ -2130,6 +2132,7 @@
 ||g.haluoha.com^
 ||hammerhearing.com^
 ||handyfield.com^
+||hao123.com^
 ||hao549.com^
 ||www.hao934.com^
 ||analytics-production.hapyak.com^
