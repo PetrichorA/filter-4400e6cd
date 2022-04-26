@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: O_kcAaAMEa87mP2gZMbPiBUVGmuCXhuxuCTPj36xGJSvRmyWDm80hcmBlU7SlL_Z
+! Version: JLx9zvCq3BKPdCRNnhB6N2J_37eId7zqlKCt6y_MWe8r5EZg7LNvHdhH6eSVccYE
 
 ||chameleon.ad^
 ||content.ad^
@@ -1424,6 +1424,7 @@
 ||channelintelligence.com^
 ||chartbeat.com^
 ||chartboost.com^
+||chaturbate.com^
 ||ads.cheabit.com^
 ||checkm8.com^
 ||cheerfulrange.com^
@@ -1487,6 +1488,7 @@
 ||static.clmbtech.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
+||report-uri.cloudflare.com^
 ||cloudflareinsights.com^
 ||clrstm.com^
 ||banners.clubseventeen.com^
@@ -2941,6 +2943,7 @@
 ||counter.nowlinux.com^
 ||ad.nozonedata.com^
 ||npttech.com^
+||nsfwadds.com^
 ||nuseek.com^
 ||nuttyorganization.com^
 ||adserver.nydailynews.com^
@@ -5346,6 +5349,7 @@
 ||g.ezoic.net^
 ||fastapi.net^
 ||fastclick.net^
+||csp.global.ssl.fastly.net^
 ||includemodal.global.ssl.fastly.net^
 ||t.felmat.net^
 ||fineoffer.net^
