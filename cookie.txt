@@ -4,7 +4,7 @@
 ! Description: 自用屏蔽规则（此规则适用于浏览器）
 ! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: j4TQLS31qoefgfW8j-YUSg3f-xOmIUY7LfINmZaCULAVeXrwTTK4487TQhn7wwRH
+! Version: 9WT2g9f6jAp3xO_29aZgiyOEI3TAAipkpZrTxk5W8GAjexPDRZ8N5GME1pTsR4an
 
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -51,3 +51,9 @@
 ||jsdelivr.com^##+js(cookie-remover)
 ||docs.microsoft.com^##+js(cookie-remover)
 ||support.microsoft.com^##+js(cookie-remover)
+||nytimes.com^##+js(cookie-remover)
+||reuters.com^##+js(cookie-remover)
+||sspai.com^##+js(cookie-remover)
+||substack.com^##+js(cookie-remover)
+||thefreedictionary.com^##+js(cookie-remover)
+||theguardian.com^##+js(cookie-remover)
