@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/jsdisable.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/jsdisable.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/jsdisable.txt
-! Version: nZmF8RH-QBZUOAhAHgt5KBVXS7vxX6OHjH3X_Ut-4jlVUl6r61tL21cqEBBU4GAp
+! Version: WQQR7bxWi0KJ3t_Va6utXhRefAbEXAhByGHNMQ73Ab9RUKs89Q5UpGbETNFCLZ_3
 
 ||sina.com.cn^$csp=script-src 'none'
 ||juejin.cn^$csp=script-src 'none'
@@ -29,4 +29,4 @@
 ||xinhuanet.com^$csp=script-src 'none'
 ||zhangxinxu.com^$csp=script-src 'none'
 ||reverso.net^$csp=script-src 'none'
-||edition.cnn.com/europe/live-news/^$csp=script-src 'none'
+||edition.cnn.com/europe/live-news/$csp=script-src 'none'
