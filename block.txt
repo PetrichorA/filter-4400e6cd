@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: C9kj8h-6N6lb4Ek0wAslSwihdas5XOJ0hmbuuthEq9TAWimDiEA9rMeRH1yJDZtV
+! Version: kh7LXvCR6dzy4IBd0txrO3tgN5q2gnSDHb3E8C5_v3hRUjgf20x982NMsN7tQx-s
 
 ||chameleon.ad^
 ||content.ad^
@@ -20,6 +20,7 @@
 ||a.vdo.ai^
 ||qosp.msg.71.am^
 ||msga.71.am^
+||tru.am^
 ||cashstaging.app^
 ||admotion.com.ar^
 ||bannerlandia.com.ar^
