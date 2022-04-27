@@ -2,7 +2,8 @@
 ! Expires: 2 days
 ! Homepage: https://github.com/PetrichorA/filter-4400e6cd
 ! Description: 自用屏蔽规则（此规则适用于浏览器）
-! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
+! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
+! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
 ! Version: 9WT2g9f6jAp3xO_29aZgiyOEI3TAAipkpZrTxk5W8GAjexPDRZ8N5GME1pTsR4an
 

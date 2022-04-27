@@ -2,9 +2,10 @@
 ! Expires: 2 days
 ! Homepage: https://github.com/PetrichorA/filter-4400e6cd
 ! Description: 自用屏蔽规则
-! Subscribe: https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
+! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
+! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: JqUPObFk3fh4nx9l8NpCcFy6no5ADooNveZiR0TMgUrp-CjdfHcNeHtLTFH_UM8H
+! Version: C9kj8h-6N6lb4Ek0wAslSwihdas5XOJ0hmbuuthEq9TAWimDiEA9rMeRH1yJDZtV
 
 ||chameleon.ad^
 ||content.ad^
@@ -1490,6 +1491,7 @@
 ||static.clmbtech.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
+||a.nel.cloudflare.com^
 ||report-uri.cloudflare.com^
 ||cloudflareinsights.com^
 ||clrstm.com^
