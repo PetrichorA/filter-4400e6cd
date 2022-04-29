@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: kh7LXvCR6dzy4IBd0txrO3tgN5q2gnSDHb3E8C5_v3hRUjgf20x982NMsN7tQx-s
+! Version: _AJ5BvvCfgybQ4D15EHcxWOI5kpmYUU1TnXU8bM6SYs9MHIyfcIp_TU8nKat-LoN
 
 ||chameleon.ad^
 ||content.ad^
@@ -3566,6 +3566,7 @@
 ||stats2.self.com^
 ||sendmepixel.com^
 ||ads.seniorfriendfinder.com^
+||sentry-cdn.com^
 ||separatesilver.com^
 ||serv0.com^
 ||servadsdisrupt.com^
@@ -5025,6 +5026,7 @@
 ||redshell.io^
 ||revlift.io^
 ||segmetrics.io^
+||sentry.io^
 ||simpleanalytics.io^
 ||siteimproveanalytics.io^
 ||smart-traffik.io^
