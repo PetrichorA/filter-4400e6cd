@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ljS0v8g1dQhQFLcaNZ48yMlSn8Y1R0DMzeECd7foODz0tJ37NCFVqgt89OFoQcCg
+! Version: -PFHkxKh3sX18FhrGeQqBBWjI-_mGxC_O35qoc8uXa-RwlOjqnVu_u7Py1tBv3TY
 
 ||chameleon.ad^
 ||content.ad^
@@ -1493,7 +1493,9 @@
 ||cloisteredhydrant.com^
 ||closedcows.com^
 ||a.nel.cloudflare.com^
+||api.radar.cloudflare.com^
 ||report-uri.cloudflare.com^
+||tr.www.cloudflare.com^
 ||cloudflareinsights.com^
 ||clrstm.com^
 ||banners.clubseventeen.com^
@@ -5429,7 +5431,7 @@
 ||lifeimpressions.net^
 ||ads.lifethink.net^
 ||stat.loli.net^
-||munchkin.marketo.net^
+||marketo.net^
 ||maximiser.net^
 ||media.net^
 ||media-servers.net^
