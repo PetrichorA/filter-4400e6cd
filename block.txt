@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: -PFHkxKh3sX18FhrGeQqBBWjI-_mGxC_O35qoc8uXa-RwlOjqnVu_u7Py1tBv3TY
+! Version: m6zCYbllucXvZ-BzLpdqK1y2GXulPN2GJk92GWTXOtydp_bzcskVYHj5pFJWd1d5
 
 ||chameleon.ad^
 ||content.ad^
@@ -1514,6 +1514,7 @@
 ||customad.cnn.com^
 ||metrics.cnn.com^
 ||cnomy.com^
+||cntegrom.com^
 ||cnzz.com^
 ||ads.co.com^
 ||codeadnetwork.com^
@@ -4000,6 +4001,7 @@
 ||teenyvolcano.com^
 ||teethfan.com^
 ||telaria.com^
+||telegramv.com^
 ||myads.telkomsel.com^
 ||temelio.com^
 ||p.tencentmind.com^
