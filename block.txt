@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: m6zCYbllucXvZ-BzLpdqK1y2GXulPN2GJk92GWTXOtydp_bzcskVYHj5pFJWd1d5
+! Version: NkbxkGEuQ-5ASi7--FmmyY7REJ9nmowtlPNuZ294qjXFLVJbNFg7hOiBN1FPwWNJ
 
 ||chameleon.ad^
 ||content.ad^
@@ -2220,6 +2220,8 @@
 ||hswchangdu.com^
 ||htlbid.com^
 ||httpool.com^
+||analysis.huanqiu.com^
+||ipengtai.huanqiu.com^
 ||ads.cloud.huawei.com^
 ||nebula-collector.huawei.com^
 ||hubadnetwork.com^
@@ -5000,6 +5002,7 @@
 ||ethicalads.io^
 ||fabric.io^
 ||firstimpression.io^
+||fmm.io^
 ||fpjs.io^
 ||jsc.idealmedia.io^
 ||s-img.idealmedia.io^
@@ -5681,6 +5684,7 @@
 ||ads.phpclasses.org^
 ||d.pixiv.org^
 ||prebid.org^
+||privacy-center.org^
 ||stats.screenresolution.org^
 ||a.m.shuhuangge.org^
 ||ow.s1.shuhuangge.org^
