@@ -1,0 +1,9 @@
+||log.aliyuncs.com^
+||mcdn.bilivideo.cn^
+||mdt.qq.com^
+||mtrcs.samba.tv^
+||op.hicloud.com^
+||pixel.archive.is^
+||pixel.archive.ph^
+||pixel.archive.vn^
+||stat.xiaomi.com^
