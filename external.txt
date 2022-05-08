@@ -5,6 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/external.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/external.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/external.txt
-! Version: sqXBOWTuTjTSZesx7QHVJwjuavGX_BWkYDfNKVzYoIg--TeWPfDTATknzkRFyQ-x
+! Version: hBmPZG4SQ55iAeJVSlULjTRKrSRO_FQeCGblJqSEMYNqYkmTCHnvlV-pyzuSHy3d
 
-!#include external/TOAFdLPkbFf535bxoKZW1Kc2k7ulUjtC63avVOKbFVUMZYXpKRP4AKlVysy5wcup.txt!#include external/VSdlf0J6pP9hnnFC2DWf90azXwOjaLSwNTjaXk-7xHX8amqOH9_vSJk_WM7gq1OE.txt
+!#include external/TOAFdLPkbFf535bxoKZW1Kc2k7ulUjtC63avVOKbFVUMZYXpKRP4AKlVysy5wcup.txt
+!#include external/VSdlf0J6pP9hnnFC2DWf90azXwOjaLSwNTjaXk-7xHX8amqOH9_vSJk_WM7gq1OE.txt
