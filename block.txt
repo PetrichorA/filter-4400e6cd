@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ArzG6CexMtzMTMc-Ts0rfXAaDO7Q73imdP2wv8WTpw7avRj69OGbjY8rfKk3lapz
+! Version: X1nGeawAPXPTwRsveRe-zBqEfJnlqwDXZ1s4rU46CQltAYBxgQZB3vTl7RjA2KZh
 
 ||chameleon.ad^
 ||content.ad^
@@ -4359,6 +4359,7 @@
 ||banner.webmersion.com^
 ||weborama.com^
 ||webpower.com^
+||webpushr.com^
 ||webreseau.com^
 ||stats.webs.com^
 ||webseoanalytics.com^
