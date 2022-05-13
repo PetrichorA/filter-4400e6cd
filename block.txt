@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: aUInBI9nayCmCfjAEM4Y80hEU-R_E-6rla-i2z0rdu_0Vm-f_DPLIvcb3togr9YN
+! Version: TOJnIg0T8l40cDgv2699jEYtzb8dSG-YPXciUyXWdz8TCaOfVhhjXnz-leldDw6n
 
 ||chameleon.ad^
 ||content.ad^
@@ -3245,9 +3245,7 @@
 ||jspassport.ssl.qhimg.com^
 ||p5.qhmsg.com^
 ||news.qhstatic.com^
-||hs.qhupdate.com^
-||res.qhupdate.com^
-||s.qhupdate.com^
+||qhupdate.com^
 ||static.qianliaowang.com^
 ||click.qianqian.com^
 ||a.qiao024.com^
