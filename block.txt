@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: DkJXhIrEMfS0WPCmMn3W8xGD_xBYJVYtIECp3ISAs9K8yYJRwO2x0phAKz83gJ7D
+! Version: JC6tPCdM8Em8GpKbkG9CTj-OImBSCtHyOGl5qROctAFGaZlX_GEGGoIvpKZKYZXA
 
 ||chameleon.ad^
 ||content.ad^
@@ -2824,6 +2824,7 @@
 ||ex.mobmore.com^
 ||modernpricing.com^
 ||modifyeyes.com^
+||modularmental.com^
 ||affiliate.mogs.com^
 ||adlaunch.moji.com^
 ||ad.api.moji.com^
@@ -2899,6 +2900,7 @@
 ||naturalbid.com^
 ||touchclarity.natwest.com^
 ||navegg.com^
+||nbcuni.com^
 ||ncaudienceexchange.com^
 ||rum.nccgroup-webperf.com^
 ||ads.nccwebs.com^
@@ -2928,7 +2930,7 @@
 ||newbie.com^
 ||ads.newgrounds.com^
 ||newnudecash.com^
-||js-agent.newrelic.com^
+||newrelic.com^
 ||newsadsppush.com^
 ||newsletter-link.com^
 ||newstarads.com^
@@ -4147,6 +4149,7 @@
 ||turboadv.com^
 ||turn.com^
 ||tvmtracker.com^
+||tvsquared.com^
 ||img.twcczhu.com^
 ||click.twcwigs.com^
 ||stats.twistage.com^
