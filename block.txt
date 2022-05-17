@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 9VWI-gYaYNG_7_2OEHqMPXmAWly72eSe_NcEILEbMMipsp9fMzgW15qzAct0TYf_
+! Version: DkJXhIrEMfS0WPCmMn3W8xGD_xBYJVYtIECp3ISAs9K8yYJRwO2x0phAKz83gJ7D
 
 ||chameleon.ad^
 ||content.ad^
@@ -5826,6 +5826,7 @@
 ||adserver.scr.sk^
 ||mas.sector.sk^
 ||ads.webinak.sk^
+||hkfxbbdzib.notion.so^
 ||eversales.space^
 ||pixel.digitru.st^
 ||ad.style^
