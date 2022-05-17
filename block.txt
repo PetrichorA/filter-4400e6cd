@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: TOJnIg0T8l40cDgv2699jEYtzb8dSG-YPXciUyXWdz8TCaOfVhhjXnz-leldDw6n
+! Version: 9VWI-gYaYNG_7_2OEHqMPXmAWly72eSe_NcEILEbMMipsp9fMzgW15qzAct0TYf_
 
 ||chameleon.ad^
 ||content.ad^
@@ -2359,6 +2359,7 @@
 ||ads.intentiq.com^
 ||api.intentiq.com^
 ||sync.intentiq.com^
+||intercomcdn.com^
 ||intergi.com^
 ||internetfuel.com^
 ||inventionpassenger.com^
@@ -2615,6 +2616,7 @@
 ||lockerdome.com^
 ||cdn2.lockerdomecdn.com^
 ||locpub.com^
+||loggly.com^
 ||xtracker.logimeter.com^
 ||logsss.com^
 ||logua.com^
@@ -5011,6 +5013,7 @@
 ||s-img.idealmedia.io^
 ||servicer.idealmedia.io^
 ||intentsify.io^
+||intercom.io^
 ||events.jianshu.io^
 ||litix.io^
 ||logrocket.io^
@@ -5803,6 +5806,7 @@
 ||mc.yandex.ru^
 ||zen.yandex.ru^
 ||matomo.zwetok.ru^
+||sts.dev.sb^
 ||stat.u.sb^
 ||blogtoplist.se^
 ||stat.cliche.se^
