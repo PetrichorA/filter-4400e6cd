@@ -1,11 +1,10 @@
-! Title: filter-4400e6cd / block!!nebulo
-! Expires: 2 days
-! Homepage: https://github.com/PetrichorA/filter-4400e6cd
-! Description: 自用屏蔽规则
-! Subscribe: https://filter-4400e6cd.pages.dev/block!!nebulo.txt
-! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block!!nebulo.txt
-! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block!!nebulo.txt
-! Version: 8ahbSugdg98ZnO4E_5pidGFMWK2XMp6gDQvEgU6vF5fQjSx6Mp0pE-qhQcP6cq7b
+# Title: filter-4400e6cd / block!!nebulo
+# Homepage: https://github.com/PetrichorA/filter-4400e6cd
+# Description: 自用屏蔽规则（此规则适用于 Nebulo）
+# Subscribe: https://filter-4400e6cd.pages.dev/block!!nebulo.txt
+# Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block!!nebulo.txt
+# Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block!!nebulo.txt
+# Version: 8ahbSugdg98ZnO4E_5pidGFMWK2XMp6gDQvEgU6vF5fQjSx6Mp0pE-qhQcP6cq7b
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
