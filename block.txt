@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: JC6tPCdM8Em8GpKbkG9CTj-OImBSCtHyOGl5qROctAFGaZlX_GEGGoIvpKZKYZXA
+! Version: VehWBdjVZS4_uveCEYe6Cvku17Or0YovGZya5y6FO5z4LuVkNKP3GJQChdhKSjtp
 
 ||chameleon.ad^
 ||content.ad^
@@ -5017,6 +5017,7 @@
 ||servicer.idealmedia.io^
 ||intentsify.io^
 ||intercom.io^
+||pixel.ipinfo.io^
 ||events.jianshu.io^
 ||litix.io^
 ||logrocket.io^
@@ -5321,6 +5322,7 @@
 ||d3v1lb83psg9di.cloudfront.net^
 ||d5nxst8fruw4z.cloudfront.net^
 ||djv99sxoqpv11.cloudfront.net^
+||dna8twue3dlxq.cloudfront.net^
 ||pcookie.cnzz.net^
 ||pxl.connexity.net^
 ||a.consumer.net^

@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: 8ahbSugdg98ZnO4E_5pidGFMWK2XMp6gDQvEgU6vF5fQjSx6Mp0pE-qhQcP6cq7b
+# Version: c30GTQMHYImZhL5ePDX4LPlxFbt86cAjiLFfBMxIDV9ourt9EyQQKQ_0ghLCbgXi
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -10026,6 +10026,8 @@
 0.0.0.0	**.intentsify.io
 0.0.0.0	intercom.io
 0.0.0.0	**.intercom.io
+0.0.0.0	pixel.ipinfo.io
+0.0.0.0	**.pixel.ipinfo.io
 0.0.0.0	events.jianshu.io
 0.0.0.0	**.events.jianshu.io
 0.0.0.0	litix.io
@@ -10634,6 +10636,8 @@
 0.0.0.0	**.d5nxst8fruw4z.cloudfront.net
 0.0.0.0	djv99sxoqpv11.cloudfront.net
 0.0.0.0	**.djv99sxoqpv11.cloudfront.net
+0.0.0.0	dna8twue3dlxq.cloudfront.net
+0.0.0.0	**.dna8twue3dlxq.cloudfront.net
 0.0.0.0	pcookie.cnzz.net
 0.0.0.0	**.pcookie.cnzz.net
 0.0.0.0	pxl.connexity.net
