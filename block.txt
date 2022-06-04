@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: fkvMXbKSC_wTvE-k7rXPGfUj6b7NNXx8Mba-v-G-1aPAXZQu58HAjBEoHZyGymuu
+! Version: ylrFsgbe10eijKK556NXmEKKszIc76BsFGsSQCaFWaMt5htJHqSSWnO_fzw8OOIO
 
 ||chameleon.ad^
 ||content.ad^
@@ -1641,6 +1641,8 @@
 ||decisiveducks.com^
 ||decoycreation.com^
 ||deepintent.com^
+||s.deepl.com^
+||sentry.deepl.com^
 ||defectivesun.com^
 ||web2.deja.com^
 ||gp.dejanews.com^
