@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: 0hnalQ23sxmr5iPZbCIIh9jeoUdUDJr7A2svrNT9Y10fHuK_TbQ7amIYN5B8m3rm
+# Version: PsIW19FrgIBl2RgjXUNmuMDjcaT-twd0_ein0WH-6-7jHS9dosXiqjN2abHYzGvi
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
@@ -38,6 +38,7 @@
 104.20.10.218	h.pincong.rocks
 104.20.10.218	initium.eu.org
 104.20.10.218	ipfs.fleek.co
+104.20.10.218	ipv6.ip.sb
 104.20.10.218	lab.skk.moe
 104.20.10.218	matrix-client.matrix.org
 104.20.10.218	matrix.org
@@ -56,6 +57,7 @@
 104.20.10.218	rdns-104-20-10-218.cloudflare-dns.com
 104.20.10.218	rsf.org
 104.20.10.218	rsshub.app
+104.20.10.218	s3.rsb.net
 104.20.10.218	soha.moe
 104.20.10.218	sparrow.cloudflare.com
 104.20.10.218	static.opensea.io
@@ -85,6 +87,7 @@
 104.20.9.218	blog.baoshuo.ren
 104.20.9.218	blog.cloudflare.com
 104.20.9.218	blog.skk.moe
+104.20.9.218	cdn.rsb.net
 104.20.9.218	cdn2.nsfw.xxx
 104.20.9.218	cdnjs.loli.net
 104.20.9.218	cf-assets.hcaptcha.com
@@ -108,9 +111,11 @@
 104.20.9.218	iframe.videodelivery.net
 104.20.9.218	images-ext-2.discordapp.net
 104.20.9.218	img.shields.io
+104.20.9.218	ip.sb
 104.20.9.218	ip.skk.moe
 104.20.9.218	ipfs2arweave.com
 104.20.9.218	matrix.to
+104.20.9.218	newassets.hcaptcha.com
 104.20.9.218	noc.one
 104.20.9.218	node4.mkdmirror.workers.dev
 104.20.9.218	opensea.io
@@ -118,6 +123,7 @@
 104.20.9.218	radar.cloudflare.com
 104.20.9.218	ras.uaxk.com
 104.20.9.218	rdns-104-20-9-218.cloudflare-dns.com
+104.20.9.218	sb.sb
 104.20.9.218	shou.si
 104.20.9.218	skk.moe
 104.20.9.218	sm.ms
@@ -157,6 +163,7 @@
 172.67.3.188	cf-threat.sukkaw.com
 172.67.3.188	cloudflare-dns.com
 172.67.3.188	cloudflare-quic.com
+172.67.3.188	cloudflare.hcaptcha.com
 172.67.3.188	cloudflaremirrors.com
 172.67.3.188	codeforces.org
 172.67.3.188	combinatronics.io
@@ -167,11 +174,14 @@
 172.67.3.188	getbootstrap.com
 172.67.3.188	gitcdn.link
 172.67.3.188	gitcdn.xyz
+172.67.3.188	gstatic.rsb.net
 172.67.3.188	hub.textile.io
 172.67.3.188	i-cf.pximg.net
 172.67.3.188	imagedelivery.net
 172.67.3.188	images-ext-1.discordapp.net
 172.67.3.188	img.skk.moe
+172.67.3.188	ip.gs
+172.67.3.188	ipv4.ip.sb
 172.67.3.188	iqdns.xyz
 172.67.3.188	isab.pages.dev
 172.67.3.188	js.org
@@ -224,3 +234,4 @@
 220.181.174.98	maps.google.cn
 220.185.167.251	at.alicdn.com
 64.52.84.68	pandownload.com
+8.132.50.251	g.alicdn.com

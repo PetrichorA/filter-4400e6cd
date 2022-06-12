@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: FaLk7-W_Bfb0GsX6GaFJ1m6sRI7zmNMh6mzHyZGa8NXhRCs3zaezP-aSMkuzGN18
+# Version: KZ6XY-Zdri1qWBNdEKcKIvyZrJc-7TPPQWSkzd5WaQMd9gqYznKKYVy9r4Cpg4AB
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -1168,12 +1168,12 @@
 0.0.0.0	**.addfreestats.com
 0.0.0.0	addme.com
 0.0.0.0	**.addme.com
-0.0.0.0	m.addthis.com
-0.0.0.0	**.m.addthis.com
-0.0.0.0	s7.addthis.com
-0.0.0.0	**.s7.addthis.com
-0.0.0.0	v1.addthisedge.com
-0.0.0.0	**.v1.addthisedge.com
+0.0.0.0	addthis.com
+0.0.0.0	**.addthis.com
+0.0.0.0	addthisedge.com
+0.0.0.0	**.addthisedge.com
+0.0.0.0	addtoany.com
+0.0.0.0	**.addtoany.com
 0.0.0.0	adecn.com
 0.0.0.0	**.adecn.com
 0.0.0.0	adeimptrck.com

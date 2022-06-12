@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: J6dDJTcd9fiMGYjEmvZu4rRqVV8D3mod7lJqfxFZfsoIt6kPHvONRw8nIawmLQRo
+! Version: fEgowNOBsBulr1Iswk7rp0rv-zF9sAeljRu3Y34_XCYXXw-9Pj82ODbt_wr9oLL_
 
 ||chameleon.ad^
 ||content.ad^
@@ -588,9 +588,9 @@
 ||vod.addevweb.com^
 ||addfreestats.com^
 ||addme.com^
-||m.addthis.com^
-||s7.addthis.com^
-||v1.addthisedge.com^
+||addthis.com^
+||addthisedge.com^
+||addtoany.com^
 ||adecn.com^
 ||adeimptrck.com^
 ||ademails.com^
