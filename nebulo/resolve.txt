@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: PsIW19FrgIBl2RgjXUNmuMDjcaT-twd0_ein0WH-6-7jHS9dosXiqjN2abHYzGvi
+# Version: QI0W7FylHq3_fWRgjnLZOgTSl1fqQU5Lx7hWVE43tZ9iNAdrsC-ASkpQY9hPpRHx
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
@@ -17,6 +17,7 @@
 104.20.10.218	captcha.sukkaw.com
 104.20.10.218	cdn.discordapp.com
 104.20.10.218	cdn.nsfw.xxx
+104.20.10.218	cdn.plyr.io
 104.20.10.218	cdn.skk.moe
 104.20.10.218	cdn4.nsfw.xxx
 104.20.10.218	cdnjs.com
@@ -105,6 +106,7 @@
 104.20.9.218	gates.cloudflare.com
 104.20.9.218	gateway.discord.gg
 104.20.9.218	getapp.com
+104.20.9.218	gh.ddlc.top
 104.20.9.218	glyph.medium.com
 104.20.9.218	i.loli.net
 104.20.9.218	i.v2ex.co
@@ -167,11 +169,14 @@
 172.67.3.188	cloudflaremirrors.com
 172.67.3.188	codeforces.org
 172.67.3.188	combinatronics.io
+172.67.3.188	dark-pine-f6e5.b-downloader.workers.dev
 172.67.3.188	datatracker.ietf.org
 172.67.3.188	deepl.com
 172.67.3.188	dict.deepl.com
 172.67.3.188	embed.cloudflarestream.com
 172.67.3.188	getbootstrap.com
+172.67.3.188	gh.gh2233.ml
+172.67.3.188	gh2.yanqishui.work
 172.67.3.188	gitcdn.link
 172.67.3.188	gitcdn.xyz
 172.67.3.188	gstatic.rsb.net
