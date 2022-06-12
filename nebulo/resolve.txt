@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: sjB3ODDPaT4ntUAqUowKHLP4_ntvGtSCdZoVvofGTscZNTC7pz9lULsPOoa_UNKH
+# Version: 0hnalQ23sxmr5iPZbCIIh9jeoUdUDJr7A2svrNT9Y10fHuK_TbQ7amIYN5B8m3rm
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
@@ -208,6 +208,7 @@
 172.67.3.188	web3-storage.mypinata.cloud
 172.67.3.188	www.chinadigitaltimes.net
 172.67.3.188	www.cloudflare-ipfs.com
+172.67.3.188	www.datacenterdynamics.com
 172.67.3.188	www.deepl.com
 172.67.3.188	www.digitalocean.com
 172.67.3.188	www.matrix.org

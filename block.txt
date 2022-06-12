@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: mMzbbwiebS7iT0y7FVqycVCubPaeK42fBYYxvIHf5t4HNkyIFevcz0vEyJFJSUEH
+! Version: J6dDJTcd9fiMGYjEmvZu4rRqVV8D3mod7lJqfxFZfsoIt6kPHvONRw8nIawmLQRo
 
 ||chameleon.ad^
 ||content.ad^
@@ -5378,6 +5378,7 @@
 ||evyy.net^
 ||eyeota.net^
 ||g.ezoic.net^
+||connect.facebook.net^
 ||fastapi.net^
 ||fastclick.net^
 ||csp.global.ssl.fastly.net^

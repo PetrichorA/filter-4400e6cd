@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: ls4TFotxac6BeBqRzwKs01p7BFZQLRemoEDjydKRzT3rGIQTyR2Xo2SwU043qyuR
+# Version: FaLk7-W_Bfb0GsX6GaFJ1m6sRI7zmNMh6mzHyZGa8NXhRCs3zaezP-aSMkuzGN18
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -10748,6 +10748,8 @@
 0.0.0.0	**.eyeota.net
 0.0.0.0	g.ezoic.net
 0.0.0.0	**.g.ezoic.net
+0.0.0.0	connect.facebook.net
+0.0.0.0	**.connect.facebook.net
 0.0.0.0	fastapi.net
 0.0.0.0	**.fastapi.net
 0.0.0.0	fastclick.net
