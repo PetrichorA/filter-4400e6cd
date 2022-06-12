@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: jNsrITwDR9_lqMDadbUyZFmYiEOsOXh8j9RTa5_DlErEQJpd8k0a3Nz0oOWFne-0
+# Version: ls4TFotxac6BeBqRzwKs01p7BFZQLRemoEDjydKRzT3rGIQTyR2Xo2SwU043qyuR
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -5174,6 +5174,8 @@
 0.0.0.0	**.linkbuddies.com
 0.0.0.0	ads.linkedin.com
 0.0.0.0	**.ads.linkedin.com
+0.0.0.0	platform.linkedin.com
+0.0.0.0	**.platform.linkedin.com
 0.0.0.0	analytics.pointdrive.linkedin.com
 0.0.0.0	**.analytics.pointdrive.linkedin.com
 0.0.0.0	linkexchange.com
