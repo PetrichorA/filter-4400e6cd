@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: OXABv5Q9qEZFG2oOBu1bBgFmqbPIZ45q_SeJWT-RKPfvKrHODBNZcnGfX51S2aSC
+# Version: DFUAavirM3e__hllNCpI4LdmOWu83ZAAEvPwpqUYSlhxe8ne008-CsBlLjD8BbJU
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -11050,6 +11050,8 @@
 0.0.0.0	**.ad.sinahk.net
 0.0.0.0	smartclip.net
 0.0.0.0	**.smartclip.net
+0.0.0.0	ccpa.sp-prod.net
+0.0.0.0	**.ccpa.sp-prod.net
 0.0.0.0	specially4u.net
 0.0.0.0	**.specially4u.net
 0.0.0.0	sportsad.net

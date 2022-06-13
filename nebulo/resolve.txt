@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: HKy381MKXpdY_oNsFrk9P759gSbo7iYwhnXOkXPUnT4ip8PJVaU3PmxSyTu6wIML
+# Version: qh6wfOVl968Tik4Cu5OA3oKAnjRIXQk75j7rASV-6pXsSOteF6aVyCQKDaWxvjFo
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
@@ -76,6 +76,7 @@
 104.20.10.218	tr.highstar.shop
 104.20.10.218	tr.torland.ga
 104.20.10.218	tracker.lilithraws.cf
+104.20.10.218	traffic.omny.fm
 104.20.10.218	ublockorigin.pages.dev
 104.20.10.218	us.v2ex.com
 104.20.10.218	uuu.glass
@@ -93,6 +94,7 @@
 104.20.9.218	ajax.loli.net
 104.20.9.218	api.cloudflare.com
 104.20.9.218	api.magic.link
+104.20.9.218	arch-mirror.wtako.net
 104.20.9.218	blockchain-tools.pages.dev
 104.20.9.218	blog.baoshuo.ren
 104.20.9.218	blog.cloudflare.com
