@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: qh6wfOVl968Tik4Cu5OA3oKAnjRIXQk75j7rASV-6pXsSOteF6aVyCQKDaWxvjFo
+# Version: d96-dX0BN4-vfXlRni09USJZaXQvJOXi4dE-eJwOupnyaK3tF4MDiXkNnD8ezfXe
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
@@ -25,12 +25,14 @@
 104.20.10.218	cdn.skk.moe
 104.20.10.218	cdn4.nsfw.xxx
 104.20.10.218	cdnjs.com
+104.20.10.218	centos.mirror.noc.one
 104.20.10.218	chinadigitaltimes.net
 104.20.10.218	chrome.cloudflare-dns.com
 104.20.10.218	cloudflare-eth.com
 104.20.10.218	cloudflare-ipfs.com
 104.20.10.218	cloudflarestream.com
 104.20.10.218	coolshell.cn
+104.20.10.218	cybergorillas.mypinata.cloud
 104.20.10.218	dash.cloudflare.com
 104.20.10.218	discord.com
 104.20.10.218	docs.joinmastodon.org
@@ -46,6 +48,7 @@
 104.20.10.218	initium.eu.org
 104.20.10.218	ipfs.fleek.co
 104.20.10.218	ipv6.ip.sb
+104.20.10.218	kernel-ubuntu.proxy.noc.one
 104.20.10.218	lab.skk.moe
 104.20.10.218	matrix-client.matrix.org
 104.20.10.218	matrix.org
@@ -61,6 +64,7 @@
 104.20.10.218	pastebin.com
 104.20.10.218	pixiv.net
 104.20.10.218	purge.jsdelivr.net
+104.20.10.218	qqwry.mirror.noc.one
 104.20.10.218	rdns-104-20-10-218.cloudflare-dns.com
 104.20.10.218	rsf.org
 104.20.10.218	rsshub.app
@@ -95,6 +99,7 @@
 104.20.9.218	api.cloudflare.com
 104.20.9.218	api.magic.link
 104.20.9.218	arch-mirror.wtako.net
+104.20.9.218	archlinux.mirror.noc.one
 104.20.9.218	blockchain-tools.pages.dev
 104.20.9.218	blog.baoshuo.ren
 104.20.9.218	blog.cloudflare.com
@@ -111,6 +116,7 @@
 104.20.9.218	currency.world
 104.20.9.218	d3js.org
 104.20.9.218	developers.cloudflare.com
+104.20.9.218	deviants.mypinata.cloud
 104.20.9.218	docs.rsshub.app
 104.20.9.218	e-hentai.org
 104.20.9.218	firefox.cloudflare-dns.com
@@ -121,6 +127,7 @@
 104.20.9.218	gh.ddlc.top
 104.20.9.218	gitbook.com
 104.20.9.218	glyph.medium.com
+104.20.9.218	hiddengateway.mypinata.cloud
 104.20.9.218	huacloud.dev
 104.20.9.218	i.loli.net
 104.20.9.218	i.v2ex.co
@@ -138,12 +145,15 @@
 104.20.9.218	opensea.io
 104.20.9.218	origin.codeforc.es
 104.20.9.218	ouo.wxw.moe
+104.20.9.218	pythnetwork.mypinata.cloud
 104.20.9.218	qqwry.api.skk.moe
 104.20.9.218	radar.cloudflare.com
 104.20.9.218	ras.uaxk.com
+104.20.9.218	ratsnft.mypinata.cloud
 104.20.9.218	rdns-104-20-9-218.cloudflare-dns.com
 104.20.9.218	sb.sb
 104.20.9.218	shou.si
+104.20.9.218	shufflemint.mypinata.cloud
 104.20.9.218	skk.moe
 104.20.9.218	sm.ms
 104.20.9.218	status.discord.com
@@ -153,6 +163,7 @@
 104.20.9.218	torrindex.net
 104.20.9.218	tracker.kuroy.me
 104.20.9.218	tracker.yarr.pt
+104.20.9.218	ubuntu.mirror.noc.one
 104.20.9.218	unpkg.com
 104.20.9.218	use.fontawesome.com
 104.20.9.218	v2ex.com
@@ -173,6 +184,7 @@
 172.65.251.78	gitlab.com
 172.67.3.188	api.blog.cloudflare.com
 172.67.3.188	api.ip.sb
+172.67.3.188	api.nftstorage.link
 172.67.3.188	api.opensea.io
 172.67.3.188	api.web3.storage
 172.67.3.188	app.element.io
@@ -180,6 +192,7 @@
 172.67.3.188	cdn.v2ex.com
 172.67.3.188	cdnjs.cloudflare.com
 172.67.3.188	cdnjs.rsb.net
+172.67.3.188	cf-ipfs.com
 172.67.3.188	cf-threat.sukkaw.com
 172.67.3.188	client.crisp.chat
 172.67.3.188	cloudflare-dns.com
@@ -190,9 +203,11 @@
 172.67.3.188	codeforces.ml
 172.67.3.188	codeforces.org
 172.67.3.188	combinatronics.io
+172.67.3.188	csd.mypinata.cloud
 172.67.3.188	dark-pine-f6e5.b-downloader.workers.dev
 172.67.3.188	datatracker.ietf.org
 172.67.3.188	ddnet.tw
+172.67.3.188	debian.mirror.noc.one
 172.67.3.188	deepl.com
 172.67.3.188	dict.deepl.com
 172.67.3.188	embed.cloudflarestream.com
@@ -216,14 +231,18 @@
 172.67.3.188	issitedownrightnow.com
 172.67.3.188	jp.v2ex.com
 172.67.3.188	js.org
+172.67.3.188	launchpad.proxy.noc.one
 172.67.3.188	lo-li.cn
 172.67.3.188	loph.notion.site
 172.67.3.188	media.biplus.date
 172.67.3.188	medium.com
 172.67.3.188	miro.medium.com
+172.67.3.188	mirrors.noc.one
 172.67.3.188	msedge.cloudflare-dns.com
 172.67.3.188	mstdn.jp
 172.67.3.188	neko.ci
+172.67.3.188	nft.storage
+172.67.3.188	nftstorage.link
 172.67.3.188	node1.mkdmirror.workers.dev
 172.67.3.188	nodejs.org
 172.67.3.188	nsfw.xxx
