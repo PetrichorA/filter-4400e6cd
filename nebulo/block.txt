@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: KZ6XY-Zdri1qWBNdEKcKIvyZrJc-7TPPQWSkzd5WaQMd9gqYznKKYVy9r4Cpg4AB
+# Version: OXABv5Q9qEZFG2oOBu1bBgFmqbPIZ45q_SeJWT-RKPfvKrHODBNZcnGfX51S2aSC
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -1302,32 +1302,6 @@
 0.0.0.0	**.adnxs.com
 0.0.0.0	adnxs-simple.com
 0.0.0.0	**.adnxs-simple.com
-0.0.0.0	acdn.adnxs.com
-0.0.0.0	**.acdn.adnxs.com
-0.0.0.0	admeld.adnxs.com
-0.0.0.0	**.admeld.adnxs.com
-0.0.0.0	cdn.adnxs.com
-0.0.0.0	**.cdn.adnxs.com
-0.0.0.0	fim.adnxs.com
-0.0.0.0	**.fim.adnxs.com
-0.0.0.0	g.adnxs.com
-0.0.0.0	**.g.adnxs.com
-0.0.0.0	gam.adnxs.com
-0.0.0.0	**.gam.adnxs.com
-0.0.0.0	ib.adnxs.com
-0.0.0.0	**.ib.adnxs.com
-0.0.0.0	ibn.adnxs.com
-0.0.0.0	**.ibn.adnxs.com
-0.0.0.0	m.adnxs.com
-0.0.0.0	**.m.adnxs.com
-0.0.0.0	photobucket.adnxs.com
-0.0.0.0	**.photobucket.adnxs.com
-0.0.0.0	secure.adnxs.com
-0.0.0.0	**.secure.adnxs.com
-0.0.0.0	secure-sin.adnxs.com
-0.0.0.0	**.secure-sin.adnxs.com
-0.0.0.0	ym.adnxs.com
-0.0.0.0	**.ym.adnxs.com
 0.0.0.0	adnyg.com
 0.0.0.0	**.adnyg.com
 0.0.0.0	adonspot.com
@@ -1788,10 +1762,10 @@
 0.0.0.0	**.logs.amap.com
 0.0.0.0	amazingcounters.com
 0.0.0.0	**.amazingcounters.com
-0.0.0.0	amazon-adsystem.com
-0.0.0.0	**.amazon-adsystem.com
 0.0.0.0	aax-eu-dub.amazon.com
 0.0.0.0	**.aax-eu-dub.amazon.com
+0.0.0.0	amazon-adsystem.com
+0.0.0.0	**.amazon-adsystem.com
 0.0.0.0	admarvel.s3.amazonaws.com
 0.0.0.0	**.admarvel.s3.amazonaws.com
 0.0.0.0	adzerk.s3.amazonaws.com
@@ -2026,10 +2000,10 @@
 0.0.0.0	**.rum.azion.com
 0.0.0.0	li.azstarnet.com
 0.0.0.0	**.li.azstarnet.com
-0.0.0.0	banners.babylon-x.com
-0.0.0.0	**.banners.babylon-x.com
 0.0.0.0	affiliates.babylon.com
 0.0.0.0	**.affiliates.babylon.com
+0.0.0.0	banners.babylon-x.com
+0.0.0.0	**.banners.babylon-x.com
 0.0.0.0	backbeatmedia.com
 0.0.0.0	**.backbeatmedia.com
 0.0.0.0	promo.badoink.com
@@ -2086,8 +2060,6 @@
 0.0.0.0	**.cpu.baidu.com
 0.0.0.0	cpu-admin.baidu.com
 0.0.0.0	**.cpu-admin.baidu.com
-0.0.0.0	api.cpu.baidu.com
-0.0.0.0	**.api.cpu.baidu.com
 0.0.0.0	cpucdn.baidu.com
 0.0.0.0	**.cpucdn.baidu.com
 0.0.0.0	crab.baidu.com
@@ -3014,10 +2986,10 @@
 0.0.0.0	**.cmvrclicks000.com
 0.0.0.0	sp3.cndm.com
 0.0.0.0	**.sp3.cndm.com
-0.0.0.0	collector-dev.cdp-dev.cnn.com
-0.0.0.0	**.collector-dev.cdp-dev.cnn.com
 0.0.0.0	collector.cdp.cnn.com
 0.0.0.0	**.collector.cdp.cnn.com
+0.0.0.0	collector-dev.cdp-dev.cnn.com
+0.0.0.0	**.collector-dev.cdp-dev.cnn.com
 0.0.0.0	customad.cnn.com
 0.0.0.0	**.customad.cnn.com
 0.0.0.0	metrics.cnn.com
@@ -4100,12 +4072,12 @@
 0.0.0.0	**.glossysense.com
 0.0.0.0	ads.gmodules.com
 0.0.0.0	**.ads.gmodules.com
-0.0.0.0	analytics.ext.go-tellm.com
-0.0.0.0	**.analytics.ext.go-tellm.com
 0.0.0.0	adimages.go.com
 0.0.0.0	**.adimages.go.com
 0.0.0.0	adsatt.espn.go.com
 0.0.0.0	**.adsatt.espn.go.com
+0.0.0.0	analytics.ext.go-tellm.com
+0.0.0.0	**.analytics.ext.go-tellm.com
 0.0.0.0	go2affise.com
 0.0.0.0	**.go2affise.com
 0.0.0.0	i1.go2yd.com
@@ -4130,8 +4102,6 @@
 0.0.0.0	**.promotion.gomlab.com
 0.0.0.0	gondolagnome.com
 0.0.0.0	**.gondolagnome.com
-0.0.0.0	google-analytics.com
-0.0.0.0	**.google-analytics.com
 0.0.0.0	ads.google.com
 0.0.0.0	**.ads.google.com
 0.0.0.0	adservice.google.com
@@ -4152,6 +4122,8 @@
 0.0.0.0	**.mail-ads.google.com
 0.0.0.0	video-stats.video.google.com
 0.0.0.0	**.video-stats.video.google.com
+0.0.0.0	google-analytics.com
+0.0.0.0	**.google-analytics.com
 0.0.0.0	googleadservices.com
 0.0.0.0	**.googleadservices.com
 0.0.0.0	googleanalytics.com
@@ -4954,10 +4926,10 @@
 0.0.0.0	**.kesmatic.com
 0.0.0.0	kindads.com
 0.0.0.0	**.kindads.com
-0.0.0.0	cloudservice13.kingsoft-office-service.com
-0.0.0.0	**.cloudservice13.kingsoft-office-service.com
 0.0.0.0	counter.kingsoft.com
 0.0.0.0	**.counter.kingsoft.com
+0.0.0.0	cloudservice13.kingsoft-office-service.com
+0.0.0.0	**.cloudservice13.kingsoft-office-service.com
 0.0.0.0	ads.kinxxx.com
 0.0.0.0	**.ads.kinxxx.com
 0.0.0.0	kissmetrics.com
@@ -5488,8 +5460,6 @@
 0.0.0.0	**.pcvideoyd.titan.mgtv.com
 0.0.0.0	pcweb.v1.mgtv.com
 0.0.0.0	**.pcweb.v1.mgtv.com
-0.0.0.0	ssl-cdn.static.browser.mi-img.com
-0.0.0.0	**.ssl-cdn.static.browser.mi-img.com
 0.0.0.0	staging.admin.e.mi.com
 0.0.0.0	**.staging.admin.e.mi.com
 0.0.0.0	migc.g.mi.com
@@ -5508,6 +5478,8 @@
 0.0.0.0	**.sg.a.stat.mi.com
 0.0.0.0	a.union.mi.com
 0.0.0.0	**.a.union.mi.com
+0.0.0.0	ssl-cdn.static.browser.mi-img.com
+0.0.0.0	**.ssl-cdn.static.browser.mi-img.com
 0.0.0.0	pptv.m.cn.miaozhen.com
 0.0.0.0	**.pptv.m.cn.miaozhen.com
 0.0.0.0	ads.miarroba.com
@@ -10906,12 +10878,6 @@
 0.0.0.0	**.media.net
 0.0.0.0	media-servers.net
 0.0.0.0	**.media-servers.net
-0.0.0.0	adservetx.media.net
-0.0.0.0	**.adservetx.media.net
-0.0.0.0	contextual.media.net
-0.0.0.0	**.contextual.media.net
-0.0.0.0	hbx.media.net
-0.0.0.0	**.hbx.media.net
 0.0.0.0	player.mediabong.net
 0.0.0.0	**.player.mediabong.net
 0.0.0.0	utils.mediageneral.net

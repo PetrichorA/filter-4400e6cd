@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: fEgowNOBsBulr1Iswk7rp0rv-zF9sAeljRu3Y34_XCYXXw-9Pj82ODbt_wr9oLL_
+! Version: S7oBwZ_c3H5cnjDRfMcnOGLLCTNYKsKB9JF3LIDKgixNILfQkA8udRIdUGDjN0qe
 
 ||chameleon.ad^
 ||content.ad^
@@ -655,19 +655,6 @@
 ||adnotbad.com^
 ||adnxs.com^
 ||adnxs-simple.com^
-||acdn.adnxs.com^
-||admeld.adnxs.com^
-||cdn.adnxs.com^
-||fim.adnxs.com^
-||g.adnxs.com^
-||gam.adnxs.com^
-||ib.adnxs.com^
-||ibn.adnxs.com^
-||m.adnxs.com^
-||photobucket.adnxs.com^
-||secure.adnxs.com^
-||secure-sin.adnxs.com^
-||ym.adnxs.com^
 ||adnyg.com^
 ||adonspot.com^
 ||adoric-om.com^
@@ -898,8 +885,8 @@
 ||dualstack-logs.amap.com^
 ||logs.amap.com^
 ||amazingcounters.com^
-||amazon-adsystem.com^
 ||aax-eu-dub.amazon.com^
+||amazon-adsystem.com^
 ||admarvel.s3.amazonaws.com^
 ||adzerk.s3.amazonaws.com^
 ||alexa-sitestats.s3.amazonaws.com^
@@ -1017,8 +1004,8 @@
 ||q.azcentral.com^
 ||rum.azion.com^
 ||li.azstarnet.com^
-||banners.babylon-x.com^
 ||affiliates.babylon.com^
+||banners.babylon-x.com^
 ||backbeatmedia.com^
 ||promo.badoink.com^
 ||a.baidu.com^
@@ -1047,7 +1034,6 @@
 ||cpro.baidu.com^
 ||cpu.baidu.com^
 ||cpu-admin.baidu.com^
-||api.cpu.baidu.com^
 ||cpucdn.baidu.com^
 ||crab.baidu.com^
 ||crs.baidu.com^
@@ -1511,8 +1497,8 @@
 ||cookies.cmpnet.com^
 ||cmvrclicks000.com^
 ||sp3.cndm.com^
-||collector-dev.cdp-dev.cnn.com^
 ||collector.cdp.cnn.com^
+||collector-dev.cdp-dev.cnn.com^
 ||customad.cnn.com^
 ||metrics.cnn.com^
 ||cnomy.com^
@@ -2054,9 +2040,9 @@
 ||globus-inter.com^
 ||glossysense.com^
 ||ads.gmodules.com^
-||analytics.ext.go-tellm.com^
 ||adimages.go.com^
 ||adsatt.espn.go.com^
+||analytics.ext.go-tellm.com^
 ||go2affise.com^
 ||i1.go2yd.com^
 ||rl.go2yd.com^
@@ -2069,7 +2055,6 @@
 ||playinfo.gomlab.com^
 ||promotion.gomlab.com^
 ||gondolagnome.com^
-||google-analytics.com^
 ||ads.google.com^
 ||adservice.google.com^
 ||analytics.google.com^
@@ -2080,6 +2065,7 @@
 ||www-google-analytics.l.google.com^
 ||mail-ads.google.com^
 ||video-stats.video.google.com^
+||google-analytics.com^
 ||googleadservices.com^
 ||googleanalytics.com^
 ||clientmetrics-pa.googleapis.com^
@@ -2481,8 +2467,8 @@
 ||ads.kelbymediagroup.com^
 ||kesmatic.com^
 ||kindads.com^
-||cloudservice13.kingsoft-office-service.com^
 ||counter.kingsoft.com^
+||cloudservice13.kingsoft-office-service.com^
 ||ads.kinxxx.com^
 ||kissmetrics.com^
 ||p.kjwx8.com^
@@ -2748,7 +2734,6 @@
 ||pcvideoaliyun.titan.mgtv.com^
 ||pcvideoyd.titan.mgtv.com^
 ||pcweb.v1.mgtv.com^
-||ssl-cdn.static.browser.mi-img.com^
 ||staging.admin.e.mi.com^
 ||migc.g.mi.com^
 ||migcreport.g.mi.com^
@@ -2758,6 +2743,7 @@
 ||api.jr.mi.com^
 ||sg.a.stat.mi.com^
 ||a.union.mi.com^
+||ssl-cdn.static.browser.mi-img.com^
 ||pptv.m.cn.miaozhen.com^
 ||ads.miarroba.com^
 ||contadores.miarroba.com^
@@ -5457,9 +5443,6 @@
 ||maximiser.net^
 ||media.net^
 ||media-servers.net^
-||adservetx.media.net^
-||contextual.media.net^
-||hbx.media.net^
 ||player.mediabong.net^
 ||utils.mediageneral.net^
 ||meetrics.net^

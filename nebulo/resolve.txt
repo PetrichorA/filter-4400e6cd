@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: QI0W7FylHq3_fWRgjnLZOgTSl1fqQU5Lx7hWVE43tZ9iNAdrsC-ASkpQY9hPpRHx
+# Version: DXk3NofEtcM9qqwDZdL6qcirJFtg49CAMr_1TO43IFP1cOJZJWUH2SaZnip9LRHM
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
@@ -167,6 +167,7 @@
 172.67.3.188	cloudflare-quic.com
 172.67.3.188	cloudflare.hcaptcha.com
 172.67.3.188	cloudflaremirrors.com
+172.67.3.188	codeforces.ml
 172.67.3.188	codeforces.org
 172.67.3.188	combinatronics.io
 172.67.3.188	dark-pine-f6e5.b-downloader.workers.dev
