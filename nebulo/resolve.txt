@@ -4,13 +4,14 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: PUZYg4b_SQXBF45GNWPPbRAoGdQoRPAC1M2jjnBJbIC_LhqC6_67CBcmvlc3LF0K
+# Version: dv1XH_kRATC3eAdZ_eSh3m38Z8fy_rFBKolODluV23znFG-Bzzp44GTbu8m0pAFv
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
 104.20.10.218	api.cdnjs.com
 104.20.10.218	api.moneroocean.stream
 104.20.10.218	api.skk.moe
+104.20.10.218	app.gitbook.com
 104.20.10.218	auth.magic.link
 104.20.10.218	biplus.date
 104.20.10.218	bleepingcomputer.com
@@ -33,6 +34,7 @@
 104.20.10.218	explorer.pages.dev
 104.20.10.218	features-proxy.opensea.io
 104.20.10.218	filter-4400e6cd.pages.dev
+104.20.10.218	flower.nameless13.com
 104.20.10.218	fonts.rsb.net
 104.20.10.218	gravatar.loli.net
 104.20.10.218	gstatic.loli.net
@@ -107,7 +109,9 @@
 104.20.9.218	gateway.discord.gg
 104.20.9.218	getapp.com
 104.20.9.218	gh.ddlc.top
+104.20.9.218	gitbook.com
 104.20.9.218	glyph.medium.com
+104.20.9.218	huacloud.dev
 104.20.9.218	i.loli.net
 104.20.9.218	i.v2ex.co
 104.20.9.218	iframe.videodelivery.net
@@ -121,6 +125,7 @@
 104.20.9.218	noc.one
 104.20.9.218	node4.mkdmirror.workers.dev
 104.20.9.218	opensea.io
+104.20.9.218	origin.codeforc.es
 104.20.9.218	qqwry.api.skk.moe
 104.20.9.218	radar.cloudflare.com
 104.20.9.218	ras.uaxk.com
@@ -141,6 +146,7 @@
 104.20.9.218	v2ex.com
 104.20.9.218	wabarc.eu.org
 104.20.9.218	web.libera.chat
+104.20.9.218	wiki.ddnet.tw
 104.20.9.218	www.bleepingcomputer.com
 104.20.9.218	www.bleepstatic.com
 104.20.9.218	www.loc.gov
@@ -163,6 +169,7 @@
 172.67.3.188	cdnjs.cloudflare.com
 172.67.3.188	cdnjs.rsb.net
 172.67.3.188	cf-threat.sukkaw.com
+172.67.3.188	client.crisp.chat
 172.67.3.188	cloudflare-dns.com
 172.67.3.188	cloudflare-quic.com
 172.67.3.188	cloudflare.hcaptcha.com
@@ -172,9 +179,11 @@
 172.67.3.188	combinatronics.io
 172.67.3.188	dark-pine-f6e5.b-downloader.workers.dev
 172.67.3.188	datatracker.ietf.org
+172.67.3.188	ddnet.tw
 172.67.3.188	deepl.com
 172.67.3.188	dict.deepl.com
 172.67.3.188	embed.cloudflarestream.com
+172.67.3.188	forum.ddnet.tw
 172.67.3.188	getbootstrap.com
 172.67.3.188	gh.gh2233.ml
 172.67.3.188	gh2.yanqishui.work
@@ -183,6 +192,7 @@
 172.67.3.188	gstatic.rsb.net
 172.67.3.188	hub.textile.io
 172.67.3.188	i-cf.pximg.net
+172.67.3.188	image.crisp.chat
 172.67.3.188	imagedelivery.net
 172.67.3.188	images-ext-1.discordapp.net
 172.67.3.188	img.skk.moe
@@ -190,6 +200,7 @@
 172.67.3.188	ipv4.ip.sb
 172.67.3.188	iqdns.xyz
 172.67.3.188	isab.pages.dev
+172.67.3.188	issitedownrightnow.com
 172.67.3.188	js.org
 172.67.3.188	loph.notion.site
 172.67.3.188	media.biplus.date
@@ -208,6 +219,7 @@
 172.67.3.188	pic.skk.moe
 172.67.3.188	pincong.rocks
 172.67.3.188	platform.dash.cloudflare.com
+172.67.3.188	polocloud.xyz
 172.67.3.188	rdns-172-67-3-188.cloudflare-dns.com
 172.67.3.188	s3.bmp.ovh
 172.67.3.188	scar.pages.dev
@@ -222,12 +234,14 @@
 172.67.3.188	uaxk.com
 172.67.3.188	undraw.co
 172.67.3.188	web3-storage.mypinata.cloud
+172.67.3.188	workers.new
 172.67.3.188	worldmags.net
 172.67.3.188	www.chinadigitaltimes.net
 172.67.3.188	www.cloudflare-ipfs.com
 172.67.3.188	www.datacenterdynamics.com
 172.67.3.188	www.deepl.com
 172.67.3.188	www.digitalocean.com
+172.67.3.188	www.gitbook.com
 172.67.3.188	www.matrix.org
 172.67.3.188	www.v2ex.com
 203.208.39.194	fonts.gstatic.com
