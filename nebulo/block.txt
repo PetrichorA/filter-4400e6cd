@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: DFUAavirM3e__hllNCpI4LdmOWu83ZAAEvPwpqUYSlhxe8ne008-CsBlLjD8BbJU
+# Version: PhEkbtLZR-ON_dN61vFPmBbnOAAlBlKXnuiJshBQP6DZVQis2RdgDwwUrrI985Dn
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -790,6 +790,8 @@
 0.0.0.0	**.fave.co
 0.0.0.0	feathr.co
 0.0.0.0	**.feathr.co
+0.0.0.0	analytics.feeder.co
+0.0.0.0	**.analytics.feeder.co
 0.0.0.0	a.glcdn.co
 0.0.0.0	**.a.glcdn.co
 0.0.0.0	jads.co

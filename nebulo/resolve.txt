@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: d96-dX0BN4-vfXlRni09USJZaXQvJOXi4dE-eJwOupnyaK3tF4MDiXkNnD8ezfXe
+# Version: TUOhGQ1KFesKoGxYbo5OM658nMTBY2KgJsRwx-E5c5lUfAGCdNakEBZTwts57m7X
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
@@ -13,9 +13,11 @@
 104.20.10.218	api.moneroocean.stream
 104.20.10.218	api.skk.moe
 104.20.10.218	app.gitbook.com
+104.20.10.218	assets.feedercdn.com
 104.20.10.218	auth.magic.link
 104.20.10.218	biplus.date
 104.20.10.218	bleepingcomputer.com
+104.20.10.218	blog.dwx.io
 104.20.10.218	blog.joinmastodon.org
 104.20.10.218	captcha.sukkaw.com
 104.20.10.218	cdn.discordapp.com
@@ -35,6 +37,7 @@
 104.20.10.218	cybergorillas.mypinata.cloud
 104.20.10.218	dash.cloudflare.com
 104.20.10.218	discord.com
+104.20.10.218	dns.cloudflare.com
 104.20.10.218	docs.joinmastodon.org
 104.20.10.218	ethereum.cloudflare.com
 104.20.10.218	explorer.pages.dev
@@ -55,7 +58,9 @@
 104.20.10.218	media.discordapp.net
 104.20.10.218	mokeedev.com
 104.20.10.218	moneroocean.stream
+104.20.10.218	mongodb-distro.mirror.noc.one
 104.20.10.218	mozilla.cloudflare-dns.com
+104.20.10.218	nekosc.com
 104.20.10.218	nft-storage.mypinata.cloud
 104.20.10.218	node2.mkdmirror.workers.dev
 104.20.10.218	node3.mkdmirror.workers.dev
@@ -63,7 +68,9 @@
 104.20.10.218	opensea.mypinata.cloud
 104.20.10.218	pastebin.com
 104.20.10.218	pixiv.net
+104.20.10.218	pkg.cloudflareclient.com
 104.20.10.218	purge.jsdelivr.net
+104.20.10.218	pusher1.feeder.co
 104.20.10.218	qqwry.mirror.noc.one
 104.20.10.218	rdns-104-20-10-218.cloudflare-dns.com
 104.20.10.218	rsf.org
@@ -118,6 +125,7 @@
 104.20.9.218	developers.cloudflare.com
 104.20.9.218	deviants.mypinata.cloud
 104.20.9.218	docs.rsshub.app
+104.20.9.218	dropbox-api.arkoselabs.com
 104.20.9.218	e-hentai.org
 104.20.9.218	firefox.cloudflare-dns.com
 104.20.9.218	fonts.loli.net
@@ -128,9 +136,11 @@
 104.20.9.218	gitbook.com
 104.20.9.218	glyph.medium.com
 104.20.9.218	hiddengateway.mypinata.cloud
+104.20.9.218	hs-20489776.f.hubspotemail.net
 104.20.9.218	huacloud.dev
 104.20.9.218	i.loli.net
 104.20.9.218	i.v2ex.co
+104.20.9.218	icons.feedercdn.com
 104.20.9.218	iframe.videodelivery.net
 104.20.9.218	images-ext-2.discordapp.net
 104.20.9.218	img.shields.io
@@ -165,6 +175,7 @@
 104.20.9.218	tracker.yarr.pt
 104.20.9.218	ubuntu.mirror.noc.one
 104.20.9.218	unpkg.com
+104.20.9.218	uploads.feedercdn.com
 104.20.9.218	use.fontawesome.com
 104.20.9.218	v2ex.com
 104.20.9.218	wabarc.eu.org
@@ -172,6 +183,7 @@
 104.20.9.218	wiki.ddnet.tw
 104.20.9.218	www.bleepingcomputer.com
 104.20.9.218	www.bleepstatic.com
+104.20.9.218	www.delltechnologiescapital.com
 104.20.9.218	www.loc.gov
 104.20.9.218	www.zendesk.com
 104.20.9.218	www2.deepl.com
@@ -182,6 +194,7 @@
 127.0.0.1	pandown.cn
 127.0.0.1	search.pandown.cn
 172.65.251.78	gitlab.com
+172.67.3.188	adder.feeder.co
 172.67.3.188	api.blog.cloudflare.com
 172.67.3.188	api.ip.sb
 172.67.3.188	api.nftstorage.link
@@ -194,6 +207,7 @@
 172.67.3.188	cdnjs.rsb.net
 172.67.3.188	cf-ipfs.com
 172.67.3.188	cf-threat.sukkaw.com
+172.67.3.188	cfl.dropboxstatic.com
 172.67.3.188	client.crisp.chat
 172.67.3.188	cloudflare-dns.com
 172.67.3.188	cloudflare-quic.com
@@ -211,6 +225,7 @@
 172.67.3.188	deepl.com
 172.67.3.188	dict.deepl.com
 172.67.3.188	embed.cloudflarestream.com
+172.67.3.188	feeder.co
 172.67.3.188	forum.ddnet.tw
 172.67.3.188	getbootstrap.com
 172.67.3.188	gh.gh2233.ml
@@ -234,6 +249,7 @@
 172.67.3.188	launchpad.proxy.noc.one
 172.67.3.188	lo-li.cn
 172.67.3.188	loph.notion.site
+172.67.3.188	lutaonan.com
 172.67.3.188	media.biplus.date
 172.67.3.188	medium.com
 172.67.3.188	miro.medium.com
@@ -271,6 +287,7 @@
 172.67.3.188	web3-storage.mypinata.cloud
 172.67.3.188	workers.new
 172.67.3.188	worldmags.net
+172.67.3.188	www.arkoselabs.com
 172.67.3.188	www.chinadigitaltimes.net
 172.67.3.188	www.cloudflare-ipfs.com
 172.67.3.188	www.datacenterdynamics.com
@@ -289,6 +306,7 @@
 220.181.174.226	translate.google.cn
 220.181.174.98	ditu.google.cn
 220.181.174.98	maps.google.cn
+220.181.174.98	www.recaptcha.net
 220.185.167.251	at.alicdn.com
 64.52.84.68	pandownload.com
 8.132.50.251	g.alicdn.com
