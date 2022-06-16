@@ -4,11 +4,12 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: TUOhGQ1KFesKoGxYbo5OM658nMTBY2KgJsRwx-E5c5lUfAGCdNakEBZTwts57m7X
+# Version: JjwHTrVK-NH6XkBuTnZ1zCUUTeFhbrkQvGlRsHg0pp81RkQ77dUwdsFH0wumv_qq
 
 104.20.10.218	692bf184-ea3236f0.qt.workers.dev
 104.20.10.218	accounts.pixiv.net
 104.20.10.218	alive.bar
+104.20.10.218	ao3.zlib.life
 104.20.10.218	api.cdnjs.com
 104.20.10.218	api.moneroocean.stream
 104.20.10.218	api.skk.moe
@@ -34,6 +35,7 @@
 104.20.10.218	cloudflare-ipfs.com
 104.20.10.218	cloudflarestream.com
 104.20.10.218	coolshell.cn
+104.20.10.218	cryptography.io
 104.20.10.218	cybergorillas.mypinata.cloud
 104.20.10.218	dash.cloudflare.com
 104.20.10.218	discord.com
@@ -45,9 +47,11 @@
 104.20.10.218	filter-4400e6cd.pages.dev
 104.20.10.218	flower.nameless13.com
 104.20.10.218	fonts.rsb.net
+104.20.10.218	gapis.geekzu.org
 104.20.10.218	gravatar.loli.net
 104.20.10.218	gstatic.loli.net
 104.20.10.218	h.pincong.rocks
+104.20.10.218	img.pincong.rocks
 104.20.10.218	initium.eu.org
 104.20.10.218	ipfs.fleek.co
 104.20.10.218	ipv6.ip.sb
@@ -73,9 +77,13 @@
 104.20.10.218	pusher1.feeder.co
 104.20.10.218	qqwry.mirror.noc.one
 104.20.10.218	rdns-104-20-10-218.cloudflare-dns.com
+104.20.10.218	readthedocs.org
 104.20.10.218	rsf.org
 104.20.10.218	rsshub.app
+104.20.10.218	s1.feedly.com
 104.20.10.218	s3.rsb.net
+104.20.10.218	sci-hub.pro
+104.20.10.218	sdn.geekzu.org
 104.20.10.218	soha.moe
 104.20.10.218	sparrow.cloudflare.com
 104.20.10.218	static.opensea.io
@@ -91,6 +99,7 @@
 104.20.10.218	ublockorigin.pages.dev
 104.20.10.218	us.v2ex.com
 104.20.10.218	uuu.glass
+104.20.10.218	videodelivery.net
 104.20.10.218	web3.storage
 104.20.10.218	worldwide.passcloud.xyz
 104.20.10.218	www.cloudflare.com
@@ -100,6 +109,7 @@
 104.20.10.218	www.pixiv.net
 104.20.10.218	wxw.moe
 104.20.10.218	xn--931a.moe
+104.20.9.218	2047.one
 104.20.9.218	26aac706-ae46c7e8.qt.workers.dev
 104.20.9.218	622e8059-c831d902.dark.workers.dev
 104.20.9.218	ajax.loli.net
@@ -107,10 +117,12 @@
 104.20.9.218	api.magic.link
 104.20.9.218	arch-mirror.wtako.net
 104.20.9.218	archlinux.mirror.noc.one
+104.20.9.218	assets.calendly.com
 104.20.9.218	blockchain-tools.pages.dev
 104.20.9.218	blog.baoshuo.ren
 104.20.9.218	blog.cloudflare.com
 104.20.9.218	blog.skk.moe
+104.20.9.218	cdn.bootcss.com
 104.20.9.218	cdn.rsb.net
 104.20.9.218	cdn2.nsfw.xxx
 104.20.9.218	cdnjs.loli.net
@@ -127,6 +139,8 @@
 104.20.9.218	docs.rsshub.app
 104.20.9.218	dropbox-api.arkoselabs.com
 104.20.9.218	e-hentai.org
+104.20.9.218	embed.videodelivery.net
+104.20.9.218	feedly.com
 104.20.9.218	firefox.cloudflare-dns.com
 104.20.9.218	fonts.loli.net
 104.20.9.218	gates.cloudflare.com
@@ -201,6 +215,8 @@
 172.67.3.188	api.opensea.io
 172.67.3.188	api.web3.storage
 172.67.3.188	app.element.io
+172.67.3.188	blog.monadx.com
+172.67.3.188	cdn.geekzu.org
 172.67.3.188	cdn.jsdelivr.net
 172.67.3.188	cdn.v2ex.com
 172.67.3.188	cdnjs.cloudflare.com
@@ -216,16 +232,21 @@
 172.67.3.188	cn.v2ex.com
 172.67.3.188	codeforces.ml
 172.67.3.188	codeforces.org
+172.67.3.188	colleges.chat
 172.67.3.188	combinatronics.io
+172.67.3.188	covers.zlib.life
 172.67.3.188	csd.mypinata.cloud
 172.67.3.188	dark-pine-f6e5.b-downloader.workers.dev
+172.67.3.188	dark.fail
 172.67.3.188	datatracker.ietf.org
 172.67.3.188	ddnet.tw
 172.67.3.188	debian.mirror.noc.one
 172.67.3.188	deepl.com
 172.67.3.188	dict.deepl.com
+172.67.3.188	e.deepl.com
 172.67.3.188	embed.cloudflarestream.com
 172.67.3.188	feeder.co
+172.67.3.188	fonts.geekzu.org
 172.67.3.188	forum.ddnet.tw
 172.67.3.188	getbootstrap.com
 172.67.3.188	gh.gh2233.ml
@@ -284,6 +305,7 @@
 172.67.3.188	tracker.nitrix.me
 172.67.3.188	uaxk.com
 172.67.3.188	undraw.co
+172.67.3.188	w.deepl.com
 172.67.3.188	web3-storage.mypinata.cloud
 172.67.3.188	workers.new
 172.67.3.188	worldmags.net
@@ -297,6 +319,7 @@
 172.67.3.188	www.matrix.org
 172.67.3.188	www.ruanyifeng.com
 172.67.3.188	www.v2ex.com
+172.67.3.188	zh.zlib.life
 203.208.39.194	fonts.gstatic.com
 203.208.43.66	www.gstatic.com
 203.208.50.162	ssl.gstatic.com

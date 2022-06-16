@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: yozKxIhVQUZQaawcUWexiM-3yst2A1jmUEjhoSX91MrSTMlUiEnH_iMJL0OLLhQs
+! Version: x_yq_9OSjG3XYLMTO3imvDMtjtjYgtEp1mY_jQd_k4J1VTpqlYQ24wE1QhpIIsvX
 
 ||chameleon.ad^
 ||content.ad^
@@ -4329,6 +4329,8 @@
 ||waardex.com^
 ||smetrics.walgreens.com^
 ||ads.walkiberia.com^
+||api-one.wallstcn.com^
+||dashuju.wallstcn.com^
 ||li.walmart.com^
 ||tracking01.walmart.com^
 ||warmafterthought.com^
@@ -5644,6 +5646,7 @@
 ||somniture.stuff.co.nz^
 ||webads.co.nz^
 ||ads.xtra.co.nz^
+||m.shw.one^
 ||webstats.one^
 ||iubzka.online^
 ||tracking.theoceanac.online^
