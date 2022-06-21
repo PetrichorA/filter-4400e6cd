@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: x_yq_9OSjG3XYLMTO3imvDMtjtjYgtEp1mY_jQd_k4J1VTpqlYQ24wE1QhpIIsvX
+! Version: TH3LqPSN-ZXPukG3OQbnCG08-ImPswC6OKH4kHcDl0swxUUL_OrEc3_EkoPovbKi
 
 ||chameleon.ad^
 ||content.ad^
@@ -2273,6 +2273,7 @@
 ||stadig0.ifeng.com^
 ||c0.ifengimg.com^
 ||c1.ifengimg.com^
+||iftrack.com^
 ||igexin.com^
 ||ads.ign.com^
 ||comments.ign.com^
@@ -5699,6 +5700,7 @@
 ||ping.ublock.org^
 ||ads.webmasterpoint.org^
 ||intake-analytics.wikimedia.org^
+||track.wikimirror.org^
 ||cny.yoyo.org^
 ||wheredoyoucomefrom.ovh^
 ||pixel.archive.ph^
