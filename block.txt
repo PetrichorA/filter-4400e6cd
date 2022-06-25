@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: TH3LqPSN-ZXPukG3OQbnCG08-ImPswC6OKH4kHcDl0swxUUL_OrEc3_EkoPovbKi
+! Version: DwF-pCJmZ5csX2zNNvPywqxBgSglsZKB9-1kMzmA6pjC0o8-QdCHOl0ctd2n3U2K
 
 ||chameleon.ad^
 ||content.ad^
@@ -937,6 +937,7 @@
 ||pv.anzhi.com^
 ||s.aolcdn.com^
 ||apathetictheory.com^
+||a.apkpure.com^
 ||appads.com^
 ||appboycdn.com^
 ||a.appjiagu.com^

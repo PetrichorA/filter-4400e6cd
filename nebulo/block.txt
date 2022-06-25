@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: 43HIJlbwtSRxPLPo0nZyFoHxK4DA0R_OFPENsgVZr-pTwRxcAJDcpkJbXybO4PVL
+# Version: kMxFz_kLPUeMh3fn7VuBnp1lrihqrrOs4_kH4YZra2vbCrLhhe4ROh-fjOsMdxSD
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -1866,6 +1866,8 @@
 0.0.0.0	**.s.aolcdn.com
 0.0.0.0	apathetictheory.com
 0.0.0.0	**.apathetictheory.com
+0.0.0.0	a.apkpure.com
+0.0.0.0	**.a.apkpure.com
 0.0.0.0	appads.com
 0.0.0.0	**.appads.com
 0.0.0.0	appboycdn.com
