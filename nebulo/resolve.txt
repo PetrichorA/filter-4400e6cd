@@ -4,8 +4,9 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: c0l9jUG3u1MNpRSUEI3JNnGU-38uzT9Bv7Gt2_uyy5-nkIvqQnHqyBFq77sdb4bu
+# Version: omFgzXNZ7nSUVpEstTLR9FlDiLVHkcfToXSP2k7o6twFIYaWL6wufZMAN8EIZIcf
 
+104.16.116.68	10minutemail.com
 104.16.116.68	assets.feedercdn.com
 104.16.116.68	blockchain-tools.pages.dev
 104.16.116.68	cdnjs.com
@@ -29,6 +30,7 @@
 104.16.116.68	prod-frs.content.classy.org
 104.16.116.68	pusher1.feeder.co
 104.16.116.68	rdns-104-16-116-68.cloudflare-dns.com
+104.16.116.68	repl.it
 104.16.116.68	s1.feedly.com
 104.16.116.68	scar.pages.dev
 104.16.116.68	sci-hub.pro
@@ -76,6 +78,8 @@
 104.16.126.175	static.dash.cloudflare.com
 104.16.126.175	static.opensea.io
 104.16.126.175	status.discord.com
+104.16.126.175	theinitium.com
+104.16.126.175	thestandnews.com
 104.16.126.175	tr.burnabyhighstar.com
 104.16.126.175	tracker.yarr.pt
 104.16.126.175	us.v2ex.com
@@ -86,6 +90,7 @@
 104.16.126.175	www.getapp.com
 104.16.126.175	www.v2ex.com
 104.16.132.102	alive.bar
+104.16.132.102	api.theinitium.com
 104.16.132.102	assets.calendly.com
 104.16.132.102	bitfinex.com
 104.16.132.102	cdn.skk.moe
@@ -100,7 +105,9 @@
 104.16.132.102	explorer.pages.dev
 104.16.132.102	feeder.co
 104.16.132.102	i.loli.net
+104.16.132.102	i1.rgstatic.net
 104.16.132.102	issitedownrightnow.com
+104.16.132.102	js.hcaptcha.com
 104.16.132.102	miro.medium.com
 104.16.132.102	moneroocean.stream
 104.16.132.102	my.adguard.com
@@ -112,7 +119,9 @@
 104.16.132.102	proxy.scholar.lanfanshu.com
 104.16.132.102	rdns-104-16-132-102.cloudflare-dns.com
 104.16.132.102	readthedocs.org
+104.16.132.102	s.mirrorz.org
 104.16.132.102	skimdb.npmjs.com
+104.16.132.102	sp.replit.com
 104.16.132.102	tr.doogh.club
 104.16.132.102	tr.torland.ga
 104.16.132.102	tracker.kuroy.me
@@ -122,6 +131,7 @@
 104.16.132.102	www.datacenterdynamics.com
 104.16.132.102	www.g2.com
 104.16.132.102	www.gov.hk
+104.16.132.102	www.sciencedirect.com
 104.16.132.102	www2.deepl.com
 104.16.132.102	xn--931a.moe
 104.16.133.102	26aac706-ae46c7e8.qt.workers.dev
@@ -160,7 +170,9 @@
 104.16.133.102	tr.highstar.shop
 104.16.133.102	uploads.feedercdn.com
 104.16.133.102	valid.rpki.cloudflare.com
+104.16.133.102	wizardforcel.gitbooks.io
 104.16.133.102	workers.community
+104.16.133.102	www.2047.one
 104.16.133.102	www.arkoselabs.com
 104.16.133.102	www.bitfinex.com
 104.16.133.102	www.npmjs.com
@@ -219,6 +231,7 @@
 104.16.44.54	api.moneroocean.stream
 104.16.44.54	api.skk.moe
 104.16.44.54	auth.adguard.com
+104.16.44.54	baoshuo.ren
 104.16.44.54	blog.dwx.io
 104.16.44.54	cdnjs.loli.net
 104.16.44.54	cloudflare-quic.com
@@ -249,6 +262,7 @@
 104.16.44.54	rsshub.app
 104.16.44.54	ruanyifeng.com
 104.16.44.54	scoredchosemoon.notion.site
+104.16.44.54	sdfestaticassets-us-east-1.sciencedirectassets.com
 104.16.44.54	skk.moe
 104.16.44.54	spec.matrix.org
 104.16.44.54	static.florr.io
@@ -340,6 +354,7 @@
 104.20.10.218	qqwry.api.skk.moe
 104.20.10.218	rdns-104-20-10-218.cloudflare-dns.com
 104.20.10.218	registry.npmjs.org
+104.20.10.218	replit.com
 104.20.10.218	rsf.org
 104.20.10.218	speed.cloudflare.com
 104.20.10.218	static.npmjs.com
@@ -354,12 +369,16 @@
 104.20.10.218	www.leetcode.com
 104.20.10.218	www.matrix.org
 104.20.10.218	www.pixiv.net
+104.20.9.218	10minutemail.net
 104.20.9.218	37a83c61.cloudflare-dns.com
 104.20.9.218	48fd0f75.cloudflare-dns.com
 104.20.9.218	51bb6cdc.cloudflare-dns.com
+104.20.9.218	adguard-dns.io
 104.20.9.218	app.gitbook.com
 104.20.9.218	archlinux.mirror.noc.one
 104.20.9.218	blog.baoshuo.ren
+104.20.9.218	blog.uselessbug.tk
+104.20.9.218	cdn.replit.com
 104.20.9.218	cdn.rsb.net
 104.20.9.218	cdn4.nsfw.xxx
 104.20.9.218	cloudflare-dns.com
@@ -373,6 +392,7 @@
 104.20.9.218	fonts.loli.net
 104.20.9.218	forum.ddnet.tw
 104.20.9.218	gates.cloudflare.com
+104.20.9.218	i.creativecommons.org
 104.20.9.218	iframe.videodelivery.net
 104.20.9.218	initium.eu.org
 104.20.9.218	ip.gs
@@ -406,6 +426,7 @@
 172.67.3.188	apkpure.com
 172.67.3.188	ark.cloudflare-dns.com
 172.67.3.188	bleepingcomputer.com
+172.67.3.188	c5.rgstatic.net
 172.67.3.188	comments.adguard.com
 172.67.3.188	dict.deepl.com
 172.67.3.188	ethereum.cloudflare.com
@@ -441,6 +462,8 @@
 172.67.3.188	workers.new
 172.67.3.188	www.classy.org
 172.67.3.188	www.notion.so
+172.67.3.188	www.researchgate.net
+172.67.3.188	www.thestandnews.com
 172.67.3.188	wxw.moe
 203.208.39.194	fonts.gstatic.com
 203.208.43.66	www.gstatic.com

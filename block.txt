@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: DwF-pCJmZ5csX2zNNvPywqxBgSglsZKB9-1kMzmA6pjC0o8-QdCHOl0ctd2n3U2K
+! Version: i8j037euCZ-IpCIxA5IPMAOSbOvocPZmrOXvwZnd7x7qUwQAypV0cTw02YOiwjBO
 
 ||chameleon.ad^
 ||content.ad^
@@ -609,6 +609,7 @@
 ||cm.adgrx.com^
 ||email-clk.adguard.com^
 ||email-opn.adguard.com^
+||sentry.adguard.com^
 ||adhaven.com^
 ||adhese.com^
 ||gload.adhood.com^
@@ -657,6 +658,7 @@
 ||adnxs.com^
 ||adnxs-simple.com^
 ||adnyg.com^
+||adobedtm.com^
 ||adonspot.com^
 ||adoric-om.com^
 ||adorigin.com^
@@ -2485,6 +2487,7 @@
 ||img2.km.com^
 ||img3.km.com^
 ||knorex.com^
+||ko-fi.com^
 ||komoona.com^
 ||kompasads.com^
 ||ads.kompass.com^
@@ -4501,6 +4504,7 @@
 ||marketingsolutions.yahoo.com^
 ||p3p.yahoo.com^
 ||analytics.query.yahoo.com^
+||c2shb.ssp.yahoo.com^
 ||visit.webhosting.yahoo.com^
 ||ads.yap.yahoo.com^
 ||pr.ybp.yahoo.com^
@@ -5038,6 +5042,7 @@
 ||quickkoala.io^
 ||redshell.io^
 ||revlift.io^
+||segment.io^
 ||segmetrics.io^
 ||sentry.io^
 ||simpleanalytics.io^

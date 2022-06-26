@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: kMxFz_kLPUeMh3fn7VuBnp1lrihqrrOs4_kH4YZra2vbCrLhhe4ROh-fjOsMdxSD
+# Version: GKqvngz2XHzDyJ4BtFvNdeitV0zzBHZPbxQzjHiA8l-OtaLNP2s5sqsEH5NFcX5j
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -1210,6 +1210,8 @@
 0.0.0.0	**.email-clk.adguard.com
 0.0.0.0	email-opn.adguard.com
 0.0.0.0	**.email-opn.adguard.com
+0.0.0.0	sentry.adguard.com
+0.0.0.0	**.sentry.adguard.com
 0.0.0.0	adhaven.com
 0.0.0.0	**.adhaven.com
 0.0.0.0	adhese.com
@@ -1306,6 +1308,8 @@
 0.0.0.0	**.adnxs-simple.com
 0.0.0.0	adnyg.com
 0.0.0.0	**.adnyg.com
+0.0.0.0	adobedtm.com
+0.0.0.0	**.adobedtm.com
 0.0.0.0	adonspot.com
 0.0.0.0	**.adonspot.com
 0.0.0.0	adoric-om.com
@@ -4962,6 +4966,8 @@
 0.0.0.0	**.img3.km.com
 0.0.0.0	knorex.com
 0.0.0.0	**.knorex.com
+0.0.0.0	ko-fi.com
+0.0.0.0	**.ko-fi.com
 0.0.0.0	komoona.com
 0.0.0.0	**.komoona.com
 0.0.0.0	kompasads.com
@@ -8994,6 +9000,8 @@
 0.0.0.0	**.p3p.yahoo.com
 0.0.0.0	analytics.query.yahoo.com
 0.0.0.0	**.analytics.query.yahoo.com
+0.0.0.0	c2shb.ssp.yahoo.com
+0.0.0.0	**.c2shb.ssp.yahoo.com
 0.0.0.0	visit.webhosting.yahoo.com
 0.0.0.0	**.visit.webhosting.yahoo.com
 0.0.0.0	ads.yap.yahoo.com
@@ -10068,6 +10076,8 @@
 0.0.0.0	**.redshell.io
 0.0.0.0	revlift.io
 0.0.0.0	**.revlift.io
+0.0.0.0	segment.io
+0.0.0.0	**.segment.io
 0.0.0.0	segmetrics.io
 0.0.0.0	**.segmetrics.io
 0.0.0.0	sentry.io
