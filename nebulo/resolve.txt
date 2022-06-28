@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: FmAtCSTcySiSzW3Ek3CjpDD5bvwbbqPeB7uEZyWsdX9i17RTUah_iCcGBRdgYeDu
+# Version: sCNnNMV94lBKVR413b-bfIl0bHp6Ycbc6xzW1N-hoZ-3kbmri_tpm3lDsFaXl3Tb
 
 104.16.116.68	10minutemail.com
 104.16.116.68	1111-releases.cloudflareclient.com
@@ -50,6 +50,7 @@
 104.16.116.68	traffic.omny.fm
 104.16.116.68	uaxk.com
 104.16.116.68	www.apkpure.com
+104.16.116.68	www.bootstrapcdn.com
 104.16.116.68	www.chinadigitaltimes.net
 104.16.116.68	wxw.moe
 104.16.126.175	adguard.com
@@ -114,6 +115,7 @@
 104.16.132.102	launcher.store.epicgames.com
 104.16.132.102	leetcode.com
 104.16.132.102	lug.org.cn
+104.16.132.102	maxcdn.bootstrapcdn.com
 104.16.132.102	node1.mkdmirror.workers.dev
 104.16.132.102	node3.mkdmirror.workers.dev
 104.16.132.102	nsfw.xxx
@@ -435,6 +437,7 @@
 104.20.9.218	s0y8mjj8sr4ogndc.gzucm.cf
 104.20.9.218	sci-hub.pro
 104.20.9.218	spec.matrix.org
+104.20.9.218	stackpath.bootstrapcdn.com
 104.20.9.218	travellings.pages.dev
 104.20.9.218	uploads.feedercdn.com
 104.20.9.218	uuu.glass
@@ -458,6 +461,7 @@
 172.67.3.188	baoshuo.ren
 172.67.3.188	bleepingcomputer.com
 172.67.3.188	blog.dwx.io
+172.67.3.188	bootstrapcdn.com
 172.67.3.188	cdn.nsfw.xxx
 172.67.3.188	cdnjs.com
 172.67.3.188	cdnjs.rsb.net
