@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: i8j037euCZ-IpCIxA5IPMAOSbOvocPZmrOXvwZnd7x7qUwQAypV0cTw02YOiwjBO
+! Version: d5Of8a3Y4EI9fUBf7KCyeOz2QQj9f7FlBHX40AcEUBiDAAcxXpisYmKQB4rueMCx
 
 ||chameleon.ad^
 ||content.ad^
@@ -16,6 +16,7 @@
 ||stat.glaze.ai^
 ||analytics.jst.ai^
 ||m2.ai^
+||powerad.ai^
 ||countly.protocol.ai^
 ||a.vdo.ai^
 ||qosp.msg.71.am^
@@ -4866,6 +4867,7 @@
 ||wondoads.de^
 ||zanox-affiliate.de^
 ||ay.delivery^
+||monu.delivery^
 ||icy-voice-596b.mynet.workers.dev^
 ||async-task.never.workers.dev^
 ||unpkg.nullptr.workers.dev^
@@ -4993,6 +4995,7 @@
 ||branch.io^
 ||core-api.bringhub.io^
 ||click.cartsguru.io^
+||clarium.io^
 ||clickmate.io^
 ||analytics.cloudron.io^
 ||zion-telemetry.api.cnn.io^
@@ -5054,6 +5057,7 @@
 ||trafficrouter.io^
 ||triptease.io^
 ||voodoo-ads.io^
+||zprk.io^
 ||pixel.archive.is^
 ||adshrink.it^
 ||scambiobanner.aruba.it^
@@ -5377,6 +5381,7 @@
 ||connect.facebook.net^
 ||fastapi.net^
 ||fastclick.net^
+||confiant-integrations.global.ssl.fastly.net^
 ||csp.global.ssl.fastly.net^
 ||includemodal.global.ssl.fastly.net^
 ||t.felmat.net^
@@ -5834,6 +5839,7 @@
 ||mas.sector.sk^
 ||ads.webinak.sk^
 ||hkfxbbdzib.notion.so^
+||fans.91p20.space^
 ||eversales.space^
 ||pixel.digitru.st^
 ||ad.style^
@@ -5848,6 +5854,7 @@
 ||i.bestcontentfare.top^
 ||fingahvf.top^
 ||goutee.top^
+||analytics.yidaozhan.top^
 ||adap.tv^
 ||adapt.tv^
 ||affec.tv^

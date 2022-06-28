@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: GKqvngz2XHzDyJ4BtFvNdeitV0zzBHZPbxQzjHiA8l-OtaLNP2s5sqsEH5NFcX5j
+# Version: ixfx_N0R_ovwSUhDFcn5t3mLzx5SSbMUn5G0XB_tct9GghBvDDBFPwpl_6m7J2RU
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -24,6 +24,8 @@
 0.0.0.0	**.analytics.jst.ai
 0.0.0.0	m2.ai
 0.0.0.0	**.m2.ai
+0.0.0.0	powerad.ai
+0.0.0.0	**.powerad.ai
 0.0.0.0	countly.protocol.ai
 0.0.0.0	**.countly.protocol.ai
 0.0.0.0	a.vdo.ai
@@ -9724,6 +9726,8 @@
 0.0.0.0	**.zanox-affiliate.de
 0.0.0.0	ay.delivery
 0.0.0.0	**.ay.delivery
+0.0.0.0	monu.delivery
+0.0.0.0	**.monu.delivery
 0.0.0.0	icy-voice-596b.mynet.workers.dev
 0.0.0.0	**.icy-voice-596b.mynet.workers.dev
 0.0.0.0	async-task.never.workers.dev
@@ -9978,6 +9982,8 @@
 0.0.0.0	**.core-api.bringhub.io
 0.0.0.0	click.cartsguru.io
 0.0.0.0	**.click.cartsguru.io
+0.0.0.0	clarium.io
+0.0.0.0	**.clarium.io
 0.0.0.0	clickmate.io
 0.0.0.0	**.clickmate.io
 0.0.0.0	analytics.cloudron.io
@@ -10100,6 +10106,8 @@
 0.0.0.0	**.triptease.io
 0.0.0.0	voodoo-ads.io
 0.0.0.0	**.voodoo-ads.io
+0.0.0.0	zprk.io
+0.0.0.0	**.zprk.io
 0.0.0.0	pixel.archive.is
 0.0.0.0	**.pixel.archive.is
 0.0.0.0	adshrink.it
@@ -10746,6 +10754,8 @@
 0.0.0.0	**.fastapi.net
 0.0.0.0	fastclick.net
 0.0.0.0	**.fastclick.net
+0.0.0.0	confiant-integrations.global.ssl.fastly.net
+0.0.0.0	**.confiant-integrations.global.ssl.fastly.net
 0.0.0.0	csp.global.ssl.fastly.net
 0.0.0.0	**.csp.global.ssl.fastly.net
 0.0.0.0	includemodal.global.ssl.fastly.net
@@ -11660,6 +11670,8 @@
 0.0.0.0	**.ads.webinak.sk
 0.0.0.0	hkfxbbdzib.notion.so
 0.0.0.0	**.hkfxbbdzib.notion.so
+0.0.0.0	fans.91p20.space
+0.0.0.0	**.fans.91p20.space
 0.0.0.0	eversales.space
 0.0.0.0	**.eversales.space
 0.0.0.0	pixel.digitru.st
@@ -11688,6 +11700,8 @@
 0.0.0.0	**.fingahvf.top
 0.0.0.0	goutee.top
 0.0.0.0	**.goutee.top
+0.0.0.0	analytics.yidaozhan.top
+0.0.0.0	**.analytics.yidaozhan.top
 0.0.0.0	adap.tv
 0.0.0.0	**.adap.tv
 0.0.0.0	adapt.tv
