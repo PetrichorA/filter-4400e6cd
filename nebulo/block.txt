@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: ixfx_N0R_ovwSUhDFcn5t3mLzx5SSbMUn5G0XB_tct9GghBvDDBFPwpl_6m7J2RU
+# Version: hKXc6YWaGtvPehZhhNV5eaWotbFPXLxC7SrQmK33wm94fS1AemFmW4AnmRdVzXRu
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -4808,8 +4808,8 @@
 0.0.0.0	**.its-that-easy.com
 0.0.0.0	ads.itv.com
 0.0.0.0	**.ads.itv.com
-0.0.0.0	hits-i.iubenda.com
-0.0.0.0	**.hits-i.iubenda.com
+0.0.0.0	iubenda.com
+0.0.0.0	**.iubenda.com
 0.0.0.0	ivykiosk.com
 0.0.0.0	**.ivykiosk.com
 0.0.0.0	ads.iwon.com
@@ -10070,8 +10070,8 @@
 0.0.0.0	**.app.pendo.io
 0.0.0.0	piano.io
 0.0.0.0	**.piano.io
-0.0.0.0	custom.plausible.io
-0.0.0.0	**.custom.plausible.io
+0.0.0.0	plausible.io
+0.0.0.0	**.plausible.io
 0.0.0.0	proper.io
 0.0.0.0	**.proper.io
 0.0.0.0	pxf.io
@@ -11630,6 +11630,8 @@
 0.0.0.0	**.matomo.zwetok.ru
 0.0.0.0	sts.dev.sb
 0.0.0.0	**.sts.dev.sb
+0.0.0.0	stat.dns.sb
+0.0.0.0	**.stat.dns.sb
 0.0.0.0	stat.u.sb
 0.0.0.0	**.stat.u.sb
 0.0.0.0	blogtoplist.se

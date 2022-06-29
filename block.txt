@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: d5Of8a3Y4EI9fUBf7KCyeOz2QQj9f7FlBHX40AcEUBiDAAcxXpisYmKQB4rueMCx
+! Version: msdqUr0QSNhMV-lBCw1dmgys7jf9TX25Ji4oWYjUeoiG5SlGS7l60h3OuqD9fWtB
 
 ||chameleon.ad^
 ||content.ad^
@@ -2408,7 +2408,7 @@
 ||dyn.ithome.com^
 ||its-that-easy.com^
 ||ads.itv.com^
-||hits-i.iubenda.com^
+||iubenda.com^
 ||ivykiosk.com^
 ||ads.iwon.com^
 ||rose.ixbt.com^
@@ -5039,7 +5039,7 @@
 ||p-n.io^
 ||app.pendo.io^
 ||piano.io^
-||custom.plausible.io^
+||plausible.io^
 ||proper.io^
 ||pxf.io^
 ||quickkoala.io^
@@ -5819,6 +5819,7 @@
 ||zen.yandex.ru^
 ||matomo.zwetok.ru^
 ||sts.dev.sb^
+||stat.dns.sb^
 ||stat.u.sb^
 ||blogtoplist.se^
 ||stat.cliche.se^
