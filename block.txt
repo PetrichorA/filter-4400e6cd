@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: msdqUr0QSNhMV-lBCw1dmgys7jf9TX25Ji4oWYjUeoiG5SlGS7l60h3OuqD9fWtB
+! Version: SXhVEgqB34FP_qQA7ZSx_mqDBiU3kEUarszor1zsU3zpS8vt4mPUiwOiaFe3PpQV
 
 ||chameleon.ad^
 ||content.ad^
@@ -4868,6 +4868,8 @@
 ||zanox-affiliate.de^
 ||ay.delivery^
 ||monu.delivery^
+||busuanzi.konnyaku.workers.dev^
+||counter.konnyaku.workers.dev^
 ||icy-voice-596b.mynet.workers.dev^
 ||async-task.never.workers.dev^
 ||unpkg.nullptr.workers.dev^
@@ -5743,6 +5745,7 @@
 ||std.wpcdn.pl^
 ||v.wpimg.pl^
 ||api.booth.pm^
+||baconaces.pro^
 ||evadavdsp.pro^
 ||parketsy.pro^
 ||tidint.pro^
@@ -5827,6 +5830,7 @@
 ||ad-server.gulasidorna.se^
 ||banner.linux.se^
 ||ads.nordichardware.se^
+||piwik.ovpn.se^
 ||reklam.rfsl.se^
 ||tailsweep.se^
 ||webtraffic.se^
@@ -5976,6 +5980,8 @@
 ||btez8.xyz^
 ||pks1c.cxmygp.xyz^
 ||downloadr.xyz^
+||getherefwuk.xyz^
+||happearedyn.xyz^
 ||wpnrtnmrewunrtok.xyz^
 ||ads.img.co.za^
 ||banner.img.co.za^

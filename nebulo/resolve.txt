@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: FRmqI-3rJa3MGAGNG9nthIas6M5emySaCEya-k4Uix9qav4YcY1Ajh90_JB36Nck
+# Version: aJXP7amXju3nYKTAzRiobmSIc2uq25p7-AhrGMMCRk2-JXGTNOBL3WtuWK7Vd7JW
 
 104.16.116.68	10minutemail.com
 104.16.116.68	adguard-dns.io
@@ -18,13 +18,16 @@
 104.16.116.68	dict.deepl.com
 104.16.116.68	discord.com
 104.16.116.68	e.deepl.com
+104.16.116.68	fontawesome.com
 104.16.116.68	gateway.discord.gg
+104.16.116.68	hee.ink
 104.16.116.68	hs-20489776.f.hubspotemail.net
 104.16.116.68	i.creativecommons.org
 104.16.116.68	jp.v2ex.com
 104.16.116.68	m.apkpure.com
 104.16.116.68	mirrors.noc.one
 104.16.116.68	node1.mkdmirror.workers.dev
+104.16.116.68	numpy.org
 104.16.116.68	ouo.wxw.moe
 104.16.116.68	pkg.cloudflare.com
 104.16.116.68	polocloud.xyz
@@ -42,9 +45,11 @@
 104.16.116.68	www.bootstrapcdn.com
 104.16.116.68	www.cloudflare.com
 104.16.116.68	www.getapp.com
+104.16.116.68	www.topuniversities.com
 104.16.116.68	www2.deepl.com
 104.16.126.175	adguard.com
 104.16.126.175	api-pub.bitfinex.com
+104.16.126.175	api.uuz.bid
 104.16.126.175	apkpure.com
 104.16.126.175	baoshuo.ren
 104.16.126.175	blog.dwx.io
@@ -59,6 +64,7 @@
 104.16.126.175	iframe.videodelivery.net
 104.16.126.175	loph.notion.site
 104.16.126.175	matrix.to
+104.16.126.175	me.programmer.top
 104.16.126.175	medium.com
 104.16.126.175	mongodb-distro.mirror.noc.one
 104.16.126.175	npmjs.com
@@ -88,6 +94,7 @@
 104.16.132.102	node2.mkdmirror.workers.dev
 104.16.132.102	opensource.planetable.xyz
 104.16.132.102	rdns-104-16-132-102.cloudflare-dns.com
+104.16.132.102	readthedocs.io
 104.16.132.102	rsshub.app
 104.16.132.102	sp.replit.com
 104.16.132.102	themes.loli.net
@@ -96,6 +103,7 @@
 104.16.132.102	ui.components.workers.dev
 104.16.132.102	us.v2ex.com
 104.16.132.102	www.digitalocean.com
+104.16.132.102	www.nexusguard.com
 104.16.132.102	www.pixiv.net
 104.16.132.102	www.ruanyifeng.com
 104.16.133.102	api.bitfinex.com
@@ -155,6 +163,7 @@
 104.16.43.54	icons.feedercdn.com
 104.16.43.54	ip.skk.moe
 104.16.43.54	isbgpsafeyet.com
+104.16.43.54	ka-p.fontawesome.com
 104.16.43.54	leetcode.com
 104.16.43.54	lug.org.cn
 104.16.43.54	media.biplus.date
@@ -170,16 +179,20 @@
 104.16.43.54	static.npmjs.com
 104.16.43.54	status.discord.com
 104.16.43.54	submit.colleges.chat
+104.16.43.54	topuniversities.com
 104.16.43.54	tr.doogh.club
 104.16.43.54	tracker.nitrix.me
 104.16.43.54	w.deepl.com
 104.16.43.54	www.apkpure.com
 104.16.43.54	www.arkoselabs.com
 104.16.43.54	www.chinadigitaltimes.net
+104.16.43.54	www.numpy.org
 104.16.43.54	www.v2ex.com
 104.16.43.54	zmt.pub
 104.16.44.54	ao3.zlib.life
 104.16.44.54	assets.classy.org
+104.16.44.54	blog.kevinzonda.com
+104.16.44.54	cdn.hee.ink
 104.16.44.54	cdn4.nsfw.xxx
 104.16.44.54	chinadigitaltimes.net
 104.16.44.54	cloudflareworkers.com
@@ -199,13 +212,16 @@
 104.16.44.54	rdns-104-16-44-54.cloudflare-dns.com
 104.16.44.54	repl.it
 104.16.44.54	sb.sb
+104.16.44.54	scris.top
 104.16.44.54	stackpath.bootstrapcdn.com
 104.16.44.54	static.bitfinex.com
 104.16.44.54	static.florr.io
+104.16.44.54	utteranc.es
 104.16.44.54	www.2047.one
 104.16.44.54	www.classy.org
 104.16.44.54	www.datacenterdynamics.com
 104.16.44.54	www.gitbook.com
+104.16.44.54	www.lovemen.cc
 104.16.75.66	api.web3.storage
 104.16.75.66	cf-ipfs.com
 104.16.75.66	hiddengateway.mypinata.cloud
@@ -229,14 +245,17 @@
 104.18.180.27	darknetone.com
 104.18.180.27	embed.videodelivery.net
 104.18.180.27	flower.nameless13.com
+104.18.180.27	getwnr.com
 104.18.180.27	gstatic.loli.net
 104.18.180.27	launcher.store.epicgames.com
+104.18.180.27	lovemen.cc
 104.18.180.27	maxcdn.bootstrapcdn.com
 104.18.180.27	neko.ci
 104.18.180.27	noc.one
 104.18.180.27	qqwry.mirror.noc.one
 104.18.180.27	rdns-104-18-180-27.cloudflare-dns.com
 104.18.180.27	registry.npmjs.org
+104.18.180.27	s2.loli.net
 104.18.180.27	s3.rsb.net
 104.18.180.27	skk.moe
 104.18.180.27	tracker.kuroy.me
@@ -281,6 +300,7 @@
 104.18.213.12	ajax.loli.net
 104.18.213.12	api.moneroocean.stream
 104.18.213.12	assets.calendly.com
+104.18.213.12	black.readthedocs.io
 104.18.213.12	blog.cloudflare.com
 104.18.213.12	cdn.menci.xyz
 104.18.213.12	cloudflaremirrors.com
@@ -293,6 +313,8 @@
 104.18.213.12	northwind.d1sql.com
 104.18.213.12	opensea.io
 104.18.213.12	proxy.scholar.lanfanshu.com
+104.18.213.12	publish.obsidian.md
+104.18.213.12	r-q.name
 104.18.213.12	rdns-104-18-213-12.cloudflare-dns.com
 104.18.213.12	s3.bmp.ovh
 104.18.213.12	tr.torland.ga
@@ -343,6 +365,7 @@
 104.18.3.165	blog.skk.moe
 104.18.3.165	centos.mirror.noc.one
 104.18.3.165	cloudflare.community
+104.18.3.165	d026a0c5-eae7b602.dark.workers.dev
 104.18.3.165	ethereum.cloudflare.com
 104.18.3.165	fdn.geekzu.org
 104.18.3.165	filter-4400e6cd.pages.dev
@@ -353,14 +376,18 @@
 104.18.3.165	issitedownrightnow.com
 104.18.3.165	joinmastodon.org
 104.18.3.165	js.org
+104.18.3.165	kit.fontawesome.com
 104.18.3.165	nodejs.org
 104.18.3.165	p13.zdassets.com
 104.18.3.165	prod-frs.content.classy.org
+104.18.3.165	publish-01.obsidian.md
 104.18.3.165	ras.uaxk.com
 104.18.3.165	rdns-104-18-3-165.cloudflare-dns.com
 104.18.3.165	uaxk.com
 104.18.3.165	videodelivery.net
 104.18.3.165	worldmags.net
+104.18.3.165	www.fontawesome.com
+104.18.3.165	www.hee.ink
 104.18.3.165	www.zendesk.com
 104.18.3.165	xn--931a.moe
 104.18.3.173	6f2d1b68.cloudflare-dns.com
@@ -419,6 +446,8 @@
 104.20.10.218	tr.burnabyhighstar.com
 104.20.10.218	undraw.co
 104.20.10.218	www.ieltsprogresscheck.com
+104.20.10.218	www.readthedocs.io
+104.20.10.218	www.readthedocs.org
 104.20.10.218	www.thestandnews.com
 104.20.10.218	www.zmt.pub
 104.20.10.218	wxw.moe
@@ -479,6 +508,7 @@
 172.67.3.188	codepen.io
 172.67.3.188	docs.joinmastodon.org
 172.67.3.188	docs.rsshub.app
+172.67.3.188	ds.scris.top
 172.67.3.188	files.chainsafe.io
 172.67.3.188	fonts.thu.fail
 172.67.3.188	glyph.medium.com
@@ -489,6 +519,7 @@
 172.67.3.188	images-ext-1.discordapp.net
 172.67.3.188	initium.eu.org
 172.67.3.188	ip.sb
+172.67.3.188	kevinzonda.com
 172.67.3.188	moneroocean.stream
 172.67.3.188	pastebin.com
 172.67.3.188	platform.dash.cloudflare.com
@@ -501,6 +532,7 @@
 172.67.3.188	use.fontawesome.com
 172.67.3.188	www.gov.hk
 172.67.3.188	www.idrlabs.com
+172.67.3.188	www.kawabangga.com
 172.67.3.188	www.loc.gov
 172.67.3.188	www.uscardforum.com
 203.208.39.194	fonts.gstatic.com
