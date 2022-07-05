@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: 2vClALla-5ZykujarH5zeLQk6GjGGnL3-tRZvcg_c3lYF3I9GKw2ksmpAebi2RYa
+# Version: 1rNlNFHCpAvfRjOv4MN4qemsUF_pxs5ismQrPXnUCVr99WJzqYxH2t3Hv8y7T6z3
 
 104.16.116.68	10minutemail.com
 104.16.116.68	adguard-dns.io
@@ -273,6 +273,7 @@
 104.18.180.27	tracker.imgoingto.icu
 104.18.180.27	tracker.kuroy.me
 104.18.180.27	tracker.nanoha.org
+104.18.180.27	www.asiamarkets.com
 104.18.180.27	www.notion.so
 104.18.2.165	2da9f34d.cloudflare-dns.com
 104.18.2.165	ark.cloudflare-dns.com
@@ -479,6 +480,7 @@
 104.20.9.218	cdn.geekzu.org
 104.20.9.218	cdn.nsfw.xxx
 104.20.9.218	cdn2.nsfw.xxx
+104.20.9.218	cxybb.com
 104.20.9.218	d3js.org
 104.20.9.218	datatracker.ietf.org
 104.20.9.218	ddnet.tw
@@ -496,6 +498,7 @@
 104.20.9.218	opencollective.com
 104.20.9.218	pusher1.feeder.co
 104.20.9.218	rdns-104-20-9-218.cloudflare-dns.com
+104.20.9.218	sagernet.org
 104.20.9.218	scoredchosemoon.notion.site
 104.20.9.218	shou.si
 104.20.9.218	skimdb.npmjs.com

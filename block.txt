@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: SXhVEgqB34FP_qQA7ZSx_mqDBiU3kEUarszor1zsU3zpS8vt4mPUiwOiaFe3PpQV
+! Version: xYZSuLixdqzu443VhlKiT0nP-V2olYKPs4MqD4luieUea2-A0ieUqCsfkrm_w_pH
 
 ||chameleon.ad^
 ||content.ad^
@@ -4413,6 +4413,7 @@
 ||wisepops.com^
 ||distillery.wistia.com^
 ||pipedream.wistia.com^
+||csp.withgoogle.com^
 ||frog.wix.com^
 ||wizaly.com^
 ||www.wjxcdn.com^
@@ -5088,6 +5089,7 @@
 ||pstmrk.it^
 ||ads.rcs.it^
 ||recoco.it^
+||sentry.repl.it^
 ||oas.repubblica.it^
 ||shinystat.it^
 ||wetrack.it^

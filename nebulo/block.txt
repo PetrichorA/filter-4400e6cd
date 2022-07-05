@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: Dorwk3GcfiZdoJfp-QEW-VQFSd3Dt2zkp1JCRN3sd7RYYMRPUaSw66yRYOF9zlMH
+# Version: D3iTkP-uZKkNEBxyO1JEsei1YyqTzC4ur-MTQsWextaSanMAXvh6ATRwKrUt6ENH
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -8818,6 +8818,8 @@
 0.0.0.0	**.distillery.wistia.com
 0.0.0.0	pipedream.wistia.com
 0.0.0.0	**.pipedream.wistia.com
+0.0.0.0	csp.withgoogle.com
+0.0.0.0	**.csp.withgoogle.com
 0.0.0.0	frog.wix.com
 0.0.0.0	**.frog.wix.com
 0.0.0.0	wizaly.com
@@ -10168,6 +10170,8 @@
 0.0.0.0	**.ads.rcs.it
 0.0.0.0	recoco.it
 0.0.0.0	**.recoco.it
+0.0.0.0	sentry.repl.it
+0.0.0.0	**.sentry.repl.it
 0.0.0.0	oas.repubblica.it
 0.0.0.0	**.oas.repubblica.it
 0.0.0.0	shinystat.it
