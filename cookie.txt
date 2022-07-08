@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: 1kpZ9LBUKVWQT5-hFXjnzh1ltXYMsjLPU0u1PNG8XdL6PmiY5wcRPPqWjimWgFU1
+! Version: Kl7IX3_9rNlh0SHzz1eNgSwkhxj2xP8375f_tM_u-nT1DhdITTUEWMd2LtmP1-0l
 
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -30,6 +30,7 @@
 ||bbc.com^##+js(cookie-remover)
 ||business.bing.com^##+js(cookie-remover)
 ||bloomberg.com^##+js(cookie-remover)
+||cbsnews.com^##+js(cookie-remover)
 ||chainnews.com^##+js(cookie-remover)
 ||chinaz.com^##+js(cookie-remover)
 ||cloudflare-ipfs.com^##+js(cookie-remover)

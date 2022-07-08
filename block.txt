@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: xYZSuLixdqzu443VhlKiT0nP-V2olYKPs4MqD4luieUea2-A0ieUqCsfkrm_w_pH
+! Version: 5Jrnpp9_exzvRt2jBs3yoUbjsyE1fFaQMX28tWkeQn1P7qPY-txGmmYvkPb2bZNA
 
 ||chameleon.ad^
 ||content.ad^
@@ -2682,6 +2682,7 @@
 ||mediav.com^
 ||mediavine.com^
 ||mediavoice.com^
+||csp.medium.com^
 ||medleyads.com^
 ||medyanetads.com^
 ||ads.meetcelebs.com^
