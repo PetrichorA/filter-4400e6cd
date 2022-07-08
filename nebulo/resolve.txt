@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: sTmfmG4qTs68YVUcpX-EilRN9PtDnQ7axNaL5ynoIrDwFdAPM-QtHDBwgw0kZm2G
+# Version: UhkMPMn_R2k1hsh5mq2K3EiO2ts1fGZ57UlXBlOSgxGHutUqmznBESli9bmfh2uY
 
 104.16.116.68	10minutemail.com
 104.16.116.68	adguard-dns.io
@@ -230,6 +230,7 @@
 104.16.44.54	repl.it
 104.16.44.54	sb.sb
 104.16.44.54	scris.top
+104.16.44.54	sgk66.cc
 104.16.44.54	skidbin.net
 104.16.44.54	stackpath.bootstrapcdn.com
 104.16.44.54	static.bitfinex.com
