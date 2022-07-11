@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: IBjzI9bAUygAyDAMdyAcQe_jWElXnWKUh4zMb45PePtTczqNp5f6PVI8csqlPi8x
+! Version: ZSkgtS1EaK5DQw6hireKWPo2-95xjNR-ja729wQtkgm6dNlmQR1xpym4YmZBM22W
 
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -21,6 +21,7 @@
 ||fleek.co^##+js(cookie-remover)
 ||t.co^##+js(cookie-remover)
 ||1010jiajiao.com^##+js(cookie-remover)
+||10minutemail.com^##+js(cookie-remover)
 ||m.163.com^##+js(cookie-remover)
 ||19lou.com^##+js(cookie-remover)
 ||360doc.com^##+js(cookie-remover)
