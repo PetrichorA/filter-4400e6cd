@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: apvUhy4kIpdMLQYeyBX1vhufxgX_yiHjiq6IMcOnmk2Puon5cLBfIB3DPEQulikb
+# Version: Vte1935yk5qzi4zPdSE4zesQf5EjseBuwb7NbpI1d3FwJfwQx78XVsBJEPf_sK6-
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -2562,6 +2562,8 @@
 0.0.0.0	**.blushingbeast.com
 0.0.0.0	blushingboundary.com
 0.0.0.0	**.blushingboundary.com
+0.0.0.0	bncloudfl.com
+0.0.0.0	**.bncloudfl.com
 0.0.0.0	ad.bnmla.com
 0.0.0.0	**.ad.bnmla.com
 0.0.0.0	ads.boerding.com
@@ -5322,6 +5324,8 @@
 0.0.0.0	**.werbung.meteoxpress.com
 0.0.0.0	methodcash.com
 0.0.0.0	**.methodcash.com
+0.0.0.0	metricswpsh.com
+0.0.0.0	**.metricswpsh.com
 0.0.0.0	metrilo.com
 0.0.0.0	**.metrilo.com
 0.0.0.0	mfadsrvr.com
@@ -5616,6 +5620,8 @@
 0.0.0.0	**.catalog.video.msn.com
 0.0.0.0	mstrlytcs.com
 0.0.0.0	**.mstrlytcs.com
+0.0.0.0	mt34iofvjay.com
+0.0.0.0	**.mt34iofvjay.com
 0.0.0.0	mtree.com
 0.0.0.0	**.mtree.com
 0.0.0.0	mundanepollution.com
@@ -7588,6 +7594,8 @@
 0.0.0.0	**.stripedburst.com
 0.0.0.0	strivesidewalk.com
 0.0.0.0	**.strivesidewalk.com
+0.0.0.0	strpst.com
+0.0.0.0	**.strpst.com
 0.0.0.0	structurerod.com
 0.0.0.0	**.structurerod.com
 0.0.0.0	stupendoussleet.com
@@ -8660,6 +8668,8 @@
 0.0.0.0	**.pixel.wp.com
 0.0.0.0	stats.wp.com
 0.0.0.0	**.stats.wp.com
+0.0.0.0	wpadmngr.com
+0.0.0.0	**.wpadmngr.com
 0.0.0.0	wrating.com
 0.0.0.0	**.wrating.com
 0.0.0.0	wryfinger.com
@@ -8742,6 +8752,8 @@
 0.0.0.0	**.www.xingchenjia.com
 0.0.0.0	xiti.com
 0.0.0.0	**.xiti.com
+0.0.0.0	xlivrdr.com
+0.0.0.0	**.xlivrdr.com
 0.0.0.0	xovq5nemr.com
 0.0.0.0	**.xovq5nemr.com
 0.0.0.0	xplusone.com
@@ -9716,6 +9728,8 @@
 0.0.0.0	**.oksp.in
 0.0.0.0	reforge.in
 0.0.0.0	**.reforge.in
+0.0.0.0	af101.info
+0.0.0.0	**.af101.info
 0.0.0.0	analytics.bitrix.info
 0.0.0.0	**.analytics.bitrix.info
 0.0.0.0	clicktrace.info
@@ -10908,6 +10922,8 @@
 0.0.0.0	**.truehits.net
 0.0.0.0	tsyndicate.net
 0.0.0.0	**.tsyndicate.net
+0.0.0.0	tubecup.net
+0.0.0.0	**.tubecup.net
 0.0.0.0	p.typekit.net
 0.0.0.0	**.p.typekit.net
 0.0.0.0	a.ucoz.net

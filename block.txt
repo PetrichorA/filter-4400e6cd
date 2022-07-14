@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ZaFNLqi2ogBkoAjzGkZ2W4iy8jFLY8NTaxjV2EtwMp4B8mCnSwot42EhWcFnj9Ul
+! Version: Ve2C6zENTC-XUZ4VLi9rTFEKFivQiQe2XlQ39wDk7KZjtbheP3ksOIY44Uofbkr9
 
 ||chameleon.ad^
 ||content.ad^
@@ -1285,6 +1285,7 @@
 ||bluewhaleweb.com^
 ||blushingbeast.com^
 ||blushingboundary.com^
+||bncloudfl.com^
 ||ad.bnmla.com^
 ||ads.boerding.com^
 ||boffoadsapi.com^
@@ -2665,6 +2666,7 @@
 ||metanetwork.com^
 ||werbung.meteoxpress.com^
 ||methodcash.com^
+||metricswpsh.com^
 ||metrilo.com^
 ||mfadsrvr.com^
 ||mg2connext.com^
@@ -2812,6 +2814,7 @@
 ||toolbar.msn.com^
 ||catalog.video.msn.com^
 ||mstrlytcs.com^
+||mt34iofvjay.com^
 ||mtree.com^
 ||mundanepollution.com^
 ||ad.musicmatch.com^
@@ -3798,6 +3801,7 @@
 ||affiliates.streamray.com^
 ||stripedburst.com^
 ||strivesidewalk.com^
+||strpst.com^
 ||structurerod.com^
 ||stupendoussleet.com^
 ||stupendoussnow.com^
@@ -4334,6 +4338,7 @@
 ||worriednumber.com^
 ||pixel.wp.com^
 ||stats.wp.com^
+||wpadmngr.com^
 ||wrating.com^
 ||wryfinger.com^
 ||ad.wsod.com^
@@ -4375,6 +4380,7 @@
 ||adse.ximalaya.com^
 ||www.xingchenjia.com^
 ||xiti.com^
+||xlivrdr.com^
 ||xovq5nemr.com^
 ||xplusone.com^
 ||xponsor.com^
@@ -4862,6 +4868,7 @@
 ||lengthm.in^
 ||oksp.in^
 ||reforge.in^
+||af101.info^
 ||analytics.bitrix.info^
 ||clicktrace.info^
 ||busuanzi.ibruce.info^
@@ -5458,6 +5465,7 @@
 ||trk42.net^
 ||truehits.net^
 ||tsyndicate.net^
+||tubecup.net^
 ||p.typekit.net^
 ||a.ucoz.net^
 ||iflow.uczzd.net^
