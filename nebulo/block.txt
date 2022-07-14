@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: _JsxpOyrD8Bz77GHgj1MAk-LxvDT0Rzr-yT2bYeLR9ktPwyAOm3amelcOcPT9uPj
+# Version: apvUhy4kIpdMLQYeyBX1vhufxgX_yiHjiq6IMcOnmk2Puon5cLBfIB3DPEQulikb
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -2908,6 +2908,8 @@
 0.0.0.0	**.a.nel.cloudflare.com
 0.0.0.0	api.radar.cloudflare.com
 0.0.0.0	**.api.radar.cloudflare.com
+0.0.0.0	performance.radar.cloudflare.com
+0.0.0.0	**.performance.radar.cloudflare.com
 0.0.0.0	report-uri.cloudflare.com
 0.0.0.0	**.report-uri.cloudflare.com
 0.0.0.0	tr.www.cloudflare.com
@@ -11696,6 +11698,8 @@
 0.0.0.0	**.downloadr.xyz
 0.0.0.0	getherefwuk.xyz
 0.0.0.0	**.getherefwuk.xyz
+0.0.0.0	margatroid.xyz
+0.0.0.0	**.margatroid.xyz
 0.0.0.0	wpnrtnmrewunrtok.xyz
 0.0.0.0	**.wpnrtnmrewunrtok.xyz
 0.0.0.0	ads.img.co.za

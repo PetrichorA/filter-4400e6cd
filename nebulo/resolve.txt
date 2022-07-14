@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: HXCTASm3V9WyDhG2IJ0ZTaRRf_Km9-m6Sz-2X7aT1o17gpl-DmtQni50-LzGoT4G
+# Version: IcKYZmBzRNmiTLFygMyq7d9M_H2xjfT8eCeTEx61wTfXOeLkqvDVZfHNw519okb8
 
 104.16.116.68	10minutemail.com
 104.16.116.68	adguard-dns.io
@@ -18,9 +18,11 @@
 104.16.116.68	dict.deepl.com
 104.16.116.68	discord.com
 104.16.116.68	e.deepl.com
+104.16.116.68	file.mgt.moe
 104.16.116.68	fontawesome.com
 104.16.116.68	gateway.discord.gg
 104.16.116.68	hee.ink
+104.16.116.68	hitokoto.isab.run
 104.16.116.68	hs-20489776.f.hubspotemail.net
 104.16.116.68	i.creativecommons.org
 104.16.116.68	images.web3.storage
@@ -67,6 +69,7 @@
 104.16.126.175	ghbtns.com
 104.16.126.175	iframe.videodelivery.net
 104.16.126.175	loph.notion.site
+104.16.126.175	math.mgt.moe
 104.16.126.175	matrix.to
 104.16.126.175	me.programmer.top
 104.16.126.175	medium.com
@@ -116,6 +119,7 @@
 104.16.132.102	ui.components.workers.dev
 104.16.132.102	us.v2ex.com
 104.16.132.102	vincefiles.cc
+104.16.132.102	www.bible.com
 104.16.132.102	www.digitalocean.com
 104.16.132.102	www.nexusguard.com
 104.16.132.102	www.pixiv.net
@@ -158,6 +162,7 @@
 104.16.133.102	tracker.lilithraws.org
 104.16.133.102	travellings.pages.dev
 104.16.133.102	workers.community
+104.16.133.102	www.authy.com
 104.16.133.102	www.bitfinex.com
 104.16.133.102	www.breached.co
 104.16.133.102	www.cloudflare-ipfs.com
@@ -186,6 +191,7 @@
 104.16.43.54	ip.skk.moe
 104.16.43.54	ipv4.teams.cloudflare.com
 104.16.43.54	isbgpsafeyet.com
+104.16.43.54	javhub.net
 104.16.43.54	jsproxy-7550bb5f.qt.workers.dev
 104.16.43.54	ka-p.fontawesome.com
 104.16.43.54	leetcode.com
@@ -217,6 +223,7 @@
 104.16.43.54	zmt.pub
 104.16.44.54	ao3.zlib.life
 104.16.44.54	assets.classy.org
+104.16.44.54	authy.com
 104.16.44.54	blog.kevinzonda.com
 104.16.44.54	cdn-static.menci.xyz
 104.16.44.54	cdn.hee.ink
@@ -228,6 +235,7 @@
 104.16.44.54	dsp.aff002.vip
 104.16.44.54	gstatic.rsb.net
 104.16.44.54	i.91p47.com
+104.16.44.54	ieltsxpress.com
 104.16.44.54	img.shields.io
 104.16.44.54	ip.gs
 104.16.44.54	iqdns.xyz
@@ -253,6 +261,7 @@
 104.16.44.54	www.classy.org
 104.16.44.54	www.datacenterdynamics.com
 104.16.44.54	www.gitbook.com
+104.16.44.54	www.javhub.net
 104.16.44.54	www.lovemen.cc
 104.16.75.66	api.web3.storage
 104.16.75.66	cf-ipfs.com
@@ -269,15 +278,18 @@
 104.18.11.239	mozilla.cloudflare-dns.com
 104.18.11.239	rdns-104-18-11-239.cloudflare-dns.com
 104.18.12.5	rdns-104-18-12-5.cloudflare-dns.com
+104.18.180.27	210735d1-0639f65c.qt.workers.dev
 104.18.180.27	api.trycloudflare.com
 104.18.180.27	archlinux.mirror.noc.one
 104.18.180.27	assets.feedercdn.com
 104.18.180.27	cdn.breached.to
 104.18.180.27	chihaya-heroku.120181311.xyz
+104.18.180.27	console-eb2tbixf.isab.run
 104.18.180.27	creativecommons.org
 104.18.180.27	cryptography.io
 104.18.180.27	currency.world
 104.18.180.27	darknetone.com
+104.18.180.27	electron.authy.com
 104.18.180.27	embed.videodelivery.net
 104.18.180.27	flower.nameless13.com
 104.18.180.27	getwnr.com
@@ -330,6 +342,7 @@
 104.18.204.32	invalid.rpki.cloudflare.com
 104.18.204.32	kernel-ubuntu.proxy.noc.one
 104.18.204.32	lo-li.cn
+104.18.204.32	mgt.moe
 104.18.204.32	minibus.web3.storage
 104.18.204.32	opaque.pages.dev
 104.18.204.32	openpgpjs.org
@@ -340,10 +353,13 @@
 104.18.204.32	trading.bitfinex.com
 104.18.204.32	truthsocial.com
 104.18.204.32	v2ex.com
+104.18.204.32	www.ieltsxpress.com
+104.18.204.32	www.isab.run
 104.18.213.12	8b485f41-7d12-4538-ab88-040bccee8aaa.cfargotunnel.com
 104.18.213.12	ajax.loli.net
 104.18.213.12	api.moneroocean.stream
 104.18.213.12	assets.calendly.com
+104.18.213.12	bible.com
 104.18.213.12	black.readthedocs.io
 104.18.213.12	blog.cloudflare.com
 104.18.213.12	cdn.menci.xyz
@@ -395,8 +411,10 @@
 104.18.24.23	image.winudf.com
 104.18.24.23	img.pincong.rocks
 104.18.24.23	isab.pages.dev
+104.18.24.23	isab.run
 104.18.24.23	media.discordapp.net
 104.18.24.23	nekosc.com
+104.18.24.23	nodejs.bible.com
 104.18.24.23	rdns-104-18-24-23.cloudflare-dns.com
 104.18.24.23	s.mirrorz.org
 104.18.24.23	s0y8mjj8sr4ogndc.gzucm.cf
@@ -405,10 +423,12 @@
 104.18.24.23	thestandnews.com
 104.18.24.23	thumbs2.redgifs.com
 104.18.24.23	tracker.foreverpirates.co
+104.18.24.23	update.argotunnel.com
 104.18.24.23	web3vpn.net
 104.18.24.23	workers.cloudflare.com
 104.18.24.23	worldwide.passcloud.xyz
 104.18.24.23	www.bleepstatic.com
+104.18.24.23	www.collinsdictionary.com
 104.18.24.23	www.matrix.org
 104.18.24.23	www.passbolt.com
 104.18.24.23	www.sciencedirect.com
@@ -475,6 +495,7 @@
 104.20.10.218	cloudflare-quic.com
 104.20.10.218	cmlink.v2fly.co
 104.20.10.218	codeforces.ml
+104.20.10.218	collinsdictionary.com
 104.20.10.218	comments.adguard.com
 104.20.10.218	deepl.com
 104.20.10.218	earth.fm
@@ -504,6 +525,7 @@
 104.20.10.218	s3.image.hosting
 104.20.10.218	sparrow.cloudflare.com
 104.20.10.218	static.zdassets.com
+104.20.10.218	support.authy.com
 104.20.10.218	support.cloudflarewarp.com
 104.20.10.218	tail.developers.workers.dev
 104.20.10.218	tr.burnabyhighstar.com
@@ -521,6 +543,7 @@
 104.20.9.218	api.opensea.io
 104.20.9.218	biplus.date
 104.20.9.218	blog.men.ci
+104.20.9.218	blog.mgt.moe
 104.20.9.218	bootstrapcdn.com
 104.20.9.218	cdn.geekzu.org
 104.20.9.218	cdn.nsfw.xxx
@@ -636,6 +659,7 @@
 172.67.3.188	kevinzonda.com
 172.67.3.188	moneroocean.stream
 172.67.3.188	pastebin.com
+172.67.3.188	pb.mgt.moe
 172.67.3.188	platform.dash.cloudflare.com
 172.67.3.188	rdns-172-67-3-188.cloudflare-dns.com
 172.67.3.188	speed.cloudflare.com

@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: Q5zERlCpCmtMYz_Vp9hgsRxARUrgaNF6ytcnFkr2XRqp3xL3ztDPHOoI6kQ3_TQE
+! Version: ZaFNLqi2ogBkoAjzGkZ2W4iy8jFLY8NTaxjV2EtwMp4B8mCnSwot42EhWcFnj9Ul
 
 ||chameleon.ad^
 ||content.ad^
@@ -1458,6 +1458,7 @@
 ||closedcows.com^
 ||a.nel.cloudflare.com^
 ||api.radar.cloudflare.com^
+||performance.radar.cloudflare.com^
 ||report-uri.cloudflare.com^
 ||tr.www.cloudflare.com^
 ||cloudflareinsights.com^
@@ -5852,6 +5853,7 @@
 ||btez8.xyz^
 ||downloadr.xyz^
 ||getherefwuk.xyz^
+||margatroid.xyz^
 ||wpnrtnmrewunrtok.xyz^
 ||ads.img.co.za^
 ||banner.img.co.za^
