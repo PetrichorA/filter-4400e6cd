@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/jsdisable.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/jsdisable.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/jsdisable.txt
-! Version: 3uQviU0nS3xVsGoK6LeJUE3vcEELXBDmYxhM0pq8lcMRnbHHrSd3yUohiKYZn3KT
+! Version: C2BXTSEeIM3XxNoXytlLoQSbxJ7wMfENtEupJ7dn4CTtbxXV_2xo_0zDcgeBMCdB
 
 ||sina.com.cn^$csp=script-src 'none'
 ||juejin.cn^$csp=script-src 'none'
@@ -16,6 +16,7 @@
 ||bbc.com^$csp=script-src 'none'
 ||cnbc.com^$csp=script-src 'none'
 ||cnbeta.com^$csp=script-src 'none'
+||ieltsxpress.com^$csp=script-src 'none'
 ||ifeng.com^$csp=script-src 'none'
 ||jianshu.com^$csp=script-src 'none'
 ||laokaoya.com^$csp=script-src 'none'
