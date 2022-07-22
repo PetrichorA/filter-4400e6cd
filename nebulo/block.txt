@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: Vte1935yk5qzi4zPdSE4zesQf5EjseBuwb7NbpI1d3FwJfwQx78XVsBJEPf_sK6-
+# Version: 3yf4rJS_1PBKwo1pjI20BYNg1InabadQ1LnWTDK763PCdZyDgu8zi80gCgHsvUVP
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -2740,6 +2740,8 @@
 0.0.0.0	**.ads.casumoaffiliates.com
 0.0.0.0	causecherry.com
 0.0.0.0	**.causecherry.com
+0.0.0.0	doppler-reporting.cbsivideo.com
+0.0.0.0	**.doppler-reporting.cbsivideo.com
 0.0.0.0	bidbarrel.cbsnews.com
 0.0.0.0	**.bidbarrel.cbsnews.com
 0.0.0.0	tealium.cbsnews.com
@@ -2760,8 +2762,8 @@
 0.0.0.0	**.adserver.cdnstream.com
 0.0.0.0	cedato.com
 0.0.0.0	**.cedato.com
-0.0.0.0	radar.cedexis.com
-0.0.0.0	**.radar.cedexis.com
+0.0.0.0	cedexis.com
+0.0.0.0	**.cedexis.com
 0.0.0.0	celtra.com
 0.0.0.0	**.celtra.com
 0.0.0.0	centerpointmedia.com
@@ -5624,6 +5626,8 @@
 0.0.0.0	**.mt34iofvjay.com
 0.0.0.0	mtree.com
 0.0.0.0	**.mtree.com
+0.0.0.0	cdn-fs.ts.mtvnservices.com
+0.0.0.0	**.cdn-fs.ts.mtvnservices.com
 0.0.0.0	mundanepollution.com
 0.0.0.0	**.mundanepollution.com
 0.0.0.0	ad.musicmatch.com
@@ -6640,8 +6644,8 @@
 0.0.0.0	**.quacksquirrel.com
 0.0.0.0	quaintcan.com
 0.0.0.0	**.quaintcan.com
-0.0.0.0	siteintercept.qualtrics.com
-0.0.0.0	**.siteintercept.qualtrics.com
+0.0.0.0	qualtrics.com
+0.0.0.0	**.qualtrics.com
 0.0.0.0	quantcast.com
 0.0.0.0	**.quantcast.com
 0.0.0.0	quantcount.com
@@ -7156,6 +7160,8 @@
 0.0.0.0	**.slopeaota.com
 0.0.0.0	smaato.com
 0.0.0.0	**.smaato.com
+0.0.0.0	smac-ad.com
+0.0.0.0	**.smac-ad.com
 0.0.0.0	smallbeginner.com
 0.0.0.0	**.smallbeginner.com
 0.0.0.0	smart-traffik.com
@@ -7932,6 +7938,8 @@
 0.0.0.0	**.widget-v4.tidiochat.com
 0.0.0.0	ads.tiktok.com
 0.0.0.0	**.ads.tiktok.com
+0.0.0.0	analytics.tiktok.com
+0.0.0.0	**.analytics.tiktok.com
 0.0.0.0	beacon.tingyun.com
 0.0.0.0	**.beacon.tingyun.com
 0.0.0.0	tinybar.com
@@ -9898,6 +9906,8 @@
 0.0.0.0	**.siteimproveanalytics.io
 0.0.0.0	smart-traffik.io
 0.0.0.0	**.smart-traffik.io
+0.0.0.0	sophi.io
+0.0.0.0	**.sophi.io
 0.0.0.0	storetail.io
 0.0.0.0	**.storetail.io
 0.0.0.0	throtle.io

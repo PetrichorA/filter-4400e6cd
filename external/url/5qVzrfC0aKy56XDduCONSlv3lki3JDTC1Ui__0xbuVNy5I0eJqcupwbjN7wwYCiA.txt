@@ -302,7 +302,6 @@
 ||adsoldier.com^
 ||adspsp.com^
 ||adsroller.com^
-||adsrvus.com^
 ||adstanding.com^
 ||adsupply.com^
 ||adswizz.com^
@@ -411,6 +410,7 @@
 ||ad.amgdgt.com^
 ||ads.amigos.com^
 ||banners.amigos.com^
+||ampleclick.com^
 ||api.amplitude.com^
 ||api2.amplitude.com^
 ||api.eu.amplitude.com^
@@ -1273,7 +1273,6 @@
 ||ads.hollywood.com^
 ||homelycrown.com^
 ||adimages.homestore.com^
-||counters.honesty.com^
 ||honeygoldfish.com^
 ||honorablehall.com^
 ||honorableland.com^
@@ -1358,7 +1357,6 @@
 ||innocentwax.com^
 ||innovid.com^
 ||inquisitiveinvention.com^
-||inringtone.com^
 ||insightexpress.com^
 ||insightexpressai.com^
 ||t.insigit.com^
@@ -1444,6 +1442,7 @@
 ||kontera.com^
 ||kt5850pjz0.com^
 ||kubient.com^
+||l6b587txj1.com^
 ||lakequincy.com^
 ||lameletters.com^
 ||lanistaads.com^
@@ -1574,6 +1573,7 @@
 ||messagenovice.com^
 ||metaffiliation.com^
 ||metanetwork.com^
+||click.digital.metaquestmail.com^
 ||werbung.meteoxpress.com^
 ||methodcash.com^
 ||metrilo.com^
@@ -1744,7 +1744,6 @@
 ||oneandonlynetwork.com^
 ||onenetworkdirect.com^
 ||ads.oneplace.com^
-||ads2.oneplace.com^
 ||cdn.onesignal.com^
 ||onestat.com^
 ||onestatfree.com^
@@ -1774,7 +1773,6 @@
 ||ads.outpersonals.com^
 ||overconfidentfood.com^
 ||overture.com^
-||owebanalytics.com^
 ||oxado.com^
 ||oxcash.com^
 ||p2r14.com^
@@ -1900,7 +1898,6 @@
 ||provenpixel.com^
 ||provexia.com^
 ||prpops.com^
-||prsaln.com^
 ||prsitecheck.com^
 ||ads.psd2html.com^
 ||ptoushoa.com^
@@ -2525,7 +2522,6 @@
 ||visistat.com^
 ||t.visitorqueue.com^
 ||visualrevenue.com^
-||cloudflare-dacdn.visualwebsiteoptimizer.com^
 ||dacdn.visualwebsiteoptimizer.com^
 ||dev.visualwebsiteoptimizer.com^
 ||r1.visualwebsiteoptimizer.com^
@@ -3105,7 +3101,6 @@
 ||207.net^
 ||2mdn.net^
 ||2o7.net^
-||4affiliate.net^
 ||4d5.net^
 ||ad.a8.net^
 ||trck.a8.net^
@@ -3360,8 +3355,6 @@
 ||belstat.nl^
 ||checkstat.nl^
 ||ads.detelefoongids.nl^
-||ads.femmefab.nl^
-||ads2.femmefab.nl^
 ||marketing.hearstmagazines.nl^
 ||kliks.nl^
 ||lead-analytics.nl^

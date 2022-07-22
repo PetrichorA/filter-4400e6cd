@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: Ve2C6zENTC-XUZ4VLi9rTFEKFivQiQe2XlQ39wDk7KZjtbheP3ksOIY44Uofbkr9
+! Version: np78ntU-3dBsfIDdjNcYssotr3ncjFupneLdZYOmAUECqIguvBJD51o6PLPAzRK1
 
 ||chameleon.ad^
 ||content.ad^
@@ -1374,6 +1374,7 @@
 ||casinotraffic.com^
 ||ads.casumoaffiliates.com^
 ||causecherry.com^
+||doppler-reporting.cbsivideo.com^
 ||bidbarrel.cbsnews.com^
 ||tealium.cbsnews.com^
 ||ads.cc-dt.com^
@@ -1384,7 +1385,7 @@
 ||httpdns.c.cdnhwc2.com^
 ||adserver.cdnstream.com^
 ||cedato.com^
-||radar.cedexis.com^
+||cedexis.com^
 ||celtra.com^
 ||centerpointmedia.com^
 ||ads.centraliprom.com^
@@ -2816,6 +2817,7 @@
 ||mstrlytcs.com^
 ||mt34iofvjay.com^
 ||mtree.com^
+||cdn-fs.ts.mtvnservices.com^
 ||mundanepollution.com^
 ||ad.musicmatch.com^
 ||muwmedia.com^
@@ -3324,7 +3326,7 @@
 ||newnet.qsrch.com^
 ||quacksquirrel.com^
 ||quaintcan.com^
-||siteintercept.qualtrics.com^
+||qualtrics.com^
 ||quantcast.com^
 ||quantcount.com^
 ||quantserve.com^
@@ -3582,6 +3584,7 @@
 ||slipperysack.com^
 ||slopeaota.com^
 ||smaato.com^
+||smac-ad.com^
 ||smallbeginner.com^
 ||smart-traffik.com^
 ||smart4ads.com^
@@ -3970,6 +3973,7 @@
 ||tidaltv.com^
 ||widget-v4.tidiochat.com^
 ||ads.tiktok.com^
+||analytics.tiktok.com^
 ||beacon.tingyun.com^
 ||tinybar.com^
 ||cdn.tinypass.com^
@@ -4953,6 +4957,7 @@
 ||simpleanalytics.io^
 ||siteimproveanalytics.io^
 ||smart-traffik.io^
+||sophi.io^
 ||storetail.io^
 ||throtle.io^
 ||tracdelight.io^
