@@ -4,10 +4,11 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: a1ScXBEiLoxRG4J8rYT-R5k8y-4HdfS6WHxMsvBnTdt-Aah-0pXgscexelFZHjBt
+# Version: s-cZpShiG15idBzDbkIv05sXLv8yKu82gBYOL66gOIcylAMMTevDoGzvN38cThKT
 
 104.16.116.68	9.234456.xyz
 104.16.116.68	91porn.com
+104.16.116.68	api.everpay.io
 104.16.116.68	assets.codepen.io
 104.16.116.68	cdn.adguard.com
 104.16.116.68	comments.adguard.com
@@ -20,6 +21,7 @@
 104.16.116.68	hub.fastgit.org
 104.16.116.68	icons.feedercdn.com
 104.16.116.68	kernel-ubuntu.proxy.noc.one
+104.16.116.68	mailchannels.com
 104.16.116.68	matrix.org
 104.16.116.68	nodejs.org
 104.16.116.68	ooooooooooooooooooooooo.ooo
@@ -73,6 +75,8 @@
 104.16.126.175	tr.torland.ga
 104.16.126.175	tracker.nitrix.me
 104.16.126.175	web.libera.chat
+104.16.126.175	www.cha.fan
+104.16.126.175	www.etherscan.io
 104.16.126.175	www.gitbook.com
 104.16.126.175	www.matrix.org
 104.16.126.175	www.readthedocs.org
@@ -115,10 +119,12 @@
 104.16.19.94	rdns-104-16-19-94.cloudflare-dns.com
 104.16.19.94	shufflemint.mypinata.cloud
 104.16.19.94	web3-storage.mypinata.cloud
+104.16.43.54	api.cha.fan
 104.16.43.54	api.teams.cloudflare.com
 104.16.43.54	app.gitbook.com
 104.16.43.54	assets.classy.org
 104.16.43.54	breached.co
+104.16.43.54	bscscan.com
 104.16.43.54	cdn.v2ex.com
 104.16.43.54	chinadigitaltimes.net
 104.16.43.54	crypto.cloudflare.com
@@ -154,9 +160,12 @@
 104.16.44.54	cdn4.nsfw.xxx
 104.16.44.54	cloudflare.community
 104.16.44.54	cxybb.com
+104.16.44.54	dashboard.authy.com
+104.16.44.54	docs.authy.com
 104.16.44.54	huacloud.dev
 104.16.44.54	images-ext-2.discordapp.net
 104.16.44.54	images.opencollective.com
+104.16.44.54	imgurl.org
 104.16.44.54	m.apkpure.com
 104.16.44.54	npmjs.org
 104.16.44.54	nsfw.xxx
@@ -175,6 +184,7 @@
 104.16.44.54	www.noi.ac
 104.16.44.54	www.savieo.com
 104.16.44.54	www.sinchew.com.my
+104.16.44.54	www.thepiratebay.org
 104.16.44.54	www.thestandnews.com
 104.16.44.54	www.zendesk.com
 104.16.44.54	www2.deepl.com
@@ -250,6 +260,7 @@
 104.18.20.89	nft-storage.mypinata.cloud
 104.18.20.89	nftstorage.link
 104.18.20.89	rdns-104-18-20-89.cloudflare-dns.com
+104.18.204.32	app.everpay.io
 104.18.204.32	apply.workable.com
 104.18.204.32	c5.rgstatic.net
 104.18.204.32	cdn.nsfw.xxx
@@ -289,6 +300,7 @@
 104.18.204.32	www.hee.ink
 104.18.204.32	www.pincong.rocks
 104.18.204.32	www.ruanyifeng.com
+104.18.213.12	accelerate.orion.pki.plus
 104.18.213.12	app.element.io
 104.18.213.12	assets.feedercdn.com
 104.18.213.12	cf-assets.hcaptcha.com
@@ -322,6 +334,7 @@
 104.18.213.12	www.collinsdictionary.com
 104.18.213.12	www.ddrk.me
 104.18.213.12	www.kawabangga.com
+104.18.213.12	www.mailchannels.com
 104.18.213.12	www.uscardforum.com
 104.18.213.12	xn--931a.moe
 104.18.234.74	hexly.examples.workers.dev
@@ -345,6 +358,7 @@
 104.18.24.23	developers.cloudflare.com
 104.18.24.23	electron.authy.com
 104.18.24.23	embed.cloudflarestream.com
+104.18.24.23	everpay.io
 104.18.24.23	fonts.thu.fail
 104.18.24.23	forum.gamer.com.tw
 104.18.24.23	i.wonderfulday24.live
@@ -362,6 +376,8 @@
 104.18.24.23	wizardforcel.gitbooks.io
 104.18.24.23	www.bitfinex.com
 104.18.24.23	www.breached.co
+104.18.24.23	www.bscscan.com
+104.18.24.23	www.imgurl.org
 104.18.24.23	www.npmjs.com
 104.18.24.23	www.pixiv.net
 104.18.3.165	1337.abcvg.info
@@ -415,6 +431,7 @@
 104.20.10.218	captcha.sukkaw.com
 104.20.10.218	cdn-client.medium.com
 104.20.10.218	cdn.discordapp.com
+104.20.10.218	cha.fan
 104.20.10.218	cloudflarewarp.com
 104.20.10.218	codepen.io
 104.20.10.218	cxcx.me
@@ -453,6 +470,7 @@
 104.22.0.49	travellings.pages.dev
 104.22.0.49	ublockorigin.pages.dev
 104.22.1.49	d026a0c5-eae7b602.dark.workers.dev
+104.22.1.49	mirrors-cn.pages.dev
 104.22.1.49	node2.mkdmirror.workers.dev
 104.22.1.49	node3.mkdmirror.workers.dev
 104.22.1.49	rdns-104-22-1-49.cloudflare-dns.com
@@ -481,6 +499,7 @@
 104.22.28.180	dark.fail
 104.22.28.180	docs.rsshub.app
 104.22.28.180	e-hentai.org
+104.22.28.180	etherscan.io
 104.22.28.180	feedback.developers.cloudflare.com
 104.22.28.180	files.chainsafe.io
 104.22.28.180	getapp.com
@@ -559,11 +578,13 @@
 104.22.70.197	sdn.geekzu.org
 104.22.70.197	soha.moe
 104.22.70.197	static.bitfinex.com
+104.22.70.197	store.cloudflare.steamstatic.com
 104.22.70.197	thepiratebay.org
 104.22.70.197	tr.ready4.icu
 104.22.70.197	tracker.imgoingto.icu
 104.22.70.197	www.ddnet.tw
 104.22.70.197	www.getapp.com
+104.22.78.218	acme.hi.cn
 104.22.78.218	adguard-dns.io
 104.22.78.218	alive.bar
 104.22.78.218	api.cloudflare.com
@@ -598,10 +619,12 @@
 104.22.78.218	www.ieltsxpress.com
 104.22.78.218	www.nexusguard.com
 104.22.78.218	www.v2ex.com
+104.22.78.218	www1.hi.cn
 104.26.0.73	cdn.menci.xyz
 104.26.0.73	cloudflaremirrors.com
 104.26.0.73	cloudflarestream.com
 104.26.0.73	cloudflareworkers.com
+104.26.0.73	docs.everpay.io
 104.26.0.73	dongtaiwang.com
 104.26.0.73	gapis.geekzu.org
 104.26.0.73	glyph.medium.com
@@ -661,6 +684,7 @@
 172.67.3.188	adguard.com
 172.67.3.188	archlinux.mirror.noc.one
 172.67.3.188	b-hls-21.doppiocdn.com
+172.67.3.188	cdn.cloudflare.steamstatic.com
 172.67.3.188	coolshell.cn
 172.67.3.188	csprng.xyz
 172.67.3.188	currency.world
@@ -686,6 +710,7 @@
 172.67.3.188	scoredchosemoon.notion.site
 172.67.3.188	status.discord.com
 172.67.3.188	store.epicgames.com
+172.67.3.188	swap.everpay.io
 172.67.3.188	www.bleepingcomputer.com
 172.67.3.188	www.digitalocean.com
 172.67.3.188	www.dongtaiwang.com

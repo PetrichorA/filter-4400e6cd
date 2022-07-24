@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: np78ntU-3dBsfIDdjNcYssotr3ncjFupneLdZYOmAUECqIguvBJD51o6PLPAzRK1
+! Version: ZSxmgsxNI12DCX0dqH6oeC8jsEtwTX0ARXEyun8ynPs3TK79OuRMCdYePGxia_rf
 
 ||chameleon.ad^
 ||content.ad^
@@ -1327,6 +1327,7 @@
 ||broadcastbed.com^
 ||broaddoor.com^
 ||broadstreetads.com^
+||mct.bscscan.com^
 ||admanager.btopenworld.com^
 ||log.btopenworld.com^
 ||staticads.btopenworld.com^
@@ -1801,6 +1802,7 @@
 ||esty.com^
 ||etahub.com^
 ||etargetnet.com^
+||kta.etherscan.com^
 ||etoote.com^
 ||etracker.com^
 ||eurekster.com^
@@ -2044,6 +2046,8 @@
 ||gostats.com^
 ||gothamads.com^
 ||metrics.govexec.com^
+||safe.govfz.com^
+||safemobile.govfz.com^
 ||ads.goyk.com^
 ||ads.gplusmedia.com^
 ||li.gq.com^
@@ -2464,6 +2468,7 @@
 ||pixiu.shangshufang.ksosoft.com^
 ||uid.ksosoft.com^
 ||js.a.kspkg.com^
+||kst6632.com^
 ||hdns.ksyun.com^
 ||ssp.kss.ksyun.com^
 ||kt5850pjz0.com^
@@ -4829,6 +4834,7 @@
 ||openad.tf1.fr^
 ||visual-pagerank.fr^
 ||weborama.fr^
+||freychang.fun^
 ||ads.a-snag-smartmoney.fyi^
 ||lnks.gd^
 ||gfcim5.gq^
@@ -4887,6 +4893,7 @@
 ||techads.info^
 ||track.themaccleanup.info^
 ||ads.twojatv.info^
+||tj.rss.ink^
 ||1rx.io^
 ||adalliance.io^
 ||adserve.io^
@@ -5611,6 +5618,7 @@
 ||cny.yoyo.org^
 ||wheredoyoucomefrom.ovh^
 ||pixel.archive.ph^
+||chedstimaarr.pics^
 ||adstat.4u.pl^
 ||adocean.pl^
 ||adserver.pl^
@@ -5867,6 +5875,7 @@
 ||downloadr.xyz^
 ||getherefwuk.xyz^
 ||margatroid.xyz^
+||petropicaq.xyz^
 ||wpnrtnmrewunrtok.xyz^
 ||ads.img.co.za^
 ||banner.img.co.za^

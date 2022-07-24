@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: ZSkgtS1EaK5DQw6hireKWPo2-95xjNR-ja729wQtkgm6dNlmQR1xpym4YmZBM22W
+! Version: -EH4-GkKuAYmMgVjiEClRdnU_B_g82V-tF9hhzrPNyVJ7tFM7CNbLhjpRU8euMIi
 
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -62,6 +62,7 @@
 ||huanqiu.com^##+js(cookie-remover)
 ||huawei.com^##+js(cookie-remover)
 ||hupu.com^##+js(cookie-remover)
+||ieltsxpress.com^##+js(cookie-remover)
 ||imgur.com^##+js(cookie-remover)
 ||ithome.com^##+js(cookie-remover)
 ||jianshu.com^##+js(cookie-remover)

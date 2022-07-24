@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: 3yf4rJS_1PBKwo1pjI20BYNg1InabadQ1LnWTDK763PCdZyDgu8zi80gCgHsvUVP
+# Version: S17KGFZ5BwU5ULQej7tJZdBljEbRo14NJAK5c_qpOIL7QUDbmxoy_ZuXItUR5udK
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -2646,6 +2646,8 @@
 0.0.0.0	**.broaddoor.com
 0.0.0.0	broadstreetads.com
 0.0.0.0	**.broadstreetads.com
+0.0.0.0	mct.bscscan.com
+0.0.0.0	**.mct.bscscan.com
 0.0.0.0	admanager.btopenworld.com
 0.0.0.0	**.admanager.btopenworld.com
 0.0.0.0	log.btopenworld.com
@@ -3594,6 +3596,8 @@
 0.0.0.0	**.etahub.com
 0.0.0.0	etargetnet.com
 0.0.0.0	**.etargetnet.com
+0.0.0.0	kta.etherscan.com
+0.0.0.0	**.kta.etherscan.com
 0.0.0.0	etoote.com
 0.0.0.0	**.etoote.com
 0.0.0.0	etracker.com
@@ -4080,6 +4084,10 @@
 0.0.0.0	**.gothamads.com
 0.0.0.0	metrics.govexec.com
 0.0.0.0	**.metrics.govexec.com
+0.0.0.0	safe.govfz.com
+0.0.0.0	**.safe.govfz.com
+0.0.0.0	safemobile.govfz.com
+0.0.0.0	**.safemobile.govfz.com
 0.0.0.0	ads.goyk.com
 0.0.0.0	**.ads.goyk.com
 0.0.0.0	ads.gplusmedia.com
@@ -4920,6 +4928,8 @@
 0.0.0.0	**.uid.ksosoft.com
 0.0.0.0	js.a.kspkg.com
 0.0.0.0	**.js.a.kspkg.com
+0.0.0.0	kst6632.com
+0.0.0.0	**.kst6632.com
 0.0.0.0	hdns.ksyun.com
 0.0.0.0	**.hdns.ksyun.com
 0.0.0.0	ssp.kss.ksyun.com
@@ -9650,6 +9660,8 @@
 0.0.0.0	**.visual-pagerank.fr
 0.0.0.0	weborama.fr
 0.0.0.0	**.weborama.fr
+0.0.0.0	freychang.fun
+0.0.0.0	**.freychang.fun
 0.0.0.0	ads.a-snag-smartmoney.fyi
 0.0.0.0	**.ads.a-snag-smartmoney.fyi
 0.0.0.0	lnks.gd
@@ -9766,6 +9778,8 @@
 0.0.0.0	**.track.themaccleanup.info
 0.0.0.0	ads.twojatv.info
 0.0.0.0	**.ads.twojatv.info
+0.0.0.0	tj.rss.ink
+0.0.0.0	**.tj.rss.ink
 0.0.0.0	1rx.io
 0.0.0.0	**.1rx.io
 0.0.0.0	adalliance.io
@@ -11214,6 +11228,8 @@
 0.0.0.0	**.wheredoyoucomefrom.ovh
 0.0.0.0	pixel.archive.ph
 0.0.0.0	**.pixel.archive.ph
+0.0.0.0	chedstimaarr.pics
+0.0.0.0	**.chedstimaarr.pics
 0.0.0.0	adstat.4u.pl
 0.0.0.0	**.adstat.4u.pl
 0.0.0.0	adocean.pl
@@ -11726,6 +11742,8 @@
 0.0.0.0	**.getherefwuk.xyz
 0.0.0.0	margatroid.xyz
 0.0.0.0	**.margatroid.xyz
+0.0.0.0	petropicaq.xyz
+0.0.0.0	**.petropicaq.xyz
 0.0.0.0	wpnrtnmrewunrtok.xyz
 0.0.0.0	**.wpnrtnmrewunrtok.xyz
 0.0.0.0	ads.img.co.za
