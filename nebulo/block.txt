@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: S17KGFZ5BwU5ULQej7tJZdBljEbRo14NJAK5c_qpOIL7QUDbmxoy_ZuXItUR5udK
+# Version: 9RIlhkSeTqlDPZp4jaxGevmb4W09p_W4FMbZLfOIBeuIkPrp3og77ipeZg49nsk_
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -4084,10 +4084,8 @@
 0.0.0.0	**.gothamads.com
 0.0.0.0	metrics.govexec.com
 0.0.0.0	**.metrics.govexec.com
-0.0.0.0	safe.govfz.com
-0.0.0.0	**.safe.govfz.com
-0.0.0.0	safemobile.govfz.com
-0.0.0.0	**.safemobile.govfz.com
+0.0.0.0	govfz.com
+0.0.0.0	**.govfz.com
 0.0.0.0	ads.goyk.com
 0.0.0.0	**.ads.goyk.com
 0.0.0.0	ads.gplusmedia.com
@@ -11284,6 +11282,8 @@
 0.0.0.0	**.std.wpcdn.pl
 0.0.0.0	v.wpimg.pl
 0.0.0.0	**.v.wpimg.pl
+0.0.0.0	ad.plus
+0.0.0.0	**.ad.plus
 0.0.0.0	api.booth.pm
 0.0.0.0	**.api.booth.pm
 0.0.0.0	baconaces.pro

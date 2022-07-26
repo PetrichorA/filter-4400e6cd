@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: ZSxmgsxNI12DCX0dqH6oeC8jsEtwTX0ARXEyun8ynPs3TK79OuRMCdYePGxia_rf
+! Version: i4nLb3Zxt6wIuzpLta9n-qTVIWp7FVE4LPyOudFIjK-W4EvnzWCCY3N1vw_aa7it
 
 ||chameleon.ad^
 ||content.ad^
@@ -2046,8 +2046,7 @@
 ||gostats.com^
 ||gothamads.com^
 ||metrics.govexec.com^
-||safe.govfz.com^
-||safemobile.govfz.com^
+||govfz.com^
 ||ads.goyk.com^
 ||ads.gplusmedia.com^
 ||li.gq.com^
@@ -5646,6 +5645,7 @@
 ||www.wp.pl^
 ||std.wpcdn.pl^
 ||v.wpimg.pl^
+||ad.plus^
 ||api.booth.pm^
 ||baconaces.pro^
 ||evadavdsp.pro^

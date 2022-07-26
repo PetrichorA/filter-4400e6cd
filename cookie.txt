@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: -EH4-GkKuAYmMgVjiEClRdnU_B_g82V-tF9hhzrPNyVJ7tFM7CNbLhjpRU8euMIi
+! Version: wDh3vLOMTyXIDpy2TjvFJgn0ay614FVXcam_RqwhjiHM1ubAOYUfnh9hCubrV3Nz
 
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -62,6 +62,8 @@
 ||huanqiu.com^##+js(cookie-remover)
 ||huawei.com^##+js(cookie-remover)
 ||hupu.com^##+js(cookie-remover)
+||ieltsanswers.com^##+js(cookie-remover)
+||ieltspracticeonline.com^##+js(cookie-remover)
 ||ieltsxpress.com^##+js(cookie-remover)
 ||imgur.com^##+js(cookie-remover)
 ||ithome.com^##+js(cookie-remover)
@@ -74,6 +76,7 @@
 ||docs.microsoft.com^##+js(cookie-remover)
 ||support.microsoft.com^##+js(cookie-remover)
 ||nytimes.com^##+js(cookie-remover)
+||practicepteonline.com^##+js(cookie-remover)
 ||qinxue100.com^##+js(cookie-remover)
 ||reuters.com^##+js(cookie-remover)
 ||ruiwen.com^##+js(cookie-remover)

@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: s-cZpShiG15idBzDbkIv05sXLv8yKu82gBYOL66gOIcylAMMTevDoGzvN38cThKT
+# Version: CqhM14oBE-9ob9dtK66wnVPdKSAShSw3bMk0Yuut920Z2QrLPbqBhaB6hj4jrdIP
 
 104.16.116.68	9.234456.xyz
 104.16.116.68	91porn.com
@@ -53,6 +53,7 @@
 104.16.126.175	cloudflare-quic.com
 104.16.126.175	cloudflare.com
 104.16.126.175	datatracker.ietf.org
+104.16.126.175	ddys.tv
 104.16.126.175	download.fastgit.org
 104.16.126.175	ghbtns.com
 104.16.126.175	gitcdn.link
@@ -615,6 +616,7 @@
 104.22.78.218	theinitium.com
 104.22.78.218	tracker.kuroy.me
 104.22.78.218	us.v2ex.com
+104.22.78.218	www.ddys.tv
 104.22.78.218	www.g2.com
 104.22.78.218	www.ieltsxpress.com
 104.22.78.218	www.nexusguard.com
