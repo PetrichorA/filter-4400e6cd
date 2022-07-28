@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: 9RIlhkSeTqlDPZp4jaxGevmb4W09p_W4FMbZLfOIBeuIkPrp3og77ipeZg49nsk_
+# Version: -BgWd5n7orvp0ZDfBl_4rr9WEIQvSWj_YieyaXZwxPouuTf7EDCBOkIW9ULgR0Cm
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -7070,8 +7070,8 @@
 0.0.0.0	**.shareadspace.com
 0.0.0.0	shareasale.com
 0.0.0.0	**.shareasale.com
-0.0.0.0	platform-api.sharethis.com
-0.0.0.0	**.platform-api.sharethis.com
+0.0.0.0	sharethis.com
+0.0.0.0	**.sharethis.com
 0.0.0.0	sharethrough.com
 0.0.0.0	**.sharethrough.com
 0.0.0.0	adserver.sharewareonline.com
@@ -9544,6 +9544,8 @@
 0.0.0.0	**.ay.delivery
 0.0.0.0	monu.delivery
 0.0.0.0	**.monu.delivery
+0.0.0.0	umami.bmpi.dev
+0.0.0.0	**.umami.bmpi.dev
 0.0.0.0	busuanzi.konnyaku.workers.dev
 0.0.0.0	**.busuanzi.konnyaku.workers.dev
 0.0.0.0	counter.konnyaku.workers.dev

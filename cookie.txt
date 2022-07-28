@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: wDh3vLOMTyXIDpy2TjvFJgn0ay614FVXcam_RqwhjiHM1ubAOYUfnh9hCubrV3Nz
+! Version: zsUho9hyPwZpFCwmsY1dJE-MlL2wp6seCjDARQt0FbSbzFJJjq6FgMLKUiIK4oKP
 
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -100,6 +100,7 @@
 ||yourdictionary.com^##+js(cookie-remover)
 ||zdnet.com^##+js(cookie-remover)
 ||zybang.com^##+js(cookie-remover)
+||bmpi.dev^##+js(cookie-remover)
 ||rfi.fr^##+js(cookie-remover)
 ||filfox.info^##+js(cookie-remover)
 ||devgenius.io^##+js(cookie-remover)

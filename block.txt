@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: i4nLb3Zxt6wIuzpLta9n-qTVIWp7FVE4LPyOudFIjK-W4EvnzWCCY3N1vw_aa7it
+! Version: OS56IjdyK8UPIgaKOVPkp5qWSIex1B1aeTthrSWJ5XHKGH3rvcfeAZA5Akqp3mu-
 
 ||chameleon.ad^
 ||content.ad^
@@ -3539,7 +3539,7 @@
 ||cidttwap.shaqm.com^
 ||shareadspace.com^
 ||shareasale.com^
-||platform-api.sharethis.com^
+||sharethis.com^
 ||sharethrough.com^
 ||adserver.sharewareonline.com^
 ||sharppatch.com^
@@ -4776,6 +4776,7 @@
 ||zanox-affiliate.de^
 ||ay.delivery^
 ||monu.delivery^
+||umami.bmpi.dev^
 ||busuanzi.konnyaku.workers.dev^
 ||counter.konnyaku.workers.dev^
 ||icy-voice-596b.mynet.workers.dev^
