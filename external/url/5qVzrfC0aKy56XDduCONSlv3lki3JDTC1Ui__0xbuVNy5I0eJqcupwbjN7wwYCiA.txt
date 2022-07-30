@@ -2477,6 +2477,7 @@
 ||valueclickmedia.com^
 ||valuecommerce.com^
 ||vanfireworks.com^
+||click.news.vans.com^
 ||a.vartoken.com^
 ||track.vcdc.com^
 ||vcommission.com^
@@ -2887,6 +2888,7 @@
 ||ads.mediasmart.es^
 ||ads.recoletos.es^
 ||adsfac.eu^
+||braze.eu^
 ||manageadv.cblogs.eu^
 ||browser-http-intake.logs.datadoghq.eu^
 ||rum-http-intake.logs.datadoghq.eu^
