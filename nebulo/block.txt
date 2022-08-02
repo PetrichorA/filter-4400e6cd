@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: -BgWd5n7orvp0ZDfBl_4rr9WEIQvSWj_YieyaXZwxPouuTf7EDCBOkIW9ULgR0Cm
+# Version: vZ-w3B45iGgm9rDgFSkd3BqVcegP5vvnJHZYx5WjWEE0-tbT5axTyArwN60umj79
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -5420,6 +5420,8 @@
 0.0.0.0	**.s-rtb.send.microadinc.com
 0.0.0.0	bingads.microsoft.com
 0.0.0.0	**.bingads.microsoft.com
+0.0.0.0	clarity.microsoft.com
+0.0.0.0	**.clarity.microsoft.com
 0.0.0.0	ieonline.microsoft.com
 0.0.0.0	**.ieonline.microsoft.com
 0.0.0.0	microticker.com
@@ -10176,8 +10178,8 @@
 0.0.0.0	**.www.wannianli.mobi
 0.0.0.0	matomo.ouuan.moe
 0.0.0.0	**.matomo.ouuan.moe
-0.0.0.0	www.clarity.ms
-0.0.0.0	**.www.clarity.ms
+0.0.0.0	clarity.ms
+0.0.0.0	**.clarity.ms
 0.0.0.0	alert.com.mt
 0.0.0.0	**.alert.com.mt
 0.0.0.0	adservice.google.com.mt

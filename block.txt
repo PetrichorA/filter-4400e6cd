@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: OS56IjdyK8UPIgaKOVPkp5qWSIex1B1aeTthrSWJ5XHKGH3rvcfeAZA5Akqp3mu-
+! Version: PYShHQkkHPKKLZOeFjKKZjZtJ2GEoM9pmvU4QJBgVB35yBp0v02wCJC6goAUkMLr
 
 ||chameleon.ad^
 ||content.ad^
@@ -2714,6 +2714,7 @@
 ||cache.send.microadinc.com^
 ||s-rtb.send.microadinc.com^
 ||bingads.microsoft.com^
+||clarity.microsoft.com^
 ||ieonline.microsoft.com^
 ||microticker.com^
 ||www.migdtqq.com^
@@ -5092,7 +5093,7 @@
 ||sf.vserv.mobi^
 ||www.wannianli.mobi^
 ||matomo.ouuan.moe^
-||www.clarity.ms^
+||clarity.ms^
 ||alert.com.mt^
 ||adservice.google.com.mt^
 ||ads.independent.com.mt^
