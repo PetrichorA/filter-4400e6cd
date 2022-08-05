@@ -99,7 +99,6 @@
 ||lemnisk.co^
 ||magicadz.co^
 ||analytics.mailmunch.co^
-||ads.privatemedia.co^
 ||pushtrack.co^
 ||rockabox.co^
 ||r.scoota.co^
@@ -156,7 +155,6 @@
 ||ads.abovetopsecret.com^
 ||abruptroad.com^
 ||absentstream.com^
-||absoluteclickscom.com^
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||absurdwater.com^
@@ -227,7 +225,6 @@
 ||adjust.com^
 ||adjustnetwork.com^
 ||adk2.com^
-||adledge.com^
 ||adlegend.com^
 ||adlightning.com^
 ||adloox.com^
@@ -394,7 +391,6 @@
 ||amazingcounters.com^
 ||aax-eu-dub.amazon.com^
 ||amazon-adsystem.com^
-||amazonaax.com^
 ||adzerk.s3.amazonaws.com^
 ||alexa-sitestats.s3.amazonaws.com^
 ||digital-ads.s3.amazonaws.com^
@@ -788,7 +784,6 @@
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
 ||coremetrics.com^
-||cormast.com^
 ||cosmopolitads.com^
 ||banner.cotedazurpalace.com^
 ||counted.com^
@@ -919,7 +914,6 @@
 ||affiliate.doubleyourdating.com^
 ||doubtfulrainstorm.com^
 ||bwp.download.com^
-||dpgawov.com^
 ||dq95d35.com^
 ||drabsize.com^
 ||dragzebra.com^
@@ -1007,7 +1001,6 @@
 ||etracker.com^
 ||eurekster.com^
 ||banner.eurogrand.com^
-||ad.eurosport.com^
 ||evadav.com^
 ||evergage.com^
 ||ads.exactdrive.com^
@@ -1320,7 +1313,6 @@
 ||ientrymail.com^
 ||iesnare.com^
 ||ads.ign.com^
-||ihogaetw.com^
 ||ilbanner.com^
 ||illfatedsnail.com^
 ||illustriousoatmeal.com^
@@ -1387,7 +1379,8 @@
 ||t.irtyd.com^
 ||ads.isoftmarketing.com^
 ||banners.isoftmarketing.com^
-||iterable.com^
+||api.iterable.com^
+||js.iterable.com^
 ||its-that-easy.com^
 ||ads.itv.com^
 ||hits-i.iubenda.com^
@@ -1594,7 +1587,6 @@
 ||minormeeting.com^
 ||mintegral.com^
 ||track.miro.com^
-||sa.api.intl.miui.com^
 ||tracking.intl.miui.com^
 ||tracking.miui.com^
 ||mixedreading.com^
@@ -1773,12 +1765,12 @@
 ||ads.outpersonals.com^
 ||overconfidentfood.com^
 ||overture.com^
+||owebanalytics.com^
 ||oxado.com^
 ||oxcash.com^
 ||p2r14.com^
 ||padsbrown.com^
 ||pagefair.com^
-||pagerank4you.com^
 ||pageranktop.com^
 ||promote.pair.com^
 ||paleleaf.com^
@@ -2751,7 +2743,6 @@
 ||ads.administrator.de^
 ||adnet.de^
 ||ads.adred.de^
-||adrolays.de^
 ||adrotate.de^
 ||adscale.de^
 ||adsend.de^
@@ -2774,7 +2765,6 @@
 ||cash4popup.de^
 ||clicktag.de^
 ||commindo-media-ressourcen.de^
-||contaxe.de^
 ||foo.cosmocode.de^
 ||coupling-media.de^
 ||deloo.de^
@@ -3157,7 +3147,6 @@
 ||bannerconnect.net^
 ||bannertrack.net^
 ||benfly.net^
-||bestsearch.net^
 ||bidclix.net^
 ||bidswitch.net^
 ||ad0.bigmir.net^
@@ -3357,6 +3346,8 @@
 ||belstat.nl^
 ||checkstat.nl^
 ||ads.detelefoongids.nl^
+||ads.femmefab.nl^
+||ads2.femmefab.nl^
 ||marketing.hearstmagazines.nl^
 ||kliks.nl^
 ||lead-analytics.nl^
@@ -3471,7 +3462,6 @@
 ||bans.bride.ru^
 ||www-banner.chat.ru^
 ||clck.ru^
-||matomo.gals24.ru^
 ||matomo.hdweb.ru^
 ||hitlist.ru^
 ||hotlog.ru^
@@ -3523,6 +3513,7 @@
 ||adserver.scr.sk^
 ||mas.sector.sk^
 ||ads.webinak.sk^
+||foo.software^
 ||eversales.space^
 ||pixel.digitru.st^
 ||ad.style^
