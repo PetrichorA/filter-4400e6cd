@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: zsUho9hyPwZpFCwmsY1dJE-MlL2wp6seCjDARQt0FbSbzFJJjq6FgMLKUiIK4oKP
+! Version: uz8_WrqezC_0fgLNfBoVK2APs-cNmJHRxexcgSePmPNv4GhBmpwdRZy9K-B64ido
 
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -51,6 +51,7 @@
 ||easyliao.com^##+js(cookie-remover)
 ||exploit-db.com^##+js(cookie-remover)
 ||exploitalert.com^##+js(cookie-remover)
+||fandom.com^##+js(cookie-remover)
 ||forbes.com^##+js(cookie-remover)
 ||fortune.com^##+js(cookie-remover)
 ||freebuf.com^##+js(cookie-remover)
@@ -92,6 +93,8 @@
 ||theverge.com^##+js(cookie-remover)
 ||topuniversities.com^##+js(cookie-remover)
 ||wabi.com^##+js(cookie-remover)
+||washingtonpost.com^##+js(cookie-remover)
+||whats-on-netflix.com^##+js(cookie-remover)
 ||winaero.com^##+js(cookie-remover)
 ||wired.com^##+js(cookie-remover)
 ||wusa9.com^##+js(cookie-remover)
@@ -109,6 +112,7 @@
 ||obfuscator.io^##+js(cookie-remover)
 ||hub.textile.io^##+js(cookie-remover)
 ||viewblock.io^##+js(cookie-remover)
+||cnn.it^##+js(cookie-remover)
 ||dweb.link^##+js(cookie-remover)
 ||therecord.media^##+js(cookie-remover)
 ||skk.moe^##+js(cookie-remover)
@@ -116,12 +120,14 @@
 ||csdn.net^##+js(cookie-remover)
 ||oschina.net^##+js(cookie-remover)
 ||php.net^##+js(cookie-remover)
+||planefinder.net^##+js(cookie-remover)
 ||reverso.net^##+js(cookie-remover)
 ||3rxing.org^##+js(cookie-remover)
 ||archiveteam.org^##+js(cookie-remover)
 ||arweave.org^##+js(cookie-remover)
 ||cambridge.org^##+js(cookie-remover)
 ||eu.org^##+js(cookie-remover)
+||filechan.org^##+js(cookie-remover)
 ||npr.org^##+js(cookie-remover)
 ||slashdot.org^##+js(cookie-remover)
 ||solidot.org^##+js(cookie-remover)
