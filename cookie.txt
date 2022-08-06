@@ -5,8 +5,9 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: uz8_WrqezC_0fgLNfBoVK2APs-cNmJHRxexcgSePmPNv4GhBmpwdRZy9K-B64ido
+! Version: sUfBA5AbJ_5yfRsfRuDt-r86vosPg_OPGkThvi8eMCPqY7pDkpkRlVXeHa6fbBp7
 
+||letsupload.cc^##+js(cookie-remover)
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
 ||people.com.cn^##+js(cookie-remover)
@@ -25,6 +26,7 @@
 ||m.163.com^##+js(cookie-remover)
 ||19lou.com^##+js(cookie-remover)
 ||360doc.com^##+js(cookie-remover)
+||anonfiles.com^##+js(cookie-remover)
 ||apkmirror.com^##+js(cookie-remover)
 ||apnews.com^##+js(cookie-remover)
 ||arstechnica.com^##+js(cookie-remover)
@@ -112,6 +114,7 @@
 ||obfuscator.io^##+js(cookie-remover)
 ||hub.textile.io^##+js(cookie-remover)
 ||viewblock.io^##+js(cookie-remover)
+||share-online.is^##+js(cookie-remover)
 ||cnn.it^##+js(cookie-remover)
 ||dweb.link^##+js(cookie-remover)
 ||therecord.media^##+js(cookie-remover)
@@ -122,6 +125,7 @@
 ||php.net^##+js(cookie-remover)
 ||planefinder.net^##+js(cookie-remover)
 ||reverso.net^##+js(cookie-remover)
+||megaupload.nz^##+js(cookie-remover)
 ||3rxing.org^##+js(cookie-remover)
 ||archiveteam.org^##+js(cookie-remover)
 ||arweave.org^##+js(cookie-remover)

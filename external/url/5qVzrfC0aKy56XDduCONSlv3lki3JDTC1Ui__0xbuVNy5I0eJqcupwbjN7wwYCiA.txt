@@ -3275,6 +3275,7 @@
 ||raac33.net^
 ||stats.rdphv.net^
 ||readserver.net^
+||pixel.app.returnpath.net^
 ||revsci.net^
 ||roxr.net^
 ||rs6.net^

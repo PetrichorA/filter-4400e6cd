@@ -1,0 +1,5 @@
+||anonfiles.com/sw.js^
+||filechan.org/sw.js^
+||letsupload.cc/sw.js^
+||megaupload.nz/sw.js^
+||share-online.is/sw.js^

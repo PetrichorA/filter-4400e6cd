@@ -1,2 +1,0 @@
-||anonfiles.com/sw.js^
-||filechan.org/sw.js^
