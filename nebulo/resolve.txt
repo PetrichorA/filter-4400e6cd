@@ -4,10 +4,11 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: pwwTEis2_gV2qrUT4yGqO6KKG-rzPeiSXWgxUJ1enNZIxnMgWYTzJoyK5ADdVs0H
+# Version: aeJT7DatX5uEa2WVRSK-Q6wj9ud9pF9aJ3Uybn3ywcc8kEe25aE9cPdxdlkZdFxj
 
 104.16.116.68	9.234456.xyz
 104.16.116.68	91porn.com
+104.16.116.68	a.fsdn.com
 104.16.116.68	api.everpay.io
 104.16.116.68	apk.tw
 104.16.116.68	assets.codepen.io
@@ -29,6 +30,7 @@
 104.16.116.68	ooooooooooooooooooooooo.ooo
 104.16.116.68	pic.skk.moe
 104.16.116.68	pincong.rocks
+104.16.116.68	r3.whistleout.com.au
 104.16.116.68	rdns-104-16-116-68.cloudflare-dns.com
 104.16.116.68	sagernet.org
 104.16.116.68	thestandnews.com
@@ -72,6 +74,7 @@
 104.16.126.175	rdns-104-16-126-175.cloudflare-dns.com
 104.16.126.175	s3.bmp.ovh
 104.16.126.175	scris.top
+104.16.126.175	slashdot.org
 104.16.126.175	stackpath.bootstrapcdn.com
 104.16.126.175	static.codepen.io
 104.16.126.175	support.cloudflare.com
@@ -91,6 +94,7 @@
 104.16.132.102	dict.deepl.com
 104.16.132.102	docs.joinmastodon.org
 104.16.132.102	embed.videodelivery.net
+104.16.132.102	entertainment.slashdot.org
 104.16.132.102	gitbook.com
 104.16.132.102	gstatic.loli.net
 104.16.132.102	hs-20489776.f.hubspotemail.net
@@ -194,6 +198,7 @@
 104.16.44.54	www.ruscrime.com
 104.16.44.54	www.savieo.com
 104.16.44.54	www.sinchew.com.my
+104.16.44.54	www.slashdot.org
 104.16.44.54	www.thepiratebay.org
 104.16.44.54	www.thestandnews.com
 104.16.44.54	www.zendesk.com
@@ -216,6 +221,7 @@
 104.18.11.239	51bb6cdc.cloudflare-dns.com
 104.18.11.239	petrichor.cloudflare-dns.com
 104.18.11.239	rdns-104-18-11-239.cloudflare-dns.com
+104.18.11.239	tor.cloudflare-dns.com
 104.18.12.5	rdns-104-18-12-5.cloudflare-dns.com
 104.18.180.27	10minutemail.com
 104.18.180.27	91.cool
@@ -283,6 +289,7 @@
 104.18.204.32	cpwebassets.codepen.io
 104.18.204.32	creativecommons.org
 104.18.204.32	d3js.org
+104.18.204.32	devices.slashdot.org
 104.18.204.32	dropbox-api.arkoselabs.com
 104.18.204.32	gateway.discord.gg
 104.18.204.32	gstatic.rsb.net
@@ -312,6 +319,7 @@
 104.18.204.32	www.news.gov.hk
 104.18.204.32	www.pincong.rocks
 104.18.204.32	www.ruanyifeng.com
+104.18.204.32	yro.slashdot.org
 104.18.213.12	16personalities.com
 104.18.213.12	about.cha.fan
 104.18.213.12	accelerate.orion.pki.plus
@@ -340,12 +348,14 @@
 104.18.213.12	rdns-104-18-213-12.cloudflare-dns.com
 104.18.213.12	static.npmjs.com
 104.18.213.12	sub.nekoe.eu.org
+104.18.213.12	technology.slashdot.org
 104.18.213.12	theme.zdassets.com
 104.18.213.12	torrindex.net
 104.18.213.12	tr.burnabyhighstar.com
 104.18.213.12	tracker.yarr.pt
 104.18.213.12	uploads.feedercdn.com
 104.18.213.12	use.fontawesome.com
+104.18.213.12	whistleout.com.au
 104.18.213.12	worldmags.net
 104.18.213.12	www.bible.com
 104.18.213.12	www.cloudflare.com
@@ -539,6 +549,7 @@
 104.22.28.180	rdns-104-22-28-180.cloudflare-dns.com
 104.22.28.180	registry.npmjs.org
 104.22.28.180	repl.it
+104.22.28.180	reviewsorg.whistleout.com.au
 104.22.28.180	sb.sb
 104.22.28.180	support.cloudflarewarp.com
 104.22.28.180	textea.notion.site
@@ -581,12 +592,14 @@
 104.22.51.93	pjudge.ac
 104.22.51.93	rdns-104-22-51-93.cloudflare-dns.com
 104.22.51.93	s3.image.hosting
+104.22.51.93	science.slashdot.org
 104.22.51.93	speed.cloudflare.com
 104.22.51.93	ubuntu.mirror.noc.one
 104.22.51.93	worldwide.passcloud.xyz
 104.22.51.93	www.chinadigitaltimes.net
 104.22.51.93	www.datacenterdynamics.com
 104.22.51.93	www.mtpro.xyz
+104.22.51.93	www.sourceforge.net
 104.22.51.93	wxw.moe
 104.22.70.197	ajax.loli.net
 104.22.70.197	api.ip.sb
@@ -605,6 +618,7 @@
 104.22.70.197	s0y8mjj8sr4ogndc.gzucm.cf
 104.22.70.197	sdn.geekzu.org
 104.22.70.197	soha.moe
+104.22.70.197	sourceforge.net
 104.22.70.197	static.bitfinex.com
 104.22.70.197	store.cloudflare.steamstatic.com
 104.22.70.197	thepiratebay.org
@@ -618,6 +632,7 @@
 104.22.78.218	alive.bar
 104.22.78.218	api.cloudflare.com
 104.22.78.218	api.moneroocean.stream
+104.22.78.218	build.slashdot.org
 104.22.78.218	cdn.breached.to
 104.22.78.218	cf-imgs.hcaptcha.com
 104.22.78.218	dns.hee.ink
@@ -685,6 +700,7 @@
 104.26.0.73	v2ex.com
 104.26.0.73	workers.cloudflare.com
 104.26.0.73	workers.new
+104.26.0.73	www.whistleout.com.au
 104.26.1.161	rdns-104-26-1-161.cloudflare-dns.com
 104.26.1.73	rdns-104-26-1-73.cloudflare-dns.com
 104.26.10.126	rdns-104-26-10-126.cloudflare-dns.com
