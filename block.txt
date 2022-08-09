@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: Hje4Ho2MXHcrV33vCaQAJ79nustAOgjUVo_t9Ntx6a1GoVgkZ-AkcYLeTDQcLoHO
+! Version: sE6mODvRp7paoxatQQK6A_UzRhE-KHaMGCEIZAn2RjAHTT4E73Nspbvr8dVZffxH
 
 ||chameleon.ad^
 ||content.ad^
@@ -3584,7 +3584,7 @@
 ||m.sjzhushou.com^
 ||sousuo.xm.sjzhushou.com^
 ||skimresources.com^
-||analytics.slashdotmedia.com^
+||slashdotmedia.com^
 ||sleepcartoon.com^
 ||slipperysack.com^
 ||slopeaota.com^
@@ -5235,6 +5235,7 @@
 ||d3anogn3pbtk4v.cloudfront.net^
 ||d3lcz8vpax4lo2.cloudfront.net^
 ||d3oltyb66oj2v8.cloudfront.net^
+||d3tglifpd8whs6.cloudfront.net^
 ||d3v1lb83psg9di.cloudfront.net^
 ||d5nxst8fruw4z.cloudfront.net^
 ||djv99sxoqpv11.cloudfront.net^

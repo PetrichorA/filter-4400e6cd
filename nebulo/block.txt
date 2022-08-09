@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: hj7QRb3oGHjiLz_LQUtqbcz1mdWpJHrjkqjNexN5gW0LnOOCAw9QtV1UVRmgMlwp
+# Version: Xaxio_q0tpTJgWkEOR80DJOIW7ebtdAq-d4cYEOe-ul0gBu6E7wGRsm2C4I3VOwA
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -7160,8 +7160,8 @@
 0.0.0.0	**.sousuo.xm.sjzhushou.com
 0.0.0.0	skimresources.com
 0.0.0.0	**.skimresources.com
-0.0.0.0	analytics.slashdotmedia.com
-0.0.0.0	**.analytics.slashdotmedia.com
+0.0.0.0	slashdotmedia.com
+0.0.0.0	**.slashdotmedia.com
 0.0.0.0	sleepcartoon.com
 0.0.0.0	**.sleepcartoon.com
 0.0.0.0	slipperysack.com
@@ -10462,6 +10462,8 @@
 0.0.0.0	**.d3lcz8vpax4lo2.cloudfront.net
 0.0.0.0	d3oltyb66oj2v8.cloudfront.net
 0.0.0.0	**.d3oltyb66oj2v8.cloudfront.net
+0.0.0.0	d3tglifpd8whs6.cloudfront.net
+0.0.0.0	**.d3tglifpd8whs6.cloudfront.net
 0.0.0.0	d3v1lb83psg9di.cloudfront.net
 0.0.0.0	**.d3v1lb83psg9di.cloudfront.net
 0.0.0.0	d5nxst8fruw4z.cloudfront.net
