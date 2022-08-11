@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: sE6mODvRp7paoxatQQK6A_UzRhE-KHaMGCEIZAn2RjAHTT4E73Nspbvr8dVZffxH
+! Version: DlXwq6HMmdOS4m7s2h2ne8Tx73Jw7-o67gt6dF7vjnBeBR3Ir79beoz4vKgC_Q9O
 
 ||chameleon.ad^
 ||content.ad^
@@ -4390,6 +4390,8 @@
 ||www.xingchenjia.com^
 ||xiti.com^
 ||xlivrdr.com^
+||xlrdr.com^
+||xlviiirdr.com^
 ||xovq5nemr.com^
 ||xplusone.com^
 ||xponsor.com^
