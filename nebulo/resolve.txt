@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: W_PaIKCrRMf-VpbA6m-uKusgCRaCQyau0i5kHskyNuIy9muUPES1nwS6FYowgv8Y
+# Version: McQqJJlRkX1Q0OjxA5BbYMduESS0HXQo3gNRNUHCkpk3QxmQkYc69PSQ8kUT_prd
 
 104.16.116.68	9.234456.xyz
 104.16.116.68	91porn.com
@@ -133,6 +133,7 @@
 104.16.19.94	rdns-104-16-19-94.cloudflare-dns.com
 104.16.19.94	shufflemint.mypinata.cloud
 104.16.19.94	web3-storage.mypinata.cloud
+104.16.43.54	1739123400-files.gitbook.io
 104.16.43.54	api.cha.fan
 104.16.43.54	api.teams.cloudflare.com
 104.16.43.54	app.gitbook.com
@@ -167,6 +168,7 @@
 104.16.43.54	www.flightradar24.com
 104.16.43.54	www.fontawesome.com
 104.16.43.54	www.javhub.net
+104.16.43.54	www.walletlink.org
 104.16.44.54	2047.one
 104.16.44.54	api.bitfinex.com
 104.16.44.54	api.skk.moe
@@ -194,6 +196,7 @@
 104.16.44.54	rdns-104-16-44-54.cloudflare-dns.com
 104.16.44.54	sinchew.com.my
 104.16.44.54	sparrow.cloudflare.com
+104.16.44.54	tokens.coingecko.com
 104.16.44.54	trackme.theom.nz
 104.16.44.54	trading.bitfinex.com
 104.16.44.54	videodelivery.net
@@ -264,6 +267,7 @@
 104.18.180.27	rdns-104-18-180-27.cloudflare-dns.com
 104.18.180.27	rsshub.app
 104.18.180.27	s2.loli.net
+104.18.180.27	starchart.cc
 104.18.180.27	static.florr.io
 104.18.180.27	themes.loli.net
 104.18.180.27	vip1.loli.net
@@ -361,6 +365,7 @@
 104.18.213.12	torrindex.net
 104.18.213.12	tr.burnabyhighstar.com
 104.18.213.12	tracker.yarr.pt
+104.18.213.12	uniswap.org
 104.18.213.12	uploads.feedercdn.com
 104.18.213.12	use.fontawesome.com
 104.18.213.12	whistleout.com.au
@@ -408,6 +413,7 @@
 104.18.24.23	tr.highstar.shop
 104.18.24.23	tutorial.cloudflareworkers.com
 104.18.24.23	update.argotunnel.com
+104.18.24.23	updates.signal.org
 104.18.24.23	utteranc.es
 104.18.24.23	uuu.glass
 104.18.24.23	v1.hitokoto.cn
@@ -431,6 +437,7 @@
 104.18.3.165	cdn.bootcss.com
 104.18.3.165	cf-threat.sukkaw.com
 104.18.3.165	cryptography.io
+104.18.3.165	firmianay.gitbook.io
 104.18.3.165	florr.io
 104.18.3.165	fontawesome.com
 104.18.3.165	gh.gh2233.ml
@@ -494,6 +501,7 @@
 104.20.10.218	platform.dash.cloudflare.com
 104.20.10.218	rdns-104-20-10-218.cloudflare-dns.com
 104.20.10.218	skk.moe
+104.20.10.218	tokens.uniswap.org
 104.20.10.218	tr2.freeair888.club
 104.20.10.218	tracker.nanoha.org
 104.20.10.218	w.ddrk.me
@@ -747,6 +755,7 @@
 172.67.170.91	rdns-172-67-170-91.cloudflare-dns.com
 172.67.27.9	rdns-172-67-27-9.cloudflare-dns.com
 172.67.3.188	adguard.com
+172.67.3.188	app.tryroll.com
 172.67.3.188	archlinux.mirror.noc.one
 172.67.3.188	b-hls-21.doppiocdn.com
 172.67.3.188	cdn.cloudflare.steamstatic.com
