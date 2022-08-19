@@ -1744,6 +1744,7 @@
 ||onscroll.com^
 ||tagger.opecloud.com^
 ||openadsnetwork.com^
+||operationchicken.com^
 ||operationkettle.com^
 ||opienetwork.com^
 ||opmnstr.com^
@@ -3122,6 +3123,8 @@
 ||adsmart.net^
 ||adspeed.net^
 ||adtegrity.net^
+||email-link.adtidy.net^
+||email-open.adtidy.net^
 ||adtrade.net^
 ||ads.advance.net^
 ||adverticum.net^
@@ -3375,6 +3378,8 @@
 ||adblade.org^
 ||analytics.adpost.org^
 ||adsrvr.org^
+||email-link.adtidy.org^
+||email-open.adtidy.org^
 ||adtrace.org^
 ||ad.altervista.org^
 ||adserver.ariase.org^

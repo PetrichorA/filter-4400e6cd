@@ -5,8 +5,19 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: hnzat5I-ZqbZIRomzDCLKUtcZPPJqWDHAK5tRAF56GE5r5s5XnF-bGfMVLYqF5vz
+! Version: oAXhIRWGui2UW__uAYIgZw9FS96OTwcYVL0wqOcDZhv7M2fHzCIhv4pDvi0cGUBh
 
+! clear
+||cooco.net.cn^##+js(cookie-remover)
+||19lou.com^##+js(cookie-remover)
+||apkmirror.com^##+js(cookie-remover)
+||apkpure.com^##+js(cookie-remover)
+||hostloc.com^##+js(cookie-remover)
+||hupu.com^##+js(cookie-remover)
+||imgur.com^##+js(cookie-remover)
+||jsdelivr.com^##+js(cookie-remover)
+||planefinder.net^##+js(cookie-remover)
+! disable
 ||letsupload.cc^##+js(cookie-remover)
 ||mypinata.cloud^##+js(cookie-remover)
 ||52pojie.cn^##+js(cookie-remover)
@@ -16,7 +27,6 @@
 ||gmw.cn^##+js(cookie-remover)
 ||gushiwen.cn^##+js(cookie-remover)
 ||juejin.cn^##+js(cookie-remover)
-||cooco.net.cn^##+js(cookie-remover)
 ||news.cn^##+js(cookie-remover)
 ||thepaper.cn^##+js(cookie-remover)
 ||fleek.co^##+js(cookie-remover)
@@ -24,10 +34,8 @@
 ||1010jiajiao.com^##+js(cookie-remover)
 ||10minutemail.com^##+js(cookie-remover)
 ||m.163.com^##+js(cookie-remover)
-||19lou.com^##+js(cookie-remover)
 ||360doc.com^##+js(cookie-remover)
 ||anonfiles.com^##+js(cookie-remover)
-||apkmirror.com^##+js(cookie-remover)
 ||apnews.com^##+js(cookie-remover)
 ||arstechnica.com^##+js(cookie-remover)
 ||axios.com^##+js(cookie-remover)
@@ -61,17 +69,13 @@
 ||gaokao.com^##+js(cookie-remover)
 ||gitee.com^##+js(cookie-remover)
 ||harmonyos.com^##+js(cookie-remover)
-||hostloc.com^##+js(cookie-remover)
 ||huanqiu.com^##+js(cookie-remover)
 ||huawei.com^##+js(cookie-remover)
-||hupu.com^##+js(cookie-remover)
 ||ieltsanswers.com^##+js(cookie-remover)
 ||ieltspracticeonline.com^##+js(cookie-remover)
 ||ieltsxpress.com^##+js(cookie-remover)
-||imgur.com^##+js(cookie-remover)
 ||ithome.com^##+js(cookie-remover)
 ||jianshu.com^##+js(cookie-remover)
-||jsdelivr.com^##+js(cookie-remover)
 ||koolearn.com^##+js(cookie-remover)
 ||ldoceonline.com^##+js(cookie-remover)
 ||medium.com^##+js(cookie-remover)
@@ -124,7 +128,6 @@
 ||csdn.net^##+js(cookie-remover)
 ||oschina.net^##+js(cookie-remover)
 ||php.net^##+js(cookie-remover)
-||planefinder.net^##+js(cookie-remover)
 ||reverso.net^##+js(cookie-remover)
 ||megaupload.nz^##+js(cookie-remover)
 ||3rxing.org^##+js(cookie-remover)
@@ -138,4 +141,5 @@
 ||solidot.org^##+js(cookie-remover)
 ||cfl.re^##+js(cookie-remover)
 ||baoshuo.ren^##+js(cookie-remover)
+||wapo.st^##+js(cookie-remover)
 ||baiduyun.wiki^##+js(cookie-remover)

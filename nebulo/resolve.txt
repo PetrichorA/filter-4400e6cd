@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: bQ-f_QyogjWbkc0N9MDBregtVc2qY6sesvCtnJkzgsyVll_4CjZyv-22KSCN9dXj
+# Version: CKh0F2-JNKQB3SZPefc64_uiqG65RoW4o6vYzkp6_UMT0iYI-JX1_5RmTDa1bOpE
 
 104.16.116.68	9.234456.xyz
 104.16.116.68	91porn.com
@@ -408,6 +408,7 @@
 104.18.24.23	everpay.io
 104.18.24.23	fonts.thu.fail
 104.18.24.23	forum.gamer.com.tw
+104.18.24.23	hz-ingress.gitbooks.io
 104.18.24.23	i.wonderfulday24.live
 104.18.24.23	kit.fontawesome.com
 104.18.24.23	media.discordapp.net
@@ -816,16 +817,11 @@
 192.30.255.113	github.com
 192.30.255.116	api.github.com
 192.30.255.120	codeload.github.com
-203.208.39.194	fonts.gstatic.com
-203.208.43.66	www.gstatic.com
-203.208.50.162	ssl.gstatic.com
 220.181.174.162	gstatic.cn
-220.181.174.225	fonts.googleapis.com
 220.181.174.226	fonts.gstatic.cn
 220.181.174.226	translate.google.cn
 220.181.174.98	ditu.google.cn
 220.181.174.98	maps.google.cn
-220.181.174.98	www.recaptcha.net
 221.229.202.228	at.alicdn.com
 64.52.84.68	pandownload.com
 8.132.50.251	g.alicdn.com
