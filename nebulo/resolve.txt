@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: CKh0F2-JNKQB3SZPefc64_uiqG65RoW4o6vYzkp6_UMT0iYI-JX1_5RmTDa1bOpE
+# Version: SFKYJLdYkFEXlt1yDFCSUvSI79JrroJD8iNueScx1_dOazSgNZ-fksVWKDkqctoW
 
 104.16.116.68	9.234456.xyz
 104.16.116.68	91porn.com
@@ -66,6 +66,7 @@
 104.16.126.175	datatracker.ietf.org
 104.16.126.175	ddys.tv
 104.16.126.175	download.fastgit.org
+104.16.126.175	fanboy.co.nz
 104.16.126.175	ghbtns.com
 104.16.126.175	gitcdn.link
 104.16.126.175	i1.rgstatic.net
@@ -414,6 +415,7 @@
 104.18.24.23	media.discordapp.net
 104.18.24.23	rdns-104-18-24-23.cloudflare-dns.com
 104.18.24.23	savieo.com
+104.18.24.23	secure.fanboy.co.nz
 104.18.24.23	to-live-freely.com
 104.18.24.23	tr.highstar.shop
 104.18.24.23	tutorial.cloudflareworkers.com
