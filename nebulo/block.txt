@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: pN8R-879ThUDMpd_hoiBbl_wHq9uAutXAgX_S2f2Ldtt7JznhW-QKiln8l2wUsWl
+# Version: Hec5mOtX-AQHU90R7X46q-aTID2XbTVujrVpW5G1SIGN7n2kupH9a9AtoDdDhJ8Y
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -452,6 +452,8 @@
 0.0.0.0	**.bdjsym.guangyuanol.cn
 0.0.0.0	mo.haloapps.cn
 0.0.0.0	**.mo.haloapps.cn
+0.0.0.0	sentry.hduhelp.cn
+0.0.0.0	**.sentry.hduhelp.cn
 0.0.0.0	dd.iask.cn
 0.0.0.0	**.dd.iask.cn
 0.0.0.0	adm.icast.cn
@@ -498,6 +500,8 @@
 0.0.0.0	**.wa.kuwo.cn
 0.0.0.0	webstat.kuwo.cn
 0.0.0.0	**.webstat.kuwo.cn
+0.0.0.0	leetcode.cn
+0.0.0.0	**.leetcode.cn
 0.0.0.0	an.m.liebao.cn
 0.0.0.0	**.an.m.liebao.cn
 0.0.0.0	cr.m.liebao.cn
@@ -518,6 +522,8 @@
 0.0.0.0	**.ad.mobstazinc.cn
 0.0.0.0	c.msn.cn
 0.0.0.0	**.c.msn.cn
+0.0.0.0	browser.events.data.msn.cn
+0.0.0.0	**.browser.events.data.msn.cn
 0.0.0.0	webd.home.news.cn
 0.0.0.0	**.webd.home.news.cn
 0.0.0.0	optimix.cn
@@ -2910,6 +2916,8 @@
 0.0.0.0	**.cloisteredhydrant.com
 0.0.0.0	closedcows.com
 0.0.0.0	**.closedcows.com
+0.0.0.0	csp-reporting.cloudflare.com
+0.0.0.0	**.csp-reporting.cloudflare.com
 0.0.0.0	a.nel.cloudflare.com
 0.0.0.0	**.a.nel.cloudflare.com
 0.0.0.0	api.radar.cloudflare.com
@@ -2974,6 +2982,10 @@
 0.0.0.0	**.coinhive.com
 0.0.0.0	vendo.cointelegraph.com
 0.0.0.0	**.vendo.cointelegraph.com
+0.0.0.0	coinzilla.com
+0.0.0.0	**.coinzilla.com
+0.0.0.0	coinzillatag.com
+0.0.0.0	**.coinzillatag.com
 0.0.0.0	ads.colombiaonline.com
 0.0.0.0	**.ads.colombiaonline.com
 0.0.0.0	colonize.com
@@ -3148,6 +3160,8 @@
 0.0.0.0	**.cxense.com
 0.0.0.0	cyberbounty.com
 0.0.0.0	**.cyberbounty.com
+0.0.0.0	czilladx.com
+0.0.0.0	**.czilladx.com
 0.0.0.0	dabiaozhi.com
 0.0.0.0	**.dabiaozhi.com
 0.0.0.0	li.dailycaller.com
@@ -4998,6 +5012,8 @@
 0.0.0.0	**.laughcloth.com
 0.0.0.0	launchbit.com
 0.0.0.0	**.launchbit.com
+0.0.0.0	events.launchdarkly.com
+0.0.0.0	**.events.launchdarkly.com
 0.0.0.0	leadclick.com
 0.0.0.0	**.leadclick.com
 0.0.0.0	leadingedgecash.com
@@ -5012,6 +5028,8 @@
 0.0.0.0	**.leaplunchroom.com
 0.0.0.0	adserver.lecool.com
 0.0.0.0	**.adserver.lecool.com
+0.0.0.0	leetcode-cn.com
+0.0.0.0	**.leetcode-cn.com
 0.0.0.0	leftliquid.com
 0.0.0.0	**.leftliquid.com
 0.0.0.0	lemmatechnologies.com
@@ -5602,6 +5620,8 @@
 0.0.0.0	**.ads2.msn.com
 0.0.0.0	adsyndication.msn.com
 0.0.0.0	**.adsyndication.msn.com
+0.0.0.0	arc.msn.com
+0.0.0.0	**.arc.msn.com
 0.0.0.0	arc1.msn.com
 0.0.0.0	**.arc1.msn.com
 0.0.0.0	c.msn.com
@@ -6726,6 +6746,8 @@
 0.0.0.0	**.rapidkittens.com
 0.0.0.0	raresummer.com
 0.0.0.0	**.raresummer.com
+0.0.0.0	logging.rarible.com
+0.0.0.0	**.logging.rarible.com
 0.0.0.0	adz.rashflash.com
 0.0.0.0	**.adz.rashflash.com
 0.0.0.0	rayjump.com
@@ -8364,6 +8386,10 @@
 0.0.0.0	**.ventivmedia.com
 0.0.0.0	venturead.com
 0.0.0.0	**.venturead.com
+0.0.0.0	vercel-analytics.com
+0.0.0.0	**.vercel-analytics.com
+0.0.0.0	vitals.vercel-insights.com
+0.0.0.0	**.vitals.vercel-insights.com
 0.0.0.0	vericlick.com
 0.0.0.0	**.vericlick.com
 0.0.0.0	spinbox.versiontracker.com
@@ -9942,6 +9968,8 @@
 0.0.0.0	**.zprk.io
 0.0.0.0	pixel.archive.is
 0.0.0.0	**.pixel.archive.is
+0.0.0.0	analytics.umami.is
+0.0.0.0	**.analytics.umami.is
 0.0.0.0	adshrink.it
 0.0.0.0	**.adshrink.it
 0.0.0.0	scambiobanner.aruba.it
@@ -10780,6 +10808,8 @@
 0.0.0.0	**.adimg3.search.naver.net
 0.0.0.0	nedstatbasic.net
 0.0.0.0	**.nedstatbasic.net
+0.0.0.0	nelreports.net
+0.0.0.0	**.nelreports.net
 0.0.0.0	nend.net
 0.0.0.0	**.nend.net
 0.0.0.0	neocounter.neoworx-blog-tools.net

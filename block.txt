@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: tQItlSoeJWYAZOZ_p9AfhSb4_17NNdYqlf4apNqcvWm75V-iB_qqXDolblLoErN0
+! Version: x2zRo_Wo9M7omi6FJU_MH5grsiDzfxJi2QEMe3tYrdnysqlGfX2JP0FVkedSx-Kt
 
 ||chameleon.ad^
 ||content.ad^
@@ -230,6 +230,7 @@
 ||bdjs.guangyuanol.cn^
 ||bdjsym.guangyuanol.cn^
 ||mo.haloapps.cn^
+||sentry.hduhelp.cn^
 ||dd.iask.cn^
 ||adm.icast.cn^
 ||js.icast.cn^
@@ -253,6 +254,7 @@
 ||rich.kuwo.cn^
 ||wa.kuwo.cn^
 ||webstat.kuwo.cn^
+||leetcode.cn^
 ||an.m.liebao.cn^
 ||cr.m.liebao.cn^
 ||j.wan.liebao.cn^
@@ -263,6 +265,7 @@
 ||i.mmcdn.cn^
 ||ad.mobstazinc.cn^
 ||c.msn.cn^
+||browser.events.data.msn.cn^
 ||webd.home.news.cn^
 ||optimix.cn^
 ||f1.p0y.cn^
@@ -1459,6 +1462,7 @@
 ||static.clmbtech.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
+||csp-reporting.cloudflare.com^
 ||a.nel.cloudflare.com^
 ||api.radar.cloudflare.com^
 ||performance.radar.cloudflare.com^
@@ -1491,6 +1495,8 @@
 ||coin-hive.com^
 ||coinhive.com^
 ||vendo.cointelegraph.com^
+||coinzilla.com^
+||coinzillatag.com^
 ||ads.colombiaonline.com^
 ||colonize.com^
 ||supply.colossusssp.com^
@@ -1578,6 +1584,7 @@
 ||cuteturkey.com^
 ||cxense.com^
 ||cyberbounty.com^
+||czilladx.com^
 ||dabiaozhi.com^
 ||li.dailycaller.com^
 ||ads.dailycamera.com^
@@ -2503,6 +2510,7 @@
 ||laughablecopper.com^
 ||laughcloth.com^
 ||launchbit.com^
+||events.launchdarkly.com^
 ||leadclick.com^
 ||leadingedgecash.com^
 ||lightcast.leadscoringcenter.com^
@@ -2510,6 +2518,7 @@
 ||leadzupc.com^
 ||leaplunchroom.com^
 ||adserver.lecool.com^
+||leetcode-cn.com^
 ||leftliquid.com^
 ||lemmatechnologies.com^
 ||adapi.lenovogame.com^
@@ -2805,6 +2814,7 @@
 ||ads1.msn.com^
 ||ads2.msn.com^
 ||adsyndication.msn.com^
+||arc.msn.com^
 ||arc1.msn.com^
 ||c.msn.com^
 ||ads.eu.msn.com^
@@ -3367,6 +3377,7 @@
 ||rapidcounter.com^
 ||rapidkittens.com^
 ||raresummer.com^
+||logging.rarible.com^
 ||adz.rashflash.com^
 ||rayjump.com^
 ||reachjunction.com^
@@ -4186,6 +4197,8 @@
 ||venetrigni.com^
 ||ventivmedia.com^
 ||venturead.com^
+||vercel-analytics.com^
+||vitals.vercel-insights.com^
 ||vericlick.com^
 ||spinbox.versiontracker.com^
 ||vertamedia.com^
@@ -4975,6 +4988,7 @@
 ||triptease.io^
 ||zprk.io^
 ||pixel.archive.is^
+||analytics.umami.is^
 ||adshrink.it^
 ||scambiobanner.aruba.it^
 ||mobile.banzai.it^
@@ -5394,6 +5408,7 @@
 ||2.nanrenwo.net^
 ||adimg3.search.naver.net^
 ||nedstatbasic.net^
+||nelreports.net^
 ||nend.net^
 ||neocounter.neoworx-blog-tools.net^
 ||netpool.netbookia.net^
