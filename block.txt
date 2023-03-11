@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: filter-4400e6cd / block
 ! Expires: 2 days
 ! Homepage: https://github.com/PetrichorA/filter-4400e6cd
