@@ -114,8 +114,6 @@ header_text = """
 ! Version: {version}
 """.strip()
 
-working_directory = os.path.normpath(os.path.join(os.path.dirname(
-    os.path.abspath(__file__)), '..', '..', 'external'))
 
 session = Session()
 
@@ -181,6 +179,9 @@ trusted_3p = (
 
 
 if __name__ == '__main__':
+    working_directory = os.path.normpath(os.path.join(os.path.dirname(
+        os.path.abspath(__file__)), '..', '..', 'external'))
+
     content = []
 
     for name in os.listdir(working_directory):
