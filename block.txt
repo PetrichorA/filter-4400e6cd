@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: x2zRo_Wo9M7omi6FJU_MH5grsiDzfxJi2QEMe3tYrdnysqlGfX2JP0FVkedSx-Kt
+! Version: M0ifvQbdcnYS32juc7mBnyPuVSWCIfcg8fJ-kfrnOY-YQvc9CpBiU_DBx9m9aXY-
 
 ||chameleon.ad^
 ||content.ad^
@@ -3430,7 +3430,8 @@
 ||revprotect.com^
 ||revstats.com^
 ||reyden-x.com^
-||p.rfihub.com^
+||rezync.com^
+||rfihub.com^
 ||rhombusads.com^
 ||rhythmone.com^
 ||adserve.ams.rhythmxchange.com^

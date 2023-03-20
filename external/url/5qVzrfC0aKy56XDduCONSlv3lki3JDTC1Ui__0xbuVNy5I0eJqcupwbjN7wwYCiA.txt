@@ -29,7 +29,6 @@
 ||ads.unison.bg^
 ||clickwith.bid^
 ||adnet.biz^
-||adpenguin.biz^
 ||cloudcoins.biz^
 ||ads.dtpnetwork.biz^
 ||ads.expat-blog.biz^
@@ -77,7 +76,6 @@
 ||admaster.com.cn^
 ||ads.doit.com.cn^
 ||ip193.cn^
-||ad.mobstazinc.cn^
 ||zzhc.vnet.cn^
 ||6sc.co^
 ||adcel.co^
@@ -1989,7 +1987,6 @@
 ||pymx5.com^
 ||q1connect.com^
 ||qctop.com^
-||hlok.qertewrt.com^
 ||qnsr.com^
 ||qrlsx.com^
 ||newnet.qsrch.com^
@@ -2495,6 +2492,7 @@
 ||trafficswarm.com^
 ||trafficz.com^
 ||traffiq.com^
+||traildelsfars.com^
 ||ablink.comms.trainline.com^
 ||traktrafficflow.com^
 ||tranquilside.com^

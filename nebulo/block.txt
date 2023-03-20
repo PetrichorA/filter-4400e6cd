@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: Hec5mOtX-AQHU90R7X46q-aTID2XbTVujrVpW5G1SIGN7n2kupH9a9AtoDdDhJ8Y
+# Version: HMFeD3EjmxUWO_dmZDZktd3ph2GgstWuen-7s1G8cvS8dpVzA5Kt1h0GU3M1HchE
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -6852,8 +6852,10 @@
 0.0.0.0	**.revstats.com
 0.0.0.0	reyden-x.com
 0.0.0.0	**.reyden-x.com
-0.0.0.0	p.rfihub.com
-0.0.0.0	**.p.rfihub.com
+0.0.0.0	rezync.com
+0.0.0.0	**.rezync.com
+0.0.0.0	rfihub.com
+0.0.0.0	**.rfihub.com
 0.0.0.0	rhombusads.com
 0.0.0.0	**.rhombusads.com
 0.0.0.0	rhythmone.com
