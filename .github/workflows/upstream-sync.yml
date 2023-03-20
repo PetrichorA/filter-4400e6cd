@@ -1,0 +1,26 @@
+name: Upstream Sync 
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+    - name: Run Python script
+      run: |
+        python -u ".github/workflows/upstream-sync.py"
+    - name: Commit changes
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "github-actions[bot]"
+        git add --all
+        git commit -m "[upstream-sync] $(uuidgen)"
+        git push
