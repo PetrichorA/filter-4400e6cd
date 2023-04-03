@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: i8kYD8agOYY3obmDfdaMo6EigAuZspB9gUslqMYaHwTszj8t3TKEYDbp8yPqNF3C
+! Version: AZnXupJo1aZbQR_JgPd_54XRkKeklAk_SyhZ2YLLml71trMn7CnbbAAltLltLRB-
 
 ##div.advertising_2
 ##div.advertising_3
@@ -79,3 +79,4 @@ web.archive.org##.js-donate-banner.row
 ||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
 ||www.isab.top/wp-admin/install.php
 ||you.163.com/act/pub/
+||zhihu.com/sc-profiler
