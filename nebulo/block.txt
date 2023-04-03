@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: atOcV_dduJqcT6xWpzLTV7Msn88yHBu5domfZpLPjXOZTxS7l95YAyyIgTa5jFoo
+# Version: zKgU-Cp_E3DGACY7zxu42HhL55oioTkT-WfUf1eu2O9lXPDXYNH4aSn0BN4xX9Fm
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -9150,6 +9150,8 @@
 0.0.0.0	**.sys.zhangyue.com
 0.0.0.0	aidatatest.zhihu.com
 0.0.0.0	**.aidatatest.zhihu.com
+0.0.0.0	apm.zhihu.com
+0.0.0.0	**.apm.zhihu.com
 0.0.0.0	datahub.zhihu.com
 0.0.0.0	**.datahub.zhihu.com
 0.0.0.0	lens.zhihu.com
