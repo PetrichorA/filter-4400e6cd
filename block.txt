@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: M0ifvQbdcnYS32juc7mBnyPuVSWCIfcg8fJ-kfrnOY-YQvc9CpBiU_DBx9m9aXY-
+! Version: -Rx3X85y-0Zcq5R88qa8q_PysXtqOn-HCwtXqKC-ShmHSbdac18xy1gvPPdptlI5
 
 ||chameleon.ad^
 ||content.ad^
@@ -89,6 +89,7 @@
 ||ads.weather.ca^
 ||ads.acpc.cat^
 ||dp.559.cc^
+||9024.cc^
 ||ads.cc^
 ||hivedata.cc^
 ||pixel.kknews.cc^
@@ -1824,6 +1825,7 @@
 ||exchange-it.com^
 ||exchangead.com^
 ||exchangeclicksonline.com^
+||exclamationresound.com^
 ||exclusivebrass.com^
 ||exdynsrv.com^
 ||exelate.com^
@@ -2425,6 +2427,7 @@
 ||justrelevant.com^
 ||justuno.com^
 ||content.jwplatform.com^
+||k023055.com^
 ||ads.kabooaffiliates.com^
 ||videostats.kakao.com^
 ||stats.kaltura.com^
@@ -3398,6 +3401,7 @@
 ||receptiveink.com^
 ||receptivereaction.com^
 ||reconditerake.com^
+||w3-reporting-nel.reddit.com^
 ||click.redditmail.com^
 ||ads.rediff.com^
 ||redirectingat.com^
@@ -3574,6 +3578,7 @@
 ||silvermob.com^
 ||ad.simflight.com^
 ||simplehitcounter.com^
+||simplewebanalysis.com^
 ||ads.simplyhired.com^
 ||ads.sina.com^
 ||oascentral.sina.com^
@@ -3922,6 +3927,7 @@
 ||tapad.com^
 ||tapfiliate.com^
 ||tapinfluence.com^
+||tapinvited.com^
 ||tapjoy.com^
 ||tappx.com^
 ||img.ads.taptapnetworks.com^
@@ -4161,6 +4167,7 @@
 ||unknowntray.com^
 ||unless.com^
 ||unrulymedia.com^
+||unseenreport.com^
 ||untd.com^
 ||untidyquestion.com^
 ||unusualtitle.com^
@@ -4574,6 +4581,7 @@
 ||aidatatest.zhihu.com^
 ||datahub.zhihu.com^
 ||lens.zhihu.com^
+||oia.zhihu.com^
 ||sugar.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||zhugeio.com^
@@ -5897,7 +5905,9 @@
 ||downloadr.xyz^
 ||getherefwuk.xyz^
 ||margatroid.xyz^
+||onautcatholi.xyz^
 ||petropicaq.xyz^
+||ricewaterhou.xyz^
 ||subsectivexe.xyz^
 ||wpnrtnmrewunrtok.xyz^
 ||ads.img.co.za^

@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: HMFeD3EjmxUWO_dmZDZktd3ph2GgstWuen-7s1G8cvS8dpVzA5Kt1h0GU3M1HchE
+# Version: atOcV_dduJqcT6xWpzLTV7Msn88yHBu5domfZpLPjXOZTxS7l95YAyyIgTa5jFoo
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -170,6 +170,8 @@
 0.0.0.0	**.ads.acpc.cat
 0.0.0.0	dp.559.cc
 0.0.0.0	**.dp.559.cc
+0.0.0.0	9024.cc
+0.0.0.0	**.9024.cc
 0.0.0.0	ads.cc
 0.0.0.0	**.ads.cc
 0.0.0.0	hivedata.cc
@@ -3640,6 +3642,8 @@
 0.0.0.0	**.exchangead.com
 0.0.0.0	exchangeclicksonline.com
 0.0.0.0	**.exchangeclicksonline.com
+0.0.0.0	exclamationresound.com
+0.0.0.0	**.exclamationresound.com
 0.0.0.0	exclusivebrass.com
 0.0.0.0	**.exclusivebrass.com
 0.0.0.0	exdynsrv.com
@@ -4842,6 +4846,8 @@
 0.0.0.0	**.justuno.com
 0.0.0.0	content.jwplatform.com
 0.0.0.0	**.content.jwplatform.com
+0.0.0.0	k023055.com
+0.0.0.0	**.k023055.com
 0.0.0.0	ads.kabooaffiliates.com
 0.0.0.0	**.ads.kabooaffiliates.com
 0.0.0.0	videostats.kakao.com
@@ -6788,6 +6794,8 @@
 0.0.0.0	**.receptivereaction.com
 0.0.0.0	reconditerake.com
 0.0.0.0	**.reconditerake.com
+0.0.0.0	w3-reporting-nel.reddit.com
+0.0.0.0	**.w3-reporting-nel.reddit.com
 0.0.0.0	click.redditmail.com
 0.0.0.0	**.click.redditmail.com
 0.0.0.0	ads.rediff.com
@@ -7140,6 +7148,8 @@
 0.0.0.0	**.ad.simflight.com
 0.0.0.0	simplehitcounter.com
 0.0.0.0	**.simplehitcounter.com
+0.0.0.0	simplewebanalysis.com
+0.0.0.0	**.simplewebanalysis.com
 0.0.0.0	ads.simplyhired.com
 0.0.0.0	**.ads.simplyhired.com
 0.0.0.0	ads.sina.com
@@ -7836,6 +7846,8 @@
 0.0.0.0	**.tapfiliate.com
 0.0.0.0	tapinfluence.com
 0.0.0.0	**.tapinfluence.com
+0.0.0.0	tapinvited.com
+0.0.0.0	**.tapinvited.com
 0.0.0.0	tapjoy.com
 0.0.0.0	**.tapjoy.com
 0.0.0.0	tappx.com
@@ -8314,6 +8326,8 @@
 0.0.0.0	**.unless.com
 0.0.0.0	unrulymedia.com
 0.0.0.0	**.unrulymedia.com
+0.0.0.0	unseenreport.com
+0.0.0.0	**.unseenreport.com
 0.0.0.0	untd.com
 0.0.0.0	**.untd.com
 0.0.0.0	untidyquestion.com
@@ -9140,6 +9154,8 @@
 0.0.0.0	**.datahub.zhihu.com
 0.0.0.0	lens.zhihu.com
 0.0.0.0	**.lens.zhihu.com
+0.0.0.0	oia.zhihu.com
+0.0.0.0	**.oia.zhihu.com
 0.0.0.0	sugar.zhihu.com
 0.0.0.0	**.sugar.zhihu.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
@@ -11786,8 +11802,12 @@
 0.0.0.0	**.getherefwuk.xyz
 0.0.0.0	margatroid.xyz
 0.0.0.0	**.margatroid.xyz
+0.0.0.0	onautcatholi.xyz
+0.0.0.0	**.onautcatholi.xyz
 0.0.0.0	petropicaq.xyz
 0.0.0.0	**.petropicaq.xyz
+0.0.0.0	ricewaterhou.xyz
+0.0.0.0	**.ricewaterhou.xyz
 0.0.0.0	subsectivexe.xyz
 0.0.0.0	**.subsectivexe.xyz
 0.0.0.0	wpnrtnmrewunrtok.xyz
