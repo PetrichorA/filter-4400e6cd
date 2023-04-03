@@ -488,6 +488,7 @@ _box_ad_
 dm5.com###a1
 msn.com##.ad
 tgfcer.com#@##content_adv
+zhihu.com##.OpenInAppButton
 ||778669.com^$third-party
 ||ad.doubleclick.net^$~object-subrequest,third-party
 ||adf.ly/js/$third-party,domain=~j.gs|~q.gs
