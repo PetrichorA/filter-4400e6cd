@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: 4_sn8KDNFcOtU2WLevN8ZRtbqUgudrZEcpPx1aVI9gpRSiGEZmDVPI_F-l8rNb73
+# Version: dn33iXNcnzaWj1iyXTqdYJPT6HVBN9xXTlVli-M6l9Vlu4Z4unrCfKG0Uv5kwtO0
 
 104.16.75.66	2da9f34d.cloudflare-dns.com
 104.16.75.66	37a83c61.cloudflare-dns.com
@@ -22,6 +22,9 @@
 104.16.96.94	10minutemail.net
 104.16.96.94	1111-releases.cloudflareclient.com
 104.16.96.94	1337.abcvg.info
+104.16.96.94	1337x.st
+104.16.96.94	1337x.to
+104.16.96.94	14wqc2xdcm.cloudflare-gateway.com
 104.16.96.94	16personalities.com
 104.16.96.94	1739123400-files.gitbook.io
 104.16.96.94	19ee6135-2c132e1d.qt.workers.dev
@@ -45,6 +48,7 @@
 104.16.96.94	adguard-dns.io
 104.16.96.94	adguard.com
 104.16.96.94	ai.binwang.me
+104.16.96.94	ai.okmiku.com
 104.16.96.94	ajax.loli.net
 104.16.96.94	alive.bar
 104.16.96.94	anigma.io
@@ -67,6 +71,7 @@
 104.16.96.94	api.moneroocean.stream
 104.16.96.94	api.n.m28.io
 104.16.96.94	api.nftstorage.link
+104.16.96.94	api.openai.com
 104.16.96.94	api.opensea.io
 104.16.96.94	api.skk.moe
 104.16.96.94	api.teams.cloudflare.com
@@ -130,6 +135,7 @@
 104.16.96.94	bscscan.com
 104.16.96.94	build.slashdot.org
 104.16.96.94	bundle.run
+104.16.96.94	c-api.okmiku.com
 104.16.96.94	c5.rgstatic.net
 104.16.96.94	captcha.sukkaw.com
 104.16.96.94	cdn-base.of.sb
@@ -278,6 +284,7 @@
 104.16.96.94	f5.pm
 104.16.96.94	fanboy.co.nz
 104.16.96.94	fastgpt.app
+104.16.96.94	favicons.teams.cloudflare.com
 104.16.96.94	fdn.geekzu.org
 104.16.96.94	features-proxy.opensea.io
 104.16.96.94	feedback.developers.cloudflare.com
@@ -388,6 +395,7 @@
 104.16.96.94	iqdns.xyz
 104.16.96.94	isab-events.pages.dev
 104.16.96.94	isab-markdown.pages.dev
+104.16.96.94	isab-org.cloudflareaccess.com
 104.16.96.94	isab-stage-6266d92d.eu.org
 104.16.96.94	isab.pages.dev
 104.16.96.94	isab.run
@@ -505,6 +513,7 @@
 104.16.96.94	pincong.rocks
 104.16.96.94	pixiv.net
 104.16.96.94	pjudge.ac
+104.16.96.94	pkg.authy.com
 104.16.96.94	pkg.cloudflare.com
 104.16.96.94	pkg.cloudflareclient.com
 104.16.96.94	planefinder.net
@@ -813,6 +822,9 @@
 104.16.96.94	www1.hi.cn
 104.16.96.94	www2.deepl.com
 104.16.96.94	wxw.moe
+104.16.96.94	x1337x.eu
+104.16.96.94	x1337x.se
+104.16.96.94	x1337x.ws
 104.16.96.94	xn--931a.moe
 104.16.96.94	yro.slashdot.org
 104.16.96.94	zero-trust-client.cloudflareclient.com

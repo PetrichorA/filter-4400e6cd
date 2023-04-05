@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: D-Vd-f3f6D7-JZhsZenOkY-9v63b-jI6jPRkaV2p_Ii3GFX0utPejvYq9xX64pbU
+! Version: yj6WsOmSKu3g8nR6OoWwDwMKJW2l90aB7bsHoUsXRIv8B74lY_87LELJ7WBwk0Gj
 
 ||chameleon.ad^
 ||content.ad^
@@ -89,6 +89,7 @@
 ||ads.weather.ca^
 ||ads.acpc.cat^
 ||dp.559.cc^
+||6184.cc^
 ||9024.cc^
 ||ads.cc^
 ||hivedata.cc^
@@ -984,6 +985,7 @@
 ||uib.ff.avast.com^
 ||avenuea.com^
 ||awakebird.com^
+||awaliwa.com^
 ||awempire.com^
 ||awesomeagreement.com^
 ||awin1.com^
