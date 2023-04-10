@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 9cnaESYT27pZ8ht6q2NBkJUpkOn--gBqZ1qpAoVQJac_iRY-aQVKB4FNXIs38nX5
+! Version: LgkfISX8WzTHIUQfPYgHWK88tDahJKeS0B-zZvjzllk2D9SNEM2BUC7yDUq2i_dY
 
 ##div.advertising_2
 ##div.advertising_3
@@ -24,6 +24,7 @@ web.archive.org##.js-donate-banner.row
 zhihu.com##.OpenInAppButton
 ||127.net/p/tools/mailstats-sdk/
 ||360buyimg.com/ddimg/jfs/t1/108754/39/33961/48618/6431454eFbcf4314d/780058014488d28a.jpg^$domain=ddys.art|ddys.pro
+||360buyimg.com/ddimg/jfs/t1/216295/5/26693/44658/642fb0f6F8bb96471/5ce2d4e1d3d22a7e.jpg^$domain=ddys.art|ddys.pro
 ||assets.bwbx.io/s3/javelin/public/javelin/js/
 ||assets.bwbx.io/s3/navi/js/push-notification-prompt
 ||blog-static.cnblogs.com/files/stepsys/step.js
