@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: _sCJCVBQNcrOP6TuKn1U_Yd6KwT7S_SzeuRvqvd9ruvnJvmAaHZGzoB0bC0e2q9N
+! Version: C03MwEDpZcTi2gSOOm7_JfsNB5CcbGmymJtAIiNQ1Lxr0FCTEaMHjGHeGkC-Nfs2
 
 ##div.advertising_2
 ##div.advertising_3
@@ -14,8 +14,10 @@
 bloomberg.com##.navi-push-notification-prompt
 cfga/jquery.js|
 cursor-effects.js|
-ddys.art##a[href="/iwagbwfiwehaeyh/"]:remove-attr(href)
-ddys.pro##a[href="/iwagbwfiwehaeyh/"]:remove-attr(href)
+ddys.art###fkasjgf a:remove-attr(href)
+ddys.art###kasjbgih a:remove-attr(href)
+ddys.pro###fkasjgf a:remove-attr(href)
+ddys.pro###kasjbgih a:remove-attr(href)
 live2d.js|
 umami.js|
 waifu-tips.js|

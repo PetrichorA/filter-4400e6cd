@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: 3L4bB--JEhRoiD8kVQHAuaMuFtBaTA-n2jWA6lvfuP8E4B6VICy9SSZsOab2SzP7
+# Version: 8NQCclnIN9W5uUkm7iRTICtNVX7sW7bf9GA90JPyAHMQYT8fLrrI8z6SYLj-DIYe
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -6078,6 +6078,8 @@
 0.0.0.0	**.paypopup.com
 0.0.0.0	banners.payserve.com
 0.0.0.0	**.banners.payserve.com
+0.0.0.0	pb46s.com
+0.0.0.0	**.pb46s.com
 0.0.0.0	pbstck.com
 0.0.0.0	**.pbstck.com
 0.0.0.0	pbterra.com

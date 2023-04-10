@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: HZnGXut9F15XAt92Ux1CuFaCRq66xDhi8ArHLLuzl0DB_iVAZlWxavhUcc4nGSXF
+! Version: fL8rjmw4eDjUCcTvN5E2Zm88ybEFdXk354Kk3p-VHzfBhpgzKx52PTEiv-eCiRtX
 
 ||chameleon.ad^
 ||content.ad^
@@ -3043,6 +3043,7 @@
 ||paycounter.com^
 ||paypopup.com^
 ||banners.payserve.com^
+||pb46s.com^
 ||pbstck.com^
 ||pbterra.com^
 ||peer39.com^
