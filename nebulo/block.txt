@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: 7r7JrNilOC1p8Wu2YwnTZhj7jiTpoOOiMLf4CXtte1xWnby1yGm_G35WXQaQOH1p
+# Version: 3L4bB--JEhRoiD8kVQHAuaMuFtBaTA-n2jWA6lvfuP8E4B6VICy9SSZsOab2SzP7
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -962,6 +962,8 @@
 0.0.0.0	**.5y9nfpes.52pk.com
 0.0.0.0	wan.52pk.com
 0.0.0.0	**.wan.52pk.com
+0.0.0.0	5rmcs.com
+0.0.0.0	**.5rmcs.com
 0.0.0.0	push.5z5zw.com
 0.0.0.0	**.push.5z5zw.com
 0.0.0.0	www.6075.com
@@ -5000,6 +5002,8 @@
 0.0.0.0	**.kwaizt.com
 0.0.0.0	kwimgs.com
 0.0.0.0	**.kwimgs.com
+0.0.0.0	ky55005.com
+0.0.0.0	**.ky55005.com
 0.0.0.0	s.l8l9.com
 0.0.0.0	**.s.l8l9.com
 0.0.0.0	cr-p16.ladsp.com

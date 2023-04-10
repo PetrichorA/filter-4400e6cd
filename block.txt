@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: yj6WsOmSKu3g8nR6OoWwDwMKJW2l90aB7bsHoUsXRIv8B74lY_87LELJ7WBwk0Gj
+! Version: HZnGXut9F15XAt92Ux1CuFaCRq66xDhi8ArHLLuzl0DB_iVAZlWxavhUcc4nGSXF
 
 ||chameleon.ad^
 ||content.ad^
@@ -485,6 +485,7 @@
 ||518ad.com^
 ||5y9nfpes.52pk.com^
 ||wan.52pk.com^
+||5rmcs.com^
 ||push.5z5zw.com^
 ||www.6075.com^
 ||6ldu6qa.com^
@@ -2504,6 +2505,7 @@
 ||kwaixiaodian.com^
 ||kwaizt.com^
 ||kwimgs.com^
+||ky55005.com^
 ||s.l8l9.com^
 ||cr-p16.ladsp.com^
 ||ladsreds.com^
