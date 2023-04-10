@@ -441,7 +441,6 @@
 ||archswimming.com^
 ||targeting.nzme.arcpublishing.com^
 ||argyresthia.com^
-||t.armchairbookie.com^
 ||aromamirror.com^
 ||metrics.articulate.com^
 ||adnet.asahi.com^
@@ -1244,6 +1243,7 @@
 ||ads.gsm-exchange.com^
 ||ads.gsmexchange.com^
 ||gstaticx.com^
+||guardeddirection.com^
 ||guardedschool.com^
 ||guffawdecipher.com^
 ||rtb.gumgum.com^
@@ -2204,7 +2204,6 @@
 ||sillyscrew.com^
 ||silvermob.com^
 ||ad.simflight.com^
-||simplehitcounter.com^
 ||ads.simplyhired.com^
 ||sincerebuffalo.com^
 ||sinoa.com^
@@ -2603,7 +2602,6 @@
 ||videoadex.com^
 ||videoamp.com^
 ||videoegg.com^
-||ads.videosz.com^
 ||banners.videosz.com^
 ||vidora.com^
 ||track.viewdeos.com^
