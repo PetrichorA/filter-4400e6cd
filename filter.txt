@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: C03MwEDpZcTi2gSOOm7_JfsNB5CcbGmymJtAIiNQ1Lxr0FCTEaMHjGHeGkC-Nfs2
+! Version: N8d5WZoOWYwKfg6ZHTthHTIN58JDyLHBMnVUi6ALjvHlX6fmHseItX0rUbbXPpJ4
 
 ##div.advertising_2
 ##div.advertising_3
@@ -26,6 +26,7 @@ web.archive.org##.js-donate-banner.row
 zhihu.com##.OpenInAppButton
 ||127.net/p/tools/mailstats-sdk/
 ||360buyimg.com/ddimg/jfs/t1/108754/39/33961/48618/6431454eFbcf4314d/780058014488d28a.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
+||360buyimg.com/ddimg/jfs/t1/190614/40/33004/51599/642fb0f6F897bb268/60ffea61afd69a34.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/216295/5/26693/44658/642fb0f6F8bb96471/5ce2d4e1d3d22a7e.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||assets.bwbx.io/s3/javelin/public/javelin/js/
 ||assets.bwbx.io/s3/navi/js/push-notification-prompt
