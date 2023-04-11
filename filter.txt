@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: gf3OucilzbuPYkJhYwtBW540pVhJOOzGZj6gMopqRpI6KO2IZenJa8Nlb7UvhVsc
+! Version: Aa8ZUC5c_pjRbJqurmTf_v5KavCoufPQ7EfoNykVBq1XlME8rWKMMddnWYSDx7Zd
 
 ##div.advertising_2
 ##div.advertising_3
@@ -78,10 +78,12 @@ zhihu.com##.OpenInAppButton
 ||static.ws.126.net/163/frontend/libs/ntm-plugins/performance/
 ||static.ws.126.net/f2e/products/analysis/
 ||static.zhihu.com/heifetz/main.signflow
+||static.zhihu.com/open-in-app/
 ||statics.itc.cn/iwtReport/
 ||statics.itc.cn/spm/
 ||unpkg.isab.top/isplib@latest/package.json
 ||unpkg.zhimg.com/@cfe/sentry-script
+||unpkg.zhimg.com/za-js-monitor
 ||unpkg.zhimg.com/za-js-sdk
 ||vip1.loli.net/2020/12/04/Bdp81snbVcWzwON.png
 ||vip2.loli.net/2020/12/01/Ts9ikGzmtRDdWJC.jpg
