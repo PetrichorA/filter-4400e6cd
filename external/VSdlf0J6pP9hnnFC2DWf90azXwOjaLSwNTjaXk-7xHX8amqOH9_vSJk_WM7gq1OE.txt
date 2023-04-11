@@ -512,4 +512,3 @@ tgfcer.com#@##content_adv
 ||teads.tv^$third-party
 ||topqualitylink.com^$third-party
 ||yu0123456.com^$third-party
-||zhihu.com/oia/*$csp=default-src 'none'

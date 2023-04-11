@@ -74,6 +74,11 @@ pinterest.*##.Hsu.iyn.zI7:nth-of-type(2) > div > .FullPageModal__scroller
 pinterest.*##body:style(overflow-y: scroll !important;)
 @@||html-online.com^$ghide
 @@||socialblade.com^$ghide
+socialblade.com##.cas-container
+socialblade.com##.cas-wide-container
+socialblade.com##div[style^="width: 300px; height: 250px;"][style*="background: #fff;"]
+socialblade.com##div[style^="width: 860px; min-height: 90px"]
+socialblade.com###bottomAd:style(position: absolute !important; left: -4000px !important;)
 m4ufree.com##+js(aopw, document.oncontextmenu)
 sportsnet.ca##+js(aopr, uxGuid)
 relyonhorror.com##+js(nostif, checkAdStatus, 500)

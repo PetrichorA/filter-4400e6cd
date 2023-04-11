@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: uM0z5HfjiaiO62pI1zfpLeHmck274OIRFe4y2aah5urPuZvSbWR1gEBBbd_4TMU_
+! Version: 87A3Z8Zv-NtCHZgf3bGAi1wRase2-DAk7shFVK414wFvKCXMrpRpP9d46s2nZEtA
 
 ##div.advertising_2
 ##div.advertising_3
@@ -28,6 +28,7 @@ zhihu.com##.OpenInAppButton
 ||360buyimg.com/ddimg/jfs/t1/108754/39/33961/48618/6431454eFbcf4314d/780058014488d28a.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/190614/40/33004/51599/642fb0f6F897bb268/60ffea61afd69a34.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/216295/5/26693/44658/642fb0f6F8bb96471/5ce2d4e1d3d22a7e.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
+||api.zhihu.com/distribute/rhea/qa_ad_card/
 ||assets.bwbx.io/s3/javelin/public/javelin/js/
 ||assets.bwbx.io/s3/navi/js/push-notification-prompt
 ||blog-static.cnblogs.com/files/stepsys/step.js
@@ -91,4 +92,5 @@ zhihu.com##.OpenInAppButton
 ||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
 ||www.isab.top/wp-admin/install.php
 ||you.163.com/act/pub/
+||zhihu.com/oia/*$csp=default-src 'none'
 ||zhihu.com/sc-profiler
