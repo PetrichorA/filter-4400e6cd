@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: AkrIl3726zZwkalUOX8IHtaL_L00ma20HqbTPqZg8Fnuu_1wLGUNhGXs6bAeODws
+! Version: o_tH_yBJTQTLbnY4FxRIz-pDOwRAPnymdQzMrkbwKyBbsgrolWQNvv8rYFzNRKyC
 
 ! clear
 cooco.net.cn##+js(cookie-remover)
@@ -90,6 +90,7 @@ ruiwen.com##+js(cookie-remover)
 runoob.com##+js(cookie-remover)
 smzdm.com##+js(cookie-remover)
 sohu.com##+js(cookie-remover)
+songfacts.com##+js(cookie-remover)
 sspai.com##+js(cookie-remover)
 substack.com##+js(cookie-remover)
 thefreedictionary.com##+js(cookie-remover)
