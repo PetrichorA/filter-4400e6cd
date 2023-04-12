@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: ykftnBn4y6CE5inl5xW7KJbJfjM_QFJPkWksl_SGTqupo43bm5wwsQUuWummfSFv
+! Version: O4e9zPWubbp8TccW_5BpyqgelBr7aKRFPxdOKHrIr0YcKttjYNNgI2rmD6_-tc8G
 
 ##div.advertising_2
 ##div.advertising_3
@@ -13,6 +13,7 @@
 @@||pstatp.com^$domain=ddys.art|ddys.pro
 bloomberg.com##.navi-push-notification-prompt
 cfga/jquery.js|
+cnn.com##.toast-popup
 cursor-effects.js|
 ddys.art###fkasjgf a:remove-attr(href)
 ddys.art###kasjbgih a:remove-attr(href)
