@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: gy6rmEAmE0_9OedkLDrL1HrFlgdIfGXpO8NpcyXYY8qm6w5_oCtRYffQ0uSxUNtt
+# Version: i9sa7EcBGY-rlBM6jf1JI40EWmVEls9Lxg35-pLqfrcWrlDCtRN6jGpKHBuS5l8v
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -9880,6 +9880,8 @@
 0.0.0.0	**.clickmate.io
 0.0.0.0	analytics.cloudron.io
 0.0.0.0	**.analytics.cloudron.io
+0.0.0.0	recommendations.api.cnn.io
+0.0.0.0	**.recommendations.api.cnn.io
 0.0.0.0	zion-telemetry.api.cnn.io
 0.0.0.0	**.zion-telemetry.api.cnn.io
 0.0.0.0	cointraffic.io

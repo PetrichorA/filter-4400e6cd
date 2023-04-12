@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: KIRyqyj920Gr-heuiXnUFYRxANhu5M6WvZ6RM9u5WgIfecdaTsPnwH55i7_EiBjm
+! Version: EbfMycnTdHUmBBHbdEIySWPhWN1fag8wy82lF3K8RCGprgNofR3EO5pjf29nXdy0
 
 ||chameleon.ad^
 ||content.ad^
@@ -4944,6 +4944,7 @@
 ||clarium.io^
 ||clickmate.io^
 ||analytics.cloudron.io^
+||recommendations.api.cnn.io^
 ||zion-telemetry.api.cnn.io^
 ||cointraffic.io^
 ||concert.io^
