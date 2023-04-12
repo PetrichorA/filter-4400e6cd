@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: fL8rjmw4eDjUCcTvN5E2Zm88ybEFdXk354Kk3p-VHzfBhpgzKx52PTEiv-eCiRtX
+! Version: KIRyqyj920Gr-heuiXnUFYRxANhu5M6WvZ6RM9u5WgIfecdaTsPnwH55i7_EiBjm
 
 ||chameleon.ad^
 ||content.ad^
@@ -1334,6 +1334,7 @@
 ||broadcastbed.com^
 ||broaddoor.com^
 ||broadstreetads.com^
+||browsiprod.com^
 ||mct.bscscan.com^
 ||admanager.btopenworld.com^
 ||log.btopenworld.com^
@@ -4930,6 +4931,7 @@
 ||adserve.io^
 ||adstage.io^
 ||apolloprogram.io^
+||appconsent.io^
 ||aufp.io^
 ||augur.io^
 ||avocet.io^
@@ -4992,6 +4994,7 @@
 ||segment.io^
 ||segmetrics.io^
 ||sentry.io^
+||sfbx.io^
 ||simpleanalytics.io^
 ||siteimproveanalytics.io^
 ||smart-traffik.io^

@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: 8NQCclnIN9W5uUkm7iRTICtNVX7sW7bf9GA90JPyAHMQYT8fLrrI8z6SYLj-DIYe
+# Version: gy6rmEAmE0_9OedkLDrL1HrFlgdIfGXpO8NpcyXYY8qm6w5_oCtRYffQ0uSxUNtt
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -2660,6 +2660,8 @@
 0.0.0.0	**.broaddoor.com
 0.0.0.0	broadstreetads.com
 0.0.0.0	**.broadstreetads.com
+0.0.0.0	browsiprod.com
+0.0.0.0	**.browsiprod.com
 0.0.0.0	mct.bscscan.com
 0.0.0.0	**.mct.bscscan.com
 0.0.0.0	admanager.btopenworld.com
@@ -9852,6 +9854,8 @@
 0.0.0.0	**.adstage.io
 0.0.0.0	apolloprogram.io
 0.0.0.0	**.apolloprogram.io
+0.0.0.0	appconsent.io
+0.0.0.0	**.appconsent.io
 0.0.0.0	aufp.io
 0.0.0.0	**.aufp.io
 0.0.0.0	augur.io
@@ -9976,6 +9980,8 @@
 0.0.0.0	**.segmetrics.io
 0.0.0.0	sentry.io
 0.0.0.0	**.sentry.io
+0.0.0.0	sfbx.io
+0.0.0.0	**.sfbx.io
 0.0.0.0	simpleanalytics.io
 0.0.0.0	**.simpleanalytics.io
 0.0.0.0	siteimproveanalytics.io

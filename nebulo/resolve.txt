@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: MZmOoBRu87si0BoUQFWVSivpdQ7fjBsWqA6NhHJhT0QSHzK_PGkYfDrtwvtE7rDJ
+# Version: zpT8HdKl8sbVaC4q518M07HMXHmTrX1n31zvYXVy__XQmU8frmgLNjctTXWJPihc
 
 104.16.75.66	2da9f34d.cloudflare-dns.com
 104.16.75.66	37a83c61.cloudflare-dns.com
@@ -379,6 +379,7 @@
 104.16.96.94	img1.apk.tw
 104.16.96.94	img2.apk.tw
 104.16.96.94	imgurl.org
+104.16.96.94	indexer.crossbell.io
 104.16.96.94	initium.eu.org
 104.16.96.94	install.direct
 104.16.96.94	instant.1point3acres.com
@@ -388,6 +389,7 @@
 104.16.96.94	ip.sb
 104.16.96.94	ip.skk.moe
 104.16.96.94	ipfs-public-gateway-checker.on.fleek.co
+104.16.96.94	ipfs.4everland.xyz
 104.16.96.94	ipfs2arweave.com
 104.16.96.94	ipv4.ip.sb
 104.16.96.94	ipv4.teams.cloudflare.com
@@ -523,6 +525,7 @@
 104.16.96.94	player.vimeo.com
 104.16.96.94	policy.medium.com
 104.16.96.94	polocloud.xyz
+104.16.96.94	porthos-fu-7758.xlog.app
 104.16.96.94	porthos.medium.com
 104.16.96.94	prod-frs.content.classy.org
 104.16.96.94	project-838a5251.isab.run
@@ -561,6 +564,7 @@
 104.16.96.94	res.cloudinary.com
 104.16.96.94	reviewsorg.whistleout.com.au
 104.16.96.94	robohash.org
+104.16.96.94	rpc.crossbell.io
 104.16.96.94	rpc.ethermine.org
 104.16.96.94	rsf.org
 104.16.96.94	rsms.me
@@ -827,6 +831,7 @@
 104.16.96.94	x1337x.eu
 104.16.96.94	x1337x.se
 104.16.96.94	x1337x.ws
+104.16.96.94	xlog.app
 104.16.96.94	xn--931a.moe
 104.16.96.94	yro.slashdot.org
 104.16.96.94	zero-trust-client.cloudflareclient.com
