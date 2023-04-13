@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: EbfMycnTdHUmBBHbdEIySWPhWN1fag8wy82lF3K8RCGprgNofR3EO5pjf29nXdy0
+! Version: 5MIG8Madc7va0dFEnSile0KqB00hrK2QcvSMmVeD73j-KWxoaVe8e7jqiBMNicb5
 
 ||chameleon.ad^
 ||content.ad^
@@ -1486,6 +1486,7 @@
 ||wtrace.cmgame.com^
 ||cookies.cmpnet.com^
 ||cmvrclicks000.com^
+||count.cnblogs.com^
 ||sp3.cndm.com^
 ||collector.cdp.cnn.com^
 ||collector-dev.cdp-dev.cnn.com^
