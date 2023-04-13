@@ -18840,6 +18840,7 @@ providentcu.org###ccpa
 rohan.co.uk###ccpop
 1parola.it,1word.ws,bestwordlist.com,listediparole.it,ortograf.ws,wikwik.org###cd
 duffay-publicite.com###ch-cookie-consent-modal
+cigionline.org###cigi-cookie-consent-container
 news.cision.com###cision-cookie-policy-banner
 wowza.com###ck_pu
 newindianexpress.com###ckgre
@@ -19135,6 +19136,7 @@ scalemates.com###prv
 spiking.com###prvcypop
 rcwilley.com###rcDrawer
 insightturkey.com###readed_contract_row
+researchgate.net###rg-us-cookie-banner
 elanco.com###ribbon
 ricochet.com###ricochet-cookie-bar
 zomato.com###root > div:first-child:not(:only-child)
@@ -20719,7 +20721,7 @@ bmeia.gv.at,bwi.de,easybell.de,foodwatch.org,jku.at,kunstmuseum-moritzburg.de,la
 luna.amazon.co.uk,luna.amazon.de###cookie_consent_dialog
 sandberg.es,sandberg.fr,sandberg.world###privalert-container
 mojehobby.pl,super-hobby.at,super-hobby.be,super-hobby.co.uk,super-hobby.com,super-hobby.de,super-hobby.es,super-hobby.it,super-hobby.lv,super-hobby.pt##.message-footer-panel
-autotrader.com,coingecko.com,equisys.com,excellent-hemd.de,fordblueadvantage.com,g2g.com,gateway.one,getmailbird.com,ilkha.com,innn.it,jsonquerytool.com,lobaevarms.com,modoko.com.tr,muze.gen.tr,remove.bg,rotadooeste.com.br,skokka.com,speisebaron.de,susicka.cz,tjsc.jus.br,unscreen.com,wallpaperdirect.com##.fixed-bottom
+autotrader.com,coingecko.com,equisys.com,excellent-hemd.de,farmers.com,fordblueadvantage.com,g2g.com,gateway.one,getmailbird.com,ilkha.com,innn.it,jsonquerytool.com,lobaevarms.com,modoko.com.tr,muze.gen.tr,remove.bg,rotadooeste.com.br,skokka.com,speisebaron.de,susicka.cz,tjsc.jus.br,unscreen.com,wallpaperdirect.com##.fixed-bottom
 atomizer.gr,biblio.co.uk,comfortclick.com,discountoffice.nl,nowemiasteczko.pl,ornox.fr,polimarky.pl##.navbar-fixed-bottom
 apgbio.com,cheddar.com,co-operative.coop,couchsurfing.com,cyscale.com,diagnosticquestions.com,fluidra.ba,fullscreen.com,haymarketbooks.org,human-facts.com,incyte.jp,jumia.ci,jumia.co.ke,jumia.com.eg,jumia.com.gh,jumia.com.ng,jumia.com.tn,jumia.dz,jumia.ma,jumia.sn,jumia.ug,modrinth.com,oceanmata.com,peer5.com,pluralsight.com,securitylab.github.com,subaru.be,usatoday.com,versobooks.com,zando.co.za##.banner
 pickmypostcode.com##.cookie-wrapper
@@ -21303,6 +21305,7 @@ ctt.de##.amgdprjs-bar-template
 aktieninvestor.net,klaus-grillt.de,promobricks.de,shop.ls-klima.de##.animate__none
 1avisum.de##.announcement
 peoples.ch##.app-message-modal-background
+bundeswehrkarriere.de##.autoprivacy
 sanko-solar.de##.avg-bar
 elbdeichcam.de,sne.at##.b-modal
 melectronics.ch##.bTOCwz
@@ -21862,6 +21865,7 @@ phoca.cz##.cc-trigger
 rychloseznamka.cz##.cok
 californianwines.eu##.commonPrivacy
 dejtip.eu##.conset-wrap
+fraus.cz##.container__body
 autocont.cz##.cookie-fade-window
 aquapalace.cz##.cs
 my2n-public.cz##.css-pv997c
@@ -21987,6 +21991,7 @@ vspbv.nl##.block-121-1
 dnzb.nl##.bmaDyd
 zeelandnet.nl##.bnr-notice-curtain
 autovandaag.nl##.bo-cb-bar
+the-house.be##.bottom-20
 groene.nl##.c-notice
 qps.nl##.cc--window
 medischcontact.nl##.cc-popup
@@ -22335,6 +22340,7 @@ agronline.it###thepriv
 giornalelora.it###times-legal-notice
 isweb.it###trace-form
 leggiditalia.it###udtDark
+unipg.it###unipg-cookiechoice
 puglialive.net###visitor_info
 sexedchat.com###warning-popup
 gamershqitalia.it###wrapDisclaimer
