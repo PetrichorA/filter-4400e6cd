@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 18WGN5k1OT-jc_coJI_bhH9C3JLS0nBu5iNEnyNlFha2RYyxfXDb_CJ5RG0yDKHV
+! Version: G2HiJ8FOxQc4CLkz9yTiPfbR7LcXZNVCdzGsKp7gRsaxFoZnxaNqoLpffJ878AVu
 
 ##div.advertising_2
 ##div.advertising_3
@@ -44,7 +44,10 @@ zhihu.com##.OpenInAppButton
 ||doc88.com/stat/
 ||fex.bdstatic.com/hunter/alog/
 ||g.csdnimg.cn/baidu-search/
+||g.csdnimg.cn/common/csdn-login-box/
 ||g.csdnimg.cn/common/csdn-report/
+||g.csdnimg.cn/debug/
+||g.csdnimg.cn/login-box/
 ||g.csdnimg.cn/tingyun/
 ||hdslb.com/bfs/static/jinkela/long/js/sentry/
 ||hoopchina.com.cn/rig-reporter/
