@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: lhSfclImtmao3SEJ_eF1G0blCrYZU36pGSO52OdStIvlwIBbZNkr_Hk3qeQOYa-I
+! Version: h6hs7-hTvhWUkfpFNeM-H-Q2TsJzVNV296IaD3c3MZBPeE7lZ-fpgL5Vr1qTBIAv
 
 ##div.advertising_2
 ##div.advertising_3
@@ -41,7 +41,7 @@ zhihu.com##.OpenInAppButton
 ||caixin.com/webjs/common/iwt
 ||cdn.jsdelivr.net/npm/cfga$third-party
 ||cdn.sms24.me/assets/js/ado.js
-||csdn.net/apps/*^$csp=default-src 'none'
+||csdn.net/apps/$csp=default-src 'none'
 ||doc88.com/stat/
 ||fex.bdstatic.com/hunter/alog/
 ||g.csdnimg.cn/baidu-search/
@@ -104,6 +104,6 @@ zhihu.com##.OpenInAppButton
 ||www.isab.top/ajax/libs/jquery/3.5.1/jquery.min.js
 ||www.isab.top/wp-admin/install.php
 ||you.163.com/act/pub/
-||zhihu.com/oia/*^$csp=default-src 'none'
-||zhihu.com/oia_free^$csp=default-src 'none'
+||zhihu.com/oia/$csp=default-src 'none'
+||zhihu.com/oia_free$csp=default-src 'none'
 ||zhihu.com/sc-profiler
