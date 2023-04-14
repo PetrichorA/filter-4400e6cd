@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 5MIG8Madc7va0dFEnSile0KqB00hrK2QcvSMmVeD73j-KWxoaVe8e7jqiBMNicb5
+! Version: 70CQYSP9XEeUfbijS6fZt4w98HiE9q32Djw6EbgukqP0lS2WYD_V_IbmW_u9GyJs
 
 ||chameleon.ad^
 ||content.ad^
@@ -3610,6 +3610,7 @@
 ||skimresources.com^
 ||slashdotmedia.com^
 ||sleepcartoon.com^
+||slickstream.com^
 ||slipperysack.com^
 ||slopeaota.com^
 ||smaato.com^
@@ -4231,6 +4232,7 @@
 ||videoadex.com^
 ||videoamp.com^
 ||videoegg.com^
+||videoplayerhub.com^
 ||ads.videosz.com^
 ||banners.videosz.com^
 ||vidora.com^

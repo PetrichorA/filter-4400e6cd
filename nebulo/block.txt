@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: OWjVCHhH3IQsRw_TIcm9GlfiNJe2X1jWuJNTmVHBRLjWcRMLK5OhUkzfC2lehUeB
+# Version: IywH63DnvUhbITsjn_vflAevgRoMb01GtaHgyqvE0-k3ID3LmJE48lOYBFfSvUI_
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -7212,6 +7212,8 @@
 0.0.0.0	**.slashdotmedia.com
 0.0.0.0	sleepcartoon.com
 0.0.0.0	**.sleepcartoon.com
+0.0.0.0	slickstream.com
+0.0.0.0	**.slickstream.com
 0.0.0.0	slipperysack.com
 0.0.0.0	**.slipperysack.com
 0.0.0.0	slopeaota.com
@@ -8454,6 +8456,8 @@
 0.0.0.0	**.videoamp.com
 0.0.0.0	videoegg.com
 0.0.0.0	**.videoegg.com
+0.0.0.0	videoplayerhub.com
+0.0.0.0	**.videoplayerhub.com
 0.0.0.0	ads.videosz.com
 0.0.0.0	**.ads.videosz.com
 0.0.0.0	banners.videosz.com
