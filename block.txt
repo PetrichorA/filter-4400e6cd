@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: 70CQYSP9XEeUfbijS6fZt4w98HiE9q32Djw6EbgukqP0lS2WYD_V_IbmW_u9GyJs
+! Version: l-bGTAI31F5RUdkQp3jhvxQlqDgrbm9PhbDD_gNeX1WPgZzbG4CBQUGb14h7T0BL
 
 ||chameleon.ad^
 ||content.ad^
@@ -144,10 +144,12 @@
 ||fanyi.fanyi100.com.cn^
 ||fanyi1.fanyi100.com.cn^
 ||www.fanyi100.com.cn^
+||firefox.com.cn^
 ||prom.gome.com.cn^
 ||feeds-drcn.cloud.huawei.com.cn^
 ||idgdmgroup.com.cn^
 ||file.ipinyou.com.cn^
+||mozilla.com.cn^
 ||c.msn.com.cn^
 ||stat.browser.nearme.com.cn^
 ||i.stat.nearme.com.cn^
@@ -216,6 +218,7 @@
 ||domob.cn^
 ||stat.eol.cn^
 ||zhwnlapi.etouch.cn^
+||start.firefoxchina.cn^
 ||api-flow.flyme.cn^
 ||bro.flyme.cn^
 ||t-e.flyme.cn^

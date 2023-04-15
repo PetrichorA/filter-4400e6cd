@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: lsmGjUVuRRT-NoLcAyIhDuotQcwy2x5xGiKhy9K2r2bDPkMVxahPvOSvHU6Oas8q
+! Version: 4ZnpohqSzChgG28VuRvJSvNKNwwTkR6MdIFFa6ZMzV8VifQxotD3Km6b3kNSl0Xd
 
 ! clear
 cooco.net.cn##+js(cookie-remover)
@@ -79,6 +79,7 @@ ithome.com##+js(cookie-remover)
 jianshu.com##+js(cookie-remover)
 koolearn.com##+js(cookie-remover)
 ldoceonline.com##+js(cookie-remover)
+linuxhint.com##+js(cookie-remover)
 medium.com##+js(cookie-remover)
 merriam-webster.com##+js(cookie-remover)
 docs.microsoft.com##+js(cookie-remover)
