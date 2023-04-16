@@ -3029,3 +3029,4 @@ liveyourmaths.com##html, .unselectable:style(-webkit-touch-callout: default !imp
 liveyourmaths.com##^script[id^="wpcp_"]
 liveyourmaths.com##style:has-text(@media print):remove()
 displayspecifications.com##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
+squidboards.com##.top_block

@@ -104,7 +104,6 @@
 ||1-1ads.com^
 ||101com.com^
 ||101order.com^
-||123freeavatars.com^
 ||affiliate.1800flowers.com^
 ||180searchassistant.com^
 ||1link2020.com^
@@ -304,6 +303,7 @@
 ||adsxyz.com^
 ||adsymptotic.com^
 ||adsynergy.com^
+||adt598.com^
 ||adtech.com^
 ||adtechjp.com^
 ||adtechus.com^
@@ -379,6 +379,7 @@
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
 ||li.alibris.com^
+||click.aliexpress.com^
 ||alikeaddition.com^
 ||alipromo.com^
 ||ads.alive.com^
@@ -974,7 +975,8 @@
 ||ads.economist.com^
 ||ecoupons.com^
 ||edgexads.com^
-||educationdynamics.com^
+||et.educationdynamics.com^
+||widget.educationdynamics.com^
 ||effectivemeasure.com^
 ||efficaciouscactus.com^
 ||track.effiliation.com^
@@ -2822,7 +2824,6 @@
 ||ads.newmedia.cz^
 ||banner.nixnet.cz^
 ||window.nixnet.cz^
-||first.nova.cz^
 ||ad.nwt.cz^
 ||ads.nyx.cz^
 ||ads.oxyshop.cz^
@@ -3006,7 +3007,6 @@
 ||adimages.sanomawsoy.fi^
 ||adserver.sanomawsoy.fi^
 ||simpli.fi^
-||adserver.aol.fr^
 ||oas.benchmark.fr^
 ||pub.club-internet.fr^
 ||e-m.fr^
@@ -3678,7 +3678,6 @@
 ||af-ad.co.uk^
 ||wa.and.co.uk^
 ||iad.anm.co.uk^
-||ads.aol.co.uk^
 ||mybbc-analytics.files.bbci.co.uk^
 ||click.e.bbcmail.co.uk^
 ||t.news.browns-restaurants.co.uk^
