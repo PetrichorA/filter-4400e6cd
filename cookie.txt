@@ -5,13 +5,14 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: 4ZnpohqSzChgG28VuRvJSvNKNwwTkR6MdIFFa6ZMzV8VifQxotD3Km6b3kNSl0Xd
+! Version: aQihYbS-EzmT_TPqcCKMqPubwHvqYM9SnVhIaXyod-L7MQfkoyhmk7HoG1guntKN
 
 ! clear
 cooco.net.cn##+js(cookie-remover)
 19lou.com##+js(cookie-remover)
 apkmirror.com##+js(cookie-remover)
 apkpure.com##+js(cookie-remover)
+arealme.com##+js(cookie-remover)
 hostloc.com##+js(cookie-remover)
 hupu.com##+js(cookie-remover)
 imgur.com##+js(cookie-remover)
