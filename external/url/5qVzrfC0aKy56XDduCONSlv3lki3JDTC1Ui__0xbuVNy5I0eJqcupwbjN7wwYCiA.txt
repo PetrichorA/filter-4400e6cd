@@ -169,7 +169,6 @@
 ||ad-cupid.com^
 ||ad-rotator.com^
 ||ad-score.com^
-||ad-tech.com^
 ||ad-up.com^
 ||ad4game.com^
 ||ad4mat.com^

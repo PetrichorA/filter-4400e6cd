@@ -3030,3 +3030,19 @@ liveyourmaths.com##^script[id^="wpcp_"]
 liveyourmaths.com##style:has-text(@media print):remove()
 displayspecifications.com##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 squidboards.com##.top_block
+daily-tohoku.news##+js(acs, document.oncontextmenu)
+daily-tohoku.news##+js(acs, disableSelection)
+daily-tohoku.news##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
+regex101.com##.jyUE5
+||osmanonline.co.uk/*/devtools-detector/
+savoriurbane.com##+js(aopw, document.oncontextmenu)
+savoriurbane.com##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important;-moz-user-select: text !important;-ms-user-select: text !important;user-select: text !important;)
+descopera.ro##+js(acs, document.oncontextmenu)
+descopera.ro##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important;-moz-user-select: text !important;-ms-user-select: text !important;user-select: text !important;)
+joysound.com##+js(aeld, DOMContentLoaded, ready)
+joysound.com##+js(set, document.body.oncopy, null, 3)
+joysound.com##+js(set, document.body.onselectstart, null, 3)
+joysound.com##+js(set, document.body.oncontextmenu, null, 3)
+joysound.com##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
+joysound.com##style:has-text(@media print):remove()
+freewaysintl.com##+js(aeld, contextmenu)
