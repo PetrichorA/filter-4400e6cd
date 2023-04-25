@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: o_5lvuVlu-nHsK1Eq6RFYDvs_osM5mO9-WtLo9l9JXAD79WkHX5DQDQtXgfHrv4B
+! Version: rx6UL8Qd-X8j9f3qqMFzNFRebcbp41y2iTnBXlnTThSj90kmCpo5J3jA6CvmLg08
 
 ##div.advertising_2
 ##div.advertising_3
@@ -15,6 +15,7 @@ Headline$domain=cnblogs.com,redirect=noop.html
 UnderPostNews$domain=cnblogs.com,redirect=noop.html
 bloomberg.com##.navi-push-notification-prompt
 cfga/jquery.js|
+cnn.com##.ad-slot-dynamic__close
 cnn.com##.ad-slot-header
 cnn.com##.toast-popup
 csdn.net##.toolbar-btn-loginfun

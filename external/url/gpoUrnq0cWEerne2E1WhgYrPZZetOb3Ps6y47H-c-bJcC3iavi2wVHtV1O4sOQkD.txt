@@ -1,4 +1,3 @@
-metro.co.uk##+js(aeld, copy, BLACKLIST)
 nerdmaldito.com##+js(ra, onselectstart)
 nerdmaldito.com##+js(aopw, document.onselectstart)
 portaleds.com##+js(ra, oncontextmenu|onselectstart)
@@ -2509,7 +2508,6 @@ mzzcloud.life##+js(set, console.clear, undefined)
 /dev-console-detect.js$script,domain=closeload.com
 nsfwzone.xyz##+js(acis, console.clear, "contextmenu")
 khangtm.tk##+js(acis, document.oncontextmenu)
-work.ink##+js(nosiif, -0x)
 telewebgram.com#@#ins.adsbygoogle
 veblr.com##+js(ra, oncontextmenu, #VdoPlayerDiv)
 bestjavporn.com,mm9841.cc##+js(acis, document.oncontextmenu)
@@ -2793,6 +2791,7 @@ stiridinromania.ro##*:style(-webkit-touch-callout: default !important; -webkit-u
 jamilacuisine.ro##+js(aost, document.oncontextmenu)
 jamilacuisine.ro##+js(aost, Object,  /(?=^(?!.*(jquery|inlineScript)))/)
 slideshare.net##+js(acis, ab_tests)
+slideshare.net##+js(aeld, mouseleave, scribd_ad)
 coinsparty.com##+js(aeld, contextmenu)
 startpage.com#@#.ad.widget
 *###catapult-cookie-bar
@@ -3046,3 +3045,10 @@ joysound.com##+js(set, document.body.oncontextmenu, null, 3)
 joysound.com##body:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 joysound.com##style:has-text(@media print):remove()
 freewaysintl.com##+js(aeld, contextmenu)
+velicu.eu##+js(acs, document.oncontextmenu)
+velicu.eu##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important;-moz-user-select: text !important;-ms-user-select: text !important;user-select: text !important;)
+velicu.eu##style:has-text(@media print):remove()
+tumblr.com##+js(nostif, Premium)
+verfutebol.net##[oncontextmenu="return false;"]:remove-attr(oncontextmenu)
+veneto.info##+js(aeld, copy)
+panorama.it##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important;-moz-user-select: text !important;-ms-user-select: text !important;user-select: text !important;)

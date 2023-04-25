@@ -353,7 +353,6 @@
 ||adz2you.com^
 ||adzbazar.com^
 ||adzestocp.com^
-||adzones.com^
 ||adzrevads.com^
 ||aerserv.com^
 ||affiliatefuture.com^
@@ -605,7 +604,6 @@
 ||brightinfo.com^
 ||brightmountainmedia.com^
 ||l1.britannica.com^
-||british-banners.com^
 ||broadboundary.com^
 ||broadcastbed.com^
 ||broaddoor.com^
@@ -1985,6 +1983,7 @@
 ||pymx5.com^
 ||q1connect.com^
 ||qctop.com^
+||hlok.qertewrt.com^
 ||qnsr.com^
 ||qrlsx.com^
 ||newnet.qsrch.com^
@@ -2880,7 +2879,6 @@
 ||coupling-media.de^
 ||deloo.de^
 ||ad.domainfactory.de^
-||domainsteam.de^
 ||doubleclick.de^
 ||emetriq.de^
 ||etracker.de^
