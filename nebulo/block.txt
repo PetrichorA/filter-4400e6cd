@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: P5rFLtb42NxaUfdElMe19XMZD4J4KRaayUDRyIRAZRpSAK-9Fv1Rt2duLb8JKfqU
+# Version: f-AUmoYzya3YvJVBSAvRPfA_30K3pc7PI4heX0g2sq1mTUKBMVPiNW2d9lYUfh3C
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -11572,6 +11572,8 @@
 0.0.0.0	**.eversales.space
 0.0.0.0	pixel.digitru.st
 0.0.0.0	**.pixel.digitru.st
+0.0.0.0	csp-report-to.web3.storage
+0.0.0.0	**.csp-report-to.web3.storage
 0.0.0.0	ad.style
 0.0.0.0	**.ad.style
 0.0.0.0	uowbqce.surf

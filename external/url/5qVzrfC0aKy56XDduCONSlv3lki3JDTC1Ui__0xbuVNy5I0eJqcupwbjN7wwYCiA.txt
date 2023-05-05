@@ -82,7 +82,6 @@
 ||algorix.co^
 ||cs.co^
 ||customads.co^
-||erne.co^
 ||fave.co^
 ||feathr.co^
 ||ablinks.mail.hinge.co^
@@ -264,7 +263,6 @@
 ||adrta.com^
 ||ads-bilek.com^
 ||ads-click.com^
-||ads-kesselhaus.com^
 ||ads-twitter.com^
 ||ads1-adnow.com^
 ||ads180.com^
@@ -382,6 +380,7 @@
 ||alipromo.com^
 ||ads.alive.com^
 ||all4spy.com^
+||click.allkeyshop.com^
 ||allosponsor.com^
 ||affiliates.allposters.com^
 ||at-adserver.alltop.com^
@@ -2097,7 +2096,6 @@
 ||rtxplatform.com^
 ||ru4.com^
 ||rubiconproject.com^
-||api.rudderlabs.com^
 ||sanity-dataplane.rudderstack.com^
 ||runads.com^
 ||rundsp.com^
@@ -3156,7 +3154,6 @@
 ||wetrack.it^
 ||adingo.jp^
 ||clicklink.jp^
-||bizad.nikkeibp.co.jp^
 ||ad.nttnavi.co.jp^
 ||ba.afl.rakuten.co.jp^
 ||hb.afl.rakuten.co.jp^
@@ -3267,6 +3264,7 @@
 ||c.bigmir.net^
 ||blueconic.net^
 ||bounceads.net^
+||btglss.net^
 ||c212.net^
 ||carbonads.net^
 ||banner.casino.net^
@@ -3732,7 +3730,6 @@
 ||pixel.watch^
 ||asia999.website^
 ||thebugs.ws^
-||adserver5b.xyz^
 ||analytik.xyz^
 ||trk.bad-tool-tell-doubt.xyz^
 ||rexadvert.xyz^

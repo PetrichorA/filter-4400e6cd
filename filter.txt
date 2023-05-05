@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: rx6UL8Qd-X8j9f3qqMFzNFRebcbp41y2iTnBXlnTThSj90kmCpo5J3jA6CvmLg08
+! Version: QwOLXfbwf07PcI-s5nLezR7EPO5v7G_S6T-d6AqwWFzCKvVXABDgTk3hQhr8I77L
 
 ##div.advertising_2
 ##div.advertising_3
@@ -24,8 +24,12 @@ csdn.net##.toolbar-btn-write
 cursor-effects.js|
 ddys.art###fkasjgf a:remove-attr(href)
 ddys.art###kasjbgih a:remove-attr(href)
+ddys.art###to_top_scrollup
+ddys.art##.cfa_popup
 ddys.pro###fkasjgf a:remove-attr(href)
 ddys.pro###kasjbgih a:remove-attr(href)
+ddys.pro###to_top_scrollup
+ddys.pro##.cfa_popup
 live2d.js|
 umami.js|
 waifu-tips.js|
