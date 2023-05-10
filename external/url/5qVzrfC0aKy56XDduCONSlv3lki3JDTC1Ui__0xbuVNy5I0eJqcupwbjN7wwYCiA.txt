@@ -82,6 +82,7 @@
 ||algorix.co^
 ||cs.co^
 ||customads.co^
+||erne.co^
 ||fave.co^
 ||feathr.co^
 ||ablinks.mail.hinge.co^
@@ -1328,7 +1329,6 @@
 ||tracking.hyros.com^
 ||hystericalcloth.com^
 ||hystericalhelp.com^
-||i1img.com^
 ||iadnet.com^
 ||iasds01.com^
 ||ibillboard.com^
@@ -1375,7 +1375,6 @@
 ||infinityads.com^
 ||click.infoblox.com^
 ||infolinks.com^
-||information.com^
 ||hits.informer.com^
 ||web.informer.com^
 ||ad.infoseek.com^
@@ -2096,6 +2095,7 @@
 ||rtxplatform.com^
 ||ru4.com^
 ||rubiconproject.com^
+||api.rudderlabs.com^
 ||sanity-dataplane.rudderstack.com^
 ||runads.com^
 ||rundsp.com^
@@ -2454,7 +2454,6 @@
 ||toothbrushnote.com^
 ||top-site-list.com^
 ||top20free.com^
-||topbucks.com^
 ||topforall.com^
 ||ads.toplayaffiliates.com^
 ||toplistcity.com^

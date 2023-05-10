@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: QwOLXfbwf07PcI-s5nLezR7EPO5v7G_S6T-d6AqwWFzCKvVXABDgTk3hQhr8I77L
+! Version: Gn6QC1NizcZHPuK9DtJ2Ogf_r6ajSFEAfULez9yOTRyw_TAGYaO-g-If2So7hZtU
 
 ##div.advertising_2
 ##div.advertising_3
@@ -39,6 +39,7 @@ zhihu.com##+js(aeld, load, location.href="zhihu://)
 zhihu.com##.OpenInAppButton
 ||127.net/p/tools/mailstats-sdk/
 ||360buyimg.com/ddimg/jfs/t1/108754/39/33961/48618/6431454eFbcf4314d/780058014488d28a.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
+||360buyimg.com/ddimg/jfs/t1/118795/30/37256/48618/645722acF1346ba2a/2d1611c3f5d0f33f.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/190614/40/33004/51599/642fb0f6F897bb268/60ffea61afd69a34.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/216295/5/26693/44658/642fb0f6F8bb96471/5ce2d4e1d3d22a7e.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||api.zhihu.com/distribute/rhea/qa_ad_card/
