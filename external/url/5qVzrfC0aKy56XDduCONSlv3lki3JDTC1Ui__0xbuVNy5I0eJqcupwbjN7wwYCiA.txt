@@ -22,7 +22,6 @@
 ||epp.bih.net.ba^
 ||adhese.be^
 ||bannermanager.bnr.bg^
-||ads.delfin.bg^
 ||ads.mail.bg^
 ||revive.plays.bg^
 ||counter.search.bg^
@@ -90,7 +89,6 @@
 ||cdn.keywee.co^
 ||pixel.keywee.co^
 ||lemnisk.co^
-||magicadz.co^
 ||analytics.mailmunch.co^
 ||pushtrack.co^
 ||rockabox.co^
@@ -264,6 +262,7 @@
 ||adrta.com^
 ||ads-bilek.com^
 ||ads-click.com^
+||ads-kesselhaus.com^
 ||ads-twitter.com^
 ||ads1-adnow.com^
 ||ads180.com^
@@ -1414,8 +1413,6 @@
 ||irchan.com^
 ||adserver.irishwebmasterforum.com^
 ||t.irtyd.com^
-||ads.isoftmarketing.com^
-||banners.isoftmarketing.com^
 ||api.iterable.com^
 ||js.iterable.com^
 ||its-that-easy.com^
@@ -1558,7 +1555,6 @@
 ||madcpms.com^
 ||madinad.com^
 ||madisonavenue.com^
-||eu1.madsone.com^
 ||magicaljoin.com^
 ||magicalmonth.com^
 ||magnificentmist.com^
@@ -1831,7 +1827,6 @@
 ||painstakingpickle.com^
 ||promote.pair.com^
 ||paleleaf.com^
-||cdn.panelbear.com^
 ||panickycurtain.com^
 ||panickypancake.com^
 ||panoramicplane.com^
@@ -2454,6 +2449,7 @@
 ||toothbrushnote.com^
 ||top-site-list.com^
 ||top20free.com^
+||topbucks.com^
 ||topforall.com^
 ||ads.toplayaffiliates.com^
 ||toplistcity.com^
@@ -3463,7 +3459,6 @@
 ||ads.tripod.lycos.nl^
 ||m4n.nl^
 ||ads.massinfra.nl^
-||phpadsnew.new.natuurpark.nl^
 ||netdirect.nl^
 ||adimages.omroepzeeland.nl^
 ||adserver.omroepzeeland.nl^
