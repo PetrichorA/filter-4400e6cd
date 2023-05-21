@@ -89,6 +89,7 @@
 ||cdn.keywee.co^
 ||pixel.keywee.co^
 ||lemnisk.co^
+||magicadz.co^
 ||analytics.mailmunch.co^
 ||pushtrack.co^
 ||rockabox.co^
@@ -1773,7 +1774,6 @@
 ||offaces-butional.com^
 ||offerforge.com^
 ||offermatica.com^
-||affiliate.offgamers.com^
 ||measure.office.com^
 ||ogury.com^
 ||ads.okcimg.com^
@@ -2233,7 +2233,6 @@
 ||app-analytics.snapchat.com^
 ||app-analytics-v2.snapchat.com^
 ||snoobi.com^
-||ads.socapro.com^
 ||socialspark.com^
 ||ads.socialtheater.com^
 ||ads.soft32.com^
@@ -3343,7 +3342,6 @@
 ||counter.mirohost.net^
 ||a.mktw.net^
 ||mntzrlt.net^
-||mobperads.net^
 ||monetate.net^
 ||movad.net^
 ||mxptint.net^
