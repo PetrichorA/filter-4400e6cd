@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: G2v-DtnAarmcgKnaQO1wXa3dmrl0--Mjow8VJrLHo1ViCuixtQUO_Tubd-WaAZqD
+# Version: Wz2hQvwQ9ugMuJZrk0MClugz5T10zJThVHrWg-XGvi20JqTUxd9tSSRBPbuT5mL-
 
 104.16.75.66	2da9f34d.cloudflare-dns.com
 104.16.75.66	37a83c61.cloudflare-dns.com
@@ -89,6 +89,7 @@
 104.16.96.94	apply.workable.com
 104.16.96.94	arch-mirror.wtako.net
 104.16.96.94	archlinux.mirror.noc.one
+104.16.96.94	arknote.notion.site
 104.16.96.94	assets-next.mattersprotocol.io
 104.16.96.94	assets.calendly.com
 104.16.96.94	assets.classy.org
@@ -464,6 +465,7 @@
 104.16.96.94	mstdn.homes
 104.16.96.94	mstdn.jp
 104.16.96.94	mtpro.xyz
+104.16.96.94	multiset.notion.site
 104.16.96.94	my.adguard.com
 104.16.96.94	myetherwallet.com
 104.16.96.94	name.web3.storage
