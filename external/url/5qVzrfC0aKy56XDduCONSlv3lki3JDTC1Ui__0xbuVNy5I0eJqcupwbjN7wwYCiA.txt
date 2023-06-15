@@ -469,6 +469,7 @@
 ||awin1.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
+||link.axios.com^
 ||axonix.com^
 ||q.azcentral.com^
 ||li.azstarnet.com^
@@ -549,7 +550,6 @@
 ||bizzclick.com^
 ||click.bkdpt.com^
 ||bkrtx.com^
-||email.m1.bktrksmail.com^
 ||blingbucks.com^
 ||blis.com^
 ||click.em.blizzard.com^
@@ -774,7 +774,6 @@
 ||complextoad.com^
 ||tracker.comunidadmarriott.com^
 ||concernedcondition.com^
-||concerneddrink.com^
 ||pixel.condenastdigital.com^
 ||conditionchange.com^
 ||conductrics.com^
@@ -793,7 +792,6 @@
 ||conversionbet.com^
 ||conversionruler.com^
 ||convertingtraffic.com^
-||cookchalk.com^
 ||ad.cooks.com^
 ||coordinatedcub.com^
 ||cootlogix.com^
@@ -1139,6 +1137,7 @@
 ||banners.freett.com^
 ||freewebcounter.com^
 ||freewheel.com^
+||freezingbuilding.com^
 ||cdn.freshmarketer.com^
 ||freshrelevance.com^
 ||events-eu.freshsuccess.com^
@@ -1608,6 +1607,8 @@
 ||meltmilk.com^
 ||memorizeneck.com^
 ||memorycobweb.com^
+||tag.mention-me.com^
+||tag-demo.mention-me.com^
 ||stats.merriam-webster.com^
 ||messagenovice.com^
 ||metaffiliation.com^
@@ -1705,7 +1706,6 @@
 ||n69.com^
 ||data.namesakeoscilloscopemarquis.com^
 ||nappyattack.com^
-||naradxb.com^
 ||liquidad.narrowcastmedia.com^
 ||nastydollars.com^
 ||touchclarity.natwest.com^
@@ -2018,7 +2018,6 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
-||readingopera.com^
 ||readymoon.com^
 ||realcastmedia.com^
 ||realclever.com^
@@ -2028,7 +2027,9 @@
 ||realtechnetwork.com^
 ||li.realtor.com^
 ||realtracker.com^
+||rebelhen.com^
 ||rebelsubway.com^
+||rebelswing.com^
 ||receptiveink.com^
 ||receptivereaction.com^
 ||reconditerake.com^
@@ -2268,7 +2269,6 @@
 ||px.spiceworks.com^
 ||spidersboats.com^
 ||spiffymachine.com^
-||spikyslave.com^
 ||logs.spilgames.com^
 ||tracker-pm2.spilleren.com^
 ||spinnaker-js.com^
@@ -2428,6 +2428,7 @@
 ||thruport.com^
 ||thunderhead.com^
 ||ticketaunt.com^
+||click.mailing.ticketmaster.com^
 ||ads.as4x.tmcs.ticketmaster.com^
 ||ticklesign.com^
 ||ticksel.com^
@@ -2743,7 +2744,6 @@
 ||yesads.com^
 ||yesadvertising.com^
 ||yieldads.com^
-||yieldmanager.com^
 ||yieldmo.com^
 ||yieldoptimizer.com^
 ||yieldtraffic.com^
@@ -2756,7 +2756,6 @@
 ||adjuggler.yourdictionary.com^
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
-||z3dmbpl6309s.com^
 ||zangocash.com^
 ||zanox.com^
 ||zantracker.com^
@@ -2771,6 +2770,7 @@
 ||li.ziffimages.com^
 ||zm232.com^
 ||zmedia.com^
+||webanalytics.zohodcm.com^
 ||ad.ztylez.com^
 ||zukxd6fkxqn.com^
 ||zy16eoat1w.com^
@@ -2871,6 +2871,7 @@
 ||coupling-media.de^
 ||deloo.de^
 ||ad.domainfactory.de^
+||domainsteam.de^
 ||doubleclick.de^
 ||emetriq.de^
 ||etracker.de^
@@ -2999,7 +3000,6 @@
 ||oas.benchmark.fr^
 ||pub.club-internet.fr^
 ||e-m.fr^
-||ads.groupewin.fr^
 ||pub.hardware.fr^
 ||leadplace.fr^
 ||f7ds.liberation.fr^
@@ -3055,10 +3055,8 @@
 ||domaining.in^
 ||analytics.htmedia.in^
 ||analytics.bitrix.info^
-||clicktrace.info^
 ||t.notif-colissimo-laposte.info^
 ||prchecker.info^
-||shermore.info^
 ||ads.sjon.info^
 ||spotscenered.info^
 ||ads2.techads.info^
@@ -3266,6 +3264,8 @@
 ||chitika.net^
 ||citrusad.net^
 ||clikerz.net^
+||d1f0tbk1v3e25u.cloudfront.net^
+||d81mfvml8p5ml.cloudfront.net^
 ||adv.cooperhosting.net^
 ||criteo.net^
 ||crwdcntrl.net^
