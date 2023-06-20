@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: Wz2hQvwQ9ugMuJZrk0MClugz5T10zJThVHrWg-XGvi20JqTUxd9tSSRBPbuT5mL-
+# Version: kFMqz5emVKcubhiIVxqnZe0fkzP0H4IHLCYPJ12Jr-JQkEOoWbtmS4Y4uT18WTBw
 
 104.16.75.66	2da9f34d.cloudflare-dns.com
 104.16.75.66	37a83c61.cloudflare-dns.com
@@ -282,6 +282,7 @@
 104.16.96.94	ethpool.org
 104.16.96.94	events.isab.run
 104.16.96.94	everpay.io
+104.16.96.94	exp.notion.so
 104.16.96.94	explorer.pages.dev
 104.16.96.94	f5.pm
 104.16.96.94	fanboy.co.nz
@@ -462,6 +463,7 @@
 104.16.96.94	mokeedev.com
 104.16.96.94	moneroocean.stream
 104.16.96.94	mongodb-distro.mirror.noc.one
+104.16.96.94	msgstore.www.notion.so
 104.16.96.94	mstdn.homes
 104.16.96.94	mstdn.jp
 104.16.96.94	mtpro.xyz
@@ -489,6 +491,7 @@
 104.16.96.94	nostr.wine
 104.16.96.94	nostrica.com
 104.16.96.94	note.bmpi.dev
+104.16.96.94	notion.so
 104.16.96.94	npmjs.com
 104.16.96.94	npmjs.org
 104.16.96.94	ns1.com

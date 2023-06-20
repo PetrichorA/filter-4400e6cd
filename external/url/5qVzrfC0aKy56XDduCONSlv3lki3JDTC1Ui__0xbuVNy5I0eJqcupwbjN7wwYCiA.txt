@@ -1,5 +1,4 @@
 ||chameleon.ad^
-||content.ad^
 ||ads.emirates.net.ae^
 ||cognitiv.ai^
 ||analytics.jst.ai^
@@ -26,7 +25,6 @@
 ||revive.plays.bg^
 ||counter.search.bg^
 ||ads.unison.bg^
-||clickwith.bid^
 ||adnet.biz^
 ||cloudcoins.biz^
 ||ads.dtpnetwork.biz^
@@ -913,6 +911,7 @@
 ||discreetfield.com^
 ||t.vacations.disneydestinations.com^
 ||t.visit.disneydestinations.com^
+||sanalytics.disneyplus.com^
 ||dispensablestranger.com^
 ||referrer.disqus.com^
 ||disqusads.com^
@@ -1670,7 +1669,9 @@
 ||mopub.com^
 ||motionspots.com^
 ||aserv.motorsgate.com^
-||mouseflow.com^
+||cdn.mouseflow.com^
+||n2.mouseflow.com^
+||o2.mouseflow.com^
 ||mousestats.com^
 ||movemeal.com^
 ||mowfruit.com^
@@ -3558,7 +3559,6 @@
 ||adriver.ru^
 ||adtech-digital.ru^
 ||ad.allboxing.ru^
-||ads.apteka254.ru^
 ||ads.bb59.ru^
 ||begun.ru^
 ||bans.bride.ru^
