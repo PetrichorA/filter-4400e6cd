@@ -2122,6 +2122,7 @@
 ||ads.saymedia.com^
 ||saysidewalk.com^
 ||scanscout.com^
+||cdn.scarabresearch.com^
 ||scarcesign.com^
 ||scaredsnakes.com^
 ||scaredswing.com^
@@ -2998,6 +2999,7 @@
 ||adimages.sanomawsoy.fi^
 ||adserver.sanomawsoy.fi^
 ||simpli.fi^
+||yrquuaxo.ajrimmobilier.fr^
 ||oas.benchmark.fr^
 ||pub.club-internet.fr^
 ||e-m.fr^
