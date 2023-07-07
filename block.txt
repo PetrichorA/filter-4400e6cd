@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: I5ya_Qrx9DnJAsp07fIspNlyqwvnufDRDZHuKe9hJJBhFMQyII8ck2S8L89sXsK9
+! Version: GVAVyejmZJeKT2wrBPn16zuZof-GUhwp7mmnvxMjIqhSKogZGU6ZloeuAd5b_pWL
 
 ||chameleon.ad^
 ||content.ad^
@@ -3202,6 +3202,7 @@
 ||pushno.com^
 ||ads.pushplay.com^
 ||pushwhy.com^
+||pxqztp.com^
 ||pymx5.com^
 ||q1connect.com^
 ||qbdgame.com^

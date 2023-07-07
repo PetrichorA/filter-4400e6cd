@@ -150,7 +150,6 @@
 ||absurdwater.com^
 ||abtasty.com^
 ||ad.abum.com^
-||abz.com^
 ||acemlnb.com^
 ||maltiverse.lt.acemlnc.com^
 ||acridtwist.com^
@@ -772,6 +771,7 @@
 ||complextoad.com^
 ||tracker.comunidadmarriott.com^
 ||concernedcondition.com^
+||concerneddrink.com^
 ||pixel.condenastdigital.com^
 ||conditionchange.com^
 ||conductrics.com^
@@ -790,6 +790,7 @@
 ||conversionbet.com^
 ||conversionruler.com^
 ||convertingtraffic.com^
+||cookchalk.com^
 ||ad.cooks.com^
 ||coordinatedcub.com^
 ||cootlogix.com^
@@ -824,6 +825,7 @@
 ||email-links.crowdfireapp.com^
 ||crowdgravity.com^
 ||crsspxl.com^
+||links.email.crunchbase.com^
 ||culturedcrayon.com^
 ||cumbersomecloud.com^
 ||curtaincows.com^
@@ -1248,7 +1250,6 @@
 ||ads.guru3d.com^
 ||h-bid.com^
 ||habitualhumor.com^
-||hadskiz.com^
 ||haltingbadge.com^
 ||hammerhearing.com^
 ||handsomehose.com^
@@ -1418,7 +1419,6 @@
 ||ads.itv.com^
 ||hits-i.iubenda.com^
 ||ivykiosk.com^
-||ads.iwon.com^
 ||rose.ixbt.com^
 ||iyfnzgb.com^
 ||j93557g.com^
@@ -1615,6 +1615,7 @@
 ||click.digital.metaquestmail.com^
 ||werbung.meteoxpress.com^
 ||methodcash.com^
+||metricswave.com^
 ||metrilo.com^
 ||mfadsrvr.com^
 ||mg2connext.com^
@@ -1835,6 +1836,7 @@
 ||parchedangle.com^
 ||parchedsofa.com^
 ||pardonpopular.com^
+||parentpicture.com^
 ||parsely.com^
 ||parsimoniouspolice.com^
 ||partner-ads.com^
@@ -1892,6 +1894,7 @@
 ||plugrush.com^
 ||li.pmc.com^
 ||ads.pni.com^
+||pocketfaucet.com^
 ||ads.pof.com^
 ||pointlesshour.com^
 ||pointlessprofit.com^
@@ -2019,6 +2022,7 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
+||readingopera.com^
 ||readymoon.com^
 ||realcastmedia.com^
 ||realclever.com^
@@ -2271,6 +2275,7 @@
 ||px.spiceworks.com^
 ||spidersboats.com^
 ||spiffymachine.com^
+||spikyslave.com^
 ||logs.spilgames.com^
 ||tracker-pm2.spilleren.com^
 ||spinnaker-js.com^
@@ -2467,7 +2472,6 @@
 ||trackalyzer.com^
 ||tracking101.com^
 ||tracking22.com^
-||trackingfestival.com^
 ||trackingsoft.com^
 ||trackmysales.com^
 ||trackuhub.com^
@@ -2541,6 +2545,7 @@
 ||ultramercial.com^
 ||ultraoranges.com^
 ||track.ultravpn.com^
+||unaccountablepie.com^
 ||unarmedindustry.com^
 ||unbecomingbikes.com^
 ||unbecominglamp.com^
@@ -2629,6 +2634,7 @@
 ||hb.vntsm.com^
 ||ads.vnumedia.com^
 ||voicefive.com^
+||adtrack.voicestar.com^
 ||voicevegetable.com^
 ||volatilevessel.com^
 ||voluum.com^
@@ -2770,6 +2776,7 @@
 ||zenzuu.com^
 ||zeusclicks.com^
 ||li.ziffimages.com^
+||zippingcare.com^
 ||zm232.com^
 ||zmedia.com^
 ||webanalytics.zohodcm.com^
@@ -2809,7 +2816,6 @@
 ||ad.lupa.cz^
 ||ad2.lupa.cz^
 ||reklama.mironet.cz^
-||ceskydomov.alias.ngs.modry.cz^
 ||navrcholu.cz^
 ||netagent.cz^
 ||add.newmedia.cz^
@@ -2905,7 +2911,6 @@
 ||layer-ads.de^
 ||ligatus.de^
 ||link-booster.de^
-||linkadd.de^
 ||links-ranking.de^
 ||ads.tripod.lycos.de^
 ||adnews.maddog2000.de^
@@ -3352,7 +3357,6 @@
 ||mypagerank.net^
 ||mystat-in.net^
 ||mytop-in.net^
-||myvisualiq.net^
 ||nedstatbasic.net^
 ||nend.net^
 ||neocounter.neoworx-blog-tools.net^
@@ -3383,7 +3387,6 @@
 ||raac33.net^
 ||stats.rdphv.net^
 ||readserver.net^
-||revsci.net^
 ||roxr.net^
 ||rs6.net^
 ||rtbplatform.net^
@@ -3724,7 +3727,6 @@
 ||pixel.watch^
 ||asia999.website^
 ||thebugs.ws^
-||analytik.xyz^
 ||trk.bad-tool-tell-doubt.xyz^
 ||rexadvert.xyz^
 ||sbird.xyz^

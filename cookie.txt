@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: oW4vgtLGy1pvrvXVjtT-Ar0CZq11SSNaIl6kMnYbSzt9Q4GaaZYcCHu7A-tqGG7m
+! Version: s3V2xMdKC5ykJcTBgGK7p0lsW0Z4FR3m_3fAKTw1d5gySsmk17qs97a-EnuUOsN8
 
 ! clear
 cooco.net.cn##+js(cookie-remover)
@@ -37,6 +37,7 @@ t.co##+js(cookie-remover)
 10minutemail.com##+js(cookie-remover)
 m.163.com##+js(cookie-remover)
 360doc.com##+js(cookie-remover)
+androidcentral.com##+js(cookie-remover)
 androidpolice.com##+js(cookie-remover)
 anonfiles.com##+js(cookie-remover)
 apnews.com##+js(cookie-remover)
