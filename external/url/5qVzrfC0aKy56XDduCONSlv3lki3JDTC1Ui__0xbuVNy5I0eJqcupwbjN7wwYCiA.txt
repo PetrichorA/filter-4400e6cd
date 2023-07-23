@@ -1,12 +1,11 @@
 ||chameleon.ad^
+||content.ad^
 ||ads.emirates.net.ae^
 ||cognitiv.ai^
 ||analytics.jst.ai^
 ||m2.ai^
 ||matomo.crossiety.app^
 ||analytics.lucid.app^
-||bannerlandia.com.ar^
-||ads.5min.at^
 ||ad-balancer.at^
 ||adworx.at^
 ||adx.gayboy.at^
@@ -296,7 +295,6 @@
 ||adsupply.com^
 ||adswizz.com^
 ||adsxyz.com^
-||adsymptotic.com^
 ||adsynergy.com^
 ||adt598.com^
 ||adtech.com^
@@ -462,7 +460,6 @@
 ||awakebird.com^
 ||awempire.com^
 ||awesomeagreement.com^
-||awesomeattack.com^
 ||awin1.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
@@ -504,7 +501,6 @@
 ||beachfront.com^
 ||beamincrease.com^
 ||bebi.com^
-||trk.bee-data.com^
 ||beemray.com^
 ||adimages.been.com^
 ||behavioralengine.com^
@@ -537,7 +533,6 @@
 ||biosda.com^
 ||bitmedianetwork.com^
 ||ads.bittorrent.com^
-||bizarrebaseball.com^
 ||adserver.bizedge.com^
 ||adserver.bizhat.com^
 ||bizible.com^
@@ -1084,7 +1079,6 @@
 ||ads.financialcontent.com^
 ||findcommerce.com^
 ||findyourcasino.com^
-||analytics.dashboard.fingerprint.com^
 ||ads-game-187f4.firebaseapp.com^
 ||fireworkadservices.com^
 ||fireworkanalytics.com^
@@ -1234,6 +1228,7 @@
 ||gracefulsock.com^
 ||ads.gradfinder.com^
 ||graizoah.com^
+||grandfatherguitar.com^
 ||greetzebra.com^
 ||greyinstrument.com^
 ||greystripe.com^
@@ -1281,7 +1276,6 @@
 ||hgads.com^
 ||highfalutinroom.com^
 ||hightrafficads.com^
-||hilariouscap.com^
 ||hilariouszinc.com^
 ||oxen.hillcountrytexas.com^
 ||histats.com^
@@ -1298,7 +1292,6 @@
 ||hollowafterthought.com^
 ||ads.hollywood.com^
 ||homelycrown.com^
-||homelysleep.com^
 ||adimages.homestore.com^
 ||honeygoldfish.com^
 ||honorablehall.com^
@@ -1396,7 +1389,6 @@
 ||instrumentsponge.com^
 ||intelliads.com^
 ||intelligenceadx.com^
-||intellitxt.com^
 ||intercom-clicks.com^
 ||intergi.com^
 ||internetfuel.com^
@@ -1555,7 +1547,6 @@
 ||madinad.com^
 ||madisonavenue.com^
 ||magicaljoin.com^
-||magicalmonth.com^
 ||magnificentmist.com^
 ||track.mailerlite.com^
 ||mantisadnetwork.com^
@@ -1615,7 +1606,7 @@
 ||click.digital.metaquestmail.com^
 ||werbung.meteoxpress.com^
 ||methodcash.com^
-||metricswave.com^
+||tracker.metricswave.com^
 ||metrilo.com^
 ||mfadsrvr.com^
 ||mg2connext.com^
@@ -1870,7 +1861,6 @@
 ||pheedo.com^
 ||photographpan.com^
 ||physicalbikes.com^
-||picadmedia.com^
 ||analytics.picsart.com^
 ||piet2eix3l.com^
 ||pietexture.com^
@@ -1918,7 +1908,6 @@
 ||ads.powweb.com^
 ||predictad.com^
 ||premium-offers.com^
-||presentbedroom.com^
 ||presetrabbits.com^
 ||previousplayground.com^
 ||previouspotato.com^
@@ -2235,7 +2224,6 @@
 ||smilingwaves.com^
 ||smoggysnakes.com^
 ||smrtb.com^
-||snailscart.com^
 ||snapads.com^
 ||app-analytics.snapchat.com^
 ||app-analytics-v2.snapchat.com^
@@ -2280,7 +2268,6 @@
 ||tracker-pm2.spilleren.com^
 ||spinnaker-js.com^
 ||spirebaboon.com^
-||spitefulstop.com^
 ||post.spmailtechno.com^
 ||offer.sponsorpay.com^
 ||spookysleet.com^
@@ -2408,7 +2395,6 @@
 ||b-s.tercept.com^
 ||serve.tercept.com^
 ||terriblethumb.com^
-||teststocking.com^
 ||text-link-ads.com^
 ||textlinks.com^
 ||statm.the-adult-company.com^
@@ -2547,7 +2533,6 @@
 ||track.ultravpn.com^
 ||unaccountablepie.com^
 ||unarmedindustry.com^
-||unbecomingbikes.com^
 ||unbecominglamp.com^
 ||ads.uncrate.com^
 ||understoodocean.com^
@@ -2742,7 +2727,6 @@
 ||adserver.yahoo.com^
 ||analytics.yahoo.com^
 ||marketingsolutions.yahoo.com^
-||visit.webhosting.yahoo.com^
 ||ads.yap.yahoo.com^
 ||partnerads.ysm.yahoo.com^
 ||x6.yakiuchi.com^
@@ -2865,7 +2849,6 @@
 ||adverticus.de^
 ||advertmedia.de^
 ||auto-bannertausch.de^
-||banner-exchange-24.de^
 ||bannerads.de^
 ||adserver.betandwin.de^
 ||blogcounter.de^
@@ -3344,7 +3327,6 @@
 ||users.maxcluster.net^
 ||maximiser.net^
 ||media.net^
-||media-servers.net^
 ||utils.mediageneral.net^
 ||meetrics.net^
 ||counter.mirohost.net^
@@ -3459,7 +3441,6 @@
 ||ads2.femmefab.nl^
 ||marketing.hearstmagazines.nl^
 ||kliks.nl^
-||lead-analytics.nl^
 ||ads.tripod.lycos.nl^
 ||m4n.nl^
 ||ads.massinfra.nl^
@@ -3705,7 +3686,6 @@
 ||webtrends.telegraph.co.uk^
 ||tntclix.co.uk^
 ||ads.trinitymirror.co.uk^
-||ads.uknetguide.co.uk^
 ||em1.yoursantander.co.uk^
 ||zencudo.co.uk^
 ||links.zoopla.co.uk^
@@ -3720,6 +3700,7 @@
 ||tracker.samplicio.us^
 ||trkn.us^
 ||tracker.vgame.us^
+||click.e.zoom.us^
 ||a.muloqot.uz^
 ||adpia.vn^
 ||eclick.vn^

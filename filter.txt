@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: 38ZCPpnQ2zQrJsuXedO0iGa4gMffM1TrzeZz_KfTomK-88kwi_irFJfV-UXVAiHU
+! Version: l5kuAHS1LcmjwLD2kVFEgr1_O1KPrRN4WGszFPX7xAslJ5cVaJWCpgPuYDS-XQWF
 
 ##div.advertising_2
 ##div.advertising_3
@@ -47,6 +47,7 @@ zhihu.com##.OpenInAppButton
 ||360buyimg.com/ddimg/jfs/t1/195563/19/37474/40235/6481174aF03a9dd33/729a69bcb90ced12.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/216295/5/26693/44658/642fb0f6F8bb96471/5ce2d4e1d3d22a7e.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/87190/14/38641/46033/646253f4F31e02358/9324b982926bb7db.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
+||360buyimg.com/ddimg/jfs/t1/99854/33/41787/46421/64b919adF0fe5e567/3198898165e802ae.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||api.zhihu.com/distribute/rhea/qa_ad_card/
 ||assets.bwbx.io/s3/javelin/public/javelin/js/
 ||assets.bwbx.io/s3/navi/js/push-notification-prompt
