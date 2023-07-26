@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: BbDv0_U1TRHFfAA3zUbTMQSutCTF_lcW3c9mlJlD8jXfkfWmsaDfXcaV65yMpUK-
+# Version: m8x89lKcYH3HtXhtDrJa09Sg_wBwGPuBpT-r1tEuUbKmS9g4cq6rZ9uc5SeI-viy
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -7558,6 +7558,8 @@
 0.0.0.0	**.spotlessstamp.com
 0.0.0.0	spotxchange.com
 0.0.0.0	**.spotxchange.com
+0.0.0.0	sprig.com
+0.0.0.0	**.sprig.com
 0.0.0.0	springaftermath.com
 0.0.0.0	**.springaftermath.com
 0.0.0.0	springserve.com

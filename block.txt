@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: hsSFx360gvmECMHAQPPOi2qMbyHbPMtrwRyEDiUWnWZg8mpHHGbT_0EjnumgEali
+! Version: IrMj86NPVh1ycgisTUMr2LRdDy0VPaKC2OEaEQz6l8KXuChWR-EixQViaPkTYCCc
 
 ||chameleon.ad^
 ||content.ad^
@@ -3783,6 +3783,7 @@
 ||log.spotify.com^
 ||spotlessstamp.com^
 ||spotxchange.com^
+||sprig.com^
 ||springaftermath.com^
 ||springserve.com^
 ||images.sprinklecontent.com^
