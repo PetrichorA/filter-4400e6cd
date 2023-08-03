@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: s3V2xMdKC5ykJcTBgGK7p0lsW0Z4FR3m_3fAKTw1d5gySsmk17qs97a-EnuUOsN8
+! Version: efobZk1YBwXM-21u--y67W42BGutUAaiqaBhxZth8tIF6UV4CHB5GCuoR1pj-dOm
 
 ! clear
 cooco.net.cn##+js(cookie-remover)
@@ -116,6 +116,7 @@ wusa9.com##+js(cookie-remover)
 xda-developers.com##+js(cookie-remover)
 xinhuanet.com##+js(cookie-remover)
 yourdictionary.com##+js(cookie-remover)
+zaobao.com##+js(cookie-remover)
 zdnet.com##+js(cookie-remover)
 zybang.com##+js(cookie-remover)
 bmpi.dev##+js(cookie-remover)
