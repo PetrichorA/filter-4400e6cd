@@ -6,6 +6,7 @@
 ||m2.ai^
 ||matomo.crossiety.app^
 ||analytics.lucid.app^
+||bannerlandia.com.ar^
 ||ad-balancer.at^
 ||adworx.at^
 ||adx.gayboy.at^
@@ -40,11 +41,9 @@
 ||banners.bol.com.br^
 ||adserver.diariodosertao.com.br^
 ||anuncios.edicaoms.com.br^
-||ads.egrana.com.br^
 ||ads.ibest.com.br^
 ||ad.jacotei.com.br^
 ||adserver.pampa.com.br^
-||adfs.senacrs.com.br^
 ||softclick.com.br^
 ||ads.todoti.com.br^
 ||topsites.com.br^
@@ -102,7 +101,6 @@
 ||101order.com^
 ||affiliate.1800flowers.com^
 ||180searchassistant.com^
-||1link2020.com^
 ||247media.com^
 ||24log.com^
 ||24pm-affiliation.com^
@@ -200,8 +198,6 @@
 ||adforce.com^
 ||adform.com^
 ||adgardener.com^
-||email-clk.adguard.com^
-||email-opn.adguard.com^
 ||adhaven.com^
 ||adhese.com^
 ||adinterax.com^
@@ -393,6 +389,7 @@
 ||entrecard.s3.amazonaws.com^
 ||surveygizmobeacon.s3.amazonaws.com^
 ||yab-adimages.s3.amazonaws.com^
+||pc-tc.s3-eu-west-1.amazonaws.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||banner.ambercoastcasino.com^
 ||ambiguousquilt.com^
@@ -420,6 +417,7 @@
 ||ad.anuntis.com^
 ||anxiousapples.com^
 ||apathetictheory.com^
+||app-measurement.com^
 ||appboycdn.com^
 ||securemetrics.apple.com^
 ||appsflyer.com^
@@ -764,9 +762,7 @@
 ||compactbanner.com^
 ||completecabbage.com^
 ||complextoad.com^
-||tracker.comunidadmarriott.com^
 ||concernedcondition.com^
-||concerneddrink.com^
 ||pixel.condenastdigital.com^
 ||conditionchange.com^
 ||conductrics.com^
@@ -785,7 +781,6 @@
 ||conversionbet.com^
 ||conversionruler.com^
 ||convertingtraffic.com^
-||cookchalk.com^
 ||ad.cooks.com^
 ||coordinatedcub.com^
 ||cootlogix.com^
@@ -924,6 +919,7 @@
 ||uu.domainforlite.com^
 ||domdex.com^
 ||ads.domeus.com^
+||dotomi.com^
 ||doubleclick.com^
 ||doublepimp.com^
 ||doubleverify.com^
@@ -968,7 +964,6 @@
 ||edgexads.com^
 ||et.educationdynamics.com^
 ||widget.educationdynamics.com^
-||effectivemeasure.com^
 ||efficaciouscactus.com^
 ||track.effiliation.com^
 ||ejyymghi.com^
@@ -1015,7 +1010,6 @@
 ||esty.com^
 ||etahub.com^
 ||etargetnet.com^
-||ethereum-ads.com^
 ||etracker.com^
 ||eurekster.com^
 ||banner.eurogrand.com^
@@ -1189,7 +1183,6 @@
 ||glisteningsign.com^
 ||globalismedia.com^
 ||affiliates.globat.com^
-||globus-inter.com^
 ||gloriousbeef.com^
 ||glossysense.com^
 ||ads.gmodules.com^
@@ -1243,6 +1236,8 @@
 ||rtb.gumgum.com^
 ||gunggo.com^
 ||ads.guru3d.com^
+||beacons.gvt2.com^
+||beacons.gcp.gvt2.com^
 ||h-bid.com^
 ||habitualhumor.com^
 ||haltingbadge.com^
@@ -1330,7 +1325,6 @@
 ||tracker.icerocket.com^
 ||look.ichlnk.com^
 ||metrics.icloud.com^
-||iconpeak2trk.com^
 ||analytics.icons8.com^
 ||icptrack.com^
 ||ads.icq.com^
@@ -1510,6 +1504,7 @@
 ||linkshighway.com^
 ||linkstorms.com^
 ||linkswaper.com^
+||linksynergy.com^
 ||linktarget.com^
 ||analytics.live.com^
 ||liveadexchanger.com^
@@ -1549,6 +1544,7 @@
 ||magicaljoin.com^
 ||magnificentmist.com^
 ||track.mailerlite.com^
+||telemetry.malwarebytes.com^
 ||mantisadnetwork.com^
 ||adfeed.marchex.com^
 ||ppc.adhere.marchex.com^
@@ -2011,7 +2007,6 @@
 ||reactx.com^
 ||readgoldfish.com^
 ||readingguilt.com^
-||readingopera.com^
 ||readymoon.com^
 ||realcastmedia.com^
 ||realclever.com^
@@ -2114,6 +2109,7 @@
 ||savoryorange.com^
 ||ads.saymedia.com^
 ||saysidewalk.com^
+||link.sbstck.com^
 ||scanscout.com^
 ||cdn.scarabresearch.com^
 ||scarcesign.com^
@@ -2121,6 +2117,7 @@
 ||scaredswing.com^
 ||scarfsmash.com^
 ||scatteredheat.com^
+||track.spe.schoolmessenger.com^
 ||ads.scifi.com^
 ||adserver.sciflicks.com^
 ||scintillatingscissors.com^
@@ -2263,7 +2260,6 @@
 ||px.spiceworks.com^
 ||spidersboats.com^
 ||spiffymachine.com^
-||spikyslave.com^
 ||logs.spilgames.com^
 ||tracker-pm2.spilleren.com^
 ||spinnaker-js.com^
@@ -2316,6 +2312,7 @@
 ||stickssheep.com^
 ||stickyadstv.com^
 ||stiffgame.com^
+||stomachscience.com^
 ||storesurprise.com^
 ||stormyachiever.com^
 ||stoveseashore.com^
@@ -2327,6 +2324,7 @@
 ||structurerod.com^
 ||stupendoussleet.com^
 ||stupendoussnow.com^
+||email.mg1.substack.com^
 ||succeedscene.com^
 ||suddensidewalk.com^
 ||sugarcurtain.com^
@@ -2360,7 +2358,6 @@
 ||ads.tahono.com^
 ||tailsweep.com^
 ||takethatad.com^
-||takru.com^
 ||talentedsteel.com^
 ||tamgrt.com^
 ||tangibleteam.com^
@@ -2401,6 +2398,7 @@
 ||the-ozone-project.com^
 ||theadex.com^
 ||theadhost.com^
+||link.theatlantic.com^
 ||theclickads.com^
 ||hits.theguardian.com^
 ||themoneytizer.com^
@@ -2442,7 +2440,6 @@
 ||toothbrushnote.com^
 ||top-site-list.com^
 ||top20free.com^
-||topbucks.com^
 ||topforall.com^
 ||ads.toplayaffiliates.com^
 ||toplistcity.com^
@@ -2642,7 +2639,6 @@
 ||wearbasin.com^
 ||adstest.weather.com^
 ||ad.weatherbug.com^
-||web-redirecting.com^
 ||web-stat.com^
 ||webcontentassessor.com^
 ||webgains.com^
@@ -2849,6 +2845,7 @@
 ||adverticus.de^
 ||advertmedia.de^
 ||auto-bannertausch.de^
+||banner-exchange-24.de^
 ||bannerads.de^
 ||adserver.betandwin.de^
 ||blogcounter.de^
@@ -3017,6 +3014,7 @@
 ||3o9s.short.gy^
 ||tracking.concedehousingstrainnotice.hair^
 ||tracking.vagueunlikecowerscreamforbid.hair^
+||prf.hn^
 ||ctnetwork.hu^
 ||ads.deltha.hu^
 ||ads.gaypoint.hu^
@@ -3103,6 +3101,8 @@
 ||track.segmetrics.io^
 ||simpleanalytics.io^
 ||siteimproveanalytics.io^
+||marlowpillow.sjv.io^
+||parachutehome.sjv.io^
 ||smart-traffik.io^
 ||storetail.io^
 ||tend.io^
@@ -3185,6 +3185,7 @@
 ||2o7.net^
 ||4d5.net^
 ||7cnq.net^
+||bestbuy.7tiv.net^
 ||ad.a8.net^
 ||trck.a8.net^
 ||abacho.net^
@@ -3228,6 +3229,7 @@
 ||e37364.dscd.akamaiedge.net^
 ||analytics.algoepico.net^
 ||box.anchorfree.net^
+||androiddownload.net^
 ||anrdoezrs.net^
 ||artisany.net^
 ||aso1.net^
@@ -3311,7 +3313,9 @@
 ||h0.t.hubspotemail.net^
 ||hyperbanner.net^
 ||i305175.net^
+||imp.i312864.net^
 ||idealadvertising.net^
+||bespoke.iln8.net^
 ||imagecash.net^
 ||ads.infi.net^
 ||insgly.net^
@@ -3365,6 +3369,7 @@
 ||primetime.net^
 ||pro-market.net^
 ||pubnative.net^
+||pureclarity.net^
 ||questaffiliates.net^
 ||raac33.net^
 ||stats.rdphv.net^
@@ -3411,7 +3416,6 @@
 ||urlcash.net^
 ||urldata.net^
 ||userreplay.net^
-||banner.vadian.net^
 ||vivads.net^
 ||w55c.net^
 ||bannieres.wdmedia.net^
@@ -3461,7 +3465,6 @@
 ||somniture.stuff.co.nz^
 ||webads.co.nz^
 ||ads.xtra.co.nz^
-||webstats.one^
 ||tracking.theoceanac.online^
 ||adblade.org^
 ||analytics.adpost.org^
@@ -3602,6 +3605,7 @@
 ||mas.sector.sk^
 ||ads.webinak.sk^
 ||eversales.space^
+||analytics.shorte.st^
 ||ad.style^
 ||lightstep.medium.systems^
 ||ql.tc^
@@ -3712,5 +3716,4 @@
 ||rexadvert.xyz^
 ||sbird.xyz^
 ||trk.us-learn-teacher-poetry.xyz^
-||wpnrtnmrewunrtok.xyz^
 ||adsrv.iol.co.za^

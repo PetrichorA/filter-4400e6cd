@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: _aUxG1RtHHSeO_OXlfWInp4WrJ1Djv4AFHf5KEbHQSxxpQAbb4MvoKLHqA32TLR5
+! Version: bFYJ5B82gESnRtemTQjhM-wZwsr6H5ZBUoKPEWfE91ttzohvmZkYJj1hLBhgveHj
 
 ||chameleon.ad^
 ||content.ad^
@@ -47,6 +47,7 @@
 ||epp.bih.net.ba^
 ||inslco.bar^
 ||adhese.be^
+||geoedge.be^
 ||bannermanager.bnr.bg^
 ||ads.delfin.bg^
 ||hit.bg^
@@ -5328,6 +5329,7 @@
 ||yads.yahoo.co.jp^
 ||ad.rfp.fout.jp^
 ||js.rfp.fout.jp^
+||geniee.jp^
 ||cdn.gmossp-sp.jp^
 ||rt.gsspat.jp^
 ||js.gsspcln.jp^
