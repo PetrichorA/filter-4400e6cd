@@ -1,4 +1,3 @@
-||chameleon.ad^
 ||content.ad^
 ||ads.emirates.net.ae^
 ||cognitiv.ai^
@@ -348,7 +347,6 @@
 ||affiliatefuture.com^
 ||affiliatetracking.com^
 ||affiliatewindow.com^
-||affiliation-france.com^
 ||afraidlanguage.com^
 ||agkn.com^
 ||agreeablestew.com^
@@ -416,7 +414,6 @@
 ||anstrex.com^
 ||ad.anuntis.com^
 ||anxiousapples.com^
-||apathetictheory.com^
 ||app-measurement.com^
 ||appboycdn.com^
 ||securemetrics.apple.com^
@@ -842,11 +839,9 @@
 ||rum-http-intake.logs.datadoghq.com^
 ||dbbsrv.com^
 ||dc-storm.com^
-||research.de.com^
 ||de17a.com^
 ||deadpangate.com^
 ||deadpanmarble.com^
-||deadpantruck.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -856,7 +851,6 @@
 ||decisiveducks.com^
 ||decoycreation.com^
 ||deepintent.com^
-||defectivesun.com^
 ||web2.deja.com^
 ||gp.dejanews.com^
 ||delegatediscussion.com^
@@ -1015,6 +1009,7 @@
 ||banner.eurogrand.com^
 ||evadav.com^
 ||clicks.eventbrite.com^
+||eventexistence.com^
 ||evergage.com^
 ||pgl.example.com^
 ||exchange-it.com^
@@ -1506,6 +1501,7 @@
 ||linkswaper.com^
 ||linksynergy.com^
 ||linktarget.com^
+||linkvertise.com^
 ||analytics.live.com^
 ||liveadexchanger.com^
 ||adv.livedoor.com^
@@ -1589,7 +1585,6 @@
 ||mbs.megaroticlive.com^
 ||megastats.com^
 ||communications.melitaltd.com^
-||mellowads.com^
 ||meltmilk.com^
 ||memorizeneck.com^
 ||memorycobweb.com^
@@ -1614,6 +1609,7 @@
 ||online.miarroba.com^
 ||ads.mic.com^
 ||target.microsoft.com^
+||click.email.microsoftemail.com^
 ||microticker.com^
 ||militaryverse.com^
 ||milotree.com^
@@ -1647,7 +1643,6 @@
 ||mobilefuse.com^
 ||modernpricing.com^
 ||modifyeyes.com^
-||affiliate.mogs.com^
 ||moldyicicle.com^
 ||monarchads.com^
 ||monetizer101.com^
@@ -1697,7 +1692,6 @@
 ||nappyattack.com^
 ||liquidad.narrowcastmedia.com^
 ||nastydollars.com^
-||touchclarity.natwest.com^
 ||navegg.com^
 ||ncaudienceexchange.com^
 ||ads.nccwebs.com^
@@ -1912,6 +1906,7 @@
 ||priefy.com^
 ||ads.printscr.com^
 ||ads.prisacom.com^
+||track.privacyatclearbit.com^
 ||privatecash.com^
 ||widget.privy.com^
 ||prmtracking.com^
@@ -1932,6 +1927,7 @@
 ||propellerads.com^
 ||propellerclick.com^
 ||protectcrev.com^
+||protectivemetrics.com^
 ||protectsubrev.com^
 ||protestcopy.com^
 ||proton-tm.com^
@@ -1992,7 +1988,6 @@
 ||railwayreason.com^
 ||rambunctiousflock.com^
 ||rampidads.com^
-||rank-master.com^
 ||rankingscout.com^
 ||rankyou.com^
 ||rapidcounter.com^
@@ -2114,6 +2109,7 @@
 ||cdn.scarabresearch.com^
 ||scarcesign.com^
 ||scaredsnakes.com^
+||scaredsong.com^
 ||scaredswing.com^
 ||scarfsmash.com^
 ||scatteredheat.com^
@@ -2267,6 +2263,7 @@
 ||post.spmailtechno.com^
 ||offer.sponsorpay.com^
 ||spookysleet.com^
+||wl.spotify.com^
 ||spotlessstamp.com^
 ||spotxchange.com^
 ||springaftermath.com^
@@ -2438,7 +2435,6 @@
 ||tnkexchange.com^
 ||toecircle.com^
 ||toothbrushnote.com^
-||top-site-list.com^
 ||top20free.com^
 ||topforall.com^
 ||ads.toplayaffiliates.com^
@@ -2457,7 +2453,6 @@
 ||tracking22.com^
 ||trackingsoft.com^
 ||trackmysales.com^
-||trackuhub.com^
 ||tradeadexchange.com^
 ||tradedoubler.com^
 ||traffic-exchange.com^
@@ -2550,6 +2545,7 @@
 ||user-shield-check.com^
 ||userreplay.com^
 ||utl-1.com^
+||tracking.utlservice.com^
 ||uttermosthobbies.com^
 ||ads.v-lazer.com^
 ||v1adserver.com^
@@ -3054,7 +3050,6 @@
 ||1rx.io^
 ||adalliance.io^
 ||adserve.io^
-||adstage.io^
 ||apolloprogram.io^
 ||augur.io^
 ||avocet.io^
@@ -3345,7 +3340,6 @@
 ||mytop-in.net^
 ||nedstatbasic.net^
 ||nend.net^
-||neocounter.neoworx-blog-tools.net^
 ||netpool.netbookia.net^
 ||netshelter.net^
 ||ads.wikia.nocookie.net^
@@ -3360,7 +3354,6 @@
 ||trkpnt.ongage.net^
 ||online-metrix.net^
 ||openx.net^
-||banner.orb.net^
 ||owneriq.net^
 ||ads.paymonex.net^
 ||popads.net^
@@ -3378,6 +3371,7 @@
 ||rs6.net^
 ||rtbplatform.net^
 ||rtmark.net^
+||safeanalytics.net^
 ||ads.schmoozecom.net^
 ||seadform.net^
 ||images-pw.secureserver.net^
@@ -3458,6 +3452,7 @@
 ||ads.wiezoekje.nl^
 ||annonser.dagbladet.no^
 ||i1media.no^
+||click.email.strawberry.no^
 ||ad.tv2.no^
 ||ads2.webdrive.no^
 ||ads.apn.co.nz^

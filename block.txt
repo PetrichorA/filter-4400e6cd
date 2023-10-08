@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: bFYJ5B82gESnRtemTQjhM-wZwsr6H5ZBUoKPEWfE91ttzohvmZkYJj1hLBhgveHj
+! Version: WeRAsExbcbFyJueRXRDFm2Ze85HkrgMqay2wD5u6L6B7Ld-53Vf3scxY5l0XbyZa
 
 ||chameleon.ad^
 ||content.ad^
@@ -423,7 +423,6 @@
 ||r.scoota.co^
 ||counter.snackly.co^
 ||logger.snackly.co^
-||t.co^
 ||code.tidio.co^
 ||verblife-3.co^
 ||verblife-5.co^

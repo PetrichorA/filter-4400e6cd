@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/resolve.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/resolve.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/resolve.txt
-# Version: OBTyTu__AuHqBU--hvGcP-vmx3FjrV_rpTRyoFGn5ujQE5PgAP1unm-FNw9ZicyJ
+# Version: 3VcO71XqkS2LchGN078eDRwsxWGL9BQ9RxQln034pnpB8YhRZvj-ywK8Fx8R6k2r
 
 104.16.75.66	2da9f34d.cloudflare-dns.com
 104.16.75.66	37a83c61.cloudflare-dns.com
@@ -503,6 +503,7 @@
 104.16.96.94	nsfw.xxx
 104.16.96.94	numpy.org
 104.16.96.94	obfuscator.io
+104.16.96.94	ocqcwrghh9.cloudflare-gateway.com
 104.16.96.94	ohyicong.medium.com
 104.16.96.94	oi.baoshuo.ren
 104.16.96.94	oi.men.ci
@@ -711,6 +712,7 @@
 104.16.96.94	us.v2ex.com
 104.16.96.94	use.fontawesome.com
 104.16.96.94	utteranc.es
+104.16.96.94	v.ddys.pro
 104.16.96.94	v.ddys.zip
 104.16.96.94	v.hi.sy
 104.16.96.94	v1.hitokoto.cn
@@ -881,8 +883,6 @@
 104.21.2.20	petrichor.cloudflare-dns.com
 104.21.2.20	pythnetwork.mypinata.cloud
 104.21.2.20	rdns-104-21-2-20.cloudflare-dns.com
-114.80.30.41	cdn.staticfile.org
-115.238.242.35	code.bdstatic.com
 120.253.250.226	www.gstatic.cn
 120.253.253.34	developers.google.cn
 120.253.255.98	developers.android.google.cn
@@ -891,7 +891,6 @@
 125.124.19.2	www.zjooc.cn
 127.0.0.1	pandown.cn
 127.0.0.1	search.pandown.cn
-13.33.21.64	assets.matters.news
 172.65.251.78	gitlab.com
 172.65.251.78	rdns-172-65-251-78.cloudflare-dns.com
 182.202.178.24	1-vidar-train-docker.xn--sxa.cc
@@ -909,10 +908,10 @@
 220.181.174.226	translate.google.cn
 220.181.174.98	ditu.google.cn
 220.181.174.98	maps.google.cn
+23.215.25.151	utorontopsych.az1.qualtrics.com
 45.125.0.6	mirror.xtom.com.hk
 51.79.86.227	na.slay.one
 54.37.204.175	eu.slay.one
 64.52.84.68	pandownload.com
-76.76.21.164	006f99e8-fd4e-1973-cc70-a1209962fc26.vercel.app
 88.99.199.60	slay.one
 88.99.199.60	www.slay.one
