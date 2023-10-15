@@ -5,11 +5,13 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: Uj55Lsmvfkek4KsjsIBDkuZUFvtjQR1ooabp0NyR1kPdZPOQkZxrgOpFNzftzvg9
+! Version: GDH5QsNch9acpdybAvqdlXbFRn6qI1vtS4oLDgDSWnkqpvOxtr-0a9ZZwJt_7-Mh
 
 ! clear
+ctvnews.ca##+js(cookie-remover)
 cooco.net.cn##+js(cookie-remover)
 19lou.com##+js(cookie-remover)
+aljazeera.com##+js(cookie-remover)
 apkmirror.com##+js(cookie-remover)
 apkpure.com##+js(cookie-remover)
 arealme.com##+js(cookie-remover)
