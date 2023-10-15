@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: 0sXMyOY8oNjqV58ndiDie1viRKbNVnxvKbWvsrW3nhYte_QJYs_u2IdeKhlWD0ro
+! Version: hUUqfV1C0jhl2y2kew-bYA4tmo4-iYdZsGM9ey186sNT8D5OevnM_mjBGzDk5TNi
 
 ! clear
 ctvnews.ca##+js(cookie-remover)
@@ -135,6 +135,7 @@ viewblock.io##+js(cookie-remover)
 share-online.is##+js(cookie-remover)
 cnn.it##+js(cookie-remover)
 dweb.link##+js(cookie-remover)
+bit.ly##+js(cookie-remover)
 therecord.media##+js(cookie-remover)
 skk.moe##+js(cookie-remover)
 arweave.net##+js(cookie-remover)
