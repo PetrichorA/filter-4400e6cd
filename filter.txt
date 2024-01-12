@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/filter.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/filter.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/filter.txt
-! Version: uBJqqP8H1hTF1jaTWSLHEdJ77Ne0ANFZSkT9Exi5FsCaD8PCe-v7pz9SYbk4xdWG
+! Version: jgBvswjP0DLK9LRBQw_EzhxWpdN6fEZFAV4kZGuER2vT6m_sdzbLj6qXC3c1Prmj
 
 ##div.advertising_2
 ##div.advertising_3
@@ -45,6 +45,7 @@ zhihu.com##.OpenInAppButton
 ||360buyimg.com/ddimg/jfs/t1/108754/39/33961/48618/6431454eFbcf4314d/780058014488d28a.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/118795/30/37256/48618/645722acF1346ba2a/2d1611c3f5d0f33f.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/168142/20/37237/36798/646918d3F9b921d0e/5d5350e537a800e2.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
+||360buyimg.com/ddimg/jfs/t1/183264/25/45446/49433/655f76beFabcd5a6c/84d6242c65dce357.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/190614/40/33004/51599/642fb0f6F897bb268/60ffea61afd69a34.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/195563/19/37474/40235/6481174aF03a9dd33/729a69bcb90ced12.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
 ||360buyimg.com/ddimg/jfs/t1/216295/5/26693/44658/642fb0f6F8bb96471/5ce2d4e1d3d22a7e.jpg^$domain=ddys.art|ddys.pro,redirect=1x1.gif
