@@ -28,7 +28,6 @@
 ||ads.dtpnetwork.biz^
 ||ads.expat-blog.biz^
 ||adserver.msmb.biz^
-||roia.biz^
 ||ktu.sv2.biz^
 ||trafficfactory.biz^
 ||ads.wwe.biz^
@@ -97,7 +96,6 @@
 ||101com.com^
 ||101order.com^
 ||affiliate.1800flowers.com^
-||180searchassistant.com^
 ||1link2020.com^
 ||247media.com^
 ||24log.com^
@@ -129,7 +127,6 @@
 ||aaxads.com^
 ||abackafterthought.com^
 ||abackchain.com^
-||abackframe.com^
 ||abandonedaction.com^
 ||abc-ads.com^
 ||ad.abcnews.com^
@@ -178,6 +175,7 @@
 ||adcash.com^
 ||adclick.com^
 ||adcolony.com^
+||adcomplete.com^
 ||adconion.com^
 ||adcovery.com^
 ||adcycle.com^
@@ -286,7 +284,6 @@
 ||adspredictiv.com^
 ||adspsp.com^
 ||adsroller.com^
-||adstanding.com^
 ||adsupply.com^
 ||adswizz.com^
 ||adsxyz.com^
@@ -527,6 +524,7 @@
 ||ads.bing.com^
 ||adserver.bing.com^
 ||bat.bing.com^
+||birthdaybelief.com^
 ||bitmedianetwork.com^
 ||ads.bittorrent.com^
 ||adserver.bizedge.com^
@@ -765,6 +763,7 @@
 ||compiledoctor.com^
 ||completecabbage.com^
 ||complextoad.com^
+||concernedchange.com^
 ||concernedcondition.com^
 ||pixel.condenastdigital.com^
 ||conditionchange.com^
@@ -852,7 +851,6 @@
 ||dc-storm.com^
 ||de17a.com^
 ||deadpangate.com^
-||deadpanmarble.com^
 ||dealdotcom.com^
 ||debonairway.com^
 ||debtbusterloans.com^
@@ -976,7 +974,6 @@
 ||track.effiliation.com^
 ||ejyymghi.com^
 ||elasticchange.com^
-||elasticducks.com^
 ||ads.elcarado.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
@@ -1258,6 +1255,7 @@
 ||beacons.gcp.gvt2.com^
 ||h-bid.com^
 ||habitualhumor.com^
+||halcyoncanyon.com^
 ||haltingbadge.com^
 ||hammerhearing.com^
 ||handsomehose.com^
@@ -1585,7 +1583,6 @@
 ||matheranalytics.com^
 ||mathtag.com^
 ||mautic.com^
-||maximumcash.com^
 ||maxonclick.com^
 ||ads.mcafee.com^
 ||mcdlks.com^
@@ -1745,10 +1742,10 @@
 ||ad.nettvservices.com^
 ||ads.networksolutions.com^
 ||neudesicmediagroup.com^
-||adv.neverbuy.com^
 ||ads.newgrounds.com^
 ||newnudecash.com^
 ||js-agent.newrelic.com^
+||newsadsppush.com^
 ||newsletter-link.com^
 ||newstarads.com^
 ||nexac.com^
@@ -1900,6 +1897,7 @@
 ||piquantpigs.com^
 ||placed.com^
 ||placeframe.com^
+||placidactivity.com^
 ||play4traffic.com^
 ||playhaven.com^
 ||pleasantpump.com^
@@ -1929,6 +1927,7 @@
 ||oglasi.posjetnica.com^
 ||possessivebucket.com^
 ||possibleboats.com^
+||possiblepencil.com^
 ||netech.postaffiliatepro.com^
 ||postrelease.com^
 ||analytics.posttv.com^
@@ -2196,7 +2195,6 @@
 ||sdkfjxjertertry.com^
 ||searchmarketing.com^
 ||searchramp.com^
-||seashoreturn.com^
 ||secretivecub.com^
 ||secretspiders.com^
 ||securedopen-bp.com^
@@ -2816,7 +2814,6 @@
 ||yieldtraffic.com^
 ||us.a1.yimg.com^
 ||ads.yimg.com^
-||yldbt.com^
 ||ymetrica1.com^
 ||yoggrt.com^
 ||youradexchange.com^
@@ -2923,7 +2920,6 @@
 ||adtiger.de^
 ||adverticus.de^
 ||advertmedia.de^
-||auto-bannertausch.de^
 ||bannerads.de^
 ||adserver.betandwin.de^
 ||blogcounter.de^
@@ -3198,7 +3194,6 @@
 ||tracker.mmdlv.it^
 ||adv.mpvc.it^
 ||marketing.net.occhiali24.it^
-||ads.primissima.it^
 ||pstmrk.it^
 ||ads.rcs.it^
 ||recoco.it^
@@ -3435,7 +3430,6 @@
 ||pro-market.net^
 ||pubnative.net^
 ||pureclarity.net^
-||questaffiliates.net^
 ||raac33.net^
 ||stats.rdphv.net^
 ||readserver.net^
