@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/cookie.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/cookie.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/cookie.txt
-! Version: hUUqfV1C0jhl2y2kew-bYA4tmo4-iYdZsGM9ey186sNT8D5OevnM_mjBGzDk5TNi
+! Version: hXlLwqUzGie-2Suz3CI-DMaHnchae2gSYRtmrKn0spS4NPvKSkg92qDuWZvtT459
 
 ! clear
 ctvnews.ca##+js(cookie-remover)
@@ -21,6 +21,7 @@ imgur.com##+js(cookie-remover)
 jsdelivr.com##+js(cookie-remover)
 docs.microsoft.com##+js(cookie-remover)
 support.microsoft.com##+js(cookie-remover)
+thestar.com##+js(cookie-remover)
 planefinder.net##+js(cookie-remover)
 ! disable
 cbc.ca##+js(cookie-remover)
@@ -105,7 +106,6 @@ thefreedictionary.com##+js(cookie-remover)
 theguardian.com##+js(cookie-remover)
 thenextweb.com##+js(cookie-remover)
 theregister.com##+js(cookie-remover)
-thestar.com##+js(cookie-remover)
 theverge.com##+js(cookie-remover)
 timeanddate.com##+js(cookie-remover)
 topuniversities.com##+js(cookie-remover)

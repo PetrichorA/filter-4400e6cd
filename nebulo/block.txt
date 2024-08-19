@@ -4,7 +4,7 @@
 # Subscribe: https://filter-4400e6cd.pages.dev/nebulo/block.txt
 # Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/nebulo/block.txt
 # Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/nebulo/block.txt
-# Version: rGFz-XJtYZM6iIRF91pHgm_Dc-T7GGMtEqb4LmCzf3QAPrhsfhqxNP3c-tdHuK9q
+# Version: OxfsCg6s8iVTngHe4qj3ggkMD5zm3RS3eihN63JHFkH2O0r52kdKQSE66exME4lS
 
 0.0.0.0	chameleon.ad
 0.0.0.0	**.chameleon.ad
@@ -3810,8 +3810,6 @@
 0.0.0.0	**.ad.eurosport.com
 0.0.0.0	evadav.com
 0.0.0.0	**.evadav.com
-0.0.0.0	clicks.eventbrite.com
-0.0.0.0	**.clicks.eventbrite.com
 0.0.0.0	evergage.com
 0.0.0.0	**.evergage.com
 0.0.0.0	c.evidon.com
@@ -9466,8 +9464,6 @@
 0.0.0.0	**.ads.yimg.com
 0.0.0.0	richmedia.yimg.com
 0.0.0.0	**.richmedia.yimg.com
-0.0.0.0	s.yimg.com
-0.0.0.0	**.s.yimg.com
 0.0.0.0	apppic.yingyongbei.com
 0.0.0.0	**.apppic.yingyongbei.com
 0.0.0.0	info.yitsoftware.com

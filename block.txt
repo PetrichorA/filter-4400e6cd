@@ -5,7 +5,7 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/block.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/block.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/block.txt
-! Version: WeRAsExbcbFyJueRXRDFm2Ze85HkrgMqay2wD5u6L6B7Ld-53Vf3scxY5l0XbyZa
+! Version: EKEEvrVHaBSRZ9JsscDCiiLz_t34Vh78Cp43ydKyn4hhnU7iK6zza7p8z3rK076f
 
 ||chameleon.ad^
 ||content.ad^
@@ -1909,7 +1909,6 @@
 ||banner.eurogrand.com^
 ||ad.eurosport.com^
 ||evadav.com^
-||clicks.eventbrite.com^
 ||evergage.com^
 ||c.evidon.com^
 ||xmtransfer.ewuqa.com^
@@ -4737,7 +4736,6 @@
 ||us.a1.yimg.com^
 ||ads.yimg.com^
 ||richmedia.yimg.com^
-||s.yimg.com^
 ||apppic.yingyongbei.com^
 ||info.yitsoftware.com^
 ||wr.yiyouliao.com^
