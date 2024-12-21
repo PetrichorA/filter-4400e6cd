@@ -5,10 +5,11 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/adsentry.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/adsentry.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/adsentry.txt
-! Version: -GWQdDqlPDYpFPByiossM1D95CV0zfM9TEZjKhfre_HmZZTnNl9Hn_fIyLxhGB1y
+! Version: AgKp5fiBph-rwYlRpYS5x2R1Z5bPe4EYbj0dRpWnmnN3ELj0IBp5tMM_ZA9vrs0u
 
 ! allowlist
 ! blocklist-important
+||cloudflareinsights.com^$important
 ||doubleclick.net^$important
 ||google-analytics.com^$important
 ||googleadapis.l.google.com^$important
@@ -65,7 +66,6 @@
 ||cgicol.amap.com^
 ||chartbeat.com^
 ||clickwifi.net^
-||cloudflareinsights.com^
 ||cookielaw.org^
 ||cooladata.com^
 ||cpro.baidustatic.com^
