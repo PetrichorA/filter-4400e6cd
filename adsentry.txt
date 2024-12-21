@@ -5,10 +5,12 @@
 ! Subscribe: https://filter-4400e6cd.pages.dev/adsentry.txt
 ! Subscribe (jsDelivr): https://cdn.jsdelivr.net/gh/PetrichorA/filter-4400e6cd@main/adsentry.txt
 ! Subscribe (Raw): https://raw.githubusercontent.com/PetrichorA/filter-4400e6cd/main/adsentry.txt
-! Version: AgKp5fiBph-rwYlRpYS5x2R1Z5bPe4EYbj0dRpWnmnN3ELj0IBp5tMM_ZA9vrs0u
+! Version: Pv_4BOBgEHxShiW5hYvmZCya6sma5rcRiGDMJxKhFiSaTh-HhrTfTESTZoMb8HPf
 
 ! allowlist
 ! blocklist-important
+||adservice.google.com^$important
+||analytics.google.com^$important
 ||cloudflareinsights.com^$important
 ||doubleclick.net^$important
 ||google-analytics.com^$important
@@ -18,6 +20,7 @@
 ||googlesyndication.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
+||mail-ads.google.com^$important
 ||nel.cloudflare.com^$important
 ! blocklist
 ||360.cn^
@@ -36,12 +39,10 @@
 ||adnxs.com^
 ||adroll.com^
 ||ads-twitter.com^
-||adservice.google.com^
 ||advertising.com^
 ||amazon-adsystem.com^
 ||amplitude.com^
 ||analytics.cibc.com^
-||analytics.google.com^
 ||analytics.map.qq.com^
 ||analytics.nianticlabs.com^
 ||analytics.oceanengine.com^
@@ -104,7 +105,6 @@
 ||jsrdn.com^
 ||krishetrk.com^
 ||m-cloud.zhihu.com^
-||mail-ads.google.com^
 ||microad.jp^
 ||microad.net^
 ||mistat.xiaomi.com^
